@@ -3994,6 +3994,38 @@ Il peut déléguer certaines de ses attributions à un ou plusieurs agents de l'
 
 Il peut recevoir délégation de signature du ministre chargé de la propriété industrielle pour exercer les compétences dévolues à celui-ci dans les domaines de la propriété industrielle et des droits annexes à la propriété industrielle, du registre national du commerce et des sociétés et du répertoire central des métiers.
 
+###### Article R411-3
+
+Le conseil d'administration est composé de douze membres :
+
+1. Un membre du Conseil d'Etat ou de la Cour des comptes, président, nommé pour trois ans par arrêté du ministre chargé de la propriété industrielle ;
+
+2. Le président du Conseil supérieur de la propriété industrielle ou un membre dudit conseil désigné par lui ;
+
+3. Le directeur des affaires civiles et du sceau du ministère de la justice ou son représentant permanent ;
+
+4. Le directeur du budget du ministère de l'économie, des finances et du budget ou son représentant permanent ;
+
+5. Le directeur de la comptabilité publique du ministère de l'économie, des finances et du budget ou son représentant permanent ;
+
+6. Deux représentants du ministre chargé de la propriété industrielle, dont le directeur de l'administration générale ;
+
+7. Le directeur général de l'Agence nationale de valorisation de la recherche ;
+
+8. Le président de la Compagnie nationale des conseils en propriété industrielle ;
+
+9. Un représentant des milieux industriels intéressés à la protection industrielle, désigné par le ministre chargé de la propriété industrielle pour une période de trois ans renouvelable ;
+
+10. Deux représentants du personnel en fonctions dans l'établissement, élus dans des conditions fixées par arrêté du ministre chargé de la propriété industrielle.
+
+Les fonctions de membre du conseil d'administration ne sont pas rémunérées. Elles ouvrent droit aux indemnités de déplacement et de séjour prévues par le décret n° 90-437 du 28 mai 1990.
+
+Le directeur général, le contrôleur d'Etat et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
+
+Le président peut appeler à participer aux séances, avec voix consultative, toute personne dont il juge la présence utile.
+
+Le secrétariat du conseil d'administration est assuré par un agent de l'institut désigné à cet effet par le directeur général.
+
 ###### Article R411-4
 
 Le conseil d'administration émet des avis sur les questions portées à son ordre du jour par le directeur général de l'Institut national de la propriété industrielle.
@@ -4030,15 +4062,17 @@ Il peut, sous sa responsabilité, déléguer sa signature à un ou plusieurs age
 
 ###### Article R411-8
 
-L'Institut national de la propriété industrielle est soumis au contrôle financier de l'Etat prévu par le décret du 25 octobre 1935.
+Le contrôle de l'Institut national de la propriété industrielle, et notamment le contrôle a posteriori de l'exécution du budget, est exercé par un contrôleur d'Etat, selon les modalités fixées par le décret n° 55-733 du 26 mai 1955 modifié portant codification et aménagement des textes relatifs au contrôle économique et financier de l'Etat.
 
-Les attributions du contrôleur financier sont fixées par arrêté conjoint du ministre intéressé et du ministre chargé du budget.
+Les modalités spéciales d'exercice de ce contrôle sont fixées par arrêté conjoint des ministres chargés de la propriété industrielle, de l'économie et du budget.
 
 ###### Article R411-9
 
-Le projet de budget de l'institut, accompagné des avis du conseil d'administration et du contrôleur financier, est soumis par le directeur général de l'institut, pour approbation, au ministre intéressé et au ministre chargé du budget, dans les délais prévus en ce qui concerne le budget général des services civils par la lettre commune du ministre du budget.
+Le projet de budget de l'institut, accompagné des avis du conseil d'administration et du contrôleur d'Etat, est soumis par le directeur général de l'institut, pour approbation, au ministre intéressé et au ministre chargé du budget, dans les délais prévus en ce qui concerne le budget général des services civils par la lettre commune du ministre du budget.
 
 Les modifications qui peuvent être apportées au budget en cours d'exercice sont présentées et approuvées dans les mêmes formes.
+
+Le ministre chargé du budget peut déléguer sa signature au contrôleur d'Etat pour les décisions d'approbation prévues au présent article.
 
 ###### Article R411-10
 
@@ -4090,7 +4124,9 @@ Il est chargé du paiement des dépenses régulièrement mandatées par le direc
 
 Le compte administratif de l'ordonnateur et le compte de gestion de l'agent comptable sont soumis chaque année au conseil d'administration.
 
-Le compte administratif, accompagné de l'avis du conseil d'administration et du contrôleur financier, est soumis à l'approbation du ministre chargé du budget et du ministre intéressé dans les trois mois qui suivent la clôture de l'exercice.
+Le compte administratif, accompagné de l'avis du conseil d'administration et du contrôleur d'Etat, est soumis à l'approbation du ministre chargé du budget et du ministre intéressé dans les trois mois qui suivent la clôture de l'exercice.
+
+Le ministre chargé du budget peut déléguer sa signature au contrôleur d'Etat pour l'approbation du compte administratif.
 
 ###### Article R411-16
 
@@ -5524,6 +5560,100 @@ Lorsqu'un même agent exerce son activité pour le compte de plusieurs personnes
 Le fonctionnaire ou agent public auteur d'une invention en fait immédiatement la déclaration à l'autorité habilitée par la personne publique dont il relève.
 
 Les dispositions des articles R. 611-1 à R. 611-10 relatives aux obligations du salarié et de l'employeur sont applicables aux fonctionnaires et agents publics et aux personnes publiques intéressées.
+
+####### Article R611-14-1
+
+I. - Pour les fonctionnaires ou agents publics de l'Etat et de ses établissements publics régis par les dispositions applicables aux corps et emplois figurant sur la liste annexée au présent chapitre et qui sont les auteurs d'une invention visée au 1 de l'article R. 611-12, la rémunération supplémentaire prévue par l'article L. 611-7 est constituée par une prime d'intéressement aux produits tirés de l'invention par la personne publique qui en est bénéficiaire.
+
+II. - Le complément de rémunération dû au titre de l'intéressement est versé annuellement. Les sommes qui lui sont affectées sont égales à 25 p. 100 du produit hors taxes des redevances perçues au titre de l'invention, après déduction de la totalité des frais directs supportés par la personne publique bénéficiaire.
+
+III. - Lorsque plusieurs agents sont auteurs d'une même invention, les sommes mentionnées au II du présent article sont réparties selon l'importance de la contribution de chaque agent à l'invention. Les modalités de la répartition sont définitivement arrêtées, avant le premier versement annuel, par le ministre ayant autorité sur le service ou par l'ordonnateur principal de l'établissement.
+
+Si l'invention résulte d'une collaboration entre agents relevant de plusieurs personnes publiques différentes, les modalités de répartition et de paiement de la prime d'intéressement sont arrêtées de concert par les personnes publiques concernées.
+
+IV. - Lorsque l'invention a été réalisée par l'agent dans le cadre de son activité principale, la rémunération due au titre de l'intéressement est versée à l'intéressé, en complément de sa rémunération d'activité, sans autre limitation que celle prévue par le présent décret.
+
+Le cas échéant, elle continue d'être versée à l'agent pendant le temps d'exploitation de l'invention, s'il quitte ses fonctions pour quelque cause que ce soit ou est admis à faire valoir ses droits à pension de retraite.
+
+V. - En cas de décès de l'agent, la prime d'intéressement est versée jusqu'au terme de l'année au cours de laquelle il est décédé.
+
+####### Article Annexe art. R611-14-1
+
+<center>Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche.</center>
+
+<center>Corps de fonctionnaires :</center>
+
+- chercheurs, ingénieurs, assistants ingénieurs et techniciens de la recherche régis par le décret n° 83-1260 du 30 décembre 1983 modifié.
+- enseignants chercheurs régis par le décret n° 84-431 du 6 juin 1984 modifié et enseignants-chercheurs appartenant à des corps propres dont la liste figure en annexe dudit décret.
+- ingénieurs, assistants ingénieurs et techniciens de recherche et de formation régis par le décret n° 85-1534 du 31 décembre 1985 modifié.
+
+<center>Agents non titulaires :</center>
+
+- chercheurs régis par le décret n° 59-1400 du 9 décembre 1959 modifié.
+- ingénieurs et spécialistes régis par le décret n° 59-1405 du 9 décembre 1959 modifié.
+- attachés scientifiques et contractuels régis par le décret n° 80-479 du 27 juin 1980.
+- professeurs et maîtres de conférences associés relevant de l'article 54, alinéa 2, de la loi n° 84-52 du 26 janvier 1984 et de la loi n° 85-1223 du 22 novembre 1985.
+- allocataires de recherche régis par le décret n° 85-402 du 3 avril 1985 modifié par le décret n° 92-339 du 30 mars 1992.
+- moniteurs et allocataires-moniteurs normaliens régis par le décret n° 89-794 du 30 octobre 1989 modifié.
+- moniteurs en pharmacie régis par le décret n° 92-1229 du 19 novembre 1992 modifié.
+- attachés temporaires d'enseignement et de recherche régis par le décret n° 88-654 du 7 mai 1988 modifié.
+
+<center>Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche et ministère du travail et des affaires sociales :</center>
+
+- personnels enseignants et hospitaliers des centres hospitaliers et universitaires, régis par le décret n° 84-135 du 24 février 1984 modifié.
+- personnels enseignants et hospitaliers des centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers et universitaires, régis par le décret n° 90-92 du 24 janvier 1990 modifié.
+- professeurs du premier et du deuxième grade de chirurgien dentaire-odontologiste des services de consultations et de traitement dentaire, régis par le décret n° 65-803 du 22 septembre 1965 modifié.
+
+<center>Ministère de l'agriculture, de la pêche et de l'alimentation.</center>
+
+<center>Corps de fonctionnaires :</center>
+
+- ingénieurs du génie rural, des eaux et des forêts régis par le décret n° 65-426 du 4 juin 1965 modifié.
+- ingénieurs d'agronomie régis par le décret n° 65-427 du 4 juin 1965 modifié.
+- ingénieurs des travaux des eaux et forêts régis par le décret n° 70-128 du 14 février 1970 modifié.
+- ingénieurs des travaux ruraux régis par le décret n° 65-688 du 10 août 1965 modifié.
+- ingénieurs des travaux agricoles régis par le décret n° 65-690 du 10 août 1965 modifié.
+- vétérinaires inspecteurs régis par le décret n° 62-1439 du 26 novembre 1962 modifié.
+- personnels scientifiques du Centre national d'études vétérinaires et alimentaires régis par le décret n° 64-642 du 29 juin 1964 modifié.
+- enseignants-chercheurs des établissements d'enseignement supérieur public relevant du ministre chargé de l'agriculture régis par le décret n° 92-171 du 21 février 1992.
+- ingénieurs, assistants ingénieurs et techniciens régis par le décret n° 95-370 du 6 avril 1995.
+- techniciens des services du ministère chargé de l'agriculture régis par le décret n° 96-501 du 7 juin 1996.
+
+<center>Agents non titulaires :</center>
+
+- personnels associés ou invités dans les établissements d'enseignement supérieur et de la recherche relevant du ministre chargé de l'agriculture, régis par le décret n° 95-621 du 6 mai 1995.
+- assistants d'enseignement et de recherche contractuels des établissements d'enseignement supérieur publics relevant du ministre chargé de l'agriculture, régis par le décret n° 91-374 du 16 avril 1991.
+
+<center>Ministère de l'industrie, de la poste et des télécommunications :</center>
+
+Corps des ingénieurs des mines régis par le décret n° 88-507 du 29 avril 1988, modifié par le décret n° 94-449 du 31 mai 1994.
+
+<center>Ministère de l'équipement, des transports et du logement.</center>
+
+<center>Corps de fonctionnaires :</center>
+
+- ingénieurs des ponts et chaussées régis par le décret n° 59-358 du 20 février 1959 modifié ;
+- chargés de recherche et directeurs de recherche régis par le décret n° 94-943 du 28 octobre 1994 ;
+- ingénieurs des travaux publics de l'Etat régis par le décret n° 71-345 du 5 mai 1971 modifié ;
+- ingénieurs géographes régis par le décret n° 65-793 du 16 septembre 1965, modifié par le décret n° 90-160 du 16 février 1990 ;
+- ingénieurs des travaux géographiques et cartographiques de l'Etat régis par le décret n° 73-264 du 6 mars 1973 modifié ;
+- ingénieurs de l'aviation civile régis par le décret n° 71-234 du 30 mars 1971 modifié ;
+- ingénieurs des études et de l'exploitation de l'aviation civile régis par le décret n° 71-907 du 8 novembre 1971 modifié ;
+- ingénieurs du contrôle de la navigation aérienne régis par le décret n° 90-998 du 8 novembre 1990 modifié ;
+- ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le décret n° 91-56 du 16 janvier 1991, modifié par le décret n° 94-278 du 11 avril 1994 ;
+- ingénieurs de la météorologie régis par le décret n° 63-1376 du 24 décembre 1963 modifié ;
+- ingénieurs des travaux de la météorologie régis par le décret n° 65-184 du 5 mars 1965 modifié.
+
+<center>Agents non titulaires :</center>
+
+- personnels non titulaires du niveau de la catégorie A régis par les dispositions suivantes :
+- décision du 18 mars 1992 du ministre d'Etat, ministre de la fonction publique et de la modernisation de l'administration, du ministre de l'équipement, du logement, des transports et de l'espace et du ministre délégué au budget ;
+- règlement du 14 mai 1973 régissant les personnels non titulaires du laboratoire central des ponts et chaussées et des centres d'études techniques de l'équipement ;
+- règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non titulaires employés au service d'études techniques des routes et autoroutes ;
+- arrêté du 10 juillet 1968 relatif aux conditions de recrutement et de rémunération des personnels contractuels techniques et administratifs du ministère de l'équipement et du logement chargés d'études de haut niveau au service des affaires économiques et internationales et au service d'études techniques des routes et autoroutes, modifié par l'arrêté du 27 mars 1973 relatif au même objet ;
+- décret n° 46-1507 du 18 juin 1946 fixant le statut des auxiliaires recrutés sur contrat par le ministère des travaux publics et des transports pour le service des ponts et chaussées, modifié par les décrets n° 68-313 du 1er avril 1968 et n° 75-1355 du 18 décembre 1975 relatifs au même objet ;
+- décret n° 48-1018 du 16 juin 1948 modifié fixant le statut des agents sur contrat du ministère des travaux publics, des transports et du tourisme ;
+- règlement intérieur du 4 juin 1970 relatif aux personnels non titulaires employés par la direction régionale de l'équipement de l'Ile-de-France.
 
 ###### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.
 
