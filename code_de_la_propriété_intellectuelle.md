@@ -3960,6 +3960,60 @@ Lorsque l'assemblée porte sur la reddition des comptes, les documents mentionn�
 
 Les utilisateurs peuvent prendre connaissance du répertoire mentionné à l'article L. 321-7 au siège de la société ou, le cas échéant, dans ses agences régionales. Sur leur demande, il leur en est délivré copie sans qu'il puisse alors leur être réclamé d'autre somme que celle représentant le coût de la copie.
 
+##### Article R321-8
+
+La communication des comptes annuels des sociétés de perception et de répartition des droits, prévue en application du 1° de l'article L. 321-5 à tout associé et en application du premier alinéa de l'article L. 321-12, au ministre chargé de la culture doit comporter :
+
+A. - En ce qui concerne la gestion financière de la société :
+
+1. Dans le respect des règles comptables usuelles en matière de constatation de produits et de charges, un compte de gestion conforme à l'annexe 1 (Nota).
+
+Les sociétés concernées auront également la faculté :
+
+a) De faire figurer, soit au compte de gestion, soit dans un compte distinct, les opérations relatives à l'action sociale au bénéfice des associés, d'une part, aux actions culturelles, d'autre part ;
+
+b) De faire figurer au compte de gestion les droits perçus en produits les sommes à affecter et les sommes effectivement payées en charges de l'exercice.
+
+2. Comme indicateurs de gestion :
+
+a) Un tableau, conforme à l'annexe 2, retraçant par type de rémunération l'affectation des sommes perçues ;
+
+b) Un tableau, conforme à l'annexe 3, retraçant par type de rémunération :
+
+- l'état des sommes effectivement payées au cours de l'exercice au titre des affectations individuelles ;
+- les montants des actions réalisées au cours de l'exercice au titre des affectations collectives ;
+
+c) Un tableau, conforme à l'annexe 4, indiquant, par type de rémunération, la récapitulation des sommes restant à affecter individuellement ;
+
+d) Un tableau, conforme à l'annexe 5, indiquant, par année d'affectation et par type de rémunération, l'état des sommes affectées individuellement et non encore payées ;
+
+e) Un tableau indiquant le rapport des prélèvements sur droits aux perceptions de l'exercice ;
+
+f) Un tableau indiquant le montant et l'affectation des produits financiers ;
+
+B. - En ce qui concerne la mise en oeuvre des actions dont le financement est prévu par l'article L. 321-9 :
+
+1. La ventilation des montants versés, par catégorie d'actions définies au premier alinéa de l'article L. 321-9, assortie d'une information particulière sur :
+
+- le coût de la gestion de ces actions ;
+- les organismes ayant bénéficié de concours pendant trois années consécutives ;
+
+2. Une description des procédures d'attribution ;
+
+3. Un commentaire des orientations suivies en la matière par la société.
+
+C. - Une information annuelle sur les actions éventuellement engagées pour la défense des catégories professionnelles concernées par leur objet social.
+
+##### Article R321-9
+
+L'aide à la création mentionnée à l'article L. 321-9 s'entend :
+
+a) D'une part, des concours apportés à la création d'une œuvre, à son interprétation, à la première fixation d'une œuvre ou d'une interprétation sur un phonogramme ou un vidéogramme ;
+
+b) D'autre part, des actions propres à assurer la défense et la promotion de la création.
+
+L'aide à la formation d'artistes mentionnée au même article s'entend de la formation d'auteurs et de la formation d'artistes-interprètes.
+
 #### Chapitre II : Sociétés agréées pour la gestion du droit de reproduction par reprographie
 
 ##### Article R322-1
@@ -3999,6 +4053,132 @@ Tout changement de statut, ou de règlement général, toute cessation de foncti
 Si, à la date de la publication de l'œuvre, l'auteur ou son ayant droit n'a pas désigné une société de perception et de répartition des droits agréée, la société réunissant le plus grand nombre d'œuvres gérées, déterminé conformément aux usages des professions concernées, est réputée cessionnaire du droit de reproduction par reprographie.
 
 Le ministre chargé de la culture désigne chaque année la ou les sociétés répondant à la condition définie à l'alinéa précédent.
+
+#### Chapitre III : Des sociétés agréées pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne
+
+##### Article R323-1
+
+Une société régie par le titre II du livre III peut être agréée au titre du I de l'article L. 132-20-1 et du I de l'article L. 217-2 si elle remplit les conditions suivantes :
+
+1° Apporter la preuve de la gestion effective du droit d'autoriser la retransmission par câble, à raison du nombre des ayants droit et de l'importance économique exprimée en revenu ou en chiffre d'affaires ;
+
+2° Justifier par toutes pièces la qualification de ses gérants et mandataires sociaux appréciée en fonction :
+
+a) De la nature et du niveau de leurs diplômes ;
+
+b) Ou de leur expérience de la gestion d'organismes professionnels ;
+
+3° Donner toutes informations relatives :
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement ;
+
+b) Aux perceptions reçues ou attendues à l'occasion de la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne et aux données nécessaires pour leur répartition ;
+
+4° Communiquer :
+
+a) Copie des conventions passées avec les tiers relatives à la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne ;
+
+b) Le cas échéant, copie des conventions passées avec les organisations professionnelles étrangères chargées de la perception et de la répartition des droits.
+
+##### Article R323-2
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 323-1, est transmise par lettre recommandée avec avis de réception au ministre chargé de la culture qui en délivre récépissé. Lorsque le dossier n'est pas en état, le ministre chargé de la culture demande par lettre recommandée avec avis de réception un dossier complémentaire qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
+
+Si la société cesse de remplir l'une des conditions fixées à l'article R. 323-1, l'administration lui adresse une mise en demeure par lettre recommandée avec avis de réception. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations. Faute de régularisation de la situation, l'agrément peut être retiré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+##### Article R323-3
+
+Tout changement de statut ou de règlement général, toute cessation de fonction d'un membre des organes dirigeants et délibérants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de la décision correspondante. Le défaut de déclaration peut entraîner retrait de l'agrément.
+
+##### Article R323-4
+
+La liste des sociétés bénéficiant de l'agrément est publiée chaque année par le ministre chargé de la culture.
+
+##### Article R323-5
+
+La désignation prévue au deuxième alinéa du I de l'article L. 132-20-1 et au deuxième alinéa du I de l'article L. 217-2 se fait par lettre recommandée avec avis de réception adressée à une société de perception et de répartition des droits.
+
+La rétractation peut être effectuée dans les conditions prévues par les statuts de cette société.
+
+#### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne
+
+##### Article R324-1
+
+Pour l'application des articles L. 132-20-2 et L. 217-3, une liste de vingt médiateurs est établie par le ministre chargé de la culture sur proposition des sociétés de perception et de répartition des droits agréées figurant sur la liste mentionnée à l'article R. 323-4, des organisations professionnelles représentatives des organismes de télédiffusion et des organisations professionnelles représentatives des bénéficiaires du droit d'autoriser la retransmission par câble.
+
+Le ministre chargé de la culture arrête la liste des organisations professionnelles mentionnées à l'alinéa précédent.
+
+La liste des médiateurs est publiée au Journal officiel de la République française.
+
+##### Article R324-2
+
+Les médiateurs doivent remplir les conditions suivantes :
+
+1. Jouir de leurs droits civils et politiques ;
+
+2. Ne pas avoir été auteurs de faits contraires à l'honneur, à la probité et aux bonnes mœurs ayant donné lieu à une sanction disciplinaire ou administrative ;
+
+3. Posséder la qualification nécessaire à la résolution des différends dont ils seront saisis ;
+
+4. Présenter les garanties d'indépendance nécessaires à l'exercice de la médiation et notamment ne pas être associé, dirigeant, mandataire social ou salarié d'une société ou d'un organisme mentionné à l'article R. 324-1.
+
+##### Article R324-3
+
+Les médiateurs sont désignés pour une durée de trois ans renouvelable.
+
+##### Article R324-4
+
+Un médiateur peut demander sa radiation de la liste prévue à l'article R. 324-1 par lettre recommandée avec avis de réception adressée au ministre chargé de la culture.
+
+Il est pourvu à son remplacement dans les conditions fixées à l'article R. 324-1.
+
+##### Article R324-5
+
+Le médiateur peut être saisi sur requête conjointe des parties par lettre recommandée avec avis de réception exposant les points sur lesquels porte le différend.
+
+##### Article R324-6
+
+Le médiateur peut également être saisi par l'une des parties. Il informe de cette demande, par lettre recommandée avec avis de réception, dans un délai de huit jours, les autres parties qui disposent d'un délai d'un mois pour faire connaître leur position par lettre recommandée avec avis de réception et, en cas de désaccord sur le choix du médiateur, proposer un autre médiateur.
+
+Dès que le choix du médiateur est arrêté par toutes les parties, le médiateur choisi les en informe par lettre recommandée avec avis de réception.
+
+##### Article R324-7
+
+La durée de la médiation ne peut excéder trois mois à compter de la date de réception de la requête conjointe ou de la date du dernier avis de réception dans le cas prévu au dernier alinéa de l'article précédent.
+
+La médiation peut être reconduite une fois pour la même durée à la demande du médiateur et avec l'accord des parties.
+
+##### Article R324-8
+
+Le médiateur informe les parties du montant de sa rémunération. La charge de cette rémunération et des frais est supportée à parts égales par les parties.
+
+##### Article R324-9
+
+Le médiateur convoque les parties pour les entendre dès le début de la médiation.
+
+Il invite les parties à lui fournir toutes les précisions qu'il estime nécessaires et peut entendre toute personne dont l'audition lui paraît utile. Les parties peuvent se faire assister par un avocat ou par toute personne de leur choix qui a reçu l'accord du médiateur. Seules sont admises à participer aux réunions les personnes convoquées par lui.
+
+Le médiateur ne peut retenir aucun fait, grief, élément d'information ou de preuve sans en aviser les parties intéressées dans des conditions permettant à celles-ci d'en discuter le bien-fondé.
+
+##### Article R324-10
+
+Le médiateur est tenu de garder le secret sur les affaires portées à sa connaissance.
+
+Les constatations du médiateur et les déclarations qu'il recueille ne peuvent être ni produites ni invoquées sans l'accord des parties dans le cadre d'une autre procédure de médiation, d'une procédure d'arbitrage ou d'une instance judiciaire.
+
+##### Article R324-11
+
+Lorsque le médiateur constate un accord entre les parties, il rédige un procès-verbal précisant les mesures à prendre pour le mettre en oeuvre et fixant un délai pour leur exécution. Il adresse copie de ce procès-verbal aux parties par lettre recommandée avec avis de réception dans un délai de dix jours.
+
+##### Article R324-12
+
+Si, à l'issue du délai prévu à l'article R. 324-7, aucun accord n'a pu être trouvé entre les parties, le médiateur peut, par lettre recommandée avec avis de réception, soit faire des recommandations aux parties, soit proposer la solution qu'il juge appropriée au règlement de tout ou partie du différend.
+
+Faute d'avoir exprimé au médiateur leur opposition par écrit dans un délai de trois mois à compter de la date de réception de sa proposition, les parties sont réputées avoir accepté celle-ci.
 
 ### Titre III : Procédures et sanctions
 
