@@ -5996,7 +5996,7 @@ L'inscription sur la liste prévue à l'article R. 422-1 est subordonnée aux co
 
 1° Offrir ou s'engager à offrir dans un délai de trois mois au public les services prévus à l'article L. 422-1 soit à titre individuel ou en groupe, soit comme salarié d'un autre conseil en propriété industrielle ou d'une société de conseil en propriété industrielle ;
 
-2° Etre de nationalité française ou ressortissant d'un autre Etat membre de l'Union européenne ;
+2° Etre de nationalité française ou ressortissant d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
 3° Avoir un domicile ou un établissement professionnel en France ;
 
@@ -6047,6 +6047,20 @@ Le capital social d'une société de conseil en propriété industrielle mention
 3° Création de marques ;
 
 4° Financement de l'innovation.
+
+##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen
+
+###### Article R422-7-1
+
+Lorsqu'un professionnel établi sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen est habilité à représenter en matière de propriété industrielle des personnes devant le service central de propriété industrielle de cet Etat, il peut faire usage en France de son titre professionnel, exprimé dans la ou l'une des langues de ce dernier Etat, pour représenter des personnes devant l'Institut national de la propriété industrielle, dès lors que son titre est attesté par l'autorité compétente de l'Etat où il est établi.
+
+Lorsque l'exercice de la profession dans l'Etat où l'intéressé est établi n'est pas subordonné à la possession d'un titre réglementé, le professionnel doit justifier auprès de l'Institut national de la propriété industrielle, par une attestation de l'autorité compétente de cet Etat, d'un tel exercice à titre habituel pendant deux ans au moins au cours des dix dernières années.
+
+###### Article R422-7-2
+
+Les professionnels mentionnés à l'article R. 422-7-1 sont tenus, dans l'exercice de leur activité en France, au respect des règles énoncées par les articles L. 422-8 et R. 422-52 à R. 422-54. En cas de manquement à leurs obligations, ils sont soumis aux dispositions des articles R. 422-56 à R. 422-66 et les sanctions prévues par l'article L. 422-10 leur sont applicables.
+
+Toutefois, la mesure disciplinaire de la radiation temporaire ou définitive est remplacée par une mesure d'interdiction temporaire ou définitive d'exercer en France des activités professionnelles. La chambre de discipline peut demander à l'autorité compétente de l'Etat d'origine communication des renseignements professionnels concernant les intéressés. Elle informe cette dernière autorité de toute décision prise. Ces communications ne portent pas atteinte au caractère confidentiel des renseignements fournis.
 
 ##### Section 2 : La Compagnie nationale des conseils en propriété industrielle
 
@@ -6395,6 +6409,8 @@ La chambre de discipline, prévue à l'article L. 422-10 pour connaître des man
 
 Les membres désignés aux 1°, 2°, 4° et 5° ont des suppléants nommés dans les mêmes conditions.
 
+La chambre de discipline connaît également des manquements à leurs obligations des autres personnes admises à exercer en France des activités relevant de la profession de conseil en propriété industrielle.
+
 ###### Article R422-57
 
 Les membres de la chambre de discipline sont, à l'exception du président de la Compagnie nationale des conseils en propriété industrielle et de son suppléant, nommés ainsi que leurs suppléants pour trois ans par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la propriété industrielle.
@@ -6413,7 +6429,7 @@ Le secrétariat de la chambre est assuré par l'Institut national de la proprié
 
 ###### Article R422-60
 
-Le rapporteur peut, d'office ou à la demande du président de la chambre, requérir du conseil en propriété industrielle mis en cause, de l'auteur de la plainte ou de toute personne susceptible d'éclairer les débats, les explications et justifications nécessaires à l'information de la chambre.
+Le rapporteur peut, d'office ou à la demande du président de la chambre, requérir de la personne mise en cause, de l'auteur de la plainte ou de toute personne susceptible d'éclairer les débats, les explications et justifications nécessaires à l'information de la chambre.
 
 Le rapport précise les faits dénoncés, les diligences accomplies ainsi que les conclusions motivées du rapporteur sur l'existence d'une faute disciplinaire.
 
@@ -6427,13 +6443,13 @@ La décision de classement est prise et notifiée dans les formes et conditions 
 
 ###### Article R422-62
 
-Sauf lorsqu'il est fait application de l'article R. 422-61, le conseil en propriété industrielle qui fait l'objet d'une procédure disciplinaire est cité à comparaître devant la chambre de discipline par son président au moins quinze jours avant l'audience, par lettre recommandée avec demande d'avis de réception.
+Sauf lorsqu'il est fait application de l'article R. 422-61, la personne qui fait l'objet d'une procédure disciplinaire est cité à comparaître devant la chambre de discipline par son président au moins quinze jours avant l'audience, par lettre recommandée avec demande d'avis de réception.
 
 Si la personne poursuivie est une personne morale, la citation est adressée dans les mêmes conditions à son représentant légal.
 
-La citation comporte, à peine de nullité, l'indication précise des faits à raison desquels la poursuite est intentée et la référence des dispositions législatives ou réglementaires sur le fondement desquelles ces faits sont poursuivis et réprimés. Elle est portée à la connaissance de l'autorité qui a saisi la chambre ou de l'auteur de la plainte, par lettre recommandée avec demande d'avis de réception. Un délai de quinze jours à compter de cette notification est imparti, tant au plaignant qu'au conseil en propriété industrielle, pour la présentation d'éventuelles observations écrites.
+La citation comporte, à peine de nullité, l'indication précise des faits à raison desquels la poursuite est intentée et la référence des dispositions législatives ou réglementaires sur le fondement desquelles ces faits sont poursuivis et réprimés. Elle est portée à la connaissance de l'autorité qui a saisi la chambre ou de l'auteur de la plainte, par lettre recommandée avec demande d'avis de réception. Un délai de quinze jours à compter de cette notification est imparti, tant au plaignant qu'à la personne poursuivie, pour la présentation d'éventuelles observations écrites.
 
-Le conseil poursuivi peut prendre connaissance auprès du secrétaire de la chambre du dossier de la poursuite, et notamment du rapport mentionné à l'article R. 422-60. Il peut à cet effet se faire assister d'un conseil en propriété industrielle et d'un avocat.
+La personne poursuivie, l'autorité qui a saisi la chambre ou l'auteur de la plainte peuvent prendre connaissance auprès du secrétaire de la chambre du dossier de la poursuite, et notamment du rapport mentionné à l'article R. 422-60. A cet effet, la personne poursuivie et l'auteur de la plainte peuvent se faire assister de la personne de leur choix.
 
 Le dossier est également tenu à la disposition des membres de la chambre.
 
@@ -6445,7 +6461,7 @@ La chambre entend le rapporteur qui donne lecture de son rapport.
 
 La chambre peut entendre tous témoins et faire procéder à toute investigation qu'elle estime utile.
 
-Sauf lorsque la chambre se prononce en application de l'article R. 422-61, l'auteur de la plainte peut assister à l'audience et y être entendu. Sous la même réserve, le conseil poursuivi a la parole le dernier, et peut se faire assister d'un conseil en propriété industrielle et d'un avocat.
+Sauf lorsque la chambre se prononce en application de l'article R. 422-61, l'auteur de la plainte peut assister à l'audience et y être entendu. Sous la même réserve, la personne poursuivie a la parole en dernier et peut, ainsi que l'auteur de la plainte, se faire assister de la personne de son choix.
 
 Les séances de la chambre sont publiques. Toutefois, le président peut, d'office ou à la demande d'une des parties, interdire au public l'accès de la salle pendant tout ou partie de la séance dans l'intérêt de l'ordre public ou lorsque le respect de la vie privée ou du secret des affaires le justifie.
 
@@ -6457,7 +6473,7 @@ La décision disciplinaire, qui doit être motivée, est prise à la majorité. 
 
 La décision est notifiée, par le secrétaire, à l'intéressé, au plaignant, au directeur général de l'institut, au garde des sceaux, ministre de la justice, et au ministre chargé de la propriété industrielle par lettre recommandée avec demande d'avis de réception dans un délai de quinze jours à compter de son prononcé.
 
-La décision est exécutoire à compter de sa notification au conseil qui en a fait l'objet.
+La décision est exécutoire à compter de sa notification à la personne qui en a fait l'objet.
 
 La décision peut être déférée au Conseil d'Etat par la voie du recours en cassation.
 
@@ -6476,6 +6492,8 @@ La radiation temporaire ou définitive de la liste est publiée au Bulletin offi
 ##### Article R423-1
 
 Les conditions d'inscription sur la liste prévue à l'article L. 422-5 sont appréciées à la date d'entrée en vigueur de celui-ci. Ces conditions sont, en ce qui concerne les personnes morales, appréciées en la personne des auteurs de la demande. Le maintien de l'inscription est subordonné au respect des conditions au vu desquelles le directeur général de l'institut a statué.
+
+Les personnes inscrites sur la liste prévue à l'article L. 422-5 sont tenues, dans l'exercice de leur activité professionnelle, au respect des règles énoncées aux articles L. 422-8 et R. 422-52 à R. 422-54. En cas de manquement à leurs obligations, elles sont soumises aux dispositions des articles R. 422-56 à R. 422-66 et les sanctions prévues à l'article L. 422-10 leur sont applicables.
 
 ##### Article R423-2
 
@@ -6531,13 +6549,13 @@ Un arrêté ministériel détermine les conditions d'envoi, de gardiennage et de
 
 ##### Article R512-1
 
-Tout dépôt de dessin ou modèle peut être fait personnellement par le déposant ou par un mandataire ayant son domicile, son siège ou un établissement en France. Il en est accusé réception.
+Tout dépôt de dessin ou modèle peut être fait personnellement par le déposant ou par un mandataire ayant son domicile, son siège ou un établissement dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen. Il en est accusé réception.
 
-Il peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande d'avis de réception ou d'un message par tout le mode de télétransmission défini par décision de son directeur général. Dans ce cas, la date de dépôt est celle de la réception à l'institut.
+Il peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande d'avis de réception ou d'un message par tout mode de télétransmission défini par décision de son directeur général. Dans ce cas, la date de dépôt est celle de la réception à l'institut.
 
 ##### Article R512-2
 
-Les personnes n'ayant pas leur domicile ou leur siège en France doivent, dans un délai qui leur est imparti par l'institut, constituer un mandataire satisfaisant aux conditions prévues à l'article R. 512-1.
+Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen doivent, dans un délai qui leur est imparti par l'institut, constituer un mandataire satisfaisant aux conditions prévues à l'article R. 512-1.
 
 En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
 
@@ -6717,13 +6735,13 @@ Toute personne intéressée peut obtenir de l'institut :
 
 ##### Article R513-1
 
-Le dépôt peut être prorogé pour une période de vingt-cinq ans s'ajoutant à celle qui est prévue à l'article L. 513-1 sur déclaration de son titulaire établie dans les conditions fixées par l'arrêté prévu à l'article R. 514-5. Il peut être précisé que la prorogation ne vaut que pour certains dessins ou modèles.
+La prorogation d'un dépôt de dessin ou modèle prévu à l'article L. 513-1 résulte d'une déclaration de son titulaire établie dans les conditions fixées par l'arrêté mentionné à l'article R. 514-5. Il peut être précisé que la prorogation ne vaut que pour certains dessins ou modèles.
 
 La déclaration doit, à peine d'irrecevabilité :
 
-1° Etre présentée au cours des six derniers mois qui précèdent l'expiration de la première période de protection, par l'intéressé ou son mandataire, lequel doit joindre un pouvoir à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
+1° Etre présentée au cours des six derniers mois qui précèdent l'expiration de chaque période de protection par l'intéressé ou son mandataire, lequel doit joindre un pouvoir à moins qu'il n'ait la qualité de conseil en propriété industrielle. Toutefois, la première prorogation peut être demandée lors du dépôt ;
 
-2° Comporter l'identification du titulaire et celle du dépôt à renouveler ;
+2° Comporter la désignation du dépôt à proroger et émaner du titulaire inscrit, au jour de la déclaration, au Registre national des dessins et modèles ;
 
 3° Etre accompagnée de la justification du paiement de la redevance prescrite.
 
@@ -7122,9 +7140,9 @@ Le dépôt peut résulter de l'envoi à l'Institut national de la propriété in
 
 ###### Article R612-2
 
-Le dépôt peut être fait par le demandeur personnellement ou par un mandataire ayant son domicile, son siège ou un établissement en France. Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire, constitué pour le dépôt et pour l'accomplissement de tout acte subséquent relatif à la procédure de délivrance du brevet, à l'exception du simple paiement des redevances, doit avoir la qualité de conseil en propriété industrielle.
+Le dépôt peut être fait par le demandeur personnellement ou par un mandataire ayant son domicile, son siège ou un établissement dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen. Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire, constitué pour le dépôt et pour l'accomplissement de tout acte subséquent relatif à la procédure de délivrance du brevet, à l'exception du simple paiement des redevances, doit avoir la qualité de conseil en propriété industrielle.
 
-Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège en France doivent constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la notification qui leur est adressée à cet effet. En cas de pluralité de demandeurs, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
+Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauré européenne ou dans un Etat partie à l'accord sur l'Espace économique européen doivent constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la notification qui leur est adressée à cet effet. En cas de pluralité de demandeurs, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
 
 Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles R. 612-38 et R. 613-45 et, sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévus aux articles R. 611-15 à R. 611-20, R. 612-1 à R. 613-3, R. 613-45 à R. 613-65, R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légalisation.
 
@@ -9275,11 +9293,11 @@ Le dépôt peut résulter de l'envoi à l'Institut national de la propriété in
 
 ##### Article R712-2
 
-Le dépôt peut être fait personnellement par le demandeur ou par un mandataire ayant son domicile, son siège ou son établissement en France.
+Le dépôt peut être fait personnellement par le demandeur ou par un mandataire ayant son domicile, son siège ou son établissement dans un Etat membre de la communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen.
 
 Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire constitué pour le dépôt d'une demande d'enregistrement de marque et tout acte subséquent relatif à la procédure d'enregistrement, à l'exception du simple paiement des redevances et des déclarations de renouvellement, doit avoir la qualité de conseil en propriété industrielle.
 
-Les personnes n'ayant pas leur domicile ou leur siège en France doivent, dans le délai qui leur est imparti par l'institut, constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
+Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen doivent, dans le délai qui leur est imparti par l'institut, constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
 
 En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
 
@@ -9633,25 +9651,27 @@ La demande visée à l'alinéa précédent peut être faite préalablement à l'
 
 Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé du budget.
 
-#### Chapitre VII : Marques internationales
+#### Chapitre VII : Marque internationale et marque communautaire
 
-##### Article R717-1
+##### Section 1 : Marque internationale
+
+###### Article R717-1
 
 Les articles R. 712-3 (2°, d), R. 712-9 à R. 712-11, R. 712-13 à R. 712-18, R. 714-2 et R. 714-4 à R. 714-8 sont applicables aux enregistrements internationaux de marque étendus à la France conformément à l'arrangement de Madrid du 14 avril 1891, dans la limite et sous la réserve des dispositions prévues au présent chapitre.
 
-##### Article R717-2
+###### Article R717-2
 
 Lorsque l'enregistrement international concerne une marque collective de certification, le règlement d'usage mentionné à l'article R. 712-3 (2°, d), accompagné, le cas échéant, de sa traduction en langue française, doit être fourni dans un délai de six mois à compter de l'inscription de la marque au Registre international.
 
 Lorsque cette prescription n'est pas respectée, l'enregistrement international est réputé ne pas porter en France sur une marque collective de certification.
 
-##### Article R717-3
+###### Article R717-3
 
 L'institut tient à la disposition du public le bulletin Les Marques internationales publié par l'Organisation mondiale de la propriété intellectuelle.
 
 Le délai de deux mois dans lequel les observations de tiers doivent être présentées en application de l'article L. 712-3 court à partir du premier jour du mois suivant la réception du bulletin Les Marques internationales à l'Institut national de la propriété industrielle.
 
-##### Article R717-4
+###### Article R717-4
 
 L'examen prévu à l'article R. 712-10 est limité à la vérification de l'aptitude du signe à constituer une marque ou à être adopté à titre de marque.
 
@@ -9659,7 +9679,7 @@ Le délai de quatre mois dans lequel doivent être émises les notifications d'i
 
 Les irrégularités sont notifiées au titulaire de l'enregistrement international par l'intermédiaire du bureau international de l'Organisation mondiale de la propriété intellectuelle.
 
-##### Article R717-5
+###### Article R717-5
 
 Le délai pour former opposition, conformément à l'article L. 712-4, court à partir du premier jour du mois suivant la réception du bulletin Les Marques internationales à l'Institut national de la propriété industrielle.
 
@@ -9667,21 +9687,49 @@ L'opposition est notifiée au titulaire de l'enregistrement international par l'
 
 Le titulaire de l'enregistrement international est réputé avoir reçu la notification de l'opposition dans un délai de quinze jours à compter de la date d'émission de cette notification par l'Institut national de la propriété industrielle.
 
-##### Article R717-6
+###### Article R717-6
 
 Toute décision de rejet est prononcée sous forme de refus de protection en France de l'enregistrement international.
 
 Elle est notifiée au titulaire de l'enregistrement international par l'intermédiaire du bureau international de l'Organisation mondiale de la propriété intellectuelle.
 
-##### Article R717-7
+###### Article R717-7
 
 Les actes relatifs aux enregistrements internationaux qui produisent effet en France peuvent être inscrits au Registre national des marques, dès lors qu'ils ne sont pas susceptibles d'être inscrits au Registre international.
 
-##### Article R717-8
+###### Article R717-8
 
 Toute demande d'enregistrement international ou d'inscription postérieure à cet enregistrement soumise, en vertu de l'arrangement de Madrid du 14 avril 1891, au visa de l'Institut national de la propriété industrielle pour transmission au bureau international, doit être présentée dans les conditions fixées à l'arrêté mentionné à l'article R. 712-26.
 
 Les dispositions de l'article R. 712-11 sont applicables à toute demande ne répondant pas aux conditions prévues à l'alinéa précédent. La date de saisine de l'Institut national de la propriété industrielle est celle à laquelle la demande a, le cas échéant, été régularisée.
+
+##### Section 2 : Marque communautaire
+
+###### Article R717-9
+
+La marque communautaire ou la demande de marque communautaire est transformée en demande de marque française dès la réception par l'Institut national de la propriété industrielle de la requête en transformation adressée à l'Office de l'harmonisation dans le marché intérieur. Un numéro national lui est attribué.
+
+1° Un délai est imparti au demandeur pour fournir :
+
+a) La demande d'enregistrement prévue au 1° de l'article R. 712-3 ;
+
+b) La justification du paiement des redevances prévue au a du 2° de l'article R. 712-3 ;
+
+c) La traduction en français, s'il y a lieu, de la requête en transformation et des pièces jointes à celle-ci.
+
+Si le demandeur n'a pas son domicile ou son siège dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen, il doit, dans le même délai, constituer un mandataire satisfaisant aux conditions prévues à l'article R. 712-2 et communiquer le nom et l'adresse de celui-ci à l'Institut national de la propriété industrielle ;
+
+2° La demande issue de la requête en transformation est rejetée si les pièces mentionnées au 1° ne sont pas produites dans le délai prescrit ;
+
+3° Lorsque la demande issue de la requête en transformation est reconnue recevable, elle est publiée au Bulletin officiel de la propriété industrielle dans les six semaines qui suivent la réception par l'Institut national de la propriété industrielle des pièces visées au 1°. Sous réserve des dispositions du troisième alinéa de l'article L. 717-5, mention y est faite de la faculté ouverte à toute personne intéressée de formuler des observations dans le délai de deux mois et aux personnes mentionnées à l'article L. 712-4 de former dans ce même délai opposition à enregistrement.
+
+###### Article R717-10
+
+La demande de marque nationale issue de la requête en transformation est examinée et enregistrée ou rejetée dans les conditions prévues aux articles R. 712-9 à R. 712-23.
+
+###### Article R717-11
+
+Ainsi qu'il est dit à l'article R. 312-10 du code de l'organisation judiciaire, les actions et demandes en matière de marque communautaire prévues par l'article L. 717-4 sont portées devant le tribunal de grande instance de Paris.
 
 #### Chapitre VIII : Dispositions communes
 
@@ -9731,21 +9779,21 @@ Si l'adresse du destinataire est inconnue, la notification est faite par publica
 
 Les dispositions du présent code sont applicables aux territoires d'outre-mer à l'exception :
 
-1° Des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-63, R. 615-1 à R. 615-5 ;
+1° Des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2, R. 615-1 à R. 615-5 ;
 
 2° Des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1, R. 513-2, R. 612-2, R. 612-38, R. 613-46, R. 613-56, R. 613-58, R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4, R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle.
 
 ##### Article R811-2
 
-Les dispositions du présent code sont applicables à la collectivité territoriale de Mayotte.
+Les dispositions du présent code sont applicables à Mayotte.
 
 ##### Article R811-3
 
-Pour application du présent code et des dispositions qu'il rend applicables aux territoires d'outre-mer et à la collectivité territoriale de Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+Pour application du présent code et des dispositions qu'il rend applicables aux territoires d'outre-mer et à Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
 
 - "tribunal de grande instance" par "tribunal de première instance" ;
 - "juge d'instance" par "juge du tribunal de première instance" ;
-- "région" par "territoire" et, en ce qui concerne la collectivité de Mayotte, par "collectivité territoriale" ;
-- "cour d'appel" par "tribunal supérieur d'appel" et "commissaire de police" par "officier de police judiciaire" en ce qui concerne la collectivité territoriale de Mayotte ;
-- "tribunal de commerce" par "tribunal de première instance statuant en matière commerciale" en ce qui concerne la collectivité territoriale de Mayotte et "tribunal mixte de commerce" en ce qui concerne les territoires de la Nouvelle-Calédonie, de la Polynésie française et de Wallis-et-Futuna ;
+- "région" par "territoire" et, en ce qui concerne Mayotte, par "collectivité départementale" ;
+- "cour d'appel" par "tribunal supérieur d'appel" et "commissaire de police" par "officier de police judiciaire" en ce qui concerne Mayotte ;
+- "tribunal de commerce" par "tribunal de première instance statuant en matière commerciale" en ce qui concerne Mayotte et "tribunal mixte de commerce" en ce qui concerne les territoires de la Nouvelle-Calédonie, de la Polynésie française et de Wallis-et-Futuna ;
 - "conseil de prud'hommes" par "tribunal du travail".
