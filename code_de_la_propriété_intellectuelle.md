@@ -4019,6 +4019,14 @@ Les documents qui ont un caractère préparatoire aux décisions des organes soc
 
 La société peut ne pas donner suite aux demandes répétitives ou abusives.
 
+##### Article R321-6-3
+
+L'associé auquel est opposé un refus de communication peut saisir une commission spéciale composée d'au moins cinq associés élus par l'assemblée générale parmi ceux qui ne détiennent aucun mandat social.
+
+Les avis de cette commission sont motivés. Ils sont notifiés au demandeur et aux organes de direction de la société.
+
+La commission rend compte annuellement de son activité à l'assemblée générale. Son rapport est communiqué au ministre chargé de la culture ainsi qu'au président de la commission prévue à l'article L. 321-13.
+
 ##### Article R321-6-4
 
 Le fait, pour un gérant de droit ou de fait, de refuser de communiquer tout ou partie des documents mentionnés aux articles R. 321-2, R. 321-6 et R. 321-6-1 est puni de la peine d'amende prévue pour les contraventions de la 3e classe.
