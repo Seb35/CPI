@@ -356,6 +356,33 @@ En cas d'abus notoire dans l'usage ou le non-usage des droits d'exploitation de 
 
 Le tribunal peut être saisi notamment par le ministre chargé de la culture.
 
+###### Article L122-10
+
+La publication d'une oeuvre emporte cession du droit de reproduction par reprographie à une société régie par le titre II du livre III et agréée à cet effet par le ministre chargé de la culture. Les sociétés agréées peuvent seules conclure toute convention avec les utilisateurs aux fins de gestion du droit ainsi cédé, sous réserve, pour les stipulations autorisant les copies aux fins de vente, de location, de publicité ou de promotion, de l'accord de l'auteur ou de ses ayants droit.
+
+A défaut de désignation par l'auteur ou son ayant droit à la date de la publication de l'oeuvre, une des sociétés agréées est réputée cessionnaire de ce droit.
+
+La reprographie s'entend de la reproduction sous forme de copie sur papier ou support assimilé par une technique photographique ou d'effet équivalent permettant une lecture directe.
+
+Les dispositions du premier alinéa ne font pas obstacle au droit de l'auteur ou de ses ayants droit de réaliser des copies aux fins de vente, de location, de publicité ou de promotion.
+
+Nonobstant toute stipulation contraire, les dispositions du présent article s'appliquent à toutes les oeuvres protégées quelle que soit la date de leur publication.
+
+###### Article L122-11
+
+Les conventions mentionnées à l'article L. 122-10 peuvent prévoir une rémunération forfaitaire dans les cas définis aux 1° à 3° de l'article L. 131-4.
+
+###### Article L122-12
+
+L'agrément des sociétés mentionnées au premier alinéa de l'article L. 122-10 est délivré en considération :
+
+- de la diversité des associés ;
+- de la qualification professionnelle des dirigeants ;
+- des moyens humains et matériels qu'ils proposent de mettre en oeuvre pour assurer la gestion du droit de reproduction par reprographie ;
+- du caractère équitable des modalités prévues pour la répartition des sommes perçues.
+
+Un décret en Conseil d'Etat fixe les modalités de la délivrance et du retrait de cet agrément ainsi que du choix des sociétés cessionnaires en application de la dernière phrase du premier alinéa de l'article L. 122-10.
+
 ##### Chapitre III : Durée de la protection
 
 ###### Article L123-1
@@ -910,9 +937,9 @@ Elle est répartie entre les ayants droit par les organismes mentionnés à l'al
 
 ###### Article L311-7
 
-La rémunération pour copie privée des phonogrammes bénéficie, pour moitié, aux auteurs, pour un quart, aux artistes-interprètes et, pour un quart, aux producteurs.
+La rémunération pour copie privée des phonogrammes bénéficie, pour moitié, aux auteurs au sens du présent code, pour un quart, aux artistes-interprètes et, pour un quart, aux producteurs.
 
-La rémunération pour copie privée des vidéogrammes bénéficie à parts égales aux auteurs, aux artistes-interprètes et aux producteurs.
+La rémunération pour copie privée des vidéogrammes bénéficie à parts égales aux auteurs au sens du présent code, aux artistes-interprètes et aux producteurs.
 
 ###### Article L311-8
 
