@@ -1745,7 +1745,7 @@ c) A la préparation de médicaments faite extemporanément et par unité dans l
 
 ####### Article L613-6
 
-Les droits conférés par le brevet ne s'étendent pas aux actes concernant le produit couvert par ce brevet, accomplis sur le territoire français, après que ce produit a été mis dans le commerce en France par le propriétaire du brevet ou avec son consentement exprès.
+Les droits conférés par le brevet ne s'étendent pas aux actes concernant le produit couvert par ce brevet, accomplis sur le territoire français, après que ce produit a été mis dans le commerce en France ou sur le territoire d'un Etat partie à l'accord sur l'Espace économique européen par le propriétaire du brevet ou avec son consentement exprès.
 
 ####### Article L613-7
 
@@ -1787,9 +1787,11 @@ Sur la demande du propriétaire du brevet, le directeur de l'Institut national d
 
 Toute personne de droit public ou privé peut, à l'expiration d'un délai de trois ans après la délivrance d'un brevet, ou de quatre ans à compter de la date du dépôt de la demande, obtenir une licence obligatoire de ce brevet, dans les conditions prévues aux articles suivants, si au moment de la requête, et sauf excuses légitimes le propriétaire du brevet ou son ayant cause :
 
-a) N'a pas commencé à exploiter ou fait des préparatifs effectifs et sérieux pour exploiter l'invention objet du brevet sur le territoire d'un Etat membre de la Communauté économique européenne ; b) N'a pas commercialisé le produit objet du brevet en quantité suffisante pour satisfaire aux besoins du marché français.
+a) N'a pas commencé à exploiter ou fait des préparatifs effectifs et sérieux pour exploiter l'invention objet du brevet sur le territoire d'un Etat membre de la Communauté économique européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
-Il en est de même lorsque l'exploitation ou la commercialisation en France a été abandonnée depuis plus de trois ans.
+b) N'a pas commercialisé le produit objet du brevet en quantité suffisante pour satisfaire aux besoins du marché français.
+
+Il en est de même lorsque l'exploitation prévue au a) ci-dessus ou la commercialisation prévue au b) ci-dessus a été abandonnée depuis plus de trois ans.
 
 ####### Article L613-12
 
@@ -2354,9 +2356,9 @@ Est nul tout dépôt qui ne répond pas aux conditions prévues au présent arti
 
 Sont admis au bénéfice du présent chapitre :
 
-a) Les créateurs ressortissants d'un Etat membre de la Communauté économique européenne ou qui ont dans un tel Etat soit leur résidence habituelle, soit un établissement industriel ou commercial, effectif et sérieux, ainsi que leurs ayants cause ;
+a) Les créateurs ressortissants d'un Etat membre de la Communauté économique européenne ou d'un autre Etat partie à l'accord sur l' Espace économique européen ou qui ont dans un tel Etat soit leur résidence habituelle, soit un établissement industriel ou commercial, effectif et sérieux, ainsi que leurs ayants cause ;
 
-b) Les personnes répondant aux conditions précitées de nationalité, résidence ou établissement, qui procèdent dans un Etat membre, pour la première fois au monde, à l'exploitation commerciale d'une topographie non encore protégée par le présent chapitre et pour laquelle elles ont obtenu de la personne habilitée une autorisation exclusive pour l'ensemble de la Communauté économique européenne.
+b) Les personnes répondant aux conditions précitées de nationalité, résidence ou établissement, qui procèdent dans un Etat membre ou dans un autre Etat partie , pour la première fois au monde, à l'exploitation commerciale d'une topographie non encore protégée par le présent chapitre et pour laquelle elles ont obtenu de la personne habilitée une autorisation exclusive pour l'ensemble de la Communauté économique européenne ou de l'Espace économique européen.
 
 Les personnes, autres que celles visées au paragraphe précédent, sont admises au bénéfice du présent chapitre sous réserve d'une constatation de réciprocité avec les pays dont elles sont ressortissantes ou dans lesquels elles sont établies.
 
@@ -2836,7 +2838,7 @@ b) L'imitation d'une marque et l'usage d'une marque imitée, pour des produits o
 
 ###### Article L713-4
 
-Le droit conféré par la marque ne permet pas à son titulaire d'interdire l'usage de celle-ci pour des produits qui ont été mis dans le commerce dans la Communauté économique européenne sous cette marque par le titulaire ou avec son consentement.
+Le droit conféré par la marque ne permet pas à son titulaire d'interdire l'usage de celle-ci pour des produits qui ont été mis dans le commerce dans la Communauté économique européenne ou dans l'Espace économique européen sous cette marque par le titulaire ou avec son consentement.
 
 Toutefois, faculté reste alors ouverte au propriétaire de s'opposer à tout nouvel acte de commercialisation s'il justifie de motifs légitimes, tenant notamment à la modification ou à l'altération, ultérieurement intervenue, de l'état des produits.
 
