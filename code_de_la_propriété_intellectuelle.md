@@ -3272,3 +3272,4652 @@ Pour l'application du présent code et des dispositions qu'il rend applicables a
 - " conseil de prud'hommes " par " tribunal du travail ".
 
 De même, les références à des dispositions législatives non applicables dans les territoires d'outre-mer sont remplacées par les références aux dispositions ayant le même objet, résultant de la réglementation territoriale applicable dans ces derniers.
+
+# Partie réglementaire
+
+## Livre Ier : Le droit d'auteur
+
+### Titre Ier : Objet du droit d'auteur
+
+#### Chapitre Ier : Nature du droit d'auteur
+
+##### Article R111-1
+
+Les redevances visées à l'article L. 111-4 (alinéa 3) du code de la propriété intellectuelle sont versées à celui des organismes suivants qui est compétent à raison de sa vocation statutaire, de la nature de l'oeuvre et du mode d'exploitation envisagé :
+
+Centre national des lettres ;
+
+Société des gens de lettres ;
+
+Société des auteurs et compositeurs dramatiques ;
+
+Société des auteurs, compositeurs et éditeurs de musique ;
+
+Société pour l'administration du droit de reproduction mécanique des auteurs, compositeurs et éditeurs ;
+
+Société des auteurs des arts visuels.
+
+Au cas où l'organisme compétent n'accepte pas de recueillir lesdites redevances ou à défaut d'organisme compétent, ces redevances seront versées à la Caisse des dépôts et consignations.
+
+##### Article R111-2
+
+Le montant des sommes dues par l'utilisateur de l'oeuvre est établi selon les conditions en usage dans chacune des catégories de créations considérées.
+
+Le versement des fonds et leur utilisation à des fins d'intérêt général ou professionnel seront soumis au contrôle du ministre chargé de la culture.
+
+#### Chapitre II : Oeuvres protégées
+
+#### Chapitre III : Titulaires du droit d'auteur
+
+### Titre II : Droits des auteurs
+
+#### Chapitre Ier : Droits moraux
+
+#### Chapitre II : Droits patrimoniaux
+
+##### Article R122-1
+
+Le seuil de perception du droit de suite mentionné à l'article L. 122-8 est fixé à un prix de vente de 15,24 euros.
+
+##### Article R122-2
+
+L'artiste qui désire obtenir, soit pour l'ensemble de son oeuvre, soit pour une ou plusieurs de ses oeuvres, le bénéfice du droit de suite lors de leur passage en vente publique doit faire insérer au Journal officiel une déclaration dont les termes seront déterminés par un arrêté ministériel.
+
+L'intéressé adresse en même temps un duplicata de la déclaration au ministre chargé de la culture.
+
+La déclaration peut être faite par les héritiers et ayants cause de l'artiste. La déclaration pourra mentionner les marques et indications de toute nature destinées à faciliter l'authentification des oeuvres de l'artiste.
+
+Lorsque l'objet est dû à la collaboration de plusieurs artistes désirant bénéficier du droit de suite, la déclaration peut être effectuée soit collectivement par ceux-ci, soit isolément par chacun d'eux.
+
+Cette déclaration doit indiquer s'il y a accord entre les collaborateurs sur la répartition du prélèvement prévu par le présent code et dans quelle proportion ils ont convenu de procéder à cette répartition.
+
+##### Article R122-3
+
+A défaut de la déclaration prévue à l'article précédent, l'intéressé peut, lors du passage en vente publique d'une oeuvre déterminée, bénéficier du droit de suite en requérant l'officier public ou ministériel, au plus tard dans les vingt-quatre heures qui suivent la vente, de procéder au prélèvement prévu par l'article L. 122-8.
+
+Lorsque l'objet est dû à la collaboration de plusieurs artistes, et à défaut de la déclaration prévue à l'article précédent, celui ou ceux qui désirent bénéficier du droit de suite peuvent faire valoir leur droit conformément au paragraphe ci-dessus.
+
+La notification adressée à l'officier public ou ministériel doit indiquer s'il y accord entre les collaborateurs sur la répartition du prélèvement et dans quelle proportion ils ont convenu d'y procéder.
+
+##### Article R122-4
+
+Les déclarations prévues aux articles R. 122-2 et R. 122-3 pourront comporter l'indication d'un mandataire tel que société ou syndicat, chargé de représenter les intérêts de l'artiste, de ses héritiers et ayants cause pour l'application des dispositions de l'article L. 122-8.
+
+Ledit mandataire prendra toutes mesures utiles pour sauvegarder les droits de l'artiste, de ses héritiers et ayants cause.
+
+##### Article R122-5
+
+A dater de l'insertion au Journal officiel de la déclaration prévue à l'article R. 122-2 ou de la réception de la déclaration prévue à l'article R.122-3, l'officier public ou ministériel procédant à la vente publique d'une oeuvre d'art faisant l'objet desdites déclarations doit, sous sa responsabilité personnelle, prélever sur le prix de vente obtenu la somme résultant de l'application du tarif déterminé par les articles L. 122-8 et R. 122-1.
+
+##### Article R122-6
+
+Trois jours francs après la vente qui aura donné lieu à prélèvement, les fonds seront tenus par l'officier public ou ministériel à la disposition de l'intéressé. La remise des fonds sera effectuée soit contre justification par l'intéressé de son identité ou de sa qualité pour agir, soit sur déclaration du mandataire et sous la responsabilité de celui-ci.
+
+Lorsque l'objet est dû à la collaboration de plusieurs artistes, à défaut de l'accord prévu aux articles R. 122-2 et R. 122-3, la somme résultant de l'application du tarif déterminé par les articles R. 122-8 et R. 122-1 sera réservée au profit des ayants droit jusqu'à ce que sa répartition ait été réglée à l'amiable ou qu'il ait été statué suivant les règles de droit. Si, à l'expiration du délai de trois mois prévu à l'article R. 122-7, les conditions de la répartition n'ont pas été fixées et notifiées par les intéressés à l'officier public ou ministériel ayant effectué le prélèvement, la somme résultant dudit prélèvement sera versée à la Caisse des dépôts et consignations pour être ultérieurement remise à qui il appartiendra.
+
+##### Article R122-7
+
+Si la remise des fonds n'a pas été faite après la vente, l'officier public ou ministériel doit en conserver le montant pendant un délai de trois mois.
+
+Avant l'expiration du premier mois, l'officier public ou ministériel informe par lettre recommandée l'artiste, ses héritiers et ayants cause ou son mandataire, qu'il a fait un prélèvement à son profit, par application de l'article L. 122-8 et que la somme en résultant est tenue à sa disposition.
+
+S'il n'est pas répondu à cet avis avant l'expiration du troisième mois, l'officier public ou ministériel est, passé ce délai, déchargé de toute responsabilité moyennant le versement au vendeur de la somme prélevée.
+
+Le montant des frais d'avis, qui ne pourra excéder 1 F, est précompté sur le montant de la somme versée à l'artiste ou au vendeur.
+
+##### Article R122-8
+
+L'officier public ou ministériel qui aura effectué entre les mains du vendeur le versement de la somme prélevée et non réclamée est tenu, sur simple demande des intéressés, de faire connaître le montant de cette somme et les nom, qualités et adresse dudit vendeur contre lequel les intéressés conserveront tel recours que de droit.
+
+##### Article R122-9
+
+Dans le cas où l'officier public ou ministériel ayant effectué le prélèvement prescrit par l'article L. 122-8 serait, avant tout paiement à l'intéressé de la somme en résultant, saisi d'une opposition ou défense régulière à ce paiement, le montant de ladite somme devrait, à l'expiration du délai de trois mois fixé à l'article R. 122-7, être versé à la Caisse des dépôts et consignations pour être remis à qui il appartiendra.
+
+##### Article R122-10
+
+Les officiers publics ou ministériels tiennent un registre spécial pour l'application de l'article L. 122-8. Ce registre, dont les pages sont cotées et qui est paraphé par première et dernière, mentionne au fur et à mesure de toute vente publique la description sommaire de l'oeuvre d'art, le prix de vente, le nom de l'artiste pour lequel a été perçu le droit de suite, le nom et l'adresse du vendeur. Ce registre peut être remplacé par un registre à souche dont un des volants constituera l'avis prévu à l'article R. 122-7 et dont le talon devra répondre aux prescriptions du présent article.
+
+##### Article R122-11
+
+Les artistes de nationalité étrangère, leurs héritiers et ayants cause bénéficieront du droit de suite au même titre et dans les mêmes conditions que les artistes français si leur législation nationale fait bénéficier de ce droit les artistes français, mais seulement pendant le temps pour lequel les artistes seront admis à exercer ce droit dans ledit pays.
+
+Toutefois, les artistes de nationalité étrangère qui, au cours de leur carrière artistique, auront participé à la vie de l'art français et auront eu, pendant au moins cinq années, même non consécutives, leur résidence en France pourront, sans condition de réciprocité, être admis à bénéficier des droits prévus à l'article R. 122-2.
+
+Les ayants droit de ces artistes jouissent de la même faculté. Les artistes intéressés ou leurs ayants droit doivent présenter une demande au ministre chargé de la culture, qui statue après avis d'une commission dont la composition et les conditions de fonctionnement sont fixées par un arrêté du ministre.
+
+#### Chapitre III : Durée de la protection
+
+### Titre III : Exploitation des droits
+
+#### Chapitre Ier : Dispositions générales
+
+#### Chapitre II : Dispositions particulières à certains contrats
+
+##### Section 1 : Contrat d'édition
+
+##### Section 2 : Contrat de représentation
+
+##### Section 3 : Contrat de production audiovisuelle
+
+##### Section 4 : Contrat de commande pour la publicité
+
+###### Article R132-1
+
+La commission prévue à l'article L. 132-32 siège soit en formation plénière, soit en formations spécialisées dans un ou plusieurs modes de publicité. Chacune de ces formations est présidée par le président de la commission et comprend un nombre égal de représentants des auteurs en publicité et de représentants des producteurs en publicité.
+
+###### Article R132-2
+
+La commission comprend douze représentants des organisations d'auteurs en publicité et douze représentants des organisations de producteurs en publicité, désignés dans les conditions prévues à l'article L. 132-33, alinéa 1.
+
+Un suppléant est désigné, dans les mêmes conditions, pour chacun des représentants titulaires des organisations d'auteurs en publicité et de producteurs en publicité. Les membres suppléants de la commission n'assistent aux séances et ne participent aux délibérations qu'en cas d'absence du représentant titulaire qu'ils suppléent.
+
+###### Article R132-3
+
+Le président et les membres de la commission sont désignés pour trois ans. Il est pourvu aux vacances survenant en cours de mandat par une désignation faite pour la durée du mandat restant à courir.
+
+###### Article R132-4
+
+La commission et ses formations spécialisées se réunissent sur convocation du président et sur l'ordre du jour qu'il a fixé.
+
+La convocation est de droit lorsqu'elle est demandée, sur un ordre du jour déterminé, soit par le ministre chargé de la culture, soit par un tiers des membres de la commission.
+
+###### Article R132-5
+
+La commission et ses formations spécialisées ne délibèrent valablement que si les trois quarts de leurs membres sont présents ou régulièrement suppléés. Lorsque ce quorum n'est pas atteint, la commission est à nouveau convoquée dans le délai de huit jours ; elle peut alors délibérer quel que soit le nombre des membres présents.
+
+###### Article R132-6
+
+Les membres de la commission sont tenus à l'obligation de discrétion à raison des pièces, documents et informations dont ils ont eu connaissance.
+
+###### Article R132-7
+
+Le secrétariat de la commission est assuré par les services du ministre chargé de la culture.
+
+Les séances de la commission ne sont pas publiques. Toutefois, la commission peut entendre toute personne dont l'audition lui paraît utile.
+
+La commission établit son règlement intérieur.
+
+Les décisions de la commission sont publiées au Journal officiel de la République française à la diligence du ministre chargé de la culture.
+
+## Livre II : Les droits voisins du droit d'auteur
+
+### Titre unique
+
+#### Chapitre Ier : Dispositions générales
+
+#### Chapitre II : Droits des artistes-interprètes
+
+##### Article R212-1
+
+La commission prévue à l'article L. 212-9 siège soit en formation plénière, soit en formations spécialisées dans un ou plusieurs secteurs d'activité. Chacune de ces formations est présidée par le président de la commission et comprend un nombre égal de représentants des salariés et de représentants des employeurs.
+
+##### Article R212-2
+
+La commission comprend douze représentants des organisations de salariés et douze représentants des organisations d'employeurs. Les organisations appelées à désigner des représentants et le nombre de représentants de chacune d'elles sont déterminés par arrêté du ministre chargé de la culture.
+
+Un suppléant est désigné, dans les mêmes conditions, pour chacun des représentants titulaires des organisations de salariés et d'employeurs. Les membres suppléants de la commission n'assistent aux séances et ne participent aux délibérations qu'en cas d'absence du représentant titulaire qu'ils suppléent.
+
+##### Article R212-3
+
+Le président et les membres de la commission sont désignés pour trois ans. Il est pourvu aux vacances survenant en cours de mandat par une désignation faite pour la durée du mandat restant à courir.
+
+##### Article R212-4
+
+La commission et ses formations spécialisées se réunissent sur convocation du président et sur l'ordre du jour qu'il a fixé.
+
+La convocation est de droit lorsqu'elle est demandée, sur un ordre du jour déterminé, soit par le ministre chargé de la culture, soit par un tiers des membres de la commission.
+
+##### Article R212-5
+
+La commission et ses formations spécialisées ne délibèrent valablement que si les trois quarts de leurs membres sont présents ou régulièrement suppléés. Lorsque ce quorum n'est pas atteint, la commission est à nouveau convoquée dans le délai de huit jours ; elle peut alors délibérer quel que soit le nombre des membres présents.
+
+##### Article R212-6
+
+Les membres de la commission sont tenus à l'obligation de discrétion à raison des pièces, documents et informations dont ils ont eu connaissance.
+
+##### Article R212-7
+
+Le secrétariat de la commission est assuré par les services du ministre chargé de la culture.
+
+Les séances de la commission ne sont pas publiques. Toutefois, la commission peut entendre toute personne dont l'audition lui paraît utile.
+
+La commission établit son règlement intérieur.
+
+Les décisions de la commission sont publiées au Journal officiel de la République française à la diligence du ministre chargé de la culture.
+
+#### Chapitre III : Droits de producteurs de phonogrammes
+
+#### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes
+
+##### Article R214-1
+
+La commission prévue à l'article L. 214-4 siège soit en formation plénière, soit en formations spécialisées dans une ou plusieurs branches d'activités. Chacune de ces formations est présidée par le président de la commission et comprend un nombre égal de représentants des bénéficiaires du droit à rémunération et de représentants des utilisateurs de phonogrammes.
+
+##### Article R214-2
+
+La commission comprend douze représentants des organisations de bénéficiaires du droit à rémunération et douze représentants des organisations d'utilisateurs de phonogrammes, désignés dans les conditions prévues à l'article L. 214-4, alinéa 2.
+
+Un suppléant est désigné dans les mêmes conditions pour chacun des représentants titulaires des organisations de bénéficiaires du droit à rémunération et d'utilisateurs de phonogrammes. Les membres suppléants de la commission n'assistent aux séances et ne participent aux délibérations qu'en cas d'absence du représentant titulaire qu'ils suppléent.
+
+##### Article R214-3
+
+Le président et les membres de la commission sont désignés pour trois ans. Il est pourvu aux vacances survenant en cours de mandat par une désignation faite pour la durée du mandat restant à courir.
+
+##### Article R214-4
+
+La commission et ses formations spécialisées se réunissent sur convocation du président et sur l'ordre du jour qu'il a fixé.
+
+La convocation est de droit lorsqu'elle est demandée, sur un ordre du jour déterminé, soit par le ministre chargé de la culture, soit par un tiers des membres de la commission.
+
+##### Article R214-5
+
+La commission et ses formations spécialisées ne délibèrent valablement que si les trois quarts de leurs membres sont présents ou régulièrement suppléés. Lorsque ce quorum n'est pas atteint, la commission est à nouveau convoquée dans le délai de huit jours ; elle peut alors délibérer quel que soit le nombre des membres présents.
+
+##### Article R214-6
+
+Les membres de la commission sont tenus à l'obligation de discrétion à raison des pièces, documents et informations dont ils ont eu connaissance.
+
+##### Article R214-7
+
+Le secrétariat de la commission est assuré par les services du ministre chargé de la culture.
+
+Les séances de la commission ne sont pas publiques. Toutefois, la commission peut entendre toute personne dont l'audition lui paraît utile.
+
+La commission établit son règlement intérieur.
+
+Les décisions de la commission sont publiées au Journal officiel de la République française à la diligence du ministre chargé de la culture.
+
+#### Chapitre V : Droits des producteurs de vidéogrammes
+
+#### Chapitre VI : Droits des entreprises de communication audiovisuelle
+
+## Livre III : Dispositions générales
+
+### Titre Ier : Rémunération pour copie privée
+
+#### Chapitre unique
+
+##### Article R311-1
+
+La commission prévue à l'article L. 311-5 siège soit en formation plénière, soit dans l'une ou l'autre de deux formations spécialisées, la première, dans les phonogrammes, et la seconde, dans les vidéogrammes. Chacune de ces formations est présidée par le président de la commission et comprend, pour moitié, des représentants des bénéficiaires du droit à rémunération, pour un quart, des représentants des fabricants ou des importateurs ou des personnes qui réalisent des acquisitions intracommunautaires de supports et, pour un quart, des représentants des consommateurs.
+
+##### Article R311-2
+
+Le représentant de l'Etat, président de la commission, est nommé par arrêté du ministre chargé de la culture.
+
+La commission comprend en outre vingt-quatre membres représentant les catégories mentionnées au premier alinéa de l'article L. 311-5 et désignés dans les conditions prévues au deuxième alinéa du même article.
+
+Un suppléant est désigné, dans les mêmes conditions, pour chacun des membres titulaires. Les membres suppléants n'assistent aux séances et ne participent aux délibérations qu'en cas d'absence du représentant titulaire qu'ils suppléent.
+
+##### Article R311-3
+
+Le président et les membres de la commission sont désignés pour trois ans. Il est pourvu aux vacances survenant en cours de mandat par une désignation faite pour la durée du mandat restant à courir.
+
+##### Article R311-4
+
+La commission et ses formations spécialisées se réunissent sur convocation du président et sur l'ordre du jour qu'il a fixé.
+
+La convocation est de droit lorsqu'elle est demandée, sur un ordre du jour déterminé, soit par le ministre chargé de la culture, soit par un tiers des membres de la commission.
+
+##### Article R311-5
+
+La commission et ses formations spécialisées ne délibèrent valablement que si les trois quarts de leurs membres sont présents ou régulièrement suppléés.
+
+Lorsque ce quorum n'est pas atteint, la commission est à nouveau convoquée dans un délai de huit jours ; elle peut alors délibérer quel que soit le nombre des membres présents.
+
+##### Article R311-6
+
+Les membres de la commission sont tenus à l'obligation de discrétion à raison des pièces, documents et informations dont ils ont eu connaissance.
+
+##### Article R311-7
+
+Le secrétariat de la commission est assuré par les services du ministre chargé de la culture.
+
+Les séances de la commission ne sont pas publiques. Toutefois, la commission peut entendre toute personne dont l'audition lui paraît utile.
+
+La commission établit son règlement intérieur.
+
+Les décisions de la commission sont publiées au Journal officiel de la République française à la diligence du ministre chargé de la culture.
+
+### Titre III : Procédures et sanctions
+
+#### Chapitre Ier : Dispositions générales
+
+##### Article R331-1
+
+Les agents désignés par le Centre national de la cinématographie, par les organismes professionnels d'auteurs et par les sociétés mentionnées au titre II du présent livre, après avoir été agréés par le ministre chargé de la culture, prêtent serment devant le juge du tribunal d'instance de leur résidence. La formule de serment est la suivante : "Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice".
+
+#### Chapitre II : Saisie-contrefaçon
+
+#### Chapitre III : Saisie-arrêt
+
+#### Chapitre IV : Droit de suite
+
+#### Chapitre V : Dispositions pénales
+
+##### Article R335-1
+
+La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 335-10 comporte :
+
+1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
+
+2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
+
+3° La qualité du demandeur au regard des droits qu'il invoque, attestée par tous moyens ;
+
+4° Tous éléments permettant d'identifier l'oeuvre ou la prestation contrefaites ;
+
+5° La description des marchandises arguées de contrefaçon dont la retenue est demandée.
+
+La demande peut être faite préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé du budget.
+
+## Livre IV : Organisation administrative et professionnelle
+
+### Titre Ier : Institutions
+
+#### Chapitre Ier : L'Institut national de la propriété industrielle
+
+##### Section 1 : Organisation de l'Institut national de la propriété industrielle
+
+###### Article R411-1
+
+L'Institut national de la propriété industrielle a notamment pour attributions :
+
+1° L'examen des demandes de brevets d'invention et la délivrance des brevets ainsi que de tous documents les concernant ;
+
+2° L'enregistrement et la publication des marques de fabrique, de commerce ou de service ;
+
+3° La délivrance de certificats d'identité et de renseignements concernant les antériorités en matière de marques de fabrique, de commerce ou de service ;
+
+4° La centralisation et la conservation des dépôts de dessins et modèles, ainsi que leur publication ;
+
+5° L'enregistrement et la conservation du dépôt des enveloppes doubles destinées à faciliter la preuve de la création des dessins et modèles ;
+
+6° La tenue des registres de brevets, des marques et des dessins et modèles, l'inscription de tous actes affectant la propriété des brevets d'invention, des marques de fabrique, de commerce ou de service et des dessins et modèles ;
+
+7° L'application des dispositions contenues dans les lois et règlements sur la protection temporaire de la propriété industrielle dans les expositions, sur les récompenses industrielles et sur les marques d'origine ;
+
+8° L'application des accords internationaux en matière de propriété industrielle, et notamment les relations administratives avec le Bureau international pour la protection de la propriété industrielle à Berne et l'Institut international des brevets à La Haye ;
+
+9° La tenue du Registre national du commerce et des sociétés et du Répertoire central des métiers ;
+
+10° La conservation du dépôt des actes constitutifs et modificatifs de sociétés déposés dans les greffes des tribunaux de commerce et des tribunaux civils en tenant lieu ;
+
+11° La centralisation des renseignements figurant dans les registres du commerce et des métiers et le Bulletin officiel desdits registres ;
+
+12° La centralisation, la conservation et la mise à la disposition du public de toute documentation technique et juridique concernant la propriété industrielle ;
+
+13° La gestion du Bulletin officiel de la propriété industrielle.
+
+Pour l'exploitation de son fonds documentaire, l'institut peut constituer des banques de données, le cas échéant, en liaison avec d'autres fichiers ou registres. Il peut à cette fin constituer des sociétés filiales ou prendre des participations financières.
+
+###### Article R411-2
+
+Le directeur général de l'Institut national de la propriété industrielle représente l'institut dans tous les actes de la vie civile.
+
+Il a sous ses ordres le personnel de l'institut.
+
+Il prend toutes mesures utiles au fonctionnement de l'institut.
+
+Il prépare et exécute le budget. Il établit les titres de recettes. Il engage, liquide et ordonnance les dépenses dans la limite des crédits ouverts au budget.
+
+Il peut déléguer certaines de ses attributions à un ou plusieurs agents de l'institut, désignés par lui.
+
+Il peut recevoir délégation de signature du ministre chargé de la propriété industrielle pour exercer les compétences dévolues à celui-ci dans les domaines de la propriété industrielle et des droits annexes à la propriété industrielle, du registre national du commerce et des sociétés et du répertoire central des métiers.
+
+###### Article R411-4
+
+Le conseil d'administration émet des avis sur les questions portées à son ordre du jour par le directeur général de l'Institut national de la propriété industrielle.
+
+Il est obligatoirement consulté sur les projets de budget et généralement sur tous projets de décision qui doivent être soumis à l'approbation des ministres intéressés ou des ministres chargés du contrôle financier de l'établissement.
+
+Le conseil d'administration doit formuler son avis sur les questions qui lui sont obligatoirement soumises, dans le délai d'un mois à compter de la date à laquelle le président en a été saisi. A l'expiration de ce délai, le directeur général peut, si l'urgence le requiert, soumettre les projets de décision directement à l'approbation des ministres visés à l'alinéa précédent.
+
+###### Article R411-5
+
+Le conseil d'administration se réunit, en principe, une fois au cours de chaque trimestre. Il est convoqué par son président.
+
+Ses délibérations ne sont valables que si sept au moins de ses membres assistent à la séance.
+
+Si le quorum n'est pas atteint, une nouvelle convocation est adressée aux membres. Le conseil délibère alors valablement, quel que soit le nombre des membres présents.
+
+En cas de partage égal des voix, celle du président est prépondérante.
+
+###### Article R411-6
+
+Les effectifs du personnel contractuel propre à l'institut sont fixés chaque année dans la limite des autorisations budgétaires de cet établissement.
+
+Le statut du personnel est fixé par décret.
+
+###### Article R411-7
+
+L'agent comptable est nommé et, le cas échéant, remplacé ou révoqué, par arrêté du ministre intéressé et du ministre chargé des finances. Sa rémunération est fixée dans les mêmes formes.
+
+Il est placé sous l'autorité du directeur général. Toutefois, il est personnellement et pécuniairement responsable des actes de sa gestion et reçoit du ministre chargé des finances les directives concernant l'exécution de la partie financière de son service.
+
+Il est tenu, avant son installation, de prêter serment devant la Cour des comptes et de justifier de la constitution d'un cautionnement dont le montant est fixé par arrêté du ministre chargé des finances et des affaires économiques. Sa gestion est soumise aux vérifications de l'inspection générale des finances et du receveur général des finances de Paris et au contrôle de la Cour des comptes.
+
+Il peut, sous sa responsabilité, déléguer sa signature à un ou plusieurs agents de l'établissement, qu'il constitue ses fondés de pouvoir par une procuration régulière.
+
+###### Article R411-8
+
+L'Institut national de la propriété industrielle est soumis au contrôle financier de l'Etat prévu par le décret du 25 octobre 1935.
+
+Les attributions du contrôleur financier sont fixées par arrêté conjoint du ministre intéressé et du ministre chargé du budget.
+
+###### Article R411-9
+
+Le projet de budget de l'institut, accompagné des avis du conseil d'administration et du contrôleur financier, est soumis par le directeur général de l'institut, pour approbation, au ministre intéressé et au ministre chargé du budget, dans les délais prévus en ce qui concerne le budget général des services civils par la lettre commune du ministre du budget.
+
+Les modifications qui peuvent être apportées au budget en cours d'exercice sont présentées et approuvées dans les mêmes formes.
+
+###### Article R411-10
+
+Les ressources de l'Institut national de la propriété industrielle se composent :
+
+1° Du produit de toutes les perceptions autorisées en matière de propriété industrielle, de registres du commerce et des métiers et de dépôts des actes de sociétés ;
+
+2° De toutes les recettes qui peuvent être perçues par l'institut en rémunération de services rendus ;
+
+3° Du produit de la vente des publications ;
+
+4° Du revenu des biens et du produit de leur aliénation ;
+
+5° Du produit des remboursements éventuels effectués par des organismes internationaux de propriété industrielle auxquels la France participe ;
+
+6° Des fonds provenant d'emprunts autorisés ;
+
+7° De toutes autres ressources provenant notamment de dons, legs, libéralités et fonds de concours.
+
+###### Article R411-11
+
+Les charges de l'Institut national de la propriété industrielle comprennent :
+
+1° Les dépenses de fonctionnement et d'équipement de l'institut ;
+
+2° Les dépenses entraînées par la participation de la France aux organismes internationaux de propriété industrielle.
+
+###### Article R411-12
+
+Les marchés de travaux et de fournitures passés par l'institut sont régis par les dispositions législatives et réglementaires applicables aux marchés de l'Etat.
+
+###### Article R411-13
+
+Le directeur général de l'Institut national de la propriété industrielle tient la comptabilité de l'émission des titres de recettes, de l'engagement, de la liquidation et de l'ordonnancement des dépenses.
+
+###### Article R411-14
+
+L'agent comptable est seul chargé de la réalisation des recouvrements et des paiements.
+
+Il prend en charge les titres de perception qui lui sont remis par le directeur général. Il est tenu, sous sa responsabilité personnelle, de faire toute diligence pour assurer la rentrée de toutes les ressources de l'établissement, de faire procéder contre les débiteurs en retard aux mesures d'exécution nécessaires, d'avertir le directeur général de l'expiration des baux, d'empêcher les prescriptions, de veiller à la conservation des droits, privilèges et hypothèques et de requérir l'inscription hypothécaire des titres qui en sont susceptibles.
+
+Il procède à l'encaissement amiable des créances à recouvrer. En cas d'échec, il en rend compte au directeur général, qui fait donner force exécutoire aux titres de recettes dans les conditions prévues à l'article 2 du décret du 30 octobre 1935 tendant à améliorer et à faciliter le fonctionnement du service du contentieux et de l'agence judiciaire du Trésor.
+
+Il ne peut surseoir aux poursuites que sur un ordre écrit du directeur général.
+
+Il est chargé du paiement des dépenses régulièrement mandatées par le directeur général.
+
+###### Article R411-15
+
+Le compte administratif de l'ordonnateur et le compte de gestion de l'agent comptable sont soumis chaque année au conseil d'administration.
+
+Le compte administratif, accompagné de l'avis du conseil d'administration et du contrôleur financier, est soumis à l'approbation du ministre chargé du budget et du ministre intéressé dans les trois mois qui suivent la clôture de l'exercice.
+
+###### Article R411-16
+
+Les règles relatives à la comptabilité, à la forme des budgets et des comptes, aux livres et aux écritures de l'ordonnateur et du comptable seront fixées par un ou plusieurs arrêtés signés du ministre chargé des finances, du ministre chargé du budget et du ministre intéressé.
+
+##### Section 2 : Redevances perçues par l'Institut national de la propriété industrielle
+
+###### Article R411-17
+
+Les redevances perçues par l'Institut national de la propriété industrielle à l'occasion des procédures et formalités en matière de propriété industrielle et de registre du commerce et des sociétés sont celles qui figurent au tableau ci-après :
+
+Redevances de procédure
+
+1. Brevets d'invention, certificats d'utilité et certificats complémentaires de protection :
+
+Dépôt (1) ;
+
+Rapport de recherche (1) (2) ;
+
+Revendication supplémentaire à partir de la onzième ;
+
+Déclaration d'un droit de priorité ;
+
+Requête du bénéfice de la date du dépôt d'une demande antérieure ;
+
+Nouvelles revendications entraînant un rapport de recherche complémentaire ;
+
+Requête en rectification d'erreurs ;
+
+Requête en poursuite de la procédure ;
+
+Délivrance et impression du fascicule ;
+
+Maintien en vigueur ;
+
+Supplément pour paiement tardif de la redevance de dépôt ou de rapport de recherche ;
+
+Supplément pour requête tardive du rapport de recherche ;
+
+Supplément pour paiement tardif de la redevance annuelle ;
+
+Recours en restauration ;
+
+Certificat complémentaire de protection.
+
+2. Brevets européens :
+
+Publication de traduction ou de traduction révisée d'un brevet européen ou des revendications d'une demande de brevet européen ;
+
+Etablissement et transmission de copies de la demande de brevet européen aux Etats destinataires.
+
+3. Demandes internationales (P.C.T.) :
+
+Transmission d'une demande internationale ;
+
+Confirmation de désignation d'Etats ;
+
+Supplément pour paiement tardif ;
+
+Préparation d'exemplaires complémentaires.
+
+4. Marques de fabrique, de commerce ou de service :
+
+Dépôt ;
+
+Classe de produit ou service ;
+
+Revendication d'un droit de priorité ;
+
+Régularisation ;
+
+Opposition ;
+
+Rectification d'erreur matérielle ;
+
+Renouvellement ;
+
+Supplément pour paiement tardif de la redevance de renouvellement ;
+
+Renonciation ;
+
+Demande d'inscription au Registre international des marques ;
+
+Relevé de déchéance.
+
+5. Dessins et modèles :
+
+Dépôt ;
+
+Prorogation ;
+
+Renonciation à l'ajournement de la publication ;
+
+Renonciation aux effets du dépôt ;
+
+Régularisation, rectification, relevé de déchéance ;
+
+Enregistrement et gardiennage d'enveloppe spéciale.
+
+6. Droits voisins de la propriété industrielle :
+
+Topographies de produits semi-conducteurs : dépôt et conservation ; inscription d'un acte modifiant ou transmettant les droits ;
+
+Récompenses industrielles : enregistrement d'un palmarès, d'une récompense ou transcription d'une déclaration de cession ou de transmission.
+
+7. Registres nationaux des brevets, marques, dessins et modèles :
+
+Demande d'inscription.
+
+8. Registre national du commerce et des sociétés :
+
+Déclaration ;
+
+Dépôt d'un acte.
+
+(1) Redevance remboursée en cas d'irrecevabilité.
+
+(2) Redevance remboursée en cas de rejet, de retrait, de terme mis à la procédure de délivrance ou de prorogation des interdictions de divulgation et de libre exploitation intervenus avant l'engagement de la procédure d'établissement du rapport de recherche.
+
+###### Article R411-18
+
+Les recettes accessoires que l'Institut national de la propriété industrielle peut percevoir à l'occasion de la communication des pièces et actes dont il assure la conservation, de l'exploitation de son fonds documentaire et de la vente de ses publications sont instituées par des délibérations du conseil d'administration qui en fixent les modalités de perception et le montant.
+
+##### Section 3 : Recours exercés devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle
+
+###### Article R411-19
+
+La cour d'appel territorialement compétente pour connaître des recours formés contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle est celle du lieu où demeure la personne qui forme le recours, compte tenu des regroupements opérés au tableau IV bis annexé au code de l'organisation judiciaire, ci-après reproduit :
+
+Siège et ressort des cours d'appel compétentes pour connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle.
+
+<table><tbody>
+ <tr>
+  <td><center>Siège</center></td>
+  <td><center>Ressort s'étendant aux limites territoriales des cours d'appel et des tribunaux supérieurs d'appel de</center></td>
+ </tr>
+ <tr>
+  <td>Aix-en-Provence</td>
+  <td>Aix-en-Provence, Bastia, Nîmes</td>
+ </tr>
+ <tr>
+  <td>Bordeaux</td>
+  <td>Agen, Bordeaux, Poitiers</td>
+ </tr>
+ <tr>
+  <td>Colmar</td>
+  <td>Colmar, Metz</td>
+ </tr>
+ <tr>
+  <td>Douai</td>
+  <td>Amiens, Douai</td>
+ </tr>
+ <tr>
+  <td>Limoges</td>
+  <td>Bourges, Limoges, Riom</td>
+ </tr>
+ <tr>
+  <td>Lyon</td>
+  <td>Chambéry, Lyon, Grenoble</td>
+ </tr>
+ <tr>
+  <td>Nancy</td>
+  <td>Besançon, Dijon, Blois, Nancy</td>
+ </tr>
+ <tr>
+  <td>Paris</td>
+  <td>Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion, Nouméa, Papeete, Mamoudzou et Saint-Pierre-et-Miquelon</td>
+ </tr>
+ <tr>
+  <td>Rennes</td>
+  <td>Angers, Caen, Rennes</td>
+ </tr>
+ <tr>
+  <td>Toulouse</td>
+  <td>Pau, Montpellier, Toulouse</td>
+ </tr>
+</tbody></table>
+
+Lorsque cette personne demeure à l'étranger, la cour d'appel de Paris est compétente. Il doit être fait élection de domicile dans le ressort de cette cour.
+
+###### Article R411-20
+
+Le délai du recours formé devant la cour d'appel contre les décisions du directeur général de l'Institut national de la propriété industrielle est d'un mois.
+
+Ce délai est, s'il y a lieu, prorogé dans les conditions prévues à l'article 643 du nouveau code de procédure civile.
+
+###### Article R411-21
+
+Le recours est formé par une déclaration écrite adressée ou remise en double exemplaire au greffe de la cour. A peine d'irrecevabilité prononcée d'office, la déclaration comporte les mentions suivantes :
+
+1. a) Si le requérant est une personne physique : ses nom, prénoms, profession, domicile, nationalité, date et lieu de naissance ;
+
+b) Si le requérant est une personne morale : sa forme, sa dénomination, son siège social et l'organe qui la représente légalement ;
+
+2. La date et l'objet de la décision attaquée ;
+
+3. Le nom et l'adresse du propriétaire du titre ou du titulaire de la demande, si le requérant n'a pas l'une de ces qualités.
+
+Une copie de la décision attaquée est jointe à la déclaration.
+
+Si la déclaration ne contient pas l'exposé des moyens invoqués, le demandeur doit, à peine d'irrecevabilité, déposer cet exposé au greffe dans le mois qui suit la déclaration.
+
+###### Article R411-22
+
+Le greffe de la cour d'appel transmet au directeur général de l'Institut national de la propriété industrielle, par lettre recommandée avec demande d'avis de réception, une copie de la déclaration du recours ainsi que, le cas échéant, une copie de l'exposé ultérieur des moyens.
+
+Dès réception de la copie de la déclaration, le directeur général de l'Institut national de la propriété industrielle transmet au greffe le dossier de la décision attaquée.
+
+###### Article R411-23
+
+La cour d'appel statue après que le directeur général de l'Institut national de la propriété industrielle a été mis en mesure de présenter des observations écrites ou orales.
+
+Les observations écrites sont adressées par le directeur général de l'Institut national de la propriété industrielle en double exemplaire au greffe de la cour, qui en transmet une copie au requérant.
+
+###### Article R411-24
+
+Lorsque le recours est formé par une personne autre que le propriétaire du titre ou le titulaire de la demande, celui-ci est appelé en cause par le greffier en chef de la cour d'appel par lettre recommandée avec demande d'avis de réception.
+
+###### Article R411-25
+
+Le déclarant peut, devant la cour d'appel, se faire assister par un avocat ou représenter par un avoué.
+
+###### Article R411-26
+
+L'arrêt de la cour d'appel est notifié par le greffe au requérant, au directeur général de l'Institut national de la propriété industrielle et, s'il y a lieu, à toute personne appelée en cause.
+
+#### Chapitre II : Le comité de la protection des obtentions végétales
+
+##### Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales
+
+###### Article R412-1
+
+Le comité de la protection des obtentions végétales créé par l'article L. 412-1 a pour mission d'assurer :
+
+La délivrance des certificats d'obtention végétale correspondant aux demandes qui satisfont aux exigences prévues aux articles L. 623-1 à L. 623-16, ainsi que de tous documents officiels concernant ces demandes et ces certificats.
+
+La constatation de la déchéance du droit de l'obtenteur dans les conditions prévues par l'article L. 623-23.
+
+###### Article R412-2
+
+Le comité de la protection des obtentions végétales peut proposer au ministre chargé de l'agriculture les dispositions d'ordre réglementaire nécessaires pour l'application des articles L. 412-1 et L. 623-1 à L. 623-35 et, d'une manière générale, lui soumettre toutes suggestions relatives à la mise en oeuvre de la protection des obtentions végétales.
+
+###### Article R412-3
+
+Le comité de la protection des obtentions végétales a son siège à Paris. Outre son président, il comprend dix membres nommés par arrêté du ministre chargé de l'agriculture dont un sur proposition du ministre chargé des départements et territoires d'outre-mer, dans les conditions prévues à l'article L. 412-1.
+
+###### Article R412-4
+
+Le magistrat chargé d'assurer la présidence du comité est choisi parmi les magistrats de la cour d'appel de Paris ou du tribunal de grande instance de Paris appartenant au moins au premier grade de la hiérarchie judiciaire.
+
+Il est nommé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'agriculture.
+
+Le président a pour mission, en dehors des réunions du comité dont il assure la présidence, de veiller à la bonne marche du secrétariat général prévu à l'article R. 412-10 et d'assurer avec son aide la préparation et l'exécution des décisions du comité.
+
+###### Article R412-5
+
+Le président et les membres du comité sont désignés pour quatre ans. Leur mandat est renouvelable. Les membres du comité sont renouvelés par moitié tous les deux ans. Lorsqu'un membre, par suite de décès ou pour toute autre cause, a cessé d'exercer ses fonctions, il est pourvu à son remplacement dans le délai de deux mois. Le membre nouvellement nommé reste en fonctions jusqu'à la date normale d'expiration du mandat de celui qu'il remplace.
+
+###### Article R412-6
+
+Les membres du comité n'ayant pas la qualité de fonctionnaire sont soumis aux dispositions du décret n° 90-437 du 28 mai 1990 fixant les conditions de remboursement des frais occasionnés par les déplacements des agents de l'Etat et autres personnes qui collaborent aux conseils, comités, commissions et autres organismes qui apportent leurs concours à l'Etat.
+
+###### Article R412-7
+
+Le président et les membres du comité sont tenus de garder le secret sur tout ce qui est venu à leur connaissance dans l'exercice de leurs fonctions. En outre, un membre du comité ne peut prendre part aux délibérations relatives à une variété créée s'il a un intérêt direct à l'admission ou au rejet d'une demande de certificat.
+
+###### Article R412-8
+
+Le comité se réunit sur la convocation de son président aussi souvent qu'il est nécessaire. Il ne peut délibérer valablement que si le nombre des membres présents est supérieur à la moitié des membres en exercice. En cas de partage des voix, celle du président est prépondérante.
+
+###### Article R412-9
+
+Pour faciliter la préparation et l'instruction des affaires qui lui sont soumises, le comité peut :
+
+- désigner parmi ses membres un bureau permanent ;
+- constituer des commissions spécialisées d'experts ;
+- faire appel à tout expert ou à toute personne dont l'avis lui paraît nécessaire.
+
+###### Article R412-10
+
+Le comité de la protection des obtentions végétales dispose d'un secrétariat général. Le secrétaire général est nommé par arrêté du ministre de l'agriculture sur la proposition du comité et après avis du directeur général de l'Institut national de la recherche agronomique.
+
+Le secrétaire général fait appel à des agents recrutés par le directeur général de l'Institut national de la recherche agronomique dans les mêmes conditions que ses propres agents. Leur rémunération est supportée par la section spéciale visée à l'article L. 623-16.
+
+La gestion de ce personnel est assurée par le secrétaire général, par délégation du directeur de l'Institut national de la recherche agronomique.
+
+Le secrétaire général a notamment pour mission, selon les directives du comité et sous l'autorité du président, et dans le cadre des articles L. 412-1 et L. 623-1 à L. 623-35 et des textes pris pour leur application :
+
+- de recevoir, enregistrer et instruire les demandes de certificats d'obtention ainsi que les oppositions à la délivrance des certificats ;
+- de tenir les différents registres relatifs à la protection des obtentions végétales et d'assurer l'enregistrement de tous actes affectant la propriété des certificats ainsi que les différentes publicités prévues ;
+- d'assurer la liaison avec toutes les instances compétentes et, notamment, pour les questions de dénomination, avec l'Institut national de la propriété industrielle et le bureau de l'Union internationale pour la protection des obtentions végétales ainsi qu'avec les experts auxquels est confié l'examen technique des variétés ;
+- d'assurer le secrétariat des réunions du comité ;
+- d'établir les certificats d'obtention et de délivrer toutes copies de pièces officielles ;
+- d'assurer ou de faire assurer l'inspection de la conservation des variétés pour lesquelles des certificats ont été délivrés ;
+- de préparer le budget afférent à la section spéciale du budget de l'Institut national de la recherche agronomique visée à l'article L. 623-16.
+
+Il prépare les textes d'application des dispositions précitées qui seront soumis par le comité au ministre chargé de l'agriculture. Il prépare et participe à la négociation des accords internationaux que le comité proposera au ministre chargé de l'agriculture et au ministre des affaires étrangères de passer, en vue de faciliter ou d'améliorer la protection des obtentions végétales.
+
+###### Article R412-11
+
+Le comité de la protection des obtentions végétales et son secrétariat général sont considérés, selon les stipulations de l'article 30-1 (B) de la convention de Paris du 2 décembre 1961 pour la protection des obtentions végétales, comme constituant pour la France le service chargé de la protection des obtentions végétales. A cet effet, le secrétariat général du comité assure les liaisons avec l'Union internationale pour la protection des obtentions végétales aux travaux de laquelle il participe.
+
+###### Article R412-12
+
+La section spéciale du budget de l'Institut national de la recherche agronomique, créée par l'article L. 623-16, est arrêtée par le conseil d'administration de cet institut après avis du comité de la protection des obtentions végétales. Les recettes et les dépenses de cette section spéciale sont exécutées par le secrétaire général du comité de la protection des obtentions végétales, par délégation du directeur de l'Institut national de la recherche agronomique et dans les mêmes conditions que les recettes et les dépenses de cet institut.
+
+###### Article R412-13
+
+Les ressources de la section spéciale sont notamment constituées par le produit de toutes les redevances dont la perception est autorisée en matière de protection des obtentions végétales, conformément à l'article L. 623-16.
+
+###### Article R412-14
+
+Les charges de la section spéciale sont constituées par :
+
+- les dépenses de fonctionnement et d'équipement du comité et de son secrétariat général, y compris celles relatives à la rémunération et aux déplacements du personnel ;
+- les frais d'examen technique et, s'il y a lieu, de constitution de collections de références ;
+- la participation financière de la France aux organisations internationales concernées par la protection des obtentions végétales ;
+- toute autre dépense résultant de l'application des articles L. 412-1 et L. 623-1 à L. 623-35.
+
+##### Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales
+
+###### Article R412-15
+
+Le délai de recours devant la cour d'appel de Paris contre les décisions du comité de la protection des obtentions végétales est d'un mois. Lorsque le requérant demeure hors de France métropolitaine, ce délai est augmenté d'un mois s'il demeure en Europe et de deux mois s'il demeure dans toute autre partie du monde.
+
+###### Article R412-16
+
+Le délai de recours prévu à l'article précédent court à compter de la date de réception par le requérant de la notification de la décision du comité.
+
+###### Article R412-17
+
+Le recours est formé par requête adressée au premier président de la cour d'appel de Paris par le demandeur en personne ou par un avoué exerçant près la cour d'appel ou par un avocat régulièrement inscrit à un barreau.
+
+Si le demandeur ne comparaît pas en personne, il peut être représenté ou assisté comme il est dit au premier alinéa du présent article.
+
+###### Article R412-18
+
+Lorsque le recours est formé par une personne autre que le propriétaire de la demande de certificat d'obtention végétale, celui-ci est appelé en cause par le greffier en chef de la cour d'appel par lettre recommandée avec demande d'avis de réception.
+
+###### Article R412-19
+
+La cour d'appel statue, le ministère public entendu.
+
+###### Article R412-20
+
+Tout recours formé contre les décisions du comité de la protection des obtentions végétales est dénoncé dans les quinze jours par le greffier de la cour d'appel au comité par lettre recommandée avec demande d'avis de réception.
+
+L'arrêt rendu par la cour d'appel sur le recours est notifié au demandeur et au comité de la protection des obtentions végétales par le greffier dans les mêmes formes.
+
+###### Article R412-21
+
+Le greffier adresse une expédition de l'arrêt rendu au comité de la protection des obtentions végétales.
+
+Cet arrêt est inscrit d'office au Registre national des certificats d'obtention.
+
+L'arrêt de la cour d'appel est exécuté dans les deux mois de sa notification.
+
+#### Chapitre III : Le Conseil supérieur de la propriété industrielle
+
+##### Article R413-1
+
+Il est institué auprès du ministre chargé de la propriété industrielle un Conseil supérieur de la propriété industrielle. Ce conseil a un rôle consultatif. Il donne son avis sur les questions qui lui sont soumises par le ministre.
+
+##### Article R413-2
+
+Le Conseil supérieur de la propriété industrielle est composé comme suit :
+
+1° Le représentant permanent du ministère des affaires étrangères ;
+
+Le représentant permanent du ministère du budget ;
+
+Le représentant permanent du ministère de la justice ;
+
+Le représentant permanent du ministère de la défense ;
+
+Le représentant permanent du ministère de la culture ;
+
+Le représentant permanent du ministère de l'agriculture ;
+
+Le représentant permanent du ministère de la santé ;
+
+Le directeur général de l'Institut national de la propriété industrielle ;
+
+Le directeur du Centre d'études internationales de propriété industrielle ou son représentant permanent ;
+
+Le directeur général de l'Agence nationale de valorisation de la recherche ou son représentant permanent ;
+
+2° Quatre professeurs de droit ;
+
+Quatre personnalités représentant les intérêts des salariés ;
+
+Deux inventeurs ou ingénieurs ;
+
+Huit personnalités représentant les intérêts du commerce et de l'industrie ;
+
+Le président de la Compagnie nationale des conseils en propriété industrielle et quatre conseils en propriété industrielle ;
+
+Quatre avocats ;
+
+Quatre personnalités compétentes en matière de propriété industrielle.
+
+Les membres visés au 2° ci-dessus sont nommés pour cinq ans par arrêté du ministre chargé de la propriété industrielle.
+
+##### Article R413-3
+
+Parmi les membres du conseil supérieur, le ministre chargé de la propriété industrielle désigne un président et un vice-président.
+
+##### Article R413-4
+
+Le comité peut constituer en son sein des commissions temporaires pour l'examen des questions particulières. Il peut également, lorsqu'il le juge utile, associer à ses travaux, à titre consultatif, des personnalités compétentes.
+
+##### Article R413-5
+
+Le secrétariat du conseil est assuré par l'Institut national de la propriété industrielle.
+
+### Titre II : Qualification en propriété industrielle
+
+#### Chapitre Ier : Inscription sur la liste des personnes qualifiées en matière de propriété industrielle
+
+##### Article R421-1
+
+L'inscription d'une personne physique sur la liste des personnes qualifiées en propriété industrielle prévue à l'article L. 421-1 est subordonnée au respect de l'ensemble des conditions suivantes :
+
+1° La possession d'un diplôme national de deuxième cycle juridique, scientifique ou technique délivré par un établissement public à caractère scientifique, culturel et professionnel au sens de la loi n° 84-52 du 26 janvier 1984 habilité à le délivrer, ou d'un titre reconnu équivalent dans des conditions fixées par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur ;
+
+2° La possession d'un diplôme délivré par le Centre d'études internationales de la propriété industrielle (CEIPI) de l'université de Strasbourg ou d'un titre reconnu équivalent dans des conditions fixées par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur ;
+
+3° Une pratique professionnelle de trois années au moins ;
+
+4° Le succès à un examen d'aptitude dont les modalités et le programme sont fixés, pour chaque spécialisation, par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur. Les épreuves sont aménagées pour les mandataires agréés près l'Office européen des brevets.
+
+##### Article R421-2
+
+Nul ne peut être inscrit sur la liste s'il a été :
+
+1° L'auteur de faits ayant donné lieu à condamnation pénale pour agissements contraires à l'honneur, à la probité ou aux bonnes mœurs ;
+
+2° L'objet, pour des faits de même nature, d'une sanction disciplinaire ou administrative de destitution, radiation, révocation, de retrait d'agrément ou d'autorisation ;
+
+3° Frappé de la faillite personnelle ou d'une autre sanction en application soit de la législation sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes, soit de la législation relative au redressement et à la liquidation judiciaire des entreprises.
+
+##### Article R421-3
+
+Ainsi qu'il est dit à l'article R. 79 du code de procédure pénale :
+
+(...) le bulletin n° 2 du casier judiciaire est délivré :
+
+(...) 24° Au directeur général de l'Institut national de la propriété industrielle pour l'inscription sur la liste des personnes qualifiées en propriété industrielle et sur la liste prévue à l'article L. 422-5.
+
+##### Article R421-4
+
+La mention de spécialisation dont est assortie l'inscription des personnes qualifiées en propriété industrielle peut être soit celle d'ingénieur ou juriste à raison des diplômes, soit celle de brevets d'invention, marques ou dessins et modèles à raison de la pratique professionnelle.
+
+Le cas échéant, plusieurs mentions peuvent être cumulées.
+
+Un arrêté du ministre chargé de la propriété industrielle peut prévoir d'autres mentions de spécialisation s'il apparaît de nouvelles qualifications professionnelles en matière de propriété industrielle.
+
+##### Article R421-5
+
+La pratique professionnelle prévue à l'article R. 421-1 (3°) résulte de l'exercice à titre principal d'une activité d'étude, de conseil, d'assistance ou de représentation en matière de propriété industrielle, droits annexes et droits portant sur toute question connexe.
+
+La pratique professionnelle doit avoir été acquise sous la responsabilité d'une personne qualifiée en propriété industrielle.
+
+##### Article R421-6
+
+Le jury chargé du contrôle des épreuves de l'examen prévu à l'article R. 421-1 (4°) comprend un magistrat de l'ordre judiciaire, président, un professeur d'université enseignant le droit privé, un avocat et quatre personnes qualifiées en propriété industrielle. En cas d'empêchement, chaque membre est remplacé par un suppléant.
+
+Les conditions de désignation des membres du jury et de leurs suppléants sont fixées par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur.
+
+##### Article R421-7
+
+Les conditions de diplôme, de stage et d'examen professionnel prévues à l'article R. 421-1 ne sont pas applicables aux personnes qui ont suivi avec succès un cycle d'études d'une durée minimum de trois ans, ou d'une durée équivalente à temps partiel dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de même niveau de formation et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui justifient :
+
+1° Soit d'un diplôme, certificat ou autre titre permettant l'exercice de la profession dans un Etat membre de l'Union européenne délivrés :
+
+a) Par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans l'Union ;
+
+b) Ou par une autorité d'un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre qui a reconnu le diplôme, certificat ou autre titre certifiant que son titulaire a une expérience professionnelle de trois ans au moins dans cet Etat ;
+
+2° Soit de l'exercice à plein temps de la profession pendant deux ans au moins au cours des dix années précédentes dans un Etat membre qui ne réglemente pas l'accès ou l'exercice de cette profession, à condition que cet exercice soit attesté par l'autorité compétente de cet Etat.
+
+##### Article R421-8
+
+Le bénéfice de l'article R. 421-7 est subordonné au succès à un examen d'aptitude devant le jury prévu à l'article R. 421-6 dont le programme et les modalités sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la propriété industrielle :
+
+1° Soit lorsque la formation du candidat porte sur des matières substantiellement différentes de celles qui figurent aux programmes des diplômes et de l'examen professionnel mentionné à l'article R. 421-1 ;
+
+2° Soit lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est subordonné à la possession de ce diplôme et de cet examen ne sont pas réglementées dans l'Etat membre d'origine ou de provenance ou sont réglementées de manière différente et que cette différence est caractérisée par une formation spécifique requise dans l'Etat membre d'accueil portant sur des matières substantiellement différentes de celles couvertes par le diplôme dont le demandeur fait état.
+
+La liste des candidats admis à se présenter à cet examen est dressée par le directeur général de l'Institut national de la propriété industrielle.
+
+##### Article R421-9
+
+La demande d'inscription est présentée au directeur général de l'Institut national de la propriété industrielle. Lui est jointe la justification qu'il est satisfait selon le cas aux conditions prévues à l'article R. 421-1 ou aux articles R. 421-7 et R. 421-8.
+
+Il est donné récépissé de la demande.
+
+##### Article R421-10
+
+La décision du directeur général de l'institut statuant sur la demande d'inscription est notifiée à l'intéressé. Le refus est motivé.
+
+##### Article R421-11
+
+Une personne inscrite sur la liste peut à tout moment demander d'en être radiée.
+
+Est radiée de la liste par le directeur général de l'institut toute personne tombant sous le coup de l'une des mesures mentionnées à l'article R. 421-2. La radiation est motivée et décidée après que l'intéressé a été mis en mesure de présenter ses observations.
+
+##### Article R421-12
+
+Les inscriptions et radiations sont publiées au Bulletin officiel de la propriété industrielle.
+
+La liste mise à jour des personnes qualifiées est publiée au début de chaque année civile au bulletin.
+
+#### Chapitre II : Conditions d'exercice de la profession de conseil en propriété industrielle
+
+##### Section 1 : Inscription sur la liste des conseils en propriété industrielle
+
+###### Article R422-1
+
+Toute personne qualifiée en propriété industrielle inscrite sur la liste prévue à l'article R. 421-1 peut demander d'être inscrite, avec la même mention de spécialisation, sur la liste des conseils en propriété industrielle prévue au troisième alinéa de l'article L. 422-1.
+
+###### Article R422-2
+
+L'inscription sur la liste prévue à l'article R. 422-1 est subordonnée aux conditions suivantes :
+
+1° Offrir ou s'engager à offrir dans un délai de trois mois au public les services prévus à l'article L. 422-1 soit à titre individuel ou en groupe, soit comme salarié d'un autre conseil en propriété industrielle ou d'une société de conseil en propriété industrielle ;
+
+2° Etre de nationalité française ou ressortissant d'un autre Etat membre de l'Union européenne ;
+
+3° Avoir un domicile ou un établissement professionnel en France ;
+
+4° Justifier de la garantie prévue à l'article L. 422-8 ou prendre l'engagement de produire une telle justification, dans un délai de trois mois.
+
+###### Article R422-3
+
+La demande d'inscription est présentée au directeur général de l'institut. Lui est jointe la justification qu'il est satisfait aux conditions prévues à l'article R. 422-2.
+
+###### Article R422-4
+
+Le directeur général de l'institut procède à l'inscription après avis de la Compagnie nationale des conseils en propriété industrielle. L'avis est réputé donné si la compagnie ne l'a pas formulé dans un délai d'un mois à compter de sa saisine.
+
+Le refus d'inscription est pris par décision motivée qui est notifiée à l'intéressé.
+
+L'inscription des personnes physiques est faite au nom du conseil en propriété industrielle suivi de la dénomination du cabinet au sein duquel il exerce ou, s'il s'agit d'une société, de sa raison ou dénomination sociale.
+
+###### Article R422-5
+
+Toute personne inscrite sur la liste des conseils en propriété industrielle peut demander d'en être radiée. Elle le doit si elle ne remplit plus les conditions prévues à l'article R. 422-2. La demande est présentée au directeur général de l'institut qui procède à la radiation après avis de la Compagnie nationale des conseils en propriété industrielle.
+
+Il est sursis à la radiation en cas de saisine de la chambre de discipline prévue à l'article L. 422-10.
+
+###### Article R422-6
+
+En cas d'exercice en société, l'inscription de cette dernière dans la section spéciale prévue à l'article L. 422-7 est demandée collectivement par tous les associés. Elle est accompagnée de la justification du dépôt de la demande d'immatriculation au registre du commerce et des sociétés.
+
+Le directeur général de l'institut procède à l'inscription dans les conditions prévues à l'article R. 422-4 et notifie la décision au greffier chargé de la tenue du registre du commerce et des sociétés auprès du tribunal ayant reçu la demande d'immatriculation correspondante.
+
+Toute décision de radiation d'une société est, dans le mois de sa date, notifiée au greffier chargé de la tenue du registre auquel la société a été immatriculée.
+
+###### Article R422-7
+
+Le capital social d'une société de conseil en propriété industrielle mentionnée à l'article L. 422-7 (b) peut, conformément à l'article L. 423-2 (e), n'être détenu qu'à concurrence de 25 % par un conseil en propriété industrielle, dès lors que la société a pour objet de regrouper un ou plusieurs conseils en propriété industrielle avec d'autres prestataires de services exerçant à titre principal l'une des activités ci-après :
+
+1° Construction de prototypes ;
+
+2° Rapprochement entre offres et demandes de licences ;
+
+3° Création de marques ;
+
+4° Financement de l'innovation.
+
+##### Section 2 : La Compagnie nationale des conseils en propriété industrielle
+
+###### Article R422-8
+
+Les personnes physiques inscrites sur la liste des conseils en propriété industrielle constituent la Compagnie nationale des conseils en propriété industrielle, prévue à l'article L. 422-9.
+
+###### Article R422-9
+
+La compagnie établit son règlement intérieur. Celui-ci entre en vigueur après approbation par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la propriété industrielle.
+
+###### Article R422-10
+
+L'assemblée générale de la compagnie élit pour deux ans parmi ses membres, au scrutin secret, par vote uninominal et selon les modalités fixées par le règlement intérieur, un bureau composé de neuf personnes, dont un président, trois vice-présidents, un secrétaire et un trésorier.
+
+A l'exception de l'établissement du règlement intérieur, du vote du budget annuel de la compagnie et d'autres attributions réservées le cas échéant à l'assemblée générale par le règlement intérieur, le bureau assure l'administration de la compagnie. Il veille à l'application des résolutions arrêtées en assemblée générale. Il peut disposer d'un secrétariat permanent et constituer des commissions permanentes ou temporaires dont il définit la mission.
+
+###### Article R422-11
+
+Outre les dons et legs qui lui sont faits et les participations à certains de ses frais, les ressources de la compagnie proviennent des cotisations annuelles.
+
+Le taux de base de la cotisation annuelle est le même pour tous les membres. S'y ajoute un complément dont l'assiette tient compte du chiffre d'affaires, réalisé le cas échéant en société.
+
+Le mode de calcul et les modalités de recouvrement de la cotisation sont déterminés par le règlement intérieur de la compagnie. Son taux est fixé chaque année par l'assemblée générale.
+
+##### Section 3 : Exercice sous forme de société
+
+###### Sous-section 1 : Sociétés civiles professionnelles
+
+####### Article R422-12
+
+Deux ou plusieurs conseils en propriété industrielle inscrits sur la liste nationale des conseils en propriété industrielle prévue à l'article L. 422-1 peuvent constituer entre eux une société civile professionnelle pour l'exercice en commun de la profession de conseil en propriété industrielle.
+
+Toutefois, la société peut être constituée, exclusivement ou non, entre des personnes physiques non inscrites sur la liste nationale des conseils en propriété industrielle mais remplissant les conditions requises pour y figurer, sous la condition que chacune d'elles demande son inscription au plus tard en même temps que la société.
+
+####### Article R422-13
+
+La société est constituée sous la condition suspensive de son inscription sur la liste nationale des conseils en propriété industrielle. Conformément au troisième alinéa de l'article 1er de la loi n° 66-879 du 29 novembre 1966, elle jouit de la personnalité morale à compter de cette inscription.
+
+####### Article R422-14
+
+La demande d'immatriculation de la société au registre du commerce et des sociétés est établie dans les conditions prévues à l'article 15 du décret n° 84-406 du 30 mai 1984 relatif au registre du commerce et des sociétés.
+
+Par dérogation aux articles 22, 24 et 26 du décret n° 78-704 du 3 juillet 1978, la société est dispensée d'insérer dans un journal d'annonces légales les avis prévus auxdits articles.
+
+L'avis inséré au Bulletin officiel des annonces civiles et commerciales contient les indications prévues à l'article 73 du décret du 30 mai 1984 à l'exception de celles relatives aux nom et prénoms des associés tenus indéfiniment et solidairement des dettes sociales.
+
+####### Article R422-15
+
+Si les statuts sont établis par actes sous seing privé, il en est dressé autant d'originaux qu'il est nécessaire pour la remise d'un exemplaire à chaque associé et pour satisfaire aux dispositions de l'article 7 du décret n° 78-704 du 3 juillet 1978 et à celles de la présente sous-section.
+
+####### Article R422-16
+
+Sans préjudice des dispositions qu'en vertu des articles 10 et 11 de la loi n° 66-879 du 29 novembre 1966 les statuts doivent comporter, de celles qu'en vertu des articles 8, 14, 15, 19, 20 et 24 de la même loi ils peuvent contenir, concernant respectivement la répartition des parts, les gérants, la raison sociale, la répartition des bénéfices, les dettes sociales, les cessions des parts sociales et la dissolution de la société et des articles R. 422-6 et R. 422-7, les statuts doivent indiquer :
+
+1° Les nom, prénoms, domicile des associés, leur situation matrimoniale et, le cas échéant, l'existence de clauses, d'actes opposables aux tiers ou de décisions restrictives à la libre disposition de leurs biens ;
+
+2° Le titre de chacun des associés ;
+
+3° La durée pour laquelle la société est constituée ;
+
+4° L'adresse du siège social ;
+
+5° La nature et l'évaluation distincte de chacun des apports effectués par les associés ;
+
+6° Le montant du capital social, le montant nominal, le nombre et la répartition des parts sociales représentatives de ce capital ;
+
+7° L'affirmation de la libération totale ou partielle, suivant le cas, des apports concourant à la formation du capital social ;
+
+8° La majorité requise pour la transmission ou la cession des parts à des tiers ;
+
+9° Le montant des parts d'intérêt attribuées à chaque apporteur en industrie ;
+
+10° Les dispositions particulières prévues aux articles R. 422-20 et R. 422-21.
+
+####### Article R422-17
+
+Peuvent faire l'objet d'apports à une société civile professionnelle, en propriété ou en jouissance :
+
+1° Tous droits incorporels, mobiliers ou immobiliers, notamment, s'il y a lieu, le droit pour un associé de présenter la société comme successeur à sa clientèle ;
+
+2° Tous documents et archives, et, d'une manière générale, tous objets mobiliers à usage professionnel ;
+
+3° Les immeubles ou locaux utiles à l'exercice de la profession ;
+
+4° Toutes sommes en numéraire.
+
+Les apports en industrie des associés qui, en vertu de l'article 10 de la loi du 29 novembre 1966, ne concourent pas à la formation du capital peuvent donner lieu à l'attribution de parts d'intérêts.
+
+####### Article R422-18
+
+Les parts sociales ne peuvent être données en nantissement.
+
+Leur montant nominal ne peut être inférieur à 152,45 euros.
+
+Les parts d'intérêts attribuées aux apporteurs en industrie sont incessibles. Elles sont annulées lorsque leur titulaire perd sa qualité d'associé pour quelque cause que ce soit.
+
+####### Article R422-19
+
+Les parts sociales correspondant à des apports en numéraire doivent être libérées, lors de la souscription, de la moitié au moins de leur valeur nominale.
+
+La libération du surplus doit intervenir, en une ou plusieurs fois, soit aux dates prévues par les statuts, soit par décision de l'assemblée des associés, et au plus tard dans le délai de deux ans à compter de l'inscription de la société sur la liste nationale des conseils en propriété industrielle.
+
+Dans les huit jours de leur réception, les fonds provenant des souscriptions en numéraire sont déposés, pour le compte de la société à la Caisse des dépôts et consignations, chez un notaire ou dans une banque.
+
+Le retrait de ces fonds est effectué par un mandataire de la société sur la seule justification de l'inscription de la société sur la liste nationale.
+
+####### Article R422-20
+
+Les statuts organisent la gérance et déterminent les pouvoirs des gérants dans les conditions prévues par l'article 11 de la loi du 29 novembre 1966.
+
+####### Article R422-21
+
+Les décisions qui excèdent les pouvoirs des gérants sont prises par les associés réunis en assemblée.
+
+L'assemblée est réunie au moins une fois par an. Elle est également réunie sur la demande d'au moins la moitié des associés, la demande devant indiquer l'ordre du jour.
+
+Les modalités de convocation de l'assemblée sont fixées par les statuts.
+
+####### Article R422-22
+
+Les statuts peuvent attribuer un nombre de voix réduit aux associés qui n'exercent leur profession qu'à temps partiel.
+
+Ils peuvent également attribuer aux associés un nombre de voix réduit aussi longtemps que les parts sociales qu'ils détiennent n'ont pas été entièrement libérées.
+
+Chaque associé peut se faire représenter par un autre associé porteur d'un mandat écrit. Un associé ne peut être porteur de plus de deux mandats.
+
+####### Article R422-23
+
+Sous réserve des dispositions de l'article 19 de la loi du 29 novembre 1966 et de celles de la présente sous-section imposant des conditions spéciales de majorité, les décisions sont prises à la majorité des voix dont disposent les associés présents ou représentés.
+
+Toutefois, les statuts peuvent prévoir une majorité plus forte ou même l'unanimité des associés pour toutes les décisions ou seulement pour celles qu'ils énumèrent.
+
+####### Article R422-24
+
+La modification des statuts et notamment la prorogation de la société est décidée à la majorité des trois quarts des voix de l'ensemble des associés.
+
+Toutefois, l'augmentation des engagements des associés ne peut être décidée qu'à l'unanimité.
+
+####### Article R422-25
+
+Les délibérations des associés sont soumises aux dispositions des articles 40 à 47 du décret n° 78-704 du 3 juillet 1978.
+
+L'assemblée ne peut délibérer valablement que si les trois quarts au moins des associés sont présents ou représentés. Si le quorum n'est pas atteint, les associés sont convoqués une nouvelle fois et l'assemblée délibère valablement si deux associés au moins sont présents ou représentés.
+
+Le registre prévu par l'article 45 du décret n° 78-704 du 3 juillet 1978 est coté et paraphé par le greffier chargé de la tenue du registre du commerce et des sociétés où est immatriculée la société.
+
+####### Article R422-26
+
+Après la clôture de chaque exercice, le ou les gérants établissent, dans les conditions fixées à l'article 1856 du code civil, un rapport écrit d'ensemble comportant les comptes annuels de la société et un rapport sur les résultats.
+
+Dans les deux mois qui suivent la clôture de l'exercice, les documents mentionnés à l'alinéa précédent sont soumis à l'approbation de l'assemblée des associés.
+
+A cette fin, ces documents sont adressés à chaque associé avec le texte des résolutions proposées en même temps que la convocation à l'assemblée et au moins quinze jours avant sa réunion.
+
+####### Article R422-27
+
+Chaque associé peut, à toute époque, prendre connaissance, dans les conditions fixées à l'article 48 du décret n° 78-704 du 3 juillet 1978, des comptes annuels de la société et du rapport sur les résultats de celle-ci ainsi que de tous registres et documents comptables en la possession de la société.
+
+####### Article R422-28
+
+Les dispositions des articles 49, 50 et 52 du décret n° 78-704 du 3 juillet 1978 sont applicables aux cessions et transmissions de parts sociales et à leur publicité.
+
+####### Article R422-29
+
+Dans le cas prévu à l'article 19, troisième alinéa, de la loi du 29 novembre 1966, le prix des parts sociales est déterminé, à défaut d'accord entre les parties, conformément aux dispositions des articles 1843-4 du code civil et 17 du décret n° 78-704 du 3 juillet 1978.
+
+Lorsque l'associé cédant refuse de signer l'acte portant cession de ses parts au prix ainsi fixé, il est passé outre à ce refus deux mois après sommation à lui faite par la société et demeurée infructueuse, soit par lettre recommandée avec demande d'avis de réception, soit par acte d'huissier de justice ; le prix de cession des parts est consigné à la diligence du cessionnaire.
+
+Si la cession porte sur la totalité des parts sociales d'un associé, celui-ci perd la qualité d'associé à l'expiration du délai prévu à l'alinéa précédent.
+
+Sous réserve des règles de protection et de représentation des incapables, les dispositions de l'article 19 de la loi du 29 novembre 1966 s'appliquent à la cession des parts sociales de l'associé frappé d'interdiction légale ou placé sous le régime de la tutelle des majeurs ; le délai de six mois prévu au troisième alinéa dudit article est alors porté à un an.
+
+####### Article R422-30
+
+En cas de décès d'un associé, le délai de cession prévu au deuxième alinéa de l'article 24 de la loi du 29 novembre 1966 est fixé à un an à compter de la date du décès.
+
+Il peut être renouvelé par accord intervenu entre les ayants droit de l'associé décédé et la société, donné dans les conditions prévues pour la cession des parts sociales par l'article 19, premier alinéa, de la loi du 29 novembre 1966.
+
+Si le consentement à l'attribution préférentielle prévu à l'article 24, deuxième alinéa, de la loi du 29 novembre 1966 est refusé, et si les ayants droit de l'associé décédé n'ont pas cédé les parts sociales de leur auteur à l'expiration du délai qui leur est imparti, la société dispose d'une année pour acquérir ou faire acquérir les parts sociales de l'associé décédé.
+
+####### Article R422-31
+
+Si l'acte portant cession des parts sociales est établi sous seing privé, il en est dressé autant d'originaux qu'il est nécessaire pour la remise d'un exemplaire à chaque partie et pour satisfaire aux dispositions de l'article R. 422-28.
+
+En outre, un des originaux de l'acte sous seing privé, ou une expédition de l'acte de cession des parts s'il a la forme d'un acte authentique, et éventuellement de l'acte modifiant les statuts de la société doivent être adressés au directeur général de l'Institut national de la propriété industrielle qui, s'il y a lieu, modifie en conséquence l'inscription de la société sur la liste nationale des conseils en propriété industrielle.
+
+####### Article R422-32
+
+Lorsqu'un associé entend se retirer de la société, il notifie sa décision à la société par lettre recommandée avec demande d'avis de réception.
+
+La société dispose de six mois à compter de cette notification pour notifier à l'associé, dans la même forme, un projet de cession de ses parts à un associé ou à un tiers inscrit sur la liste des conseils en propriété industrielle ou remplissant les conditions pour être inscrit sur cette liste, ou un projet de rachat desdites parts de la société. Cette notification implique un engagement du cessionnaire ou de la société qui se porte acquéreur.
+
+En cas de désaccord sur le prix de cession, l'article R. 422-29 est applicable.
+
+####### Article R422-33
+
+Si un associé a été radié, en application de la section 5 du présent chapitre, pour une durée égale ou supérieure à six mois, il peut être exclu de la société par une décision prise à la majorité des autres associés.
+
+L'associé exclu dispose d'un délai de six mois, à compter de la notification qui lui est faite de cette décision par l'envoi d'une lettre recommandée avec demande d'avis de réception, pour céder ses parts dans les conditions prévues aux articles 19 et 21 de la loi du 29 novembre 1966 et aux articles R. 422-28 et R. 422-29.
+
+Si, à l'expiration de ce délai, aucune cession n'est intervenue, il est procédé conformément aux dispositions de l'article 19, troisième alinéa, de la loi du 29 novembre 1966 et de l'article R. 422-29.
+
+####### Article R422-34
+
+Les parts de l'associé radié définitivement de la liste nationale des conseils en propriété industrielle sont cédées dans les conditions déterminées à l'article R. 422-33.
+
+####### Article R422-35
+
+Le nombre des associés peut être augmenté au cours de l'existence de la société avec ou sans augmentation du capital social.
+
+####### Article R422-36
+
+Tout associé qui reçoit à titre onéreux ou gratuit un droit de présentation d'une clientèle transmis par un tiers a l'obligation d'en apporter la jouissance à la société, à charge pour elle de créer et de lui délivrer les nouvelles parts sociales correspondant à ce supplément d'apport.
+
+####### Article R422-37
+
+Si les réserves constituées au moyen de bénéfices non distribués ou de plus-values d'actif dues à l'industrie des associés le permettent, il est procédé périodiquement à l'augmentation du capital social. Les parts sociales créées à cet effet sont réparties entre tous les associés, y compris ceux qui n'ont apporté que leur industrie.
+
+Toutefois, les statuts peuvent prévoir les cas et les conditions dans lesquels un associé peut être écarté de l'attribution des parts sociales nouvellement créées en représentation d'une augmentation de capital.
+
+####### Article R422-38
+
+La décision de proroger la société doit être immédiatement portée à la connaissance du directeur général de l'Institut national de la propriété industrielle, accompagnée soit d'une copie du procès-verbal complet de l'assemblée, soit de l'acte d'où résulte la prorogation, constitué par l'un des originaux si cet acte est sous seing privé, ou par une expédition s'il a été établi sous la forme authentique.
+
+####### Article R422-39
+
+En cas de modification des statuts, une copie du procès-verbal complet de l'assemblée ou l'acte modificatif constitué par l'un des originaux si celui-ci est sous seing privé, ou par une expédition s'il a été établi sous la forme authentique, est adressée dans un délai de deux mois au directeur général de l'Institut national de la propriété industrielle et au président de la compagnie des conseils en propriété industrielle.
+
+Si les nouvelles dispositions des statuts ne sont pas conformes aux dispositions législatives ou réglementaires, et si la régularisation n'en est pas faite dans le délai imparti par le directeur général de l'Institut national de la propriété industrielle, celui-ci, après avoir appelé la société à présenter ses observations orales ou écrites, la radie de la liste nationale des conseils en propriété industrielle dans les conditions prévues aux articles R. 422-61 à R. 422-63.
+
+La publication des modifications est faite ainsi qu'il est prévu aux articles 22 et suivants du décret n° 84-406 du 30 mai 1984.
+
+####### Article R422-40
+
+La dissolution anticipée de la société ne peut être décidée que par les trois quarts au moins des associés.
+
+Les dispositions des articles 8 à 16 du décret n° 78-704 du 3 juillet 1978 sont applicables.
+
+Un exemplaire de l'acte de nomination du liquidateur est adressé par ce dernier au directeur général de l'Institut national de la propriété industrielle et au président de la compagnie des conseils en propriété industrielle. Le liquidateur les informe de la clôture de la liquidation.
+
+###### Sous-section 2 : Sociétés d'exercice libéral
+
+####### Article R422-41
+
+Les dispositions de la présente sous-section régissent les sociétés constituées en application du titre Ier de la loi n° 90-1258 du 31 décembre 1990 et dont l'objet social est l'exercice en commun de la profession de conseil en propriété industrielle. Ces sociétés portent la dénomination de société d'exercice libéral de conseils en propriété industrielle.
+
+####### Article R422-42
+
+Les actes et documents destinés aux tiers, notamment les lettres, factures, annonces et publications diverses, émanant d'une société d'exercice libéral de conseils en propriété industrielle doivent indiquer la dénomination sociale précédée ou suivie immédiatement, selon le cas :
+- soit de la mention "société d'exercice libéral à responsabilité limitée de conseils en propriété industrielle" ou de la mention "SELARL de conseils en propriété industrielle" ;
+- soit de la mention "société d'exercice libéral à forme anonyme de conseils en propriété industrielle" ou de la mention "SELAFA de conseils en propriété industrielle" ;
+- soit de la mention "société d'exercice libéral en commandite par actions de conseils en propriété industrielle" ou de la mention "SELCA de conseils en propriété industrielle",
+
+ainsi que de l'énonciation du montant de son capital social, de l'adresse de son siège social, de la mention de son inscription sur la liste des conseils en propriété industrielle et de son numéro d'immatriculation au registre du commerce et des sociétés.
+
+####### Article R422-43
+
+Une même personne physique ou morale exerçant la profession de conseil en propriété industrielle ne peut, au titre du troisième alinéa de l'article 5 de la loi n° 90-1258 du 31 décembre 1990, détenir de participations dans plus de deux sociétés d'exercice libéral de conseils en propriété industrielle.
+
+####### Article R422-44
+
+La détention de parts d'une société d'exercice libéral de conseils en propriété industrielle est interdite à toute personne radiée de la liste des conseils en propriété industrielle ou de la liste des conseils en brevets d'invention telle qu'elle était prévue à l'article 3 du décret n° 76-671 du 13 juillet 1976 modifié relatif à la qualification professionnelle en matière de brevets d'invention et portant organisation et régime disciplinaire de la profession de conseil en brevets d'invention.
+
+####### Article R422-45
+
+Un associé ne peut exercer la profession de conseil en propriété industrielle qu'au sein d'une seule société d'exercice libéral et ne peut exercer la même profession à titre individuel ou au sein d'une autre société quelle qu'en soit la forme.
+
+####### Article R422-46
+
+Les sociétés d'exercice libéral de conseils en propriété industrielle sont soumises aux dispositions relatives aux obligations, à la garantie et à la discipline applicables à la profession de conseil en propriété industrielle.
+
+Toutefois, les sociétés ne peuvent faire l'objet de poursuites disciplinaires indépendamment de celles qui seraient intentées à l'encontre des conseils associés au sein de ces sociétés exerçant la profession.
+
+####### Article R422-47
+
+L'associé d'une société d'exercice libéral constituée pour l'exercice de la profession de conseil en propriété industrielle peut en être exclu en cas de sanction disciplinaire définitive ayant pour effet de lui interdire temporairement l'exercice de la profession pendant plus de six mois.
+
+Cette exclusion est décidée par les autres associés statuant à l'unanimité.
+
+####### Article R422-48
+
+Tout associé exclu dispose pour céder ses parts sociales ou actions d'un délai de six mois à compter de la notification qui lui est faite de cette décision par la société, par l'envoi d'une lettre recommandée avec demande d'avis de réception.
+
+Pendant ce délai, l'associé exclu perd les rémunérations liées à l'exercice de son activité professionnelle et son droit d'assister et de voter aux assemblées de la société. Il conserve son droit de percevoir les dividendes distribués au titre de ses parts sociales ou actions.
+
+Les parts sociales ou actions de l'associé exclu sont achetées soit par un acquéreur agréé par la société, soit par la société, qui doit alors réduire son capital. A défaut d'accord amiable, le prix de rachat des parts sociales est déterminé dans les conditions prévues par l'article 1843-4 du code civil.
+
+####### Article R422-49
+
+L'associé interdit de ses fonctions à titre temporaire conserve, pendant la durée de sa peine, sa qualité d'associé avec tous les droits et obligations qui en découlent, à l'exclusion de sa vocation aux rémunérations versées par la société en relation avec l'exercice de son activité professionnelle.
+
+En cas de suspension d'exercice de la profession frappant l'ensemble des associés de la société d'exercice libéral, l'exécution des actes professionnels et la gestion de la société sont assurées par un ou plusieurs conseils en propriété industrielle désignés par la Compagnie nationale des conseils en propriété industrielle.
+
+###### Sous-section 3 : Sociétés en participation
+
+####### Article R422-50
+
+La constitution d'une société en participation de conseils en propriété industrielle visée au titre II de la loi n° 90-1258 du 31 décembre 1990 donne lieu à l'insertion d'un avis dans un journal habilité à recevoir les annonces légales au lieu du siège social, s'il en existe un, et au lieu d'exercice de chacun des associés. L'avis contient l'identité des associés, la dénomination, l'objet, l'adresse du siège, s'il en existe un, et celle des lieux d'exercice.
+
+####### Article R422-51
+
+L'appartenance à la société en participation, avec la dénomination de celle-ci, doit être indiquée dans les actes professionnels et les correspondances de chaque associé.
+
+##### Section 4 : Obligations professionnelles
+
+###### Article R422-52
+
+Le conseil en propriété industrielle exerce sa profession avec dignité, conscience, indépendance et probité, et dans le respect des lois et règlements régissant sa compagnie.
+
+###### Article R422-53
+
+Le conseil en propriété industrielle s'abstient de tout démarcharge et de toute publicité non autorisés dans les conditions prévues à l'article R. 422-55.
+
+Il établit un barème indicatif du montant de ses honoraires, distincts des remboursements de frais et de redevances. Le délai de toutes ces charges est communiqué à toute personne qui en fait la demande.
+
+###### Article R422-54
+
+Le conseil en propriété industrielle :
+
+1° S'abstient dans une même affaire de conseiller, assister ou représenter des clients ayant des intérêts opposés ;
+
+2° Observe le secret professionnel : ce secret s'étend notamment aux consultations qu'il donne à son client, aux correspondances professionnelles échangées ainsi qu'à tous documents préparés à cette occasion ;
+
+3° Conduit jusqu'à son terme l'affaire dont il est chargé, sauf si son client l'en dessaisit ;
+
+4° Rend compte de l'exécution de son mandat, notamment en ce qui concerne le maniement des fonds ; à cet effet, il remet à son client un compte qui fait ressortir distinctement, d'une part, les honoraires, d'autre part, les frais et redevances : ce compte indique les sommes précédemment reçues à titre de provision ou de paiement ;
+
+5° Remet au client qui l'a dessaisi, ou au nouveau mandataire de celui-ci, tous les documents ayant un caractère officiel dont il est dépositaire ainsi que toutes les pièces et informations nécessaires à l'exécution ou à l'achèvement de la mission qui lui était confiée ; la remise doit intervenir dans un délai permettant d'éviter toute forclusion ou prescription.
+
+###### Article R422-55
+
+L'interdiction du démarchage prévue à l'article L. 423-1 ne s'étend pas aux offres de service, effectuées par voie postale, à destination de professionnels ou d'entreprises. Toutefois, ces offres doivent se limiter à la communication d'informations générales sur le cabinet, son organisation, son personnel, ses prestations ainsi que sur le droit de la propriété industrielle.
+
+Ces informations peuvent être complétées par des indications relatives au prix des prestations. Les suites de ces prestations, de nature à entraîner des frais supplémentaires, sont, le cas échéant, précisées. Il est distingué entre les honoraires et les frais et redevances.
+
+La publicité par voie de mise à disposition de brochures ou notices, ainsi que d'insertion d'annonces dans la presse professionnelle ou dans les annuaires, est autorisée aux mêmes conditions.
+
+Ne constituent des publicités ni la publication d'ouvrages ou d'articles de nature juridique ou technique ni la diffusion d'informations auprès de la clientèle.
+
+Un arrêté du ministre chargé de la propriété industrielle, pris après avis de la Compagnie nationale des conseils en propriété industrielle, peut prescrire une présentation et une formulation normalisées des informations prévues au présent article. L'avis de la compagnie est réputé acquis à défaut de réponse dans un délai d'un mois à compter de la saisine.
+
+##### Section 5 : Régime disciplinaire
+
+###### Article R422-56
+
+La chambre de discipline, prévue à l'article L. 422-10 pour connaître des manquements des conseils en propriété industrielle à leurs obligations, est composée de sept membres :
+
+1° Un magistrat de l'ordre judiciaire, président, nommé sur proposition du premier président de la cour d'appel de Paris ;
+
+2° Un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
+
+3° Le président de la Compagnie nationale des conseils en propriété industrielle ;
+
+4° Deux conseils en propriété industrielle, choisis sur une liste de huit candidats proposés par la Compagnie nationale des conseils en propriété industrielle ;
+
+5° Le directeur général de l'Institut national de la propriété industrielle ou son représentant ;
+
+6° Une personnalité qualifiée nommée sur proposition du directeur général de l'Institut national de la propriété industrielle.
+
+Les conseils en propriété industrielle visés au 4° ci-dessus ne peuvent cumuler leurs fonctions avec celle de membre du bureau de la compagnie.
+
+###### Article R422-57
+
+Les membres de la chambre de discipline sont, à l'exception du président de la Compagnie nationale des conseils en propriété industrielle, nommés pour deux ans par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la propriété industrielle.
+
+Ils sont, en cas d'empêchement, remplacés par des suppléants nommés dans les mêmes conditions. Un vice-président de la Compagnie nationale des conseils en propriété industrielle supplée le président de celle-ci en cas d'empêchement de ce dernier.
+
+###### Article R422-58
+
+La chambre de discipline peut être saisie par le garde des sceaux, ministre de la justice, le ministre chargé de la propriété industrielle ou le directeur général de l'Institut national de la propriété industrielle.
+
+Elle peut se saisir d'office ou être saisie à la suite d'une plainte.
+
+###### Article R422-59
+
+Le conseil en propriété industrielle qui fait l'objet d'une procédure disciplinaire est cité à comparaître par le secrétaire de la compagnie. La citation précise, à peine de nullité, les faits qui la motivent et la date de l'audience. Elle est portée à la connaissance de l'auteur de la plainte et des autorités mentionnées à l'article R. 422-58.
+
+###### Article R422-60
+
+La chambre de discipline ne peut siéger et délibérer valablement que si tous les membres ou leurs suppléants sont présents. Les décisions sont rendues par les membres présents à l'audience contradictoire. Le secrétaire de la compagnie assure le secrétariat en cas d'empêchement motivé du secrétaire, le bureau de la compagnie désigne un suppléant pris en son sein. Les séances ne sont pas publiques.
+
+Aucune décision disciplinaire ne peut être prononcée sans que l'intéressé ait été entendu ou appelé au moins huit jours à l'avance. L'intéressé peut se faire assister par un membre de la profession de son choix. Le secrétaire peut être chargé du rapport sur l'affaire.
+
+###### Article R422-61
+
+La décision disciplinaire est prise à la majorité : cette majorité est d'au moins cinq membres en cas de radiation temporaire de plus d'un an ou de radiation définitive. La décision est motivée. Elle est notifiée à l'intéressé, au plaignant, au garde des sceaux, ministre de la justice, et au ministre chargé de la propriété industrielle par lettre recommandée avec demande d'avis de réception dans un délai de quinze jours à compter de son prononcé.
+
+La décision peut être déférée au Conseil d'Etat par la voie du recours en cassation.
+
+###### Article R422-62
+
+Est radiée de la section spéciale prévue à l'article L. 422-7 par décision du directeur général de l'institut toute société dont un membre a fait l'objet d'une radiation pour motif disciplinaire si l'intéressé n'a pas, dans les trois mois, cessé d'y exercer son activité.
+
+Outre les notifications prévues à l'article R. 422-61, la décision de radiation est notifiée au greffier mentionné à l'article R. 422-6.
+
+###### Article R422-63
+
+La radiation temporaire ou définitive de la liste est publiée au Bulletin officiel de la propriété industrielle à la diligence du directeur général de l'institut.
+
+## Livre V : Les dessins et modèles
+
+### Titre Ier : Acquisition des droits
+
+#### Chapitre Ier : Droits et oeuvres protégés
+
+##### Section unique : Mesures réglementaires spéciales à certaines industries
+
+###### Article R511-1
+
+Tout créateur de dessins ou modèles appartenant à l'une des industries visées à l'article R. 511-2 ou à des industries similaires ayant intérêt à faire constater la date de création de dessins ou de modèles peut recourir à cet effet aux moyens de preuve prévus aux articles R. 511-3 à R. 511-6.
+
+###### Article R511-2
+
+Les dispositions de l'article R. 511-1 sont applicables aux industries des graveurs estampeurs, de la bijouterie, joaillerie, orfèvrerie, des fabricants de bronze et des industries qui s'y rattachent, de la broderie, des fabricants de dentelle, de la soierie, de la rubanerie, des tissus et matières textiles, des fondeurs typographes, de la verrerie en flaconnage, de l'ameublement, de la céramique, de la cristallerie, glacerie, gobeleterie et verrerie, de la tapisserie-décoration, des tissus d'ameublement, tapisseries et tapis, de la fabrication des billards et des industries qui s'y rattachent, de la fabrication des papiers peints, de la fourrure et pelleterie, de la bijouterie fantaisie en tous genres et des industries qui s'y rattachent, de l'imprimerie lithographique, de la maroquinerie, de la gainerie, de l'article de voyage en tous genres, de sellerie et de toutes industries qui s'y rattachent.
+
+###### Article R511-3
+
+Les dessins ou les reproductions graphiques des modèles doivent être établis sur une feuille de papier dont un côté seulement est utilisé ; les parties laissées libres doivent être remplies par des hachures s'arrêtant à la limite même du dessin et distantes entre elles au plus de 20 millimètres ; les dimensions du papier à employer sont 21 x 29,7 ou 42 x 29,7.
+
+Sur cette reproduction sont mentionnées toutes indications de nature à préciser la date et les conditions de la création de chaque dessin ou modèle figuré (date de création ou d'achat, nom du créateur et, si possible, du premier destinataire).
+
+###### Article R511-4
+
+Ces dessins sont copiés à la presse à leur date sur un livre de copie ou reproduits par décalque sur un registre spécial formé de feuilles de papier bulle à piquer assez mince pour ne pouvoir comporter ni grattage ni surcharge ; ces registres sont visés et estampillés, avant usage, par l'Institut national de la propriété industrielle dans les conditions déterminées par arrêté ministériel.
+
+Les documents ainsi copiés ou reproduits ne doivent occuper qu'un seul côté d'une feuille d'un des registres ou, si les dimensions l'exigent, les deux côtés de deux feuilles en regard l'une de l'autre.
+
+###### Article R511-5
+
+L'un ou l'autre de ces registres, régulièrement tenu par ordre de dates, sans blanc ni lacune, peut, en cas de contestations, être produit en vue d'établir la date de la création dont la priorité est discutée.
+
+###### Article R511-6
+
+En vue de compléter les preuves tirées de la tenue des registres sus-énoncés, les intéressés sont autorisés à établir en deux exemplaires identiques les dessins pour lesquels ils désirent s'assurer la date de priorité de création et à adresser ces deux exemplaires à l'Institut national de propriété industrielle, qui, après inscription et perforation de la date d'arrivée, retourne l'un d'eux à l'envoyeur et place l'autre dans ses archives.
+
+Un arrêté ministériel détermine les conditions d'envoi, de gardiennage et de restitution des dessins.
+
+#### Chapitre II : Formalités de dépôt
+
+##### Article R512-1
+
+Tout dépôt de dessin ou modèle peut être fait personnellement par le déposant ou par un mandataire ayant son domicile, son siège ou un établissement en France. Il en est accusé réception.
+
+Il peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande d'avis de réception ou d'un message par tout le mode de télétransmission défini par décision de son directeur général. Dans ce cas, la date de dépôt est celle de la réception à l'institut.
+
+##### Article R512-2
+
+Les personnes n'ayant pas leur domicile ou leur siège en France doivent, dans un délai qui leur est imparti par l'institut, constituer un mandataire satisfaisant aux conditions prévues à l'article R. 512-1.
+
+En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
+
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions de l'article R. 513-2 et sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévues aux chapitres II, III et IV du présent titre. Le pouvoir est dispensé de légalisation.
+
+##### Article R512-3
+
+Le dépôt comprend :
+
+1° Une déclaration de dépôt établie dans les conditions prévues à l'arrêté mentionné à l'article R. 514-5 et précisant notamment :
+
+a) L'identification du déposant ;
+
+b) Le nombre des dessins ou modèles concernés et pour chacun d'entre eux l'indication de son objet ainsi que le nombre et l'intitulé des reproductions graphiques ou photographiques qui s'y rapportent ;
+
+c) Le cas échéant, l'indication que la publicité du dépôt doit être différée, qu'il est revendiqué le droit de priorité attaché à un précédent dépôt étranger ou qu'un certificat de garantie a été délivré en application de la loi du 13 avril 1908 ;
+
+2° Une reproduction graphique ou photographique des dessins ou modèles présentée conformément à l'arrêté susmentionné ; cette reproduction peut être accompagnée d'une brève description ;
+
+La description est établie exclusivement à des fins documentaires. Son contenu définitif est, si nécessaire, mis en forme par l'Institut national de la propriété industrielle ;
+
+3° La justification du paiement des redevances prescrites ;
+
+4° S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+
+Un même dépôt ne peut porter sur plus de cent reproductions de dessins ou modèles.
+
+##### Article R512-4
+
+Le dépôt sous forme simplifiée prévu à l'article L. 512-2, alinéa 5, comporte les pièces et indications énoncées à l'article R. 512-3. Toutefois, jusqu'à la renonciation à l'ajournement prévue à l'article R. 512-11, les reproductions graphiques ou photographiques des dessins ou modèles ne sont pas soumises aux exigences de présentation prévues au 2° de l'article R. 512-3, et le dépôt est assorti de la justification du paiement d'une redevance indépendante du nombre de reproductions.
+
+##### Article R512-5
+
+La revendication, à l'occasion d'un dépôt effectué en France, d'un droit de priorité attaché à un précédent dépôt étranger emporte obligation de faire parvenir à l'Institut national de la propriété industrielle, dans les trois mois du dépôt en France, une copie officielle du dépôt antérieur et, s'il y a lieu, la justification du droit de revendiquer la priorité.
+
+Si cette obligation n'est pas respectée, la priorité est réputée n'avoir pas été revendiquée.
+
+##### Article R512-6
+
+A la réception du dépôt, sont mentionnés sur la déclaration : la date, le lieu et le numéro d'ordre de dépôt ou le numéro national prévu à l'article suivant. Un récépissé de dépôt est remis au déposant.
+
+Lorsque le dépôt est effectué au greffe du tribunal de commerce ou du tribunal de grande instance en tenant lieu, les pièces du dépôt et le montant des redevances sont transmis sans délai à l'Institut national de la propriété industrielle par le greffier.
+
+##### Article R512-7
+
+Dès sa réception à l'institut, le dépôt donne lieu à l'attribution d'un numéro national. Lorsqu'il n'a pu être mentionné sur le récépissé du dépôt, ce numéro est notifié au déposant.
+
+Est déclaré irrecevable toute correspondance ou dépôt de pièces ultérieurs qui ne rappelle pas le numéro national du dépôt ou qui, le cas échéant, n'est pas accompagné de la justification du paiement de la redevance prescrite.
+
+##### Article R512-8
+
+Est déclaré irrecevable tout dépôt qui ne comporte pas au moins un exemplaire de la déclaration de dépôt, même irrégulière en la forme, contenant les mentions prévues à l'article R. 512-3 (1°, a) et au moins un exemplaire de la reproduction graphique ou photographique du ou des dessins et modèles prévue à l'article R. 512-3 (2°) et qui n'est pas accompagné de la justification du paiement de la redevance de dépôt.
+
+##### Article R512-9
+
+En cas de non-conformité du dépôt aux prescriptions de l'article R. 512-3 ou, s'il s'agit d'un dépôt simplifié, aux prescriptions de l'article R. 512-4, ou lorsque la publication du dépôt est de nature à porter atteinte aux bonnes mœurs ou à l'ordre public, notification motivée en est faite au déposant.
+
+Un délai lui est imparti pour régulariser le dépôt ou contester les objections de l'institut. A défaut de régularisation ou d'observations permettant de lever l'objection, le dépôt est rejeté.
+
+La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le déposant ne la conteste pas dans le délai qui lui est imparti.
+
+Aucune régularisation effectuée conformément aux dispositions du présent article ne peut avoir pour effet d'étendre la portée du dépôt.
+
+##### Article R512-10
+
+Tout dépôt reconnu conforme est publié au Bulletin officiel de la propriété industrielle, sauf si le déposant a demandé lors du dépôt l'ajournement de cette publication à trois ans. L'ajournement de la publication ne peut porter que sur l'ensemble du dépôt. La publication n'intervient qu'au terme du délai de trois ans.
+
+L'ajournement est de plein droit si le dépôt a été effectué sous forme simplifiée conformément à l'article R. 512-4.
+
+Le déposant peut renoncer à tout moment à l'ajournement. Sauf lorsque le dépôt a été effectué sous forme simplifiée, la renonciation à l'ajournement de la publication ne peut porter que sur l'ensemble du dépôt.
+
+##### Article R512-11
+
+Lorsque le dépôt a été effectué sous forme simplifiée, le déposant doit, au plus tard six mois avant le terme du délai de trois ans prévu à l'article R. 512-10, renoncer par écrit à l'ajournement de la publication et remettre à l'Institut national de la propriété industrielle :
+
+1° Les reproductions graphiques ou photographiques du ou des dessins ou modèles à publier conformes aux exigences de présentation prévues au 2° de l'article R. 512-3 ;
+
+2° La justification du paiement des redevances prescrites.
+
+A défaut, la déchéance totale ou partielle des droits issus du dépôt est constatée par le directeur général de l'Institut national de la propriété industrielle.
+
+En cas de non-conformité des reproductions graphiques ou photographiques aux modalités de l'article R. 512-3 ou lorsque la reproduction fournie lors de la renonciation à l'ajournement ne correspond pas à l'identique à l'une des représentations jointes au dépôt simplifié, il est fait application de la procédure prévue à l'article R. 512-9.
+
+##### Article R512-12
+
+La demande de relevé de déchéance prévue à l'article L. 512-3 est présentée au directeur général de l'institut.
+
+Est déclarée irrecevable toute demande :
+
+1° Non précédée de l'accomplissement de la formalité omise ;
+
+2° Présentée plus de deux mois à compter de la cessation de l'empêchement ;
+
+3° Portant sur un délai échu depuis plus de six mois ;
+
+4° Non accompagnée de la justification du paiement de la redevance prescrite.
+
+La décision est motivée. Elle est notifiée au demandeur et inscrite d'office au Registre national des dessins et modèles.
+
+##### Article R512-13
+
+Le Registre national des dessins et modèles est tenu par l'Institut national de la propriété industrielle.
+
+Y figurent, pour chaque dépôt :
+
+1° L'identification du titulaire et les références du dépôt ainsi que les actes ultérieurs en affectant l'existence ou la portée ;
+
+2° Les actes modifiant la propriété d'un dessin ou modèle ou la jouissance des droits qui lui sont attachés ; en cas de revendication de propriété, l'assignation correspondante ;
+
+3° Les changements de nom, de forme juridique ou d'adresse ainsi que les rectifications d'erreurs matérielles affectant les inscriptions.
+
+Aucune inscription n'est portée au registre tant que le dépôt n'est pas rendu public dans les conditions prévues à l'article R. 512-10.
+
+##### Article R512-14
+
+Les indications mentionnées à l'article R. 512-13, deuxième alinéa, 1°, sont inscrites à l'initiative de l'Institut national de la propriété industrielle ou, s'il s'agit d'un jugement définitif d'annulation, sur réquisition du greffier ou de l'une des parties.
+
+##### Article R512-15
+
+Les actes modifiant la propriété d'un dépôt de dessin ou modèle ou la jouissance des droits qui lui sont attachés, tels que cession, concession d'un droit d'exploitation, constitution ou cession d'un droit de gage ou renonciation à ce dernier, saisie, validation et mainlevée de saisie, sont inscrits à la demande de l'une des parties à l'acte.
+
+La demande comprend :
+
+1° Un bordereau de demande d'inscription ;
+
+2° Un des originaux de l'acte sous seing privé constatant la modification de la propriété ou de la jouissance, ou une expédition de cet acte s'il est authentique ;
+
+3° Une reproduction de l'acte susmentionné lorsque le demandeur entend que l'original ou l'expédition lui soit restitué, ou un extrait lorsqu'il souhaite limiter l'inscription à ce dernier ;
+
+4° La justification du paiement de la redevance prescrite ;
+
+5° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+
+##### Article R512-16
+
+Par dérogation à l'article R. 512-15, deuxième alinéa, 2°, peut être produit avec la demande :
+
+1° En cas de mutation par décès : tout acte établissant le transfert, à la demande des héritiers ou légataires ;
+
+2° En cas de transfert par suite de fusion, scission ou absorption, une copie certifiée conforme par le greffier ou le directeur général de l'institut des actes correspondants déposés en annexe au registre du commerce et des sociétés ;
+
+3° Sur justification de l'impossibilité matérielle de produire l'original ou l'expédition : tout document établissant la modification de la propriété ou de la jouissance.
+
+##### Article R512-17
+
+Les changements de nom et d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande du titulaire du dépôt. Toutefois, lorsque ces changements et rectifications portent sur un acte précédemment inscrit, la demande peut être présentée par toute partie à l'acte.
+
+La demande comprend :
+
+1° Un bordereau de demande d'inscription ;
+
+2° La justification du changement intervenu ou de la réalité de l'erreur matérielle à rectifier ;
+
+3° La justification du paiement de la redevance prescrite ;
+
+4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+
+##### Article R512-18
+
+En cas de non-conformité d'une demande d'inscription, il est fait application de la procédure prévue à l'article R. 512-9.
+
+La même procédure est applicable aux justifications prévues aux articles R. 512-16 (3°) et R. 512-17, deuxième alinéa, 2°.
+
+##### Article R512-19
+
+Toute inscription portée au Registre national des dessins et modèles fait l'objet d'une mention au Bulletin officiel de la propriété industrielle.
+
+Toute personne intéressée peut obtenir de l'institut :
+
+1° Un certificat d'identité comprenant les indications relatives au dépôt, le numéro national et, s'il y a lieu, les renonciations ou prorogation dont il a fait l'objet ;
+
+2° Une reproduction des inscriptions portées au Registre national des dessins et modèles ;
+
+3° Un certificat constatant qu'il n'existe pas d'inscription.
+
+#### Chapitre III : Durée de la protection
+
+##### Article R513-1
+
+Le dépôt peut être prorogé pour une période de vingt-cinq ans s'ajoutant à celle qui est prévue à l'article L. 513-1 sur déclaration de son titulaire établie dans les conditions fixées par l'arrêté prévu à l'article R. 514-5. Il peut être précisé que la prorogation ne vaut que pour certains dessins ou modèles.
+
+La déclaration doit, à peine d'irrecevabilité :
+
+1° Etre présentée au cours des six derniers mois qui précèdent l'expiration de la première période de protection, par l'intéressé ou son mandataire, lequel doit joindre un pouvoir à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
+
+2° Comporter l'identification du titulaire et celle du dépôt à renouveler ;
+
+3° Etre accompagnée de la justification du paiement de la redevance prescrite.
+
+##### Article R513-2
+
+Le titulaire d'un dépôt de dessin ou modèle peut à tout moment renoncer à ce dernier. La renonciation peut être limitée à une partie de dépôt. Elle s'effectue par une déclaration écrite adressée ou remise à l'institut.
+
+Une déclaration de renonciation ne peut viser qu'un seul dépôt. Elle est formulée par le titulaire ou par son mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit justifier d'un pouvoir spécial.
+
+Elle indique s'il a été ou non concédé des droits d'exploitation ou de gage. Dans l'affirmative, elle doit être accompagnée du consentement écrit du bénéficiaire de ce droit ou du créancier gagiste.
+
+En cas de pluralité de déposants, la renonciation ne peut être effectuée que si elle est requise de l'ensemble de ceux-ci.
+
+La renonciation ne fait pas obstacle à la publication prévue à l'article R. 512-10 sauf, en cas de renonciation totale, si elle a été présentée avant le début des préparatifs techniques entrepris en vue de cette publication.
+
+##### Article R513-3
+
+La durée des préparatifs techniques mentionnés à l'article R. 513-2 est fixée par décision du directeur général de l'institut.
+
+#### Chapitre IV : Dispositions communes
+
+##### Section 1 : Procédure
+
+###### Article R514-1
+
+Les délais impartis par l'Institut national de la propriété industrielle conformément au présent titre ne sont ni inférieurs à un mois ni supérieurs à quatre mois.
+
+###### Article R514-2
+
+Lorsqu'un délai est exprimé en jours, celui de l'acte, de l'événement, de la décision ou de la notification qui le fait courir ne compte pas.
+
+Lorsqu'un délai est exprimé en mois ou en années, ce délai expire le jour du dernier mois ou de la dernière année qui porte le même quantième que le jour de l'acte, de l'événement, de la décision ou de la notification qui fait courir le délai. A défaut de quantième identique, le délai expire le dernier jour du mois.
+
+Lorsqu'un délai est exprimé en mois et en jours, les mois sont d'abord décomptés, puis les jours.
+
+Tout délai expire le dernier jour à vingt-quatre heures.
+
+Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour ouvrable suivant.
+
+###### Article R514-3
+
+Toute notification est réputée régulière si elle est faite :
+
+1° Soit au dernier titulaire du dépôt déclaré à l'institut ou, après la publication prévue à l'article R. 512-10, au dernier titulaire inscrit au Registre national des dessins et modèles ;
+
+2° Soit au mandataire du titulaire susmentionné.
+
+Si le titulaire est domicilié à l'étranger, la notification est réputée régulière si elle est faite au dernier mandataire qu'il a constitué auprès de l'institut.
+
+###### Article R514-4
+
+Les notifications prévues par les chapitres II, III et IV du présent titre sont faites par lettre recommandée avec demande d'avis de réception.
+
+L'envoi recommandé peut être remplacé par la remise de la lettre au destinataire, contre récépissé, dans les locaux de l'institut.
+
+Si l'adresse du destinataire est inconnue, la notification est faite par publication d'un avis au Bulletin officiel de la propriété industrielle.
+
+###### Article R514-5
+
+Les modalités de présentation du dépôt et le contenu du dossier sont précisés par arrêté du ministre chargé de la propriété industrielle, notamment en ce qui concerne :
+
+1° La déclaration de dépôt et les spécifications matérielles auxquelles doit répondre la reproduction graphique ou photographique prévue à l'article R. 512-3 ;
+
+2° La déclaration de prorogation prévue à l'article R. 513-1 ;
+
+3° La demande d'inscription au Registre national des dessins et modèles prévue aux articles R. 512-15 et R. 512-17 ;
+
+4° Les modalités des dépôts simplifiés prévus à l'article L. 512-2.
+
+##### Section 2 : Dispositions transitoires
+
+###### Article R514-6
+
+Les articles R. 512-1 à R. 514-5 sont applicables aux dépôts produisant effet à la date du 15 septembre 1992 sous réserve des dispositions ci-après :
+
+1° Les dépôts effectués avant le 15 septembre 1992 restent soumis, en ce qui concerne les conditions de présentation matérielle, aux dispositions antérieurement applicables ;
+
+2° Les réquisitions de maintien, réquisitions de publicité ou prorogation, demandes de restitution ou de communication présentées avant le 15 septembre 1992 sont exécutées conformément aux dispositions antérieurement en vigueur ;
+
+3° Les dépôts effectués pour cinq ans et conservés au secret y sont maintenus lorsque le propriétaire ne requiert pas la prorogation de leurs effets jusqu'à vingt-cinq ans. La demande doit être présentée, avant l'expiration des cinq ans, dans les conditions prévues à l'article R. 513-1 ;
+
+4° Les dépôts effectués pour vingt-cinq ans et conservés au secret y sont maintenus, à moins que le propriétaire ne renonce au secret dans les conditions prévues à l'article R. 512-10 ou ne requière la prorogation de leurs effets pour une seconde période de vingt-cinq ans dans les conditions prévues à l'article R. 513-1 ;
+
+5° Sont seules portées au registre les inscriptions effectuées à l'initiative du directeur général de l'institut et afférentes à des actes intervenus postérieurement au 15 septembre 1992.
+
+### Titre II : Contentieux
+
+#### Chapitre unique : Retenue en douane.
+
+##### Article R521-1
+
+La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 521-7 comporte :
+
+1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
+
+2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
+
+3° La qualité du demandeur au regard des droits qu'il invoque ;
+
+4° L'objet et le numéro national du dessin ou modèle concerné, accompagné d'un certificat d'identité délivré par l'Institut national de la propriété industrielle ;
+
+5° La description des marchandises arguées de contrefaçon dont la retenue est demandée.
+
+La demande visée à l'alinéa précédent peut être faite préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé du budget.
+
+## Livre VI : Protection des inventions et des connaissances techniques
+
+### Titre Ier : Brevets d'invention
+
+#### Chapitre Ier : Champ d'application
+
+##### Section 1 : Généralités
+
+##### Section 2 : Droit au titre
+
+###### Sous-section 1 : Inventions de salariés
+
+####### Article R611-1
+
+Le salarié auteur d'une invention en fait immédiatement la déclaration à l'employeur.
+
+En cas de pluralité d'inventeurs, une déclaration conjointe peut être faite par tous les inventeurs ou par certains d'entre eux seulement.
+
+####### Article R611-2
+
+La déclaration contient les informations, en la possession du salarié, suffisantes pour permettre à l'employeur d'apprécier le classement de l'invention dans l'une des catégories prévues aux paragraphes 1 et 2 de l'article L. 611-7.
+
+Ces informations concernent :
+
+1° L'objet de l'invention ainsi que les applications envisagées ;
+
+2° Les circonstances de sa réalisation, par exemple : instructions ou directives reçues, expériences ou travaux de l'entreprise utilisés, collaborations obtenues ;
+
+3° Le classement de l'invention tel qu'il apparaît au salarié.
+
+####### Article R611-3
+
+Lorsque le classement implique l'ouverture au profit de l'employeur du droit d'attribution, la déclaration est accompagnée d'une description de l'invention.
+
+Cette description expose :
+
+1° Le problème que s'est posé le salarié compte tenu éventuellement de l'état de la technique antérieure ;
+
+2° La solution qu'il lui a apportée ;
+
+3° Au moins un exemple de la réalisation accompagné éventuellement de dessins.
+
+####### Article R611-4
+
+Si, contrairement au classement de l'invention résultant de la déclaration du salarié, le droit d'attribution de l'employeur est ultérieurement reconnu, le salarié, le cas échéant, complète immédiatement sa déclaration par les renseignements prévus à l'article R. 611-3.
+
+####### Article R611-5
+
+Si la déclaration du salarié n'est pas conforme aux dispositions de l'article R. 611-2 (1° et 2°) ou, le cas échéant, de l'article R. 611-3, l'employeur communique à l'intéressé les points précis sur lesquels elle doit être complétée.
+
+Cette communication est faite dans un délai de deux mois à compter de la date de réception de la déclaration. A défaut, la déclaration est réputée conforme.
+
+####### Article R611-6
+
+Dans un délai de deux mois, l'employeur donne son accord au classement de l'invention résultant de la déclaration du salarié ou, en cas de défaut d'indication du classement, fait part au salarié, par une communication motivée, du classement qu'il retient.
+
+Le délai de deux mois court à compter de la date de réception par l'employeur de la déclaration du salarié contenant les informations prévues à l'article R. 611-2 ou, en cas de demande de renseignements complémentaires reconnue justifiée, de la date à laquelle la déclaration a été complétée.
+
+L'employeur qui ne prend pas parti dans le délai prescrit est présumé avoir accepté le classement résultant de la déclaration du salarié.
+
+####### Article R611-7
+
+Le délai ouvert à l'employeur pour revendiquer le droit d'attribution est de quatre mois, sauf accord contraire entre les parties qui ne peut être que postérieur à la déclaration de l'invention.
+
+Ce délai court à compter de la date de réception par l'employeur de la déclaration de l'invention contenant les indications prévues aux articles R. 611-2 (1° et 2°) et R. 611-3 ou, en cas de demande de renseignements complémentaires reconnue justifiée, de la date à laquelle la déclaration a été complétée.
+
+La revendication du droit d'attribution s'effectue par l'envoi au salarié d'une communication précisant la nature et l'étendue des droits que l'employeur entend se réserver.
+
+####### Article R611-8
+
+Les délais prévus aux articles R. 611-5 à R. 611-7 sont suspendus par l'engagement d'une action contentieuse portant sur la régularité de la déclaration ou le bien-fondé du classement de l'invention invoqué par le salarié, ou par la saisine, aux mêmes fins, de la commission de conciliation prévue à l'article L. 615-21.
+
+Les délais continuent à courir du jour où il a été définitivement statué.
+
+####### Article R611-9
+
+Toute déclaration ou communication émanant du salarié ou de l'employeur est faite par lettre recommandée avec demande d'avis de réception ou par tout autre moyen permettant d'apporter la preuve qu'elle a été reçue par l'autre partie.
+
+La déclaration prévue à l'article R. 611-1 peut résulter de la transmission par l'Institut national de la propriété industrielle à l'employeur, selon les modalités fixées par arrêté du ministre chargé de la propriété industrielle, du second exemplaire d'un pli adressé par le salarié à l'institut pour y être conservé.
+
+Cette procédure est facultative pour les interventions visées au premier paragraphe de l'article L. 611-7.
+
+####### Article R611-10
+
+Le salarié et l'employeur s'abstiennent de toute divulgation de l'invention tant qu'une divergence subsiste sur son classement ou tant qu'il n'a pas été statué sur celui-ci.
+
+Si l'une des parties, pour la conservation de ses droits, dépose une demande de brevet, elle notifie sans délai une copie des pièces du dépôt à l'autre partie.
+
+Elle épuise les facultés offertes par la législation et la réglementation applicables pour que soit différée la publication de la demande.
+
+###### Sous-section 2 : Les inventions des fonctionnaires et des agents publics.
+
+####### Article R611-11
+
+Les fonctionnaires et les agents publics de l'Etat, des collectivités publiques, des établissements publics et de toute personne morale de droit public sont soumis aux dispositions de l'article L. 611-7 dans les conditions fixées par la présente sous-section, à moins que des stipulations contractuelles plus favorables ne régissent les droits de propriété industrielle des inventions qu'ils réalisent. Ces dispositions ne font pas obstacle au maintien ou à l'intervention, en ce qui concerne ces fonctionnaires et agents, de mesures réglementaires plus favorables.
+
+####### Article R611-12
+
+1. Les inventions faites par le fonctionnaire ou l'agent public dans l'exécution soit des tâches comportant une mission inventive correspondant à ses attributions, soit d'études ou de recherches qui lui sont explicitement confiées appartiennent à la personne publique pour le compte de laquelle il effectue lesdites tâches, études ou recherches.
+
+2. Toutes les autres inventions appartiennent au fonctionnaire ou à l'agent.
+
+Toutefois, la personne publique employeur a le droit, dans les conditions et délais fixés par la présente sous-section, de se faire attribuer tout ou partie des droits attachés au brevet protégeant l'invention lorsque celle-ci est faite par un fonctionnaire ou agent :
+
+Soit dans le cours de l'exécution de ses fonctions ;
+
+Soit dans le domaine des activités de l'organisme public concerné ;
+
+Soit par la connaissance ou l'utilisation de techniques, de moyens spécifiques à cet organisme ou de données procurées par lui.
+
+####### Article R611-13
+
+Lorsqu'un même agent exerce son activité pour le compte de plusieurs personnes publiques, celles-ci agissent de concert selon des modalités déterminées par arrêté ou par accord porté à la connaissance des agents intéressés pour l'exercice des droits et l'exécution des obligations fixés par la présente sous-section.
+
+####### Article R611-14
+
+Le fonctionnaire ou agent public auteur d'une invention en fait immédiatement la déclaration à l'autorité habilitée par la personne publique dont il relève.
+
+Les dispositions des articles R. 611-1 à R. 611-10 relatives aux obligations du salarié et de l'employeur sont applicables aux fonctionnaires et agents publics et aux personnes publiques intéressées.
+
+###### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.
+
+####### Article R611-15
+
+L'Institut national de la propriété industrielle ne contrôle pas l'exactitude de la désignation de l'inventeur prévue à l'article R. 612-10.
+
+####### Article R611-16
+
+L'inventeur désigné est mentionné comme tel dans les publications de la demande de brevet et dans les fascicules du brevet. S'il ne peut être ainsi procédé, il est mentionné dans les exemplaires des publications de la demande de brevet ou des fascicules du brevet non encore diffusés. Cette mention est faite à la requête du demandeur ou du titulaire du brevet.
+
+Les dispositions de l'alinéa précédent sont applicables lorsqu'un tiers produit à l'Institut national de la propriété industrielle une décision passée en force de chose jugée reconnaissant son droit à être désigné. Dans le cadre prévu à la deuxième phrase de cet alinéa, le tiers peut également demander à être mentionné dans les exemplaires des publications de la demande de brevet ou des fascicules du brevet non encore diffusés.
+
+Les dispositions du premier alinéa ne sont pas applicables lorsque l'inventeur désigné par le demandeur ou le titulaire du brevet renonce à sa désignation dans un écrit adressé à l'Institut national de la propriété industrielle.
+
+####### Article R611-17
+
+La désignation de l'inventeur ne peut être rectifiée que sur requête accompagnée du consentement de la personne désignée à tort, et, si la requête n'est pas présentée par le demandeur ou le titulaire du brevet, du consentement de l'un ou de l'autre. Les dispositions de l'article R. 612-10 sont applicables.
+
+Si une désignation erronée de l'inventeur a été inscrite au Registre national des brevets ou publiée au Bulletin officiel de la propriété industrielle, cette inscription ou publication est rectifiée. La mention de la désignation erronée de l'inventeur est rectifiée dans les exemplaires des publications de la demande de brevet ou des fascicules du brevet non encore diffusés.
+
+Les dispositions de l'alinéa précédent sont applicables en cas d'annulation judiciaire de la désignation de l'inventeur.
+
+####### Article R611-18
+
+L'action en revendication de propriété d'une demande de brevet ou d'un brevet fait l'objet d'une inscription au Registre national des brevets à la requête de la personne qui a intenté cette action.
+
+Si la décision judiciaire est rendue en faveur de la personne qui a intenté l'action, les exemplaires de la demande de brevet ou du brevet dont dispose l'Institut national de la propriété industrielle pour la consultation publique et pour la vente sont revêtus d'une mention faisant apparaître le changement de propriétaire du brevet.
+
+####### Article R611-19
+
+La procédure de délivrance du brevet est suspendue à la requête écrite de toute personne qui apporte la justification qu'elle a intenté auprès du tribunal de grande instance une action en revendication de la propriété de la demande de brevet.
+
+La suspension de la procédure prend effet du jour où la justification est apportée et s'applique notamment au délai prévu au premier alinéa de l'article L. 612-15 ; toutefois, elle ne fait pas obstacle à l'application de l'article R. 612-39.
+
+La procédure de délivrance du brevet est reprise dès que la décision du tribunal est passée en force de chose jugée ; elle peut également être reprise à tout moment sur le consentement écrit de la personne qui a intenté l'action en revendication de propriété de la demande de brevet ; ce consentement est irrévocable.
+
+La suspension et la reprise de la procédure sont inscrites au Registre national des brevets.
+
+####### Article R611-20
+
+A compter du jour où une personne a apporté la justification qu'elle a intenté une action, le titulaire de la demande de brevet ou du brevet ne peut retirer la demande ou renoncer au brevet en totalité ou à l'une ou plusieurs des revendications qu'il comporte, sauf sur le consentement écrit de la personne qui a intenté l'action en revendication de propriété.
+
+#### Chapitre II : Dépôt et instruction des demandes
+
+##### Section 1 : Dépôt des demandes
+
+###### Article R612-1
+
+La demande de brevet est déposée soit à l'Institut national de la propriété industrielle, soit dans une préfecture autre que celle de Paris.
+
+Le dépôt peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande d'avis de réception, ou d'un message par tout mode de télétransmission défini par décision de son directeur général. Dans ce cas, la date de la remise des pièces est celle de la réception à l'Institut national de la propriété industrielle.
+
+###### Article R612-2
+
+Le dépôt peut être fait par le demandeur personnellement ou par un mandataire ayant son domicile, son siège ou un établissement en France. Sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, le mandataire, constitué pour le dépôt et pour l'accomplissement de tout acte subséquent relatif à la procédure de délivrance du brevet, à l'exception du simple paiement des redevances, doit avoir la qualité de conseil en propriété industrielle assortie de la mention Brevets d'invention.
+
+Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège en France doivent constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la notification qui leur est adressée à cet effet. En cas de pluralité de demandeurs, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
+
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles R. 612-38 et R. 613-45 et, sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévus aux articles R. 611-15 à R. 611-20, R. 612-1 à R. 613-3, R. 613-45 à R. 613-65, R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légalisation.
+
+###### Article R612-3
+
+La demande de brevet comprend une requête en délivrance de brevet dont le modèle est fixé par décision du directeur général de l'Institut national de la propriété industrielle et à laquelle sont annexés :
+
+1° Une description de l'invention, accompagnée le cas échéant de dessins ;
+
+2° Une ou plusieurs revendications ;
+
+3° Un abrégé du contenu technique de l'invention ;
+
+4° Le cas échéant, une copie des dépôts antérieurs dont des éléments sont repris dans les conditions prévues à l'article L. 612-3 ; les éléments repris y sont mis en évidence.
+
+###### Article R612-4
+
+La demande de brevet ne doit pas contenir :
+
+1° D'éléments ou de dessins dont la publication ou la mise en œuvre serait contraire à l'ordre public ou aux bonnes mœurs ;
+
+2° De déclarations dénigrantes concernant des produits ou procédés de tiers ou le mérite ou la validité de demandes de brevet ou de brevets de tiers. De simples comparaisons avec l'état de la technique ne sont pas en elles-mêmes considérées comme dénigrantes ;
+
+3° D'éléments manifestement étrangers à la description de l'invention.
+
+###### Article R612-5
+
+La demande de brevet doit, dans le mois à compter de la remise des pièces, être suivie du paiement :
+
+1° De la redevance de dépôt ;
+
+2° De la redevance de rapport de recherche, à moins que l'établissement de ce dernier n'ait été différé.
+
+###### Article R612-6
+
+Un récépissé constatant la date de la remise des pièces est délivré au demandeur soit par l'Institut national de la propriété industrielle, soit par la préfecture.
+
+Lorsqu'elles sont remises dans une préfecture, les pièces sont immédiatement transmises à l'Institut national de la propriété industrielle à Paris, accompagnées d'un double du récépissé.
+
+###### Article R612-7
+
+Dans les quinze jours qui suivent la remise ou l'arrivée des pièces à l'Institut national de la propriété industrielle à Paris, celui-ci attribue à la demande de brevet un numéro d'enregistrement national et le notifie sans délai au demandeur. Est déclaré irrecevable toute correspondance ou tout dépôt de pièces ultérieur qui ne rappelle pas ce numéro.
+
+###### Article R612-8
+
+Le bénéfice de la date de dépôt de la demande de brevet est acquis à la date de la remise d'au moins un exemplaire des pièces énumérées à l'article L. 612-2, rédigées en langue française, sauf exception prévue à l'article R. 612-21. Le bénéfice de la date de dépôt est acquis même si ces pièces sont irrégulières en la forme.
+
+Lorsque l'une des pièces mentionnées à l'alinéa précédent fait défaut, invitation est faite au demandeur d'avoir à compléter la demande de brevet dans le délai d'un mois.
+
+Si le demandeur défère à cette invitation, la date de dépôt est celle à laquelle la demande a été complétée ; cette date est notifiée au demandeur. Dans le cas contraire, la demande est déclarée irrecevable ; les pièces remises sont renvoyées au demandeur et les redevances éventuellement acquittées lui sont remboursées.
+
+###### Article R612-9
+
+Si les dessins sont remis après la date de dépôt visée à l'article précédent, le demandeur est informé que les dessins et les références faites aux dessins dans la demande de brevet sont supprimés à moins qu'il ne présente, dans le délai d'un mois, une requête tendant à l'obtention d'un brevet prenant date au jour de la remise des dessins.
+
+Si les dessins n'ont pas été remis, le demandeur est invité à réparer l'omission dans un délai d'un mois ; il est informé que la demande de brevet prendra date au jour de la remise des dessins et qu'à défaut les références faites à ces derniers sont supprimées.
+
+Le cas échéant, la nouvelle date de dépôt est notifiée au demandeur.
+
+###### Article R612-10
+
+La requête en délivrance est signée du demandeur ou de son mandataire. Y figurent :
+
+1° La nature du titre de propriété industrielle demandé ;
+
+2° Le titre de l'invention faisant apparaître de manière claire et concise la désignation technique de l'invention et ne comportant aucune dénomination de fantaisie ;
+
+3° La désignation de l'inventeur : toutefois, si le demandeur n'est pas l'inventeur ou l'unique inventeur, la désignation est effectuée dans un document séparé contenant les nom, prénoms et domicile de l'inventeur ainsi que la signature du demandeur ou de son mandataire ;
+
+4° Les nom et prénoms du demandeur, sa nationalité, son domicile ou son siège ;
+
+5° Le nom et l'adresse du mandataire, s'il en est constitué.
+
+###### Article R612-11
+
+La requête en délivrance est complétée, le cas échéant, par les indications relatives :
+
+1° A l'établissement différé du rapport de recherche ;
+
+2° Aux facilités demandées pour le paiement de la redevance d'établissement de ce rapport ;
+
+3° A la réduction du taux des redevances accordée au demandeur ou requise par lui ;
+
+4° Aux dépôts antérieurs dont les éléments ont été éventuellement repris ;
+
+5° Aux priorités revendiquées ;
+
+6° A la présentation de l'invention dans une exposition officielle ou officiellement reconnue.
+
+En cas de non-respect des dispositions prévues à l'article R. 612-10 (3°), invitation est notifiée au demandeur d'avoir à régulariser sa demande dans un délai de seize mois à compter de la date de dépôt ou de la date la plus ancienne dont bénéficie la demande de brevet ou, si une priorité a été revendiquée, de la date de priorité.
+
+Toute déclaration de priorité et toute requête du bénéfice de la date de dépôt d'une demande antérieure donnent lieu au paiement d'une redevance.
+
+###### Article R612-12
+
+La description comprend :
+
+1° L'indication du domaine technique auquel se rapporte l'invention ;
+
+2° L'indication de l'état de la technique antérieure, connu du demandeur, pouvant être considérée comme utile pour l'intelligence de l'invention et pour l'établissement du rapport de recherche ; les documents servant à refléter l'état de la technique antérieure sont, autant que possible, cités ;
+
+3° Un exposé de l'invention, telle que caractérisée dans les revendications, permettant la compréhension du problème technique ainsi que la solution qui lui est apportée ; sont indiqués, le cas échéant, les avantages de l'invention par rapport à l'état de la technique antérieure ;
+
+4° Une brève description des dessins, s'il en existe ;
+
+5° Un exposé détaillé d'au moins un mode de réalisation de l'invention ; l'exposé est en principe assorti d'exemples et de références aux dessins, s'il en existe ;
+
+6° L'indication de la manière dont l'invention est susceptible d'application industrielle, si cette application ne résulte pas à l'évidence de la description ou de la nature de l'invention.
+
+###### Article R612-13
+
+La description est présentée dans les conditions et dans l'ordre prévus à l'article R. 612-12 à moins que la nature de l'invention ne permette une présentation différente plus intelligible et plus concise.
+
+Peuvent en outre figurer en annexe à la fin de la description notamment :
+
+1° De courts extraits de programmes d'ordinateurs présentés sous forme de listages rédigés en langages de programmation courants, lorsqu'ils sont nécessaires à la compréhension de l'invention ;
+
+2° Des listes de séquences de nucléotides et/ou d'acides aminés ;
+
+3° Des formules chimiques ou mathématiques.
+
+Les schémas d'étapes de processus, les diagrammes ainsi que les courts extraits de programmes d'ordinateurs présentés sous forme d'organigrammes nécessaires à la compréhension de l'invention sont considérés comme des dessins.
+
+###### Article R612-14
+
+Dans le cas prévu à l'article L. 612-5, deuxième alinéa, la culture est déposée au plus tard à la date de dépôt de la demande de brevet et la description précise :
+
+1° Les informations dont dispose le demandeur sur les caractéristiques du micro-organisme ;
+
+2° L'organisme habilité auprès duquel le dépôt de la culture a été effectué ainsi que le numéro du dépôt.
+
+Les indications prévues au 2° de l'alinéa précédent peuvent être fournies soit dans un délai de seize mois à compter de la date de dépôt ou de la date la plus ancienne dont bénéficie la demande de brevet ou, si une priorité a été revendiquée, de la date de priorité, soit lors de la requête prévue à l'article L. 612-21, si cette requête est présentée avant l'expiration de ce délai. Leur communication emporte, de la part du demandeur, consentement irrévocable et sans réserve de mettre la culture à la disposition du public conformément aux dispositions des articles R. 612-42 et R. 612-43.
+
+###### Article R612-15
+
+Si la culture cesse d'être accessible soit parce qu'elle n'est plus viable, soit parce que l'organisme habilité n'est plus en mesure d'en délivrer des échantillons, il n'est pas tenu compte de cette interruption, à condition que :
+
+1° Un nouveau dépôt du micro-organisme soit effectué dans un délai de trois mois à compter de la date à laquelle l'interruption a été notifiée au demandeur ou au titulaire du brevet soit par l'organisme habilité, soit par l'Institut national de la propriété industrielle ;
+
+2° Copie du récépissé du dépôt délivré par l'organisme habilité, accompagné de l'indication du numéro de la demande de brevet ou du brevet, soit communiquée à l'Institut national de la propriété industrielle dans les quatre mois de la date du nouveau dépôt.
+
+Lorsque l'interruption résulte de la non-viabilité de la culture, le nouveau dépôt est effectué auprès de l'organisme habilité qui a reçu le dépôt initial ; dans les autres cas, il peut être effectué auprès d'un organisme habilité.
+
+Le nouveau dépôt est accompagné d'une déclaration écrite par laquelle le déposant certifie que le micro-organisme est le même que celui qui a fait l'objet du dépôt initial.
+
+Les organismes habilités à recevoir les dépôts de micro-organismes sont désignés par arrêté du ministre chargé de la propriété industrielle.
+
+###### Article R612-16
+
+Les revendications définissent l'objet de la protection demandée en indiquant les caractéristiques techniques de l'invention. Une revendication ne peut, sauf absolue nécessité, se fonder pour exprimer les caractéristiques techniques de l'invention, sur de simples références à la description ou aux dessins.
+
+###### Article R612-17
+
+Toute revendication comprend :
+
+1° Un préambule mentionnant la désignation de l'objet de l'invention et les caractéristiques techniques qui sont nécessaires à la définition des éléments revendiqués mais qui, combinées entre elles, font partie de l'état de la technique ;
+
+2° Une partie caractérisante, précédée d'une expression du type "caractérisé par", exposant les caractéristiques techniques qui, en liaison avec les caractéristiques prévues au 1°, sont celles pour lesquelles la protection est recherchée.
+
+Toutefois, il peut être procédé de façon différente si la nature de l'invention le justifie.
+
+###### Article R612-18
+
+Sous réserve des dispositions du premier alinéa de l'article L. 612-4, une demande de brevet peut contenir plusieurs revendications indépendantes et relevant d'une même catégorie (produit, procédé, dispositif ou utilisation) si l'objet de la demande ne peut être couvert de façon appropriée par une seule revendication.
+
+Toute revendication énonçant les caractéristiques essentielles de l'invention peut être suivie d'une ou de plusieurs revendications concernant des modes particuliers de réalisation de cette invention.
+
+###### Article R612-19
+
+Au sens de l'article L. 612-4, peuvent être notamment incluses dans une même demande de brevet, soit :
+
+1° Une revendication indépendante pour un produit, une revendication indépendante pour un procédé conçu spécialement pour la fabrication de ce produit, et une revendication indépendante pour une utilisation de ce produit ;
+
+2° Une revendication indépendante pour un procédé, et une revendication indépendante pour un dispositif ou moyen spécialement conçu pour la mise en œuvre de ce procédé ;
+
+3° Une revendication indépendante pour un produit, une revendication indépendante pour un procédé conçu spécialement pour la fabrication de ce produit et une revendication indépendante pour un dispositif ou moyen spécialement conçu pour la mise en oeuvre de ce procédé.
+
+###### Article R612-20
+
+L'abrégé est établi exclusivement à des fins d'information technique. Il ne peut être pris en considération à d'autres fins, notamment pour apprécier l'étendue de la protection demandée ou pour l'application du troisième alinéa de l'article L. 611-11.
+
+Le contenu définitif de l'abrégé est, si nécessaire, mis en forme par l'Institut national de la propriété industrielle. Il est publié au Bulletin officiel de la propriété industrielle en même temps que la mention prévue à l'article R. 612-39 ou, postérieurement à cette mention, immédiatement après qu'il a été mis en forme.
+
+###### Article R612-21
+
+Peuvent être rédigées en langue étrangère les descriptions et revendications contenues dans des demandes déposées :
+
+Soit par des personnes physiques ou morales étrangères, à condition que le pays dont ces personnes sont ressortissantes accorde un traitement équivalent aux ressortissants français ;
+
+Soit par des personnes physiques ou morales cessionnaires d'une demande déposée à l'étranger ou d'un droit de priorité sur une telle demande, à la condition que le pays dans lequel la demande initiale a été déposée accorde aux ressortissants français un traitement équivalent.
+
+S'il est usé de cette faculté, une traduction des pièces est fournie par le demandeur dans le délai de trois mois à compter de la date de dépôt de la demande de brevet.
+
+La liste des pays considérés comme accordant un traitement équivalent ainsi que la langue nationale ou l'une de celles des langues nationales dans laquelle les ressortissants de ces pays peuvent faire le dépôt sont arrêtées par le ministre des affaires étrangères et le ministre chargé de la propriété industrielle.
+
+###### Article R612-22
+
+La justification du droit de l'exposant, défini à l'article L. 611-13, premier alinéa, deuxième tiret b, est fournie dans le délai de quatre mois à compter de la date de dépôt de la demande de brevet sous la forme d'une attestation délivrée au cours de l'exposition par l'autorité chargée d'assurer la protection de la propriété industrielle dans cette exposition et constatant que l'invention y a été réellement exposée.
+
+L'attestation mentionne la date d'ouverture de l'exposition et, le cas échéant, celle de la première divulgation de l'invention si ces deux dates ne coïncident pas. Elle est accompagnée des pièces permettant d'identifier l'invention, revêtues d'une mention d'authenticité par l'autorité susvisée.
+
+###### Article R612-23
+
+La liste des Etats non membres de l'Union de Paris considérés comme accordant, sur la base d'une demande de brevet français, ou d'une demande internationale ou de brevet européen désignant la France, un droit de priorité équivalent au droit de priorité institué par la convention de Paris pour la protection de la propriété industrielle est arrêtée par le ministre des affaires étrangères et le ministre chargé de la propriété industrielle.
+
+###### Article R612-24
+
+La déclaration de priorité prévue à l'article L. 612-7, paragraphe 1, comporte la date du dépôt antérieur, l'Etat dans lequel ou pour lequel il a été effectué, ainsi que le numéro qui lui a été attribué.
+
+La date et l'état du dépôt antérieur sont indiqués lors du dépôt de la demande de brevet, le numéro de dépôt avant l'expiration du seizième mois suivant la date de priorité.
+
+La copie de la demande antérieure prévue à l'article L. 612-7, paragraphe 1, est produite avant l'expiration du seizième mois suivant la date de priorité, accompagnée, le cas échéant, de l'autorisation de revendiquer la priorité donnée par écrit par le propriétaire de la demande antérieure.
+
+Elle est certifiée conforme par l'autorité qui a reçu la demande antérieure et accompagnée d'une attestation de cette autorité indiquant sa date de dépôt.
+
+En cas de non-respect des dispositions prévues aux paragraphes précédents, la revendication du droit de priorité est déclarée irrecevable.
+
+Si la date du dépôt antérieur indiquée précède de plus d'un an la date de dépôt de la demande de brevet, notification est faite au demandeur qu'il n'existe pas de droit de priorité, à moins que dans le délai d'un mois il n'indique une date rectifiée qui se situe dans le délai de priorité.
+
+Les indications contenues dans la déclaration de priorité sont mentionnées dans la demande de brevet publiée et portées sur le fascicule du brevet.
+
+###### Article R612-25
+
+La requête du bénéfice de la date de dépôt d'une ou plusieurs demandes antérieures n'est pas recevable lorsque :
+
+1° Elle n'est pas effectuée au moment du dépôt de la demande de brevet ;
+
+2° La date de dépôt de la ou des demandes antérieures dont le bénéfice est requis est antérieure de plus de douze mois ;
+
+3° Le dépôt de la ou des demandes, dont le bénéfice de la date de dépôt a été requis, a été effectué dans des conditions qui n'en permettent pas la publication.
+
+##### Section 2 : L'instruction des demandes
+
+###### Sous-section 1 : Demandes intéressant la défense nationale
+
+####### Article R612-26
+
+Des délégués du ministre chargé de la défense nationale, spécialement habilités à cet effet et dont les noms et qualités ont été portés à la connaissance du ministre chargé de la propriété industrielle par le ministre chargé de la défense nationale prennent connaissance dans les locaux de l'Institut national de la propriété industrielle des demandes de brevet déposées.
+
+Celles-ci leur sont présentées dans le délai de quinze jours à compter de la date de leur réception à l'Institut national de la propriété industrielle.
+
+####### Article R612-27
+
+La demande d'autorisation de divulguer et d'exploiter librement l'invention objet d'une demande de brevet, avant le terme du délai de cinq mois prévu à l'article L. 612-9, est formulée auprès de l'Institut national de la propriété industrielle ; elle peut l'être dès le dépôt de la demande de brevet. L'autorisation est notifiée au demandeur par le ministre chargé de la propriété industrielle.
+
+En l'absence d'une telle autorisation et à tout moment, une demande d'autorisation particulière en vue d'accomplir des actes déterminés d'exploitation peut être adressée directement par le demandeur de brevet au ministre chargé de la défense nationale. Celui-ci, s'il accorde l'autorisation sollicitée, précise les conditions auxquelles ces actes d'exploitation sont soumis.
+
+Si l'autorisation particulière porte sur la cession de la demande de brevet ou sur la concession d'une licence d'exploitation, le ministre chargé de la défense nationale notifie copie de sa décision au ministre chargé de la propriété industrielle.
+
+####### Article R612-28
+
+La réquisition adressée au ministre chargé de la propriété industrielle par le ministre chargé de la défense nationale aux fins de prorogation des interdictions de divulgation et de libre exploitation d'une invention objet de demande de brevet doit parvenir à l'Institut national de la propriété industrielle au plus tard quinze jours avant le terme du délai de cinq mois rappelé à l'article R. 612-27.
+
+Toute réquisition aux fins de renouvellement d'une prorogation doit parvenir dans les mêmes conditions au plus tard quinze jours avant l'expiration de la période d'un an en cours.
+
+La prorogation des interdictions de divulgation et de libre exploitation est prononcée par arrêté du ministre chargé de la propriété industrielle et notifiée au déposant avant le terme de la période d'interdiction en cours.
+
+L'arrêté peut contenir des dispositions particulières autorisant, sous certaines conditions, le dépôt à l'étranger des demandes de protection de l'invention. Une demande à cet effet doit avoir été adressée par le titulaire de la demande de brevet au ministre chargé de la défense nationale, qui fait part de sa décision au ministre chargé de la propriété industrielle.
+
+Des autorisations particulières en vue d'accomplir des actes déterminés d'exploitation peuvent être accordées dans les conditions prévues aux deuxième et troisième alinéas de l'article R. 612-27.
+
+Le ministre chargé de la défense nationale peut faire connaître à tout moment au ministre chargé de la propriété industrielle la levée des interdictions prorogées en application de l'article L. 612-10. Cette mesure fait l'objet d'un arrêté du ministre chargé de la propriété industrielle notifié au titulaire de la demande de brevet.
+
+####### Article R612-29
+
+La requête en indemnité tendant à la réparation du préjudice causé par la prorogation des interdictions de divulgation et de libre exploitation est adressée par le propriétaire de la demande de brevet au ministre chargé de la défense nationale par lettre recommandée avec demande d'avis de réception. La requête précise, en les chiffrant, les divers chefs de préjudice invoqués.
+
+Le tribunal de grande instance ne peut être saisi en vue de la fixation de l'indemnité avant l'expiration d'un délai de quatre mois à compter de la date de réception de la requête, sauf au cas où une décision expresse est intervenue au cours dudit délai.
+
+####### Article R612-30
+
+La juridiction saisie en vertu de l'article L. 612-10 statue tant au fond qu'avant-dire-droit par des décisions qui ne contiennent aucune analyse de l'invention de nature à en entraîner la divulgation.
+
+Seuls le ministère public, les parties ou leurs mandataires peuvent obtenir copie des décisions rendues.
+
+Si une expertise est ordonnée, elle ne peut être effectuée que par des personnes habilitées par le ministre de la défense.
+
+####### Article R612-31
+
+Si les interdictions de divulgation et de libre exploitation prennent fin plus d'une année après la date du dépôt, la demande ne peut être rendue publique dans les conditions prévues à l'article R. 612-39 qu'après l'expiration d'un délai de six mois à compter du terme de l'application des mesures d'interdiction, sauf si dans ce délai le demandeur a présenté la requête prévue à l'article R. 612-39.
+
+Le demandeur dispose d'un délai de six mois à compter du terme des mesures d'interdiction pour requérir l'établissement du rapport de recherche ou la transformation de sa demande de brevet en demande de certificat d'utilité.
+
+####### Article R612-32
+
+Les dispositions de l'article R. 612-29 sont applicables à la demande de révision de l'indemnité prévue à l'article L. 612-10.
+
+###### Sous-section 2 : Division de la demande
+
+####### Article R612-33
+
+Si la demande de brevet ne satisfait pas aux dispositions de l'article L. 612-4, un délai est imparti au demandeur pour diviser sa demande ou limiter ses revendications.
+
+####### Article R612-34
+
+Jusqu'au paiement de la redevance de délivrance et d'impression du fascicule du brevet, le déposant peut, de sa propre initiative, procéder au dépôt de demandes divisionnaires de sa demande de brevet initiale.
+
+####### Article R612-35
+
+En cas de division d'une demande de brevet conformément aux articles R. 612-33 et R. 612-34, chaque demande divisionnaire doit être conforme aux dispositions des articles R. 612-3 à R. 612-5.
+
+Faculté est ouverte au demandeur :
+
+- soit de reprendre dans chaque demande divisionnaire le contenu de la demande initiale, sauf à limiter les revendications au seul objet de la demande divisionnaire ;
+- soit de limiter la description, les revendications et les dessins de chaque demande divisionnaire à son seul objet ; dans ce cas, ceux-ci ne contiennent, outre les textes, les revendications et les figures extraits respectivement de la description, des revendications et des dessins de la demande initiale, que les phrases de liaison et d'explication nécessaires à la clarté de l'exposition.
+
+Le dossier d'une des demandes divisionnaires est constitué par le dossier de la demande initiale après application des dispositions de l'alinéa précédent.
+
+Nonobstant les dispositions des articles R. 612-10 et R. 612-11, le délai dans lequel il peut être procédé à la désignation de l'inventeur pour chaque demande divisionnaire ne peut être inférieur à deux mois à compter de l'invitation prévue à l'article R. 612-11. Mention de la date d'expiration de ce délai est faite dans la notification.
+
+###### Sous-section 3 : Rectification, retrait et publication de la demande
+
+####### Article R612-36
+
+Jusqu'au paiement de la redevance de délivrance et d'impression du fascicule du brevet, le demandeur peut, sur requête justifiée, demander la rectification des fautes d'expression ou de transcription ainsi que des erreurs relevées dans les pièces déposées.
+
+Si la requête porte sur la description, les revendications ou les dessins, la rectification n'est autorisée que si elle s'impose à l'évidence, aucun autre texte ou tracé n'ayant pu manifestement être envisagé par le demandeur.
+
+La requête est présentée par écrit et comporte le texte des modifications proposées ; elle n'est recevable que si elle est accompagnée de la justification du paiement de la redevance exigible.
+
+####### Article R612-37
+
+Sous réserve des dispositions de l'article L. 612-13, si l'examen prévu à l'article L. 612-11 a fait apparaître des irrégularités, la description, les revendications ou les dessins ne peuvent être modifiés que dans la mesure nécessaire pour remédier aux irrégularités constatées.
+
+####### Article R612-38
+
+La demande de brevet peut être retirée à tout moment, par une déclaration écrite, jusqu'au paiement de la redevance de délivrance et d'impression du fascicule du brevet.
+
+Cette déclaration ne peut viser qu'une seule demande. Elle est formulée par le demandeur ou par un mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit joindre à la déclaration un pouvoir spécial de retrait.
+
+Si la demande de brevet a été déposée au nom de plusieurs personnes, son retrait ne peut être effectué que s'il est requis par l'ensemble de celles-ci.
+
+Si des droits réels, de gage ou de licence ont été inscrits au Registre national des brevets, la déclaration de retrait n'est recevable que si elle est accompagnée du consentement écrit des titulaires de ces droits.
+
+Si la demande est retirée après publication au Bulletin officiel de la propriété industrielle de la mention prévue à l'article R. 612-39, le retrait est inscrit d'office au Registre national des brevets.
+
+Dans tous les cas de retrait de la demande, un exemplaire de celle-ci est conservé par l'Institut national de la propriété industrielle.
+
+####### Article R612-39
+
+A l'expiration du délai de dix-huit mois prévu à l'article L. 612-21, ou à tout moment avant l'expiration de ce délai sur requête écrite du demandeur, mention est publiée au Bulletin officiel de la propriété industrielle que la demande de brevet est rendue publique.
+
+A compter du jour de la publication prévue à l'alinéa précédent, toute personne peut prendre connaissance à l'Institut national de la propriété industrielle des pièces du dossier de la demande de brevet et en obtenir reproduction à ses frais.
+
+Toute demande pour laquelle a été requis le bénéfice de la date de dépôt d'une ou plusieurs demandes antérieures dans les conditions prévues à l'article L. 612-3 est rendue publique dix-huit mois après la date de dépôt la plus ancienne dont elle bénéficie.
+
+Toutefois, n'est pas rendue publique toute demande rejetée ou retirée avant le début des préparatifs techniques entrepris en vue de la publication à moins qu'il ne s'agisse d'une demande ayant donné lieu à une division.
+
+Toute demande dont le bénéfice de la date de dépôt a été requis dans une demande ultérieure est rendue publique même si elle est retirée ou rejetée avant le début des préparatifs techniques à moins qu'il n'ait été renoncé, dans le même délai, à ce bénéfice.
+
+####### Article R612-40
+
+La durée des préparatifs techniques prévue à l'article R. 612-39 est fixée par décision du directeur général de l'Institut national de la propriété industrielle. Cette décision est publiée au Bulletin officiel de la propriété industrielle.
+
+####### Article R612-41
+
+Sont exclus de la communication au public :
+- les projets de décision et d'avis, ainsi que les pièces non communiquées au demandeur servant à la préparation de ces décisions et avis.
+- les pièces relatives à la désignation de l'inventeur s'il a renoncé à être désigné en tant que tel dans les conditions prévues à l'article R. 611-16.
+- toute autre pièce écartée de la consultation par décision du directeur général de l'Institut national de la propriété industrielle comme ne présentant pas d'intérêt pour l'information des tiers.
+
+####### Article R612-42
+
+Lorsque l'invention concerne un micro-organisme, toute personne peut, soit à compter du jour de la publication prévue à l'article R. 612-39, soit avant cette date si une copie de la demande de brevet lui a été notifiée, demander à avoir accès à la culture déposée conformément aux articles R. 612-14 et R. 612-15.
+
+La requête est présentée par écrit à l'Institut national de la propriété industrielle. Y figurent notamment le nom et l'adresse du requérant ainsi que son engagement :
+
+1° De ne communiquer à quiconque la culture ou une culture qui en est dérivée, à moins que la demande de brevet n'ait été rejetée ou retirée ou que le brevet n'ait cessé de produire effet ;
+
+2° De n'utiliser la culture ou une culture qui en est dérivée qu'à des fins expérimentales, à moins que la demande de brevet n'ait été rejetée ou retirée ou que n'ait été publiée la mention de la délivrance prévue à l'article R. 612-74 ; toutefois, ce dernier engagement ne fait pas obstacle à l'utilisation de la culture en vertu d'une licence obligatoire ou d'une licence d'office.
+
+####### Article R612-43
+
+Pour l'application de l'article R. 612-42 (1° et 2°), on entend par culture dérivée toute culture qui présente encore les caractéristiques de la culture déposée essentielles à la mise en œuvre de l'invention. Les engagements prévus à l'article R. 612-42 (1° et 2°) ne font pas obstacle à un dépôt d'une culture dérivée aux fins d'une procédure en matière de brevets.
+
+Le demandeur du brevet peut indiquer par une déclaration écrite faite avant le terme des préparatifs techniques en vue de la publication visée à l'article R. 612-39 que, jusqu'à la publication de la délivrance du brevet, du retrait ou du rejet de la demande, seul un expert désigné par le requérant peut avoir accès à la culture déposée.
+
+Peut être désignée comme expert par le requérant :
+
+1° Soit toute personne physique, à condition que le requérant fournisse la preuve, lors du dépôt de la requête, que le demandeur du brevet a donné son accord à cette désignation ;
+
+2° Soit toute personne physique figurant sur une liste établie par le directeur général de l'Institut national de la propriété industrielle.
+
+L'expert a accès à la culture déposée dans les conditions prévues à l'article R. 612-42 et doit souscrire aux engagements qui y sont prévus ; ceux-ci s'appliquent aussi à l'égard du requérant.
+
+Mention est faite le cas échéant sur la requête, par l'Institut national de la propriété industrielle, qu'une demande de brevet se rapportant au micro-organisme a été déposée et que le requérant ou l'expert qu'il a désigné a le droit d'obtenir un échantillon de la culture. Copie de la requête ainsi complétée est communiquée à l'organisme auprès duquel la culture a été déposée ainsi qu'au demandeur ou au titulaire du brevet.
+
+####### Article R612-44
+
+Sous réserve des empêchements résultant de l'application des dispositions des articles R. 612-27 et R. 612-28, le demandeur peut à tout moment obtenir à ses frais une copie officielle des documents de sa demande de brevet.
+
+###### Sous-section 4 : Rejet de la demande
+
+####### Article R612-45
+
+La demande de brevet est rejetée si :
+
+1° Elle n'a pas été complétée dans les délais prévus aux articles R. 612-11 (2e alinéa), R. 612-21 et R. 612-35 (4e alinéa) ;
+
+2° Les redevances de dépôt et de rapport de recherche visées à l'article R. 612-5 n'ont pas été acquittées dans le délai prescrit.
+
+La décision de rejet est notifiée au demandeur qui dispose d'un délai de deux mois à compter de la date de réception de la notification pour présenter des observations ou payer les redevances exigibles visées au 2° du présent article en acquittant la redevance correspondante majorée du supplément prescrit. La décision de rejet est définitive si le demandeur n'a, dans le délai prescrit, ni contesté l'irrégularité ou le défaut de paiement ni acquitté la redevance majorée d'un supplément.
+
+####### Article R612-46
+
+Si, en dehors des cas prévus aux articles R. 612-8 et R. 612-45, la demande de brevet n'est pas régulière en la forme au regard des dispositions du présent titre ou de l'arrêté pris pour leur application ou n'a pas donné lieu au paiement des redevances prescrites, notification en est faite au demandeur.
+
+La notification indique le délai qui lui est imparti pour régulariser son dépôt ou payer les redevances exigibles. Elle peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
+Si la régularisation du dépôt ou le paiement des redevances n'intervient pas dans le délai imparti, la demande de brevet est rejetée.
+
+####### Article R612-47
+
+Si l'objet de la demande divisionnaire déposée en vertu de l'article R. 612-33 ou de l'article R. 612-34 s'étend au-delà du contenu de la description de la demande initiale, le demandeur est invité à modifier la demande divisionnaire dans le sens des indications qui lui sont données et dans le délai qui lui est imparti.
+
+Dans ce délai, le demandeur peut présenter par écrit des observations dans lesquelles il réfute les indications données par l'Institut national de la propriété industrielle pour modifier sa demande divisionnaire.
+
+Si le demandeur n'a pas présenté d'observations ou si la demande divisionnaire n'a pas été modifiée dans le sens des indications données, la demande est rejetée.
+
+Si les observations présentées par le demandeur ne sont pas retenues, notification lui en est faite. Dans le cas où la modification de la demande divisionnaire n'est pas effectuée dans le nouveau délai qui lui est imparti, la demande est rejetée.
+
+####### Article R612-48
+
+Lorsque le demandeur a été invité, en application de l'article R. 612-33, à diviser sa demande, il peut, dans le délai prévu à cet article, présenter par écrit des observations dans lesquelles il réfute l'objection faite par l'Institut national de la propriété industrielle.
+
+Si le demandeur n'a pas présenté d'observations, ou s'il n'a pas limité ses revendications ou si la demande de brevet n'a pas été divisée, la demande est rejetée.
+
+Si les observations présentées par le demandeur ne sont pas retenues, ou si les nouvelles revendications ne permettent pas de satisfaire aux dispositions de l'article L. 612-4, notification lui en est faite. Dans le cas où la division ou la limitation des revendications de la demande initiale n'est pas effectuée dans le nouveau délai qui lui est imparti, la demande est rejetée.
+
+####### Article R612-49
+
+Si la demande de brevet est susceptible d'être rejetée pour l'un des cas prévus à l'article L. 612-12 (4°, 5°, 6° et 8°), notification motivée en est faite au demandeur. La notification précise le délai qui lui est imparti pour présenter ses observations ou de nouvelles revendications.
+
+La demande de brevet est rejetée :
+
+- si le demandeur n'a pas présenté d'observations ou de nouvelles revendications dans le délai imparti ;
+- si les observations présentées ne sont pas retenues, ou si les nouvelles revendications ne permettent pas de remédier à l'irrégularité.
+
+####### Article R612-50
+
+En cas de non-conformité partielle de la description ou des dessins aux dispositions de l'article L. 611-17 (a) ou L. 612-1, notification en est faite au demandeur.
+
+La notification précise les suppressions envisagées ainsi que le délai imparti au demandeur pour présenter des observations.
+
+Si le demandeur n'a pas présenté d'observations dans le délai imparti ou si ces observations ne sont pas retenues, les suppressions sont effectuées d'office.
+
+####### Article R612-51
+
+Si la demande de brevet est susceptible d'être rejetée pour l'un des cas prévus à l'article L. 612-12 (7° et 9°), notification motivée en est faite au demandeur.
+
+La notification contient mise en demeure d'avoir, selon le cas, soit à modifier la demande de brevet, soit à déposer de nouvelles revendications ou à présenter des observations à l'appui des revendications maintenues. La notification précise le délai qui lui est imparti à cet effet.
+
+Si le demandeur ne défère pas à cette mise en demeure dans le délai imparti, la demande de brevet est rejetée.
+
+####### Article R612-52
+
+Si une demande de brevet est rejetée ou susceptible de l'être en raison de l'inobservation d'un délai imparti par l'Institut national de la propriété industrielle, le rejet n'est pas prononcé ou ne produit pas effet si le demandeur présente une requête en poursuite de la procédure. La requête doit être présentée par écrit dans un délai de deux mois à compter de la notification de la décision de rejet. L'acte non accompli doit l'être dans ce délai. La requête n'est recevable que si elle est accompagnée du paiement de la redevance exigible.
+
+###### Sous-section 5 : Etablissement du rapport de recherche
+
+####### Article R612-53
+
+La procédure d'établissement du rapport de recherche ne peut être différée, conformément aux dispositions de l'article L. 612-15, que si la requête en est présentée au moment du dépôt de la demande. Le paiement de la redevance de rapport de recherche vaut renonciation à cette requête.
+
+Lorsqu'une demande de brevet bénéficie de plusieurs dates conformément aux dispositions de l'article L. 612-3, le délai de dix-huit mois pendant lequel l'établissement du rapport de recherche peut être différé court à compter de la date la plus ancienne.
+
+####### Article R612-54
+
+La requête présentée par tout tiers et tendant à engager la procédure d'établissement du rapport de recherche est formulée par écrit. Elle n'est recevable que si elle est accompagnée de la justification du paiement de la redevance prescrite.
+
+Dès que la requête a été reçue, notification en est faite au demandeur. Si, dans le délai de trois mois à compter de la date de réception de cette notification, le demandeur a effectué le retrait de la demande de brevet ou sa transformation en demande de certificat d'utilité conformément aux dispositions de l'article R. 612-55, la procédure d'établissement du rapport de recherche n'est pas engagée et la redevance prescrite est remboursée à la personne qui a présenté la requête mentionnée au premier alinéa.
+
+A l'expiration du délai fixé à l'alinéa précédent, la procédure d'établissement du rapport de recherche est engagée. Dès que le rapport de recherche préliminaire prévu à l'article R. 612-57 est établi, il est notifié au tiers requérant en même temps qu'au demandeur.
+
+####### Article R612-55
+
+La requête en transformation de la demande de brevet en demande de certificat d'utilité est formulée par écrit à tout moment pendant le délai fixé à l'article L. 612-15, même si le demandeur n'a pas requis le bénéfice des dispositions de cet article ou si un tiers a requis l'application de l'article R. 612-54.
+
+####### Article R612-56
+
+La transformation d'office prévue au deuxième alinéa de l'article L. 612-15 est notifiée au demandeur, qui dispose d'un délai de deux mois à compter de la date de réception de la notification pour présenter des observations ou requérir l'établissement du rapport de recherche en acquittant la redevance prescrite majorée du supplément pour requête tardive.
+
+En cas d'absence d'observations dans le délai, la transformation d'office est maintenue.
+
+Si les observations présentées ne sont pas retenues ou si le rapport de recherche n'a pas été valablement requis, la transformation d'office est confirmée et une nouvelle notification motivée est adressée au demandeur.
+
+####### Article R612-57
+
+Un rapport de recherche préliminaire est établi sur la base des dernières revendications déposées, en tenant compte de la description et, le cas échéant, des dessins. Il cite les documents qui peuvent être pris en considération pour apprécier la nouveauté de l'invention, objet de la demande de brevet, et l'activité inventive.
+
+Chaque citation est faite en relation avec les revendications qu'elle concerne. Si nécessaire, les parties pertinentes du document cité sont identifiées en indiquant notamment la page, la colonne et les lignes ou les figures.
+
+Le rapport de recherche préliminaire distingue entre les documents cités qui ont été publiés avant la date de priorité, entre la date de priorité et la date de dépôt, à la date de dépôt et postérieurement.
+
+Tout document se référant à une divulgation orale, à un usage ou à toute autre divulgation ayant eu lieu antérieurement à la date du dépôt de la demande de brevet est cité dans le rapport de recherche préliminaire en précisant la date de publication du document et celle de la divulgation non écrite.
+
+####### Article R612-58
+
+Le rapport de recherche préliminaire est immédiatement notifié au demandeur, qui, si des antériorités sont citées, doit, sous peine de rejet de la demande de brevet, déposer de nouvelles revendications ou présenter des observations à l'appui des revendications maintenues.
+
+####### Article R612-59
+
+Le demandeur dispose d'un délai de trois mois, renouvelable une fois, à compter de la notification du rapport de recherche préliminaire, pour déposer de nouvelles revendications ou présenter des observations aux fins de discuter l'opposabilité des antériorités citées.
+
+####### Article R612-60
+
+En cas de dépôt de nouvelles revendications, les changements apportés aux revendications sont signalés.
+
+Sur requête, le demandeur peut, dans ce cas, être autorisé à éliminer de la description et des dessins les éléments qui ne seraient plus en concordance avec les nouvelles revendications. Cette requête est recevable jusqu'à la date du paiement de la redevance de délivrance et d'impression du fascicule.
+
+####### Article R612-61
+
+Si l'objet des nouvelles revendications n'est pas couvert par les revendications sur la base desquelles la recherche a été effectuée, notification est faite au demandeur d'avoir à acquitter la redevance prescrite pour l'établissement d'un rapport de recherche préliminaire complémentaire. Si l'intéressé ne défère pas à cette invitation dans le délai qui lui est imparti, le dépôt des nouvelles revendications est déclaré irrecevable et le brevet est délivré avec les revendications sur la base desquelles la recherche a été effectuée.
+
+####### Article R612-62
+
+Le rapport de recherche préliminaire est rendu public en même temps que la demande de brevet ou, s'il n'est pas encore établi, dès sa notification au demandeur. Sa mise à la disposition du public est mentionnée au Bulletin officiel de la propriété industrielle.
+
+####### Article R612-63
+
+Le délai pendant lequel les tiers peuvent présenter des observations expire trois mois après la publication prévue à l'article R. 612-62.
+
+Sous peine d'irrecevabilité, les observations des tiers sont présentées, en double exemplaire, dans les conditions prévues à l'article R. 612-57 et sont accompagnées des documents cités ou de leur reproduction et de tous renseignements ou justifications nécessaires. Cette dernière disposition ne s'applique pas aux brevets d'invention ; toutefois, sur demande expresse de l'Institut national de la propriété industrielle, les brevets étrangers sont fournis dans le délai de deux mois à compter de la date de réception de cette requête.
+
+####### Article R612-64
+
+Le demandeur dispose d'un délai de trois mois à compter de la date de réception de la notification des observations des tiers pour déposer, par écrit, ses observations en réponse ou une nouvelle rédaction des revendications. Ce délai peut être renouvelé une fois sur requête du demandeur.
+
+####### Article R612-65
+
+Le rapport de recherche préliminaire peut être complété à tout moment avant l'établissement du rapport de recherche.
+
+Dans ce cas, il est fait à nouveau application des articles R. 612-57 à R. 612-64.
+
+####### Article R612-66
+
+En cas de retrait de la demande de brevet ou de transformation de celle-ci en demande de certificat d'utilité, il est mis fin à la procédure d'établissement du rapport de recherche après notification du rapport de recherche préliminaire.
+
+####### Article R612-67
+
+Le rapport de recherche est arrêté au vu du rapport de recherche préliminaire en tenant compte, le cas échéant, des revendications déposées en dernier lieu, des observations éventuelles du demandeur déposées à l'appui des revendications maintenues et des observations des tiers.
+
+Il est établi à l'expiration des délais fixés aux articles R. 612-59, R. 612-61,
+R. 612-63 ou R. 612-64, le délai venant à expiration le plus tard étant pris en considération.
+
+####### Article R612-68
+
+Nonobstant l'inscription au Registre national des brevets de droits réels, de gage ou de licence sur une demande de brevet, le demandeur peut modifier les revendications afférentes à cette demande sans le consentement des titulaires de ces droits.
+
+####### Article R612-69
+
+Si le demandeur estime que l'un ou plusieurs des éléments de l'état de la technique cités n'ont pas à être pris en considération pour apprécier, au sens des articles L. 611-11 et L. 611-14, la brevetabilité de l'invention, objet de la demande, parce que leur divulgation résulte d'un abus caractérisé à son égard au sens de l'article L. 611-13, premier alinéa (2e tiret, a), il peut l'indiquer dans ses observations et en donner succinctement les motifs. Une telle indication ne peut modifier la teneur du rapport de recherche préliminaire ou du rapport de recherche.
+
+Toute décision judiciaire définitive statuant sur l'application des dispositions de l'article L. 611-13, premier alinéa (2e tiret, a) est inscrite au Registre national des brevets sur requête du demandeur ou du propriétaire du brevet.
+
+Cette inscription entraîne la modification corrélative du rapport de recherche préliminaire ou du rapport de recherche.
+
+Si cette inscription est faite après la publication du brevet, les exemplaires du brevet dont dispose l'Institut national de la propriété industrielle pour la consultation publique et pour la vente sont revêtus des mentions nécessaires pour faire apparaître la modification du rapport de recherche.
+
+###### Sous-section 6 : Délivrance et publication du brevet
+
+####### Article R612-70
+
+Au terme de l'instruction de la demande de brevet, invitation est faite au demandeur d'acquitter, dans le délai qui lui est imparti par l'Institut national de la propriété industrielle, la redevance de délivrance et d'impression du fascicule.
+
+####### Article R612-71
+
+Le brevet est délivré au nom du demandeur par décision du directeur général de l'Institut national de la propriété industrielle. Notification de cette décision est faite au demandeur.
+
+En cas de cession de la demande, le brevet est délivré au nom du dernier cessionnaire inscrit au Registre national des brevets jusqu'au paiement de la redevance de délivrance et d'impression du fascicule. Toutefois, mention est faite du nom du demandeur.
+
+Le rapport de recherche inséré dans le brevet comporte, le cas échéant, une mention signalant que les revendications sur la base desquelles la recherche a été effectuée ont été modifiées ou que des observations ont été présentées par le demandeur ou par des tiers au cours de la procédure d'établissement du rapport de recherche.
+
+Le brevet comporte notamment les indications relatives à la date de dépôt de la demande, à la date de la publication de celle-ci, à la date de la décision de délivrance et à celle de la publication de la délivrance du brevet au Bulletin officiel de la propriété industrielle ainsi que, le cas échéant, les mentions concernant les priorités revendiquées, le fait qu'il résulte d'une division, ou qu'au moment du dépôt la description ou les revendications étaient rédigées dans une langue étrangère dans les conditions fixées à l'article R. 612-21.
+
+####### Article R612-72
+
+En cas de déchéance des droits attachés à la demande de brevet pour non-paiement des redevances prévues à l'article L. 612-19, il est mis fin à la procédure de délivrance du brevet.
+
+####### Article R612-73
+
+La rédaction d'une revendication modifiée après annulation partielle, prévue à l'article L. 613-27, est présentée par écrit.
+
+Si la revendication modifiée n'est pas conforme au dispositif du jugement, notification en est faite au propriétaire du brevet. La notification précise les changements à apporter à la revendication ainsi que le délai imparti à l'intéressé pour y procéder.
+
+La revendication modifiée est rejetée si le propriétaire du brevet ne défère pas à la notification dans le délai prescrit, ou ne présente pas d'observations pour contester son bien-fondé.
+
+Si les observations présentées ne sont pas retenues, notification en est faite au propriétaire du brevet. Si l'intéressé ne défère pas à la notification prévue au deuxième alinéa dans un nouveau délai qui lui est imparti, la revendication modifiée est rejetée.
+
+##### Section 3 : Diffusion légale des inventions
+
+###### Article R612-74
+
+Mention de la délivrance du brevet est publiée au Bulletin officiel de la propriété industrielle dans le délai d'un mois à compter de la date de la notification de délivrance faite au demandeur.
+
+Cette mention comporte l'indication de la référence au numéro du Bulletin officiel de la propriété industrielle dans lequel la demande de brevet a été rendue publique ainsi que l'existence de modifications des revendications.
+
+A la suite de cette publication, un exemplaire certifié conforme du brevet est adressé au demandeur.
+
+###### Article R612-75
+
+Les textes des brevets sont publiés in extenso et conservés à l'Institut national de la propriété industrielle.
+
+Les dossiers des demandes de brevet sont conservés par l'Institut national de la propriété industrielle jusqu'au terme d'un délai de dix ans après l'extinction des droits attachés aux brevets.
+
+Les pièces originales des descriptions et des dessins des brevets non imprimés avant le 11 avril 1902 restent déposées à l'Institut national de la propriété industrielle.
+
+###### Article R612-76
+
+Les collections des brevets d'invention et le Bulletin officiel de la propriété industrielle sont déposés en vue de la consultation publique et gratuite à l'Institut national de la propriété industrielle.
+
+Ils sont également déposés aux mêmes fins dans les villes dont la liste est fixée par arrêté du ministre chargé de la propriété industrielle et du ministre chargé des affaires culturelles, soit aux archives départementales, soit à la chambre de commerce et d'industrie, soit encore dans une bibliothèque publique ou tout autre établissement désigné par le préfet.
+
+#### Chapitre III : Droits attachés aux brevets
+
+##### Section 1 : Droits d'exploitation
+
+###### Sous-section 1 : Licences de droit
+
+####### Article R613-1
+
+La demande d'admission d'un brevet au régime de la licence de droit prévu à l'article L. 613-10 est présentée par écrit, soit par le propriétaire du brevet, soit par l'un des copropriétaires justifiant qu'il est habilité à concéder des licences non exclusives.
+
+Elle est déclarée irrecevable :
+
+1° En cas de non-respect des dispositions prévues à l'alinéa précédent ;
+
+2° Si le droit de propriété ou de copropriété du requérant n'a pas été inscrit au Registre national des brevets ;
+
+3° S'il résulte du Registre national des brevets qu'une licence exclusive a été consentie.
+
+La décision du directeur général de l'Institut national de la propriété industrielle est notifiée au requérant.
+
+Si la demande du requérant est accueillie, la décision est inscrite au Registre national des brevets et publiée au Bulletin officiel de la propriété industrielle. Il lui est donné toute publicité complémentaire décidée par le directeur général de l'Institut national de la propriété industrielle.
+
+####### Article R613-2
+
+Toute personne qui entend obtenir une licence de droit en informe le propriétaire du brevet par lettre recommandée. La lettre précise l'utilisation qui sera faite de l'invention. Copie de la lettre, accompagnée de l'indication de sa date d'envoi au propriétaire du brevet, est adressée à l'Institut national de la propriété industrielle.
+
+Le bénéfice de la licence est acquis, pour l'utilisation indiquée, une semaine après l'envoi de la lettre au propriétaire du brevet.
+
+A défaut d'accord entre les parties, le prix de la licence est fixé selon la procédure prévue aux articles R. 613-4 à R. 613-8. Il est révisé dans les mêmes conditions si des faits nouveaux le justifient. Toutefois, aucune demande de révision ne peut être présentée moins d'un an après la dernière fixation du prix.
+
+####### Article R613-3
+
+La demande de révocation de la décision qui a admis un brevet au régime de la licence de droit est présentée par écrit.
+
+La révocation, dès qu'elle est prononcée, est notifiée au requérant, inscrite au Registre national des brevets et publiée au Bulletin officiel de la propriété industrielle.
+
+###### Sous-section 2 : Licences obligatoires.
+
+####### Article R613-4
+
+Les demandes tendant à obtenir une licence obligatoire en application des articles L. 613-11 à L. 613-15 sont soumises aux tribunaux désignés conformément aux dispositions de l'article L. 615-17. Elles sont formées, instruites et jugées conformément à la procédure de droit commun, sous réserve des dispositions prévues aux articles R. 613-5 à R. 613-44.
+
+####### Article R613-5
+
+A peine d'irrecevabilité, l'assignation et les conclusions doivent être, dans les quinze jours de la signification ou de la notification, communiquées par lettre recommandée avec demande d'avis de réception à l'Institut national de la propriété industrielle par la partie qui a signifié ou notifié.
+
+####### Article R613-6
+
+Le ministre chargé de la propriété industrielle peut présenter au tribunal ses observations sur la demande de licence par mémoire adressée au secrétariat-greffe.
+
+Le directeur général de l'Institut national de la propriété industrielle ou un fonctionnaire de son service, délégué par le ministre chargé de la propriété industrielle, est entendu, s'il le désire, par le tribunal.
+
+####### Article R613-7
+
+Les dispositions des articles R. 613-4 à R. 613-6 s'appliquent à la procédure devant la cour d'appel.
+
+####### Article R613-8
+
+Toutes les décisions prises par les tribunaux, les cours d'appel et la Cour de cassation en matière de licences obligatoires sont notifiées immédiatement par le secrétaire-greffier au directeur général de l'Institut national de la propriété industrielle. Les décisions définitives sont inscrites d'office au Registre national des brevets.
+
+####### Article R613-9
+
+Les demandes tendant à la cession de la licence obligatoire, à son retrait ou à la révision des conditions auxquelles elle a été accordée sont soumises aux dispositions des articles R. 613-4 à R. 613-8.
+
+###### Sous-section 3 : Licences d'office dans l'intérêt de la santé publique.
+
+####### Article R613-10
+
+Les arrêtés du ministre chargé de la propriété industrielle prévus aux articles L. 613-16 et L. 613-17 sont pris sur avis motivé d'une commission composée comme suit :
+
+1° Un conseiller d'Etat, président ;
+
+2° Le directeur général de la santé publique ou son représentant ;
+
+3° Le directeur de l'Institut national de la santé et de la recherche médicale ou son représentant ;
+
+4° Le directeur général de l'Institut national de la propriété industrielle ou son représentant ;
+
+5° Le directeur des industries chimiques ou son représentant ;
+
+6° Le chef du service central de la pharmacie et des médicaments ou son représentant ;
+
+7° Deux médecins des hôpitaux de Paris ou leurs suppléants désignés pour trois ans par le ministre chargé de la santé publique ;
+
+8° Deux professeurs des facultés de pharmacie ou leurs suppléants désignés pour trois ans par le ministre chargé de la santé publique ;
+
+9° Deux membres désignés par le ministre chargé de la propriété industrielle.
+
+Le secrétariat de la commission est assuré par l'Institut national de la propriété industrielle.
+
+La commission ne peut valablement siéger, sur une première convocation, que si sept au moins de ses membres sont présents. Si le quorum n'est pas atteint, elle peut valablement siéger, sur une nouvelle convocation, quel que soit le nombre des membres présents.
+
+La voix du président est prépondérante en cas de partage.
+
+####### Article R613-11
+
+Les rapports devant la commission sont confiés soit aux membres de celle-ci, soit à des membres du Conseil d'Etat, de la Cour des comptes, de l'inspection générale des finances et de l'inspection de la pharmacie, nommés par arrêté du ministre chargé de la propriété industrielle.
+
+Le président désigne, pour chaque affaire, un ou, s'il y a lieu, plusieurs rapporteurs.
+
+Les rapporteurs perçoivent une indemnité dont le montant est fixé par arrêté conjoint du ministre chargé de la propriété industrielle et du ministre de l'économie et des finances.
+
+####### Article R613-12
+
+La commission peut désigner des experts dont la rémunération, assurée dans les mêmes conditions que celles des experts auprès des tribunaux, donne lieu à un arrêté de taxe du président de la commission.
+
+####### Article R613-13
+
+Dans les cas prévus à l'article L. 613-16, la commission est saisie par décision motivée du ministre chargé de la propriété industrielle, prise sur requête du ministre chargé de la santé publique.
+
+Cette décision est notifiée, dans les quarante-huit heures, avec ses motifs, au propriétaire du brevet et, le cas échéant, aux titulaires de licences sur ce brevet inscrites au Registre national des brevets, ou à leurs représentants en France.
+
+Son dispositif est publié sans délai au Bulletin officiel de la propriété industrielle.
+
+####### Article R613-14
+
+Le propriétaire du brevet et les titulaires de licences peuvent, dans les quinze jours suivant réception de la notification prévue à l'article précédent, ou, si la notification ne leur est pas parvenue, suivant la publication prévue au même article, adresser leurs observations à la commission.
+
+####### Article R613-15
+
+Les propositions du rapporteur et le dossier constitué par lui sont communiqués aux propriétaires du brevet et, le cas échéant, aux titulaires de licences.
+
+Le président fixe les conditions, la date et la forme de cette communication ainsi que le délai dans lequel les intéressés sont admis à présenter leurs observations.
+
+####### Article R613-16
+
+La commission se prononce dans un délai de deux mois à compter du jour où la décision par laquelle elle est saisie est parvenue à son secrétariat.
+
+####### Article R613-17
+
+L'arrêté prévu à l'article L. 613-16 est pris immédiatement après l'avis de la commission. Il est notifié au propriétaire du brevet, aux titulaires de licences et au directeur général de l'Institut national de la propriété industrielle. Il est inscrit d'office au Registre national des brevets.
+
+####### Article R613-18
+
+La demande de licence d'exploitation prévue à l'article L. 613-17 est adressée au ministre chargé de la propriété industrielle.
+
+Elle indique :
+
+1° Les nom, prénoms, profession, adresse et nationalité du demandeur et, éventuellement, le nom de la personne chargée de le représenter ou de l'assister ;
+
+2° Le brevet dont la licence est demandée ;
+
+3° La justification de la qualification du demandeur notamment du point de vue légal, technique, industriel et financier.
+
+Dans les quarante-huit heures de sa réception par le ministre, la demande est notifiée au propriétaire du brevet et, le cas échéant, aux titulaires de licences inscrites au Registre national des brevets.
+
+####### Article R613-19
+
+Dans le délai maximum de deux mois à compter de la réception de la demande, la commission visée à l'article R. 613-10 donne son avis sur les conditions d'octroi de la licence d'exploitation, notamment quant à sa durée et à son champ d'application.
+
+Cet avis est notifié au demandeur de licence ainsi qu'au propriétaire du brevet et, le cas échéant, aux titulaires de licences inscrites au Registre national des brevets. Le président de la commission fixe le délai qui est imparti au demandeur de licence, au propriétaire du brevet et aux titulaires de licences pour faire connaître leurs observations sur les conditions d'octroi de la licence envisagées par la commission.
+
+Ces observations sont soumises à la commission.
+
+####### Article R613-20
+
+Le ministre chargé de la propriété industrielle prend sa décision au vu de l'avis définitif émis par la commission, après examen des observations des intéressés.
+
+####### Article R613-21
+
+L'arrêté d'octroi de la licence d'exploitation prévu à l'article L. 613-17 est notifié au propriétaire du brevet, aux titulaires de licences et au bénéficiaire de la licence sollicitée.
+
+Il est inscrit d'office au Registre national des brevets.
+
+####### Article R613-22
+
+Le demandeur de licence, le propriétaire du brevet et les titulaires de licences ou leurs représentants peuvent être entendus par la commission chargée d'émettre les avis prévus aux articles R. 613-10 et R. 613-19, soit sur leur demande, soit sur convocation d'office de la commission.
+
+Les convocations leur sont adressées au moins huit jours à l'avance.
+
+####### Article R613-23
+
+Au cas où les délais prévus aux articles R. 613-14, R. 613-15 et R. 613-19 (alinéa 2) ne sont pas observés, la commission passe outre sans rappel ni mise en demeure.
+
+####### Article R613-24
+
+Dans les instances en fixation des redevances prévues à l'article L. 613-17 (alinéa 3), l'assignation est faite à jour fixe.
+
+####### Article R613-25
+
+Les modifications des clauses de la licence d'exploitation demandées soit par le propriétaire du brevet, soit par le titulaire de cette licence sont décidées et publiées selon la procédure prescrite pour l'octroi de ladite licence. Si elles portent sur le montant des redevances, elles sont décidées selon la procédure prescrite pour la fixation initiale de ce montant.
+
+La procédure d'octroi de la licence est également applicable au retrait de cette licence demandé par le propriétaire du brevet pour inexécution des obligations imposées au titulaire de la licence.
+
+###### Sous-section 4 : Licences d'office dans l'intérêt du développement économique
+
+####### Article R613-26
+
+La mise en demeure prévue à l'article L. 613-18 (alinéa 1er) fait l'objet d'une décision motivée du ministre chargé de la propriété industrielle, prise après consultation du ministre de l'économie et des finances et du ministre chargé de la recherche scientifique et des questions atomiques et spatiales. Cette décision précise les besoins de l'économie nationale qui n'ont pas été satisfaits.
+
+La décision est notifiée, avec ses motifs, au propriétaire du brevet et, le cas échéant, aux titulaires de licences inscrites au Registre national des brevets ou à leurs représentants en France.
+
+####### Article R613-27
+
+Le délai d'un an prévu à l'alinéa 2 de l'article L. 613-18 court du jour de la réception de la notification prévue à l'article R. 613-26. Les excuses légitimes prévues à l'alinéa 3 de l'article L. 613-18 doivent être présentées dans ce délai.
+
+Le délai supplémentaire que le ministre chargé de la propriété industrielle peut accorder à l'intéressé en vertu du même alinéa 3 court à compter de la date d'expiration dudit délai d'un an.
+
+La décision accordant ce délai supplémentaire est prise et notifiée selon la procédure et dans les formes prévues pour la décision de mise en demeure à l'article R. 613-26.
+
+####### Article R613-28
+
+Le décret en Conseil d'Etat soumettant le brevet, objet de la mise en demeure, au régime de la licence d'office, est pris sur le rapport conjoint du ministre chargé de la propriété industrielle, du ministre de l'économie et des finances, du ministre chargé de la recherche scientifique et des questions atomiques et spatiales et, le cas échéant, du ministre directement intéressé compte tenu de l'objet du brevet.
+
+Il fixe les conditions auxquelles devront satisfaire les demandeurs de licences d'office, en tenant compte des propositions d'exploitation éventuellement faites par le propriétaire du brevet.
+
+Il est notifié au propriétaire du brevet et aux titulaires de licences. Il est inscrit d'office au Registre national des brevets et publié au Journal officiel.
+
+####### Article R613-29
+
+La demande de licence d'exploitation prévue à l'article L. 613-18 (alinéa 4) est adressée au ministre chargé de la propriété industrielle.
+
+Elle indique :
+
+1° Les nom, prénom et profession du demandeur et, éventuellement, le nom de la personne chargée de le représenter ou de l'assister ;
+
+2° Le brevet dont la licence est demandée ;
+
+3° La justification de la qualification du demandeur, du point de vue technique, industriel et financier, pour l'exploitation du brevet en cause, au regard des conditions visées à l'alinéa 2 de l'article R. 613-28.
+
+####### Article R613-30
+
+Copie de la demande de licence est notifiée par le ministre chargé de la propriété industrielle au propriétaire du brevet et, le cas échéant, aux titulaires de licences dudit brevet. Ceux-ci disposent d'un délai de deux mois à compter de la réception de la notification pour présenter leurs observations audit ministre.
+
+####### Article R613-31
+
+L'arrêté prévu à l'article L. 613-18 (alinéa 5) est notifié au propriétaire du brevet, aux titulaires de licences et au bénéficiaire de la licence sollicitée. Il est inscrit d'office au Registre national des brevets.
+
+####### Article R613-32
+
+Les instances tendant à la fixation des redevances prévues à l'article L. 613-18 sont portées devant le tribunal de grande instance de Paris.
+
+Dans ces instances, l'assignation est faite à jour fixe.
+
+####### Article R613-33
+
+Les modifications des clauses de la licence d'exploitation demandées soit par le titulaire du brevet, soit par le titulaire de cette licence sont décidées et publiées selon la procédure prescrite pour l'octroi de ladite licence. Si elles portent sur le montant des redevances, elles sont décidées selon la procédure prescrite pour la fixation initiale de ce montant.
+
+La procédure d'octroi de la licence d'exploitation est également applicable au retrait de cette licence demandé par le propriétaire du brevet pour inexécution des obligations imposées au titulaire de la licence.
+
+###### Sous-section 5 : Licences d'office et expropriation pour les besoins de la défense nationale
+
+####### Article R613-34
+
+La demande adressée par le ministre chargé de la défense nationale au ministre chargé de la propriété industrielle en vue d'obtenir, en application de l'article L. 613-19, une licence d'office pour les besoins de la défense nationale, comporte toutes précisions utiles sur les conditions nécessaires à la satisfaction de ces besoins et se rapportant en particulier :
+
+1° Au caractère total ou partiel de la licence en ce qui concerne les applications de l'invention, objet de la demande de brevet ou du brevet ;
+
+2° A la durée de la licence ;
+
+3° Aux droits et obligations respectifs de l'Etat et du propriétaire de la demande de brevet ou du brevet en ce qui concerne les perfectionnements ou modifications apportés par l'un d'eux à l'invention.
+
+####### Article R613-35
+
+L'arrêté du ministre chargé de la propriété industrielle accordant la licence en fixe les conditions compte tenu des éléments de la demande ci-dessus précisés. Il est immédiatement notifié par le ministre chargé de la propriété industrielle au ministre chargé de la défense nationale et au propriétaire de la demande de brevet ou du brevet. Il est inscrit d'office au Registre national des brevets. S'il s'agit d'une demande de brevet, il n'est procédé à l'inscription qu'après que ladite demande a été rendue publique.
+
+####### Article R613-36
+
+A la suite des notifications prévues à l'article précédent, le propriétaire de la demande de brevet ou du brevet fait connaître au ministre chargé de la défense nationale, par lettre recommandée avec demande d'avis de réception, ses prétentions quant à la rémunération de la licence accordée à l'Etat.
+
+Le tribunal de grande instance ne peut être saisi en vue de la fixation du montant de la rémunération, en application de l'article L. 613-19 (quatrième alinéa), avant l'expiration d'un délai de quatre mois à compter de la date de réception de la lettre recommandée ci-dessus mentionnée.
+
+####### Article R613-37
+
+Si la licence d'office a pour objet l'exploitation d'une invention couverte par une demande de brevet dont la divulgation et la libre exploitation sont interdites par application des articles L. 612-9 ou L. 612-10 (alinéas 1 et 2), la juridiction saisie en vue de la fixation de la rémunération de la licence d'office statue, tant au fond qu'avant-dire droit, par des décisions qui ne contiennent aucune analyse de l'invention de nature à en entraîner la divulgation.
+
+Ces décisions sont rendues en chambre du conseil. Seuls le ministère public, les parties ou leurs mandataires peuvent en obtenir copie.
+
+Au cas où la licence d'office a pour objet l'exploitation d'une invention couverte par un brevet ou par une demande de brevet autre que celle visée à l'alinéa 1 du présent article, si les applications de ladite invention déjà réalisées ou envisagées présentent un caractère secret, les décisions de la juridiction saisie ne contiennent aucune mention de nature à divulguer lesdites applications et sont soumises aux dispositions de l'alinéa 2 ci-dessus.
+
+Si une expertise est ordonnée dans les cas visés aux alinéas 1 et 3 du présent article, elle ne peut être effectuée que par des personnes agréées par le ministre chargé de la défense nationale et, si besoin est, devant ses représentants.
+
+####### Article R613-38
+
+Les dispositions de l'article R. 613-37 s'appliquent, indépendamment de l'action en fixation de la rémunération de la licence d'office, à l'occasion de toute instance relative à une contestation née de l'exécution de l'arrêté accordant une telle licence.
+
+####### Article R613-39
+
+Le décret prononçant, dans les conditions prévues par l'article L. 613-20, l'expropriation d'une invention, objet d'une demande de brevet ou d'un brevet, est notifié par le ministre chargé de la propriété industrielle au propriétaire de la demande de brevet ou du brevet.
+
+####### Article R613-40
+
+A la suite de la notification prévue à l'article précédent, il est procédé, pour la fixation de l'indemnité d'expropriation, comme il est prévu pour la rémunération de la licence d'office par les articles R. 613-36 et R. 613-37.
+
+####### Article R613-41
+
+Lorsque l'action civile prévue à l'article L. 615-10 est intentée sur la base d'une demande de brevet faisant l'objet des interdictions prévues aux articles L. 612-9 ou L. 612-10 (premier et deuxième alinéas) ou lorsqu'elle concerne des études ou des fabrications telles que visées aux alinéas 2 et 3 dudit article L. 615-10, les décisions judiciaires auxquelles elle donne lieu sont soumises aux dispositions de l'article R. 613-37.
+
+####### Article R613-42
+
+Lorsqu'un recours est formé contre un arrêté pris en application de l'article L. 612-10 (premier et deuxième alinéas) ou contre un arrêté ou un décret pris en application de l'article L. 613-19 ou de l'article L. 613-20, dans le cas où cet arrêté ou ce décret concerne une invention dont la divulgation et la libre exploitation sont interdites, la juridiction administrative statue, tant au fond qu'avant-dire droit, par des décisions qui ne contiennent aucune analyse de l'invention de nature à en entraîner la divulgation.
+
+Les débats ont lieu et les décisions sont rendues en séance non publique. Seuls les parties ou leurs mandataires peuvent recevoir communication de la décision intervenue.
+
+Si une expertise est ordonnée, elle ne peut être effectuée que par des personnes agréées par le ministre chargé de la défense nationale et, si besoin est, devant ses représentants.
+
+###### Sous-section 6 : Dispositions diverses
+
+####### Article R613-43
+
+Les notifications et communications au propriétaire du brevet ou de la demande de brevet prévues par les dispositions des articles R. 613-10 à R. 613-42 sont valablement faites à l'adresse indiquée dans la demande de brevet ou à la dernière adresse que le propriétaire du brevet a notifiée à l'administration, soit à celle de son représentant en France. Est considéré comme tel le mandataire désigné par le demandeur du brevet au moment du dépôt de sa demande, à moins que la désignation d'un autre mandataire n'ait été notifiée à l'administration.
+
+Toutes les notifications et communications adressées au propriétaire du brevet ou de la demande de brevet, à ses ayants cause ou aux demandeurs ou bénéficiaires de licences d'office en application des dispositions prévues aux articles R. 613-10 à R. 613-42 sont obligatoirement faites par lettre recommandée avec demande d'avis de réception.
+
+####### Article R613-44
+
+Les dispositions prévues aux articles R. 613-4 à R. 613-43 et R. 613-51 s'appliquent aux certificats d'addition.
+
+##### Section 2 : Transmission et perte des droits
+
+###### Article R613-45
+
+La renonciation au brevet ou à une ou plusieurs de ses revendications est faite par une déclaration écrite.
+
+Cette déclaration ne peut viser qu'un seul brevet. Elle est formulée par le propriétaire du brevet ou par un mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit joindre à la déclaration un pouvoir spécial de renonciation.
+
+Si le brevet appartient à plusieurs personnes, la renonciation ne peut être effectuée que si elle est requise par l'ensemble de celles-ci.
+
+Si des droits réels, de gage ou de licence, ont été inscrits au Registre national des brevets, la déclaration de renonciation n'est recevable que si elle est accompagnée du consentement des titulaires de ces droits.
+
+La renonciation est inscrite au Registre national des brevets. Elle prend effet à la date de cette inscription.
+
+Un avis d'inscription est adressé à l'auteur de la renonciation.
+
+###### Article R613-46
+
+La redevance annuelle pour le maintien en vigueur des demandes de brevet ou des brevets, prévue à l'article L. 612-19, est due pour chaque année de la durée des brevets. La redevance de dépôt couvre la première annuité. Le paiement des annuités vient à échéance le dernier jour du mois de la date anniversaire du dépôt de la demande. Il n'est pas accepté s'il est fait plus d'une année avant l'échéance de la redevance annuelle.
+
+###### Article R613-47
+
+I. - Le délai de six mois prévu par le second alinéa de l'article L. 612-19, pendant lequel les paiements effectués après la date d'échéance sont validés moyennant le paiement d'une redevance de retard, est compté du jour de l'échéance de la redevance annuelle.
+
+Est considéré comme valable tout paiement effectué après la date d'échéance :
+
+- lorsqu'il est relatif à une demande de brevet résultant de la division d'une demande de brevet, à condition qu'il ait lieu au plus tard le dernier jour du quatrième mois suivant la date de réception des pièces de la demande divisionnaire ;
+- lorsqu'il complète un versement insuffisant effectué avant l'échéance, à condition qu'il ait lieu dans le délai de six mois susmentionné.
+
+II. - Le paiement s'effectue au taux en vigueur au jour de paiement, sauf si un avertissement indiquant un taux précédent a déjà été adressé. Toutefois, en cas de restauration, le paiement des redevances échues qui n'ont pas été acquittées à la date de l'inscription de la décision au Registre national des brevets doit être effectué au taux en vigueur à cette date.
+
+###### Article R613-48
+
+Lorsque le paiement d'une redevance annuelle n'est pas effectué à la date de l'échéance normale, un avertissement est adressé au propriétaire de la demande de brevet ou du brevet lui indiquant qu'il encourt la déchéance de ses droits si ce paiement, accompagné de celui de la redevance de retard, n'est pas effectué avant l'expiration du délai de six mois prévu au premier paragraphe de l'article R. 613-47.
+
+L'absence d'avertissement n'engage pas la responsabilité de l'Institut national de la propriété industrielle et ne constitue pas une cause de restauration des droits du propriétaire du brevet.
+
+###### Article R613-49
+
+La requête prévue à l'article L. 613-22-1, tendant à la constatation de la déchéance des droits attachés à une demande de brevet ou à un brevet, est présentée par écrit.
+
+Il y est statué par décision motivée. La décision est notifiée au requérant.
+
+###### Article R613-50
+
+Sont inscrites au Registre national des brevets :
+
+La décision de constatation de déchéance prévue à l'article L. 613-22-1 ;
+
+La mention de l'introduction des recours, action en restauration et pourvoi en cassation ;
+
+Les décisions rendues.
+
+La décision qui restaure le breveté dans ses droits est sans effet si les redevances échues ne sont pas acquittées dans un délai de trois mois à compter de l'inscription de la décision au Registre national des brevets. Mention de la date du paiement est portée au registre.
+
+Les dispositions du présent article sont applicables aux demandes de brevet déposées avant le 25 septembre 1979 ainsi qu'aux brevets délivrés avant cette date.
+
+###### Article R613-51
+
+Le délai prévu à l'alinéa 2 de l'article L. 613-21 est de quinze jours à compter de la date de la signature de la saisie prévue à l'alinéa premier dudit article.
+
+##### Section 3 : Copropriété des brevets
+
+##### Section 4 : Recours en restauration
+
+###### Article R613-52
+
+Les recours en restauration prévus aux articles L. 612-16 et L. 613-22 sont adressés par écrit, accompagnés de la redevance prescrite, au directeur général de l'Institut national de la propriété industrielle qui statue par décision motivée.
+
+La décision est notifiée au requérant.
+
+##### Section 5 : Registre national des brevets
+
+###### Article R613-53
+
+Le Registre national des brevets est tenu par l'Institut national de la propriété industrielle.
+
+Y figurent, pour chaque demande de brevet ou brevet :
+
+1° L'identification du demandeur, et les références de la demande de brevet ou du brevet, ainsi que les actes ultérieurs en affectant l'existence ou la portée ;
+
+2° Les actes modifiant la propriété de la demande de brevet ou du brevet ou la jouissance des droits qui lui sont attachés ; en cas de revendication de propriété : l'assignation correspondante ainsi que la suspension et la reprise de la procédure de délivrance ;
+
+3° Les changements de nom, de forme juridique ou d'adresse ainsi que les rectifications d'erreurs matérielles affectant les inscriptions.
+
+Aucune inscription n'est portée au registre tant que la demande de brevet n'est pas rendue publique dans les conditions prévues à l'article R. 612-39.
+
+###### Article R613-54
+
+Les indications mentionnées à l'article R. 613-53, deuxième alinéa (1°), sont inscrites, soit à l'initiative de l'Institut national de la propriété industrielle, soit sur réquisition du greffier de la juridiction ou sur requête d'une des parties s'il s'agit d'une décision judiciaire définitive d'annulation ou rendue sur une action en revendication de propriété.
+
+###### Article R613-55
+
+Les actes modifiant la propriété de la demande de brevet ou du brevet ou la jouissance des droits qui lui sont attachés, tels que cession, concession d'un droit d'exploitation, constitution ou cession d'un droit de gage ou renonciation à ce dernier, saisie, validation et mainlevée de saisie, sont inscrits à la demande de l'une des parties à l'acte.
+
+La demande comprend :
+
+1° Un bordereau de demande d'inscription ;
+
+2° Un des originaux de l'acte sous seing privé constatant la modification de la propriété ou de la jouissance, ou une expédition de cet acte s'il est authentique ;
+
+3° Une reproduction de l'acte susmentionné lorsque le demandeur entend que l'original ou l'expédition lui soit restitué, ou un extrait lorsqu'il souhaite limiter l'inscription à ce dernier ;
+
+4° La justification du paiement de la redevance prescrite ;
+
+5° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+
+###### Article R613-56
+
+Par dérogation à l'article R. 613-55, deuxième alinéa (2°), peut être produit avec la demande :
+
+1° En cas de mutation par décès, tout acte établissant le transfert, à la demande des héritiers ou légataires ;
+
+2° En cas de transfert par suite de fusion, scission ou absorption, une copie certifiée conforme, par le greffier ou le directeur général de l'Institut national de la propriété industrielle, des actes correspondants déposés en annexe au registre du commerce et des sociétés ;
+
+3° Sur justification de l'impossibilité matérielle de produire l'original ou l'expédition, tout document établissant la modification de la propriété ou de la jouissance.
+
+###### Article R613-57
+
+Les changements de nom, de forme juridique, d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande du titulaire de la demande de brevet ou du brevet. Toutefois, lorsque ces changements et rectifications portent sur un acte précédemment inscrit, la demande peut être présentée par toute partie à l'acte.
+
+La demande comprend :
+
+1° Un bordereau de demande d'inscription ;
+
+2° La justification du changement intervenu ou de la réalité de l'erreur matérielle à rectifier ;
+
+3° La justification du paiement de la redevance prescrite ;
+
+4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+
+###### Article R613-58
+
+En cas de non-conformité d'une demande d'inscription, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser sa demande ou présenter des observations. A défaut de régularisation ou d'observation permettant de lever l'objection, la demande est rejetée par décision du directeur général de l'Institut national de la propriété industrielle.
+
+La notification peut être assortie d'une proposition de régularisation. Dans ce cas, cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
+###### Article R613-59
+
+Toute inscription portée au Registre national des brevets fait l'objet d'une mention au Bulletin officiel de la propriété industrielle.
+
+Toute personne intéressée peut obtenir de l'institut :
+
+1° Une reproduction des inscriptions portées au Registre national des brevets ;
+
+2° Un certificat constatant qu'il n'existe pas d'inscription.
+
+##### Section 6 : Etablissement de l'avis documentaire
+
+###### Article R613-60
+
+L'avis documentaire prévu à l'article L. 612-23 est établi sur la base du rapport de recherche à la demande écrite du titulaire du brevet, de toute autre personne intéressée ou de toute autorité administrative.
+
+Peuvent être annexés à la demande des documents non cités dans le rapport de recherche que le demandeur souhaite voir pris en considération. S'ils sont rédigés en langue étrangère, une traduction peut être requise par l'Institut national de la propriété industrielle.
+
+La demande est irrecevable si elle n'est pas accompagnée de la justification du paiement de la redevance prescrite.
+
+###### Article R613-61
+
+L'avis documentaire est établi selon la procédure ci-après :
+
+I.-Lorsqu'il est demandé par le titulaire du brevet :
+
+1. Un projet est établi et notifié au titulaire du brevet. Un délai lui est imparti pour en discuter éventuellement le bien-fondé.
+
+2. L'avis est établi au vu du projet et des observations le cas échéant formulées. Il est notifié au titulaire du brevet.
+
+II.-Lorsqu'il n'est pas demandé par le titulaire du brevet :
+
+1. La demande d'avis est notifiée sans délai au titulaire du brevet. Un délai lui est imparti pour présenter des observations et, le cas échéant, constituer un mandataire répondant aux conditions prévues à l'article R. 612-2.
+
+2. Un projet est établi au vu des observations en réponse. Ce projet est notifié au titulaire du brevet et au demandeur. Un délai leur est imparti pour en discuter éventuellement le bien-fondé.
+
+3. L'avis est établi au vu du projet d'avis et des observations le cas échéant formulées. Il est notifié au titulaire du brevet et au demandeur.
+
+L'institut veille au respect du principe du contradictoire. Toute observation émanant du titulaire du brevet ou du demandeur est sans délai notifiée à l'autre.
+
+###### Article R613-62
+
+L'avis documentaire est versé au dossier du brevet. Mention est faite de sa délivrance au Bulletin officiel de la propriété industrielle.
+
+##### Section 7 : Réduction des redevances et assistance gratuite
+
+###### Article R613-63
+
+La demande de réduction des redevances prévue à l'article L. 612-20 est présentée par écrit au directeur général de l'Institut national de la propriété industrielle. Elle est accompagnée d'un avis de non-imposition ou d'une justification équivalente.
+
+Il est statué par décision motivée. La décision est notifiée au requérant.
+
+Si la demande est accueillie, le bénéfice de la réduction est acquis au requérant sous réserve qu'il produise chaque année un avis de non-imposition ou une justification équivalente.
+
+###### Article R613-64
+
+En cas d'admission au bénéfice de l'assistance gratuite d'un conseil en propriété industrielle, une copie de la décision est transmise au président de la Compagnie nationale des conseils en propriété industrielle aux fins de la désignation d'un tel conseil.
+
+Le président fait connaître cette désignation au conseil et, le cas échéant, à son employeur, à l'inventeur et au directeur général de l'Institut national de la propriété industrielle.
+
+Le conseil désigné ne peut se récuser ou être récusé que pour des motifs sérieux et légitimes laissés à l'appréciation du président de la Compagnie nationale des conseils en propriété industrielle.
+
+###### Article R613-65
+
+Il est alloué au conseil en propriété industrielle désigné une indemnité forfaitaire au titre des actes de procédure pour lesquels l'assistance est accordée.
+
+Cette indemnité est versée directement à l'intéressé, ou à son employeur s'il est salarié, par l'Institut national de la propriété industrielle.
+
+Son montant est fixé conformément à un barème établi par décision du directeur général de l'Institut national de la propriété industrielle, après avis du conseil d'administration de cet institut.
+
+Le conseil en propriété industrielle ne peut demander aucune autre rémunération à l'inventeur.
+
+#### Chapitre IV : Application de conventions internationales
+
+##### Section 1 : Brevets européens
+
+###### Article R614-1
+
+Les centres régionaux de l'Institut national de la propriété industrielle auprès desquels peuvent être déposées des demandes de brevet européen sont désignés par arrêté du ministre chargé de la propriété industrielle.
+
+###### Article R614-2
+
+Lorsque le dépôt est fait dans un centre régional, les pièces de la demande, accompagnées d'un double du récépissé visé à la règle 24, paragraphe 2, du règlement d'exécution de la convention sur le brevet européen, sont transmises au siège de l'Institut national de la propriété industrielle.
+
+###### Article R614-3
+
+Le dépôt par la voie postale est fait dans les conditions prévues par le second alinéa de l'article R. 612-1.
+
+###### Article R614-4
+
+A l'exception de l'article R. 612-31, les dispositions des articles R. 612-26 à R. 612-32 sont applicables aux demandes de brevet européen déposées auprès de l'Institut national de la propriété industrielle, compte tenu des dispositions des articles L. 614-4 à L. 614-5.
+
+###### Article R614-5
+
+La transformation de la demande de brevet européen en demande de brevet français a lieu dès la réception par l'Institut national de la propriété industrielle de la requête. Un numéro d'enregistrement national lui est attribué.
+
+Sous réserve des dispositions des articles L. 614-4 et L. 614-5, mention de la transformation est publiée au Bulletin officiel de la propriété industrielle dans le délai d'un mois à compter de la réception de la requête. La mention comporte les indications nécessaires à l'identification de la demande de brevet.
+
+Dans le délai de deux mois à compter de la date de la publication visée à l'alinéa précédent ou, dans le cas de demandes de brevet qui ne peuvent être rendues publiques, à compter de la date de réception de la requête en transformation, le demandeur doit fournir la justification du paiement des redevances prévues à l'article R. 614-17 et, s'il y a lieu, la traduction en français du texte original de la demande de brevet européen, ainsi que, le cas échéant, du texte modifié au cours de la procédure devant l'Office européen des brevets.
+
+La procédure de délivrance du brevet se déroule sur la base du texte original de la demande de brevet ou de sa traduction ou, le cas échéant, du texte modifié au cours de la procédure devant l'Office européen des brevets ou de sa traduction.
+
+Si le demandeur n'a pas son domicile ou son siège en France, il doit, dans le même délai, constituer un mandataire en France et communiquer le nom et l'adresse de celui-ci à l'Institut national de la propriété industrielle.
+
+###### Article R614-6
+
+Si, dans le délai prévu au troisième alinéa de l'article R. 614-5, l'une des conditions exigées audit alinéa n'est pas remplie, la demande de brevet est rejetée par décision motivée du directeur général de l'Institut national de la propriété industrielle et notifiée au demandeur. Les redevances payées sont remboursées.
+
+###### Article R614-7
+
+Les dispositions des articles R. 614-5 et R. 614-6 sont applicables aux demandes de certificats d'utilité.
+
+###### Article R614-8
+
+La traduction en français du texte du brevet européen prévue à l'article L. 614-7 doit être remise dans un délai de trois mois à compter de la date de publication au Bulletin européen des brevets de la mention de la délivrance du brevet visée à l'article 97, paragraphe 4, de la convention sur le brevet européen et, le cas échéant, de la mention de la décision concernant l'opposition visée à son article 103. La traduction doit être accompagnée de la justification de la redevance exigible.
+
+###### Article R614-9
+
+Mention de la remise de la traduction du texte du brevet européen est publiée au Bulletin officiel de la propriété industrielle dans le délai d'un mois à compter de la date à laquelle elle a été fournie. Cette mention comporte les indications nécessaires à l'identification du brevet.
+
+A compter du jour de la publication de la mention visée à l'alinéa précédent, toute personne peut prendre connaissance gratuitement à l'Institut national de la propriété industrielle du texte de la traduction et en obtenir reproduction à ses frais.
+
+###### Article R614-10
+
+Mention du défaut de la remise de la traduction du brevet européen ou du défaut de paiement de la redevance exigible dans le délai prévu à l'article R. 614-8 est publiée au Bulletin officiel de la propriété industrielle. Cette mention comporte les indications nécessaires à l'identification du brevet. La redevance payée est remboursée.
+
+###### Article R614-11
+
+La traduction des revendications de la demande de brevet européen visée par l'article L. 614-9 est établie par le demandeur. Son texte est remis à l'Institut national de la propriété industrielle par le demandeur, accompagné d'une réquisition de publication et de la justification du paiement de la redevance exigible. Les dispositions de l'article R. 614-9 sont applicables.
+
+La réquisition de publicité est déclarée irrecevable si elle n'est pas accompagnée de la justification du paiement de la redevance.
+
+###### Article R614-12
+
+Les dispositions de l'article R. 614-11 sont applicables à la production de la traduction révisée du texte du brevet européen ou des revendications de la demande de brevet européen prévue au second alinéa de l'article L. 614-10.
+
+###### Article R614-13
+
+Font l'objet d'une inscription d'office au Registre national des brevets :
+
+1° La décision définitive visée à l'article R. 614-6 ;
+
+2° Le défaut de la remise de la traduction et celui du paiement de la redevance exigible visés à l'article R. 614-10 ;
+
+3° La remise de la traduction et celle de la traduction révisée du texte du brevet européen visées aux articles R. 614-8 et R. 614-12 ;
+
+4° La remise de la traduction et celle de la traduction révisée des revendications de la demande de brevet européen visées aux articles R. 614-11 et R. 614-12.
+
+###### Article R614-14
+
+Font l'objet d'une inscription au Registre national des brevets, sans frais, sur réquisition du greffier du tribunal ou sur requête d'une des parties à l'instance, les décisions judiciaires passées en force de chose jugée prises en application des articles L. 614-12 et L. 615-17.
+
+###### Article R614-15
+
+Les redevances annuelles prévues à l'article L. 612-19 pour la demande de brevet issue de la transformation d'une demande de brevet européen effectuée dans les conditions prévues par les articles R. 614-5 à R. 614-7 ne sont dues que pour les années qui suivent celle au cours de laquelle la demande de brevet européen est réputée transformée. L'annuité qui doit être acquittée est décomptée à partir de la date de dépôt de la demande de brevet européen.
+
+###### Article R614-16
+
+Les redevances annuelles prévues à l'article L. 612-19 qui sont dues pour le brevet européen doivent être acquittées dans les conditions prévues par l'article 141 de la convention sur le brevet européen. Ces redevances sont décomptées à partir de la date de dépôt de la demande de brevet européen.
+
+Lorsque le paiement d'une redevance annuelle n'a pas été effectué à l'expiration du délai visé au paragraphe 2 de l'article 141 de la convention sur le brevet européen, ladite redevance peut être valablement versée dans un délai supplémentaire de six mois, moyennant le paiement d'une redevance de retard dans le même délai.
+
+###### Article R614-17
+
+Les redevances exigibles visées au troisième alinéa de l'article R. 614-5 sont la redevance de dépôt et, le cas échéant, la redevance d'établissement du rapport de recherche prévues à l'article R. 612-5.
+
+Dans le cas prévu au troisième alinéa de l'article L. 614-6, la redevance prévue par l'article R. 612-5, 2°, n'est pas exigible.
+
+###### Article R614-18
+
+La publication de chacune des traductions et des traductions révisées mentionnées aux articles R. 614-8, R. 614-11 et R. 614-12 donne lieu au paiement d'une redevance exigible lors de la remise de la traduction.
+
+###### Article R614-19
+
+Des redevances sont perçues pour l'établissement et la transmission des copies de la demande de brevet européen visées à l'article 136, paragraphe 2, de la convention sur le brevet européen.
+
+###### Article R614-20
+
+Les dispositions des articles R. 411-19 à R. 411-26 et R. 618-1 à R. 618-3 sont applicables aux décisions, notification et délais prévus aux articles R. 614-1 à R. 614-19.
+
+##### Section 2 : Demandes internationales
+
+###### Article R614-21
+
+Une demande internationale peut être déposée auprès de l'Institut national de la propriété industrielle soit à son siège, soit dans ses centres régionaux désignés par arrêté du ministre chargé de la propriété industrielle. Sous réserve de l'obligation prévue à l'article L. 614-18, elle peut également être déposée auprès de l'Office européen des brevets, agissant en qualité d'office récepteur.
+
+###### Article R614-22
+
+Le dépôt d'une demande internationale peut être fait par la voie postale dans les conditions prévues au deuxième alinéa de l'article R. 612-1.
+
+Le dépôt peut être fait par le déposant personnellement ou par un mandataire ; les dispositions du premier et du second alinéa de l'article R. 612-2 sont applicables.
+
+###### Article R614-23
+
+La demande internationale est établie en langue française.
+
+Elle est déposée en trois exemplaires, ainsi que chacun des documents mentionnés dans le bordereau visé à la règle 3, paragraphe 3, lettre a (ii) du règlement d'exécution du traité de coopération en matière de brevets. Toutefois, la requête visée à la règle 3 précitée, paragraphe 1, et les documents justifiant des taxes exigibles sont déposés en un seul exemplaire.
+
+S'il n'est pas satisfait aux dispositions du précédent alinéa, les exemplaires manquants sont préparés d'office par l'Institut national de la propriété industrielle.
+
+###### Article R614-24
+
+Un récépissé, indiquant au moins le numéro attribué à la demande internationale, la nature et le nombre des pièces de la demande, ainsi que de leur réception, est délivré au déposant.
+
+Lorsque le dépôt est fait dans un centre régional, les pièces de la demande, accompagnées d'un double du récépissé, sont transmises sans délai au siège de l'Institut national de la propriété industrielle.
+
+###### Article R614-25
+
+A l'exception de l'article R. 612-31, les dispositions prévues aux articles R. 612-26 à R. 612-32 sont, compte tenu des dispositions des articles L. 614-20 à L. 614-22, applicables aux demandes internationales déposées auprès de l'Institut national de la propriété industrielle.
+
+###### Article R614-26
+
+Le dépôt d'une demande internationale donne lieu au paiement de la taxe de transmission prévue par la règle 14 du règlement d'exécution du traité de coopération en matière de brevets. Cette taxe doit être acquittée avant l'expiration du délai d'un mois à compter de la date de réception de la demande internationale.
+
+###### Article R614-27
+
+La taxe de base de la taxe internationale et la taxe de recherche prévues par les règles 15 et 16 du règlement d'exécution du traité de coopération en matière de brevets doivent être acquittées avant l'expiration d'un délai d'un mois à compter de la date de réception de la demande internationale.
+
+La taxe internationale et la taxe de recherche sont acquittées en euros.
+
+###### Article R614-28
+
+Les taxes de désignation faisant partie de la taxe internationale doivent être acquittées :
+
+1° Lorsque la demande internationale ne contient pas de revendication de priorité selon l'article 8 du traité de coopération en matière de brevet, dans un délai d'un an à compter de la date de réception de la demande internationale ;
+
+2° Lorsque la demande internationale contient une telle revendication de priorité, dans un délai d'un an à compter de la date de priorité ou dans un délai d'un mois à compter de la date de réception de la demande internationale si ce mois expire après le terme de l'année qui suit la date de priorité.
+
+###### Article R614-29
+
+Lorsque le paiement de la taxe de transmission de la taxe de recherche et de la taxe internationale n'a pas été effectué dans les délais fixés aux articles R. 614-26 à R. 614-28, le déposant est invité à acquitter dans un délai d'un mois le montant desdites taxes, majoré de la taxe pour paiement tardif prévue à la règle 16 bis 1 a et b du règlement d'exécution du traité de coopération en matière de brevets.
+
+La taxe pour paiement tardif est acquittée en euros.
+
+###### Article R614-30
+
+Les désignations faites selon la règle 4, 9 b du règlement d'exécution du traité de coopération en matière de brevets doivent être confirmées avant l'expiration d'un délai de quinze mois à compter de la date de priorité par une déclaration écrite. La déclaration est accompagnée du paiement de la taxe de désignation et de la taxe de confirmation visées à la règle 15, 5 a dudit règlement.
+
+La taxe de confirmation est acquittée en euros.
+
+###### Article R614-31
+
+Si la demande internationale et les autres documents visés à l'article R. 614-23 sont déposés en un nombre d'exemplaires inférieur à celui fixé par ledit article, une redevance est perçue pour la préparation du nombre d'exemplaires requis. Son paiement doit avoir été fait avant l'expiration d'un délai d'un mois à compter de la date de la notification adressée à cet effet.
+
+###### Article R614-32
+
+La taxe de transmission visée à l'article R. 614-26 est restituée au déposant lorsque la demande internationale n'a pas été transmise au bureau international dans le délai prescrit par la règle 22, paragraphe 3, du règlement d'exécution du traité de coopération en matière de brevets.
+
+###### Article R614-33
+
+Le paiement des taxes et redevances prévues par les articles R. 614-26 à R. 614-32 est libératoire s'il est effectué au taux en vigueur au jour du paiement.
+
+###### Article R614-34
+
+Les dispositions des articles R. 411-19 à R. 411-26 et R. 618-3 s'appliquent au contentieux visé à l'article L. 411-4.
+
+###### Article R614-35
+
+Les modalités d'application des articles R. 614-21 à R. 614-24 sont fixées, en tant que de besoin, par arrêté du ministre chargé de la propriété industrielle.
+
+#### Chapitre V : Actions en justice
+
+##### Section 1 : Mesures probatoires.
+
+###### Article R615-3
+
+Le délai prévu à l'article L. 615-5, quatrième alinéa, et imparti au requérant pour se pourvoir devant le tribunal est de quinze jours à compter du jour où la saisie ou la description est intervenue.
+
+###### Article R615-2
+
+Lorsque la saisie réelle est ordonnée, le juge peut exiger du requérant un cautionnement, qui doit être consigné avant qu'il soit procédé à la saisie.
+
+A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner copie aux détenteurs des objets saisis ou décrits de l'ordonnance et, le cas échéant, de l'acte constatant le dépôt de cautionnement. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
+
+###### Article R615-1
+
+La description détaillée, avec ou sans saisie réelle, des produits ou procédés prétendus contrefaits, prévue par l'article L. 615-5 est ordonnée par le président du tribunal de grande instance dans le ressort duquel les opérations doivent être effectuées.
+
+L'ordonnance est rendue sur simple requête et sur la représentation soit du brevet, du certificat complémentaire de protection, du certificat d'utilité ou du certificat d'addition, soit, dans le cas prévu à l'article L. 615-4, premier alinéa, d'une copie certifiée conforme de la demande de brevet, de certificat complémentaire de protection, de certificat d'utilité ou de certificat d'addition. Dans ce dernier cas, le requérant doit justifier en outre que les conditions prévues audit article L. 615-4 sont remplies.
+
+Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence octroyée en vertu des articles L. 613-10, L. 613-11 ou L. 613-15, le requérant doit justifier que la condition prescrite par l'article L. 615-2, deuxième alinéa, est remplie.
+
+###### Article R615-4
+
+Les présidents des tribunaux de grande instance visés à l'article R. 615-1 sont seuls compétents pour ordonner la description détaillée, avec ou sans saisie réelle, des objets prétendus contrefaits conformément à l'article R. 615-1.
+
+###### Article R615-5
+
+Lorsque, dans un litige civil en matière de brevets d'invention, une expertise technique apparaît nécessaire, le président de la juridiction saisie doit consulter, sur le choix de l'expert, l'un des organismes désignés par arrêté conjoint du garde des sceaux et des ministres intéressés.
+
+Il est fait mention de la consultation dans l'arrêt ou le jugement.
+
+##### Section 2 : Commission paritaire de conciliation.
+
+###### Article R615-6
+
+Le président de la commission paritaire de conciliation prévue à l'article L. 615-21 est nommé pour une période de trois années renouvelable, par arrêté du garde des sceaux, ministre de la justice, et du ministre chargé de la propriété industrielle. La nomination peut porter sur un magistrat honoraire.
+
+Un ou plusieurs suppléants peuvent être nommés dans les mêmes conditions. Ils remplacent le président en cas d'absence ou d'empêchement.
+
+###### Article R615-7
+
+Le président est assisté de deux assesseurs, qu'il désigne pour chaque affaire sur une liste de personnes compétentes dans les matières dont connaît la commission.
+
+La liste est établie et périodiquement mise à jour par le directeur général de l'Institut national de la propriété industrielle, sur proposition des organisations professionnelles et syndicales représentatives au plan national.
+
+L'un des assesseurs est choisi parmi les personnes proposées par les organisations de salariés, l'autre parmi les personnes proposées par les organisations d'employeurs.
+
+Si l'invention intéresse la défense nationale ou est issue d'un contrat d'étude ou de fabrication comportant une classification de sécurité de défense, les assesseurs doivent avoir fait l'objet d'une habilitation préalable par le ministre chargé de la défense. Il en est de même des experts commis ou des techniciens consultés.
+
+###### Article R615-8
+
+Le secrétariat de la commission est assuré par l'Institut national de la propriété industrielle.
+
+###### Article R615-9
+
+La commission se réunit à l'Institut national de la propriété industrielle ou, sur décision du président, dans un de ses centres de province lorsque les circonstances l'exigent.
+
+###### Article R615-10
+
+Il est alloué aux membres de la commission une indemnité forfaitaire pour les affaires dont ils ont à connaître.
+
+L'indemnité comprend le remboursement des frais divers de secrétariat, de correspondance ou de déplacement à l'extérieur de leur résidence, nécessités par l'accomplissement de leur mission.
+
+Le taux et les conditions d'attribution de l'indemnité forfaitaire sont fixés par arrêté conjoint des ministres chargés des finances et de la propriété industrielle.
+
+###### Article R615-11
+
+Les dépenses occasionnées par les déplacements que les membres de la commission peuvent être appelés à effectuer hors de leur résidence pour l'accomplissement de leur mission leur sont remboursées dans les conditions applicables aux fonctionnaires du groupe I.
+
+###### Article R615-12
+
+La commission est saisie par une demande déposée au secrétariat soit par le requérant, soit par un mandataire justifiant d'un pouvoir. La demande peut être également adressée par lettre recommandée avec demande d'avis de réception.
+
+###### Article R615-13
+
+La demande est signée du requérant ou de son mandataire.
+
+Elle indique :
+
+1° Les nom, prénoms, profession, adresse du requérant et des autres parties ;
+
+2° L'objet du litige ;
+
+3° Les moyens et conclusions du requérant ;
+
+4° Tous les éléments en sa possession pouvant être utiles à la solution du litige.
+
+Y est annexée une copie de la déclaration et des communications effectuées en application des articles R. 611-1 à R. 611-10 ainsi que des différentes pièces dont le requérant entend se prévaloir.
+
+###### Article R615-14
+
+Si la demande n'est pas conforme aux dispositions de l'article précédent, le secrétariat invite le requérant à la compléter dans le délai d'un mois.
+
+Faculté est ouverte, avant l'expiration de ce délai, de soumettre la conformité de la demande à l'appréciation du président. Le président, s'il confirme l'invitation du secrétariat, impartit à l'intéressé un nouveau délai pour y déférer.
+
+Les délais prévus aux alinéas précédents sont prorogés, sur décision du président, si le requérant justifie d'une excuse légitime.
+
+La date de saisine de la commission est celle à laquelle la demande a été complétée dans les conditions prévues au présent article.
+
+###### Article R615-15
+
+La saisine de la commission est notifiée à l'autre partie par le secrétariat.
+
+Invitation lui est faite en même temps de communiquer, dans le délai imparti par le président, ses observations écrites sur le mérite de la demande.
+
+Le ministre de la défense est habilité à prendre connaissance auprès du secrétariat de la commission de toutes les contestations qui sont soumises à la commission.
+
+###### Article R615-16
+
+Dans le délai fixé par le président, l'Institut national de la propriété industrielle communique à cette dernière ceux des éléments en sa possession qui peuvent être divulgués sans porter atteinte aux droits des tiers ou aux intérêts de la défense nationale.
+
+Copie de cette communication est immédiatement adressée aux parties par le secrétariat.
+
+###### Article R615-17
+
+Dès qu'il a été procédé à la désignation des assesseurs, le secrétariat notifie la composition de la commission aux parties et les convoque à une réunion préliminaire.
+
+Chaque partie peut demander le changement des assesseurs pour un motif sérieux et légitime apprécié par le président.
+
+Cette demande est présentée dans les quinze jours de la notification ou dès l'ouverture de la réunion préliminaire, si celle-ci a lieu avant l'expiration de ce délai.
+
+###### Article R615-18
+
+La procédure devant la commission est contradictoire.
+
+###### Article R615-19
+
+Au jour fixé, la commission entend les parties, elle s'efforce de rapprocher leurs points de vue et de parvenir à une conciliation.
+
+Si l'une des parties ne comparaît pas, la commission constate sa défaillance et entend l'autre partie.
+
+Il est dressé un procès-verbal.
+
+En cas de conciliation totale ou partielle, le procès-verbal mentionne le contenu de l'accord. A défaut de conciliation totale, les points contestés sont consignés.
+
+###### Article R615-20
+
+En cas de non-comparution de l'une des parties ou à défaut de conciliation totale, la commission entreprend l'établissement de la proposition de conciliation prévue à l'article L. 615-21.
+
+###### Article R615-21
+
+Le président peut procéder à toute mesure d'instruction. Il peut constater à tout moment la conciliation des parties ou provoquer à cet effet une nouvelle réunion.
+
+###### Article R615-22
+
+Sauf autorisation du président, seuls les membres de la commission et de l'Institut national de la propriété industrielle ainsi que les parties et les personnes qui les assistent ou les représentent sont présents aux réunions de conciliation.
+
+###### Article R615-23
+
+En cas de demande émanant de la partie qui n'a pas saisi la commission ou de jonction de plusieurs demandes relatives à la même invention, le délai de six mois dans lequel est établie la proposition de conciliation court à compter de la date à laquelle la commission a été saisie en dernier lieu.
+
+###### Article R615-24
+
+Lorsque l'invention intéresse la défense nationale, la proposition de conciliation ne contient aucune analyse de l'invention de nature à entraîner sa divulgation.
+
+###### Article R615-25
+
+La proposition de conciliation est signée par le président et par le secrétaire.
+
+Ce dernier la notifie aux parties.
+
+###### Article R615-26
+
+La saisine de la commission suspend toute prescription.
+
+###### Article R615-27
+
+Sur justification de la saisine de la commission, le tribunal de grande instance sursoit à statuer jusqu'à l'expiration du délai de six mois prévu à l'article L. 615-21 à moins que la commission n'ait déjà formulé sa proposition de conciliation.
+
+###### Article R615-28
+
+A défaut d'accord entre les parties, seule la proposition de la commission est portée à la connaissance du tribunal.
+
+###### Article R615-29
+
+L'accord entre les parties résultant de la proposition de conciliation dans le cas prévu à l'article L. 615-21 est rendu exécutoire par décision du président du tribunal de grande instance dans le ressort duquel la proposition de conciliation a été formulée.
+
+###### Article R615-30
+
+Sous réserve des mesures prévues à l'article R. 615-31, les dispositions des articles R. 615-6 à R. 615-29 relatives à la commission paritaire de conciliation sont applicables aux contestations nées de l'application, dans les conditions prévues par les articles R. 611-11 à R. 611-14, de l'article L. 611-7.
+
+###### Article R615-31
+
+Pour ce qui concerne les litiges intéressant les fonctionnaires et agents visés à l'article R. 611-11, il est établi une liste spéciale sur laquelle sont choisis pour chaque affaire les deux assesseurs du président de la commission paritaire de conciliation.
+
+Sous réserve des dispositions du dernier alinéa du présent article, cette liste comprend des personnes inscrites sur proposition, d'une part, des ministres, d'autre part, des organisations représentant le personnel.
+
+La liste de ces organisations est fixée par arrêté du Premier ministre sur proposition des différents ministres.
+
+L'un des assesseurs est choisi parmi les personnes proposées par les organisations précitées, l'autre parmi les personnes proposées par les ministres.
+
+Lorsque l'invention a été réalisée par un agent soumis au statut général des militaires, il est procédé à la désignation de l'assesseur représentant l'agent, par le président de la commission de conciliation, sur une liste de cinq membres du corps militaire du contrôle général des armées établie par le chef du contrôle général des armées et périodiquement mise à jour.
+
+#### Chapitre VI : Le certificat d'utilité
+
+##### Article R616-1
+
+A compter du jour de la publication, prévue à l'article R. 612-39, de la demande du certificat d'utilité mentionné à l'article L. 611-2, et jusqu'à la date de délivrance de ce certificat, toute personne peut adresser à l'Institut national de la propriété industrielle des observations sur la brevetabilité de l'invention, dans les formes prévues en matière de demande de brevet à l'article R. 612-63, alinéa 2.
+
+La teneur de ces observations est notifiée, sans délai, au demandeur qui dispose d'un délai de trois mois pour y répondre.
+
+##### Article R616-2
+
+Le rapport de recherche qui doit être produit dans toute instance en contrefaçon introduite en vertu d'une demande de certificat d'utilité ou d'un certificat d'utilité est établi sur requête écrite du demandeur.
+
+La requête n'est recevable que si elle est accompagnée de la justification du paiement de la redevance prescrite.
+
+##### Article R616-3
+
+Les dispositions des chapitres Ier, II, III, V, VI et VIII du présent titre sont applicables aux demandes de certificat d'utilité et aux certificats d'utilité, à l'exception des articles R. 612-53 à R. 612-69, du troisième alinéa de l'article R. 612-71, des articles R. 613-1 à R. 613-3 et R. 613-60 à R. 613-62.
+
+#### Chapitre VII : Le certificat complémentaire de protection
+
+##### Article R617-1
+
+La redevance de dépôt d'un certificat complémentaire de protection ne couvre pas la première annuité. Le paiement des annuités vient à échéance le dernier jour du mois de la date anniversaire du dépôt de la demande de brevet de base. Le paiement global de toutes les annuités peut être accepté s'il est effectué dans l'année qui précède la prise d'effet du certificat.
+
+##### Article R617-2
+
+Les articles R. 611-18 à R. 611-20, R. 612-1, R. 612-2, R. 612-5 (1°), R. 612-6, R. 612-7, R. 612-36, R. 612-38, R. 612-52, R. 612-71 (alinéas 1 et 2), R. 612-72, R. 613-1 à R. 613-3, R. 613-45 à R. 613-59 et R. 618-1 à R. 618-3 sont applicables aux demandes de certificat complémentaire de protection et aux certificats complémentaires de protection.
+
+#### Chapitre VIII : Dispositions communes
+
+##### Section unique : Procédure
+
+###### Article R618-1
+
+Toute notification est réputée régulière si elle est faite :
+
+Soit au dernier propriétaire de la demande de brevet déclaré à l'Institut national de la propriété industrielle ou, après la publication prévue à l'article R. 612-39, au dernier propriétaire de la demande de brevet ou du brevet inscrit au Registre national des brevets ;
+
+Soit au mandataire.
+
+Si le propriétaire est domicilié à l'étranger, la notification est réputée régulière si elle est faite au dernier mandataire qu'il a constitué auprès de l'Institut national de la propriété industrielle.
+
+Toute personne qui procède au paiement des redevances afférentes à une demande de brevet ou à un brevet déposé avant le 1er juillet 1979 et dont elle n'est pas propriétaire est, sauf déclaration contraire de ce dernier, réputée agir en qualité de mandataire et être habilitée à recevoir les notifications prévues aux articles L. 613-22 et R. 613-48.
+
+###### Article R618-2
+
+Les notifications prévues à l'article L. 613-22 et aux articles R. 612-8, R. 612-9, R. 612-11, R. 612-46 à R. 612-49, R. 612-56, R. 612-73, R. 613-52 et R. 613-58 sont faites par lettre recommandée avec demande d'avis de réception.
+
+L'envoi recommandé peut être remplacé par la remise de la lettre au destinataire, contre récépissé, dans les locaux de l'Institut national de la propriété industrielle.
+
+Si l'adresse du destinataire est inconnue, la notification est faite par publication d'un avis au Bulletin officiel de la propriété industrielle.
+
+###### Article R618-3
+
+Lorsqu'un délai est exprimé en jours, celui de l'acte, de l'événement, de la décision ou de la notification qui le fait courir ne compte pas.
+
+Lorsqu'un délai est exprimé en mois ou en années, ce délai expire le jour du dernier mois ou de la dernière année qui porte le même quantième que le jour de l'acte, de l'événement, de la décision ou de la notification qui fait courir le délai. A défaut de quantième identique, le délai expire le dernier jour du mois.
+
+Lorsqu'un délai est exprimé en mois et en jours, les mois sont d'abord décomptés puis les jours.
+
+Tout délai expire le dernier jour à vingt-quatre heures.
+
+Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour ouvrable suivant.
+
+###### Article R618-4
+
+Les délais impartis par l'Institut national de la propriété industrielle conformément au présent titre ne sont ni inférieurs à deux mois ni supérieurs à quatre mois.
+
+###### Article R618-5
+
+Les modalités d'application des articles R. 612-1 à R. 612-25 et R. 613-53 à R. 613-59 sont fixées par arrêté du ministre chargé de la propriété industrielle.
+
+### Titre II : Protection des connaissances techniques
+
+#### Chapitre Ier : Secret de fabrique
+
+#### Chapitre II : Produits semi-conducteurs
+
+##### Article R622-1
+
+Le dépôt des topographies de produits semi-conducteurs, prévu par les articles L. 622-1 à L. 622-7, est effectué à l'Institut national de la propriété industrielle.
+
+##### Article R622-2
+
+Un dépôt ne peut porter que sur une seule topographie.
+
+Il comprend :
+
+1° Une déclaration de dépôt contenant des renseignements suffisants pour identifier le déposant, la topographie et la date et le lieu de sa première exploitation ou, à défaut, la date à laquelle elle a été fixée ou codée pour la première fois ;
+
+2° Une représentation graphique de la topographie, insérée dans un pli, dans laquelle ont été masquées les parties dont le déposant entend qu'elles ne soient pas communiquées aux tiers ; cette représentation peut être accompagnée d'un support d'informations et de spécimens de produit incorporant la topographie ;
+
+3° La justification du paiement de la redevance.
+
+Le modèle de la déclaration de dépôt ainsi que les spécifications matérielles auxquelles doivent répondre la représentation de la topographie et le pli dans lequel elle est insérée sont fixés par décision du directeur général de l'Institut national de la propriété industrielle.
+
+##### Article R622-3
+
+Le bénéfice de la date de dépôt est acquis au déposant à la date de remise des pièces prévues à l'article précédent. Ce bénéfice lui est acquis même si les pièces sont irrégulières en la forme, sous réserve que leur régularisation n'entraîne aucun changement dans la représentation de la topographie déposée.
+
+En cas de non-conformité du dépôt ou d'irrégularité matérielle, notification est faite au déposant d'avoir à régulariser le dépôt dans un délai qui lui est imparti par le directeur général de l'Institut national de la propriété industrielle et qui ne saurait être inférieur à deux mois ou supérieur à quatre mois. A défaut de régularisation, le dépôt est rejeté.
+
+Le dépôt, dès qu'il est reconnu conforme, est enregistré. L'enregistrement est notifié au déposant et mentionné au Bulletin officiel de la propriété industrielle.
+
+##### Article R622-4
+
+Toute personne peut consulter au siège de l'Institut national de la propriété industrielle les dossiers de dépôt. Aucune copie de dossier ne peut en être établie sans l'autorisation du titulaire.
+
+##### Article R622-5
+
+Le dépôt est inopposable aux tiers si le libellé de la déclaration complété par la représentation accessible au public ne permet pas d'identifier la topographie protégée.
+
+##### Article R622-6
+
+Les articles R. 411-19 à R. 411-26, R. 612-1 (2e alinéa), R. 612-2, R. 612-38, R. 613-45, R. 613-53 à R. 613-59 et R. 618-1 à R. 618-3 sont applicables aux conditions dans lesquelles sont reçus les dépôts, transmis ou modifiés les droits qui y sont attachés, émises les notifications de l'Institut national de la propriété industrielle et réglé le contentieux.
+
+Pour l'application des articles R. 613-53 à R. 613-59, le Registre national visé auxdits articles comporte une section dite Registre national des dépôts de topographies de produits semi-conducteurs. La première inscription prévue à l'article R. 613-53 porte sur le contenu de la déclaration de dépôt, complétée par les dates et références du dépôt et de son enregistrement.
+
+##### Article R622-7
+
+Dans les deux mois précédant l'expiration de la durée de protection, le titulaire du dépôt peut demander soit la restitution des pièces, soit leur conservation pendant une durée supplémentaire de dix ans renouvelable.
+
+La demande de conservation n'est recevable que si elle est accompagnée du paiement de la redevance prescrite.
+
+A défaut de demande de restitution ou de conservation, les pièces du dépôt peuvent être détruites.
+
+##### Article R622-8
+
+La constatation de réciprocité prévue pour l'application de l'article L. 622-2 est prononcée par arrêté conjoint du ministre chargé des affaires étrangères et du ministre chargé de la propriété industrielle.
+
+#### Chapitre III : Obtentions végétales
+
+##### Section 1 : Délivrance et maintien en vigueur des certificats d'obtention végétale
+
+###### Sous-section 1 : Dépôt des demandes de certificat d'obtention végétale.
+
+####### Article R623-1
+
+La demande de certificat d'obtention végétale est déposée au secrétariat général du comité de la protection des obtentions végétales. Le dépôt de la demande peut aussi être fait par envoi recommandé avec demande d'avis de réception.
+
+####### Article R623-2
+
+Le dépôt peut être fait par le demandeur ou par un mandataire ayant son domicile, siège ou établissement en France.
+
+####### Article R623-3
+
+Les personnes physiques ou morales n'ayant pas leur domicile, siège ou établissement en France et qui, en application de l'article L. 623-6, demandent des certificats d'obtention végétale, doivent, dans un délai de deux mois à compter de la réception de la notification qui leur est adressée à cet effet, constituer un mandataire ayant son domicile, siège ou établissement en France.
+
+Sauf stipulation contraire, le pouvoir du mandataire désigné dans les conditions prévues à l'article R. 623-2 ainsi qu'à l'alinéa précédent s'étend à tous les actes et à la réception de toutes les notifications prévus à la présente section, à l'exception du retrait de la demande ou de la renonciation au certificat.
+
+Le pouvoir est dispensé de légalisation.
+
+####### Article R623-4
+
+La demande de certificat d'obtention végétale doit comporter notamment :
+- une description de la manière selon laquelle la variété a été obtenue ou découverte ;
+- une description complète de la variété avec mention des caractères permettant, selon le requérant, de la distinguer des variétés déjà connues. Pour les variétés dont la production commerciale nécessite l'emploi répété d'une autre variété, les caractères de cette autre variété doivent être également décrits ;
+- la dénomination proposée par l'obtenteur ;
+- l'indication, le cas échéant, des Etats dans lesquels une demande de protection a été déposée et l'autorisation pour le comité d'échanger avec les autorités compétentes de tout Etat membre ou non de l'Union internationale pour la protection des obtentions végétales tous les éléments d'information sur les résultats des examens qui sont en cours ou qui ont pu être effectués sur ladite variété.
+
+Peuvent être annexés à la demande des dessins ou photographies et tous renseignements susceptibles d'éclairer le comité de la protection des obtentions végétales et concernant notamment des examens en culture, officiels ou privés, entrepris en France ou à l'étranger.
+
+####### Article R623-5
+
+Le déposant doit joindre à la demande de certificat d'obtention végétale :
+
+1° Une déclaration affirmant :
+
+- que la variété pour laquelle la protection est demandée constitue à sa connaissance une obtention au sens de l'article L. 623-1 ;
+- qu'elle n'a pas été offerte à la vente ou commercialisée en France avec l'accord de l'obtenteur ou de son ou de ses ayants cause ;
+- qu'elle n'a pas été offerte à la vente ou commercialisée avec l'accord de l'obtenteur sur le territoire de tout autre Etat depuis plus de six ans dans le cas de la vigne, des arbres forestiers, des arbres fruitiers et des arbres d'ornement, y compris dans chaque cas leurs porte-greffes, ou depuis plus de quatre ans dans le cas des autres genres ou espèces ;
+
+2° Le cas échéant, si la demande porte sur une variété dont la production commerciale exige l'emploi répété d'une variété protégée, l'autorisation écrite du titulaire du certificat d'obtention végétale d'utiliser cette variété protégée ;
+
+3° L'engagement de fournir à la requête du comité dans les délais fixés, sous peine de rejet de la demande, le matériel de reproduction ou de multiplication végétative de la variété destiné à permettre un examen de ladite variété, y compris, le cas échéant, les différents composants héréditaires nécessaires à la reproduction de la variété ;
+
+4° Eventuellement, le pouvoir du mandataire ;
+
+5° La justification du paiement des redevances exigibles au moment du dépôt de la demande.
+
+####### Article R623-6
+
+Sous réserve des dispositions prévues à l'article R. 623-7, la dénomination, pour pouvoir être enregistrée, doit permettre d'identifier la variété par rapport à toute autre variété et d'éviter tout risque de confusion avec toute autre variété de la même espèce botanique ou d'une espèce voisine, en France ou dans les Etats parties à la convention de Paris du 2 décembre 1961 relative à la protection des obtentions végétales. Elle ne doit pas être susceptible d'induire en erreur ou de prêter confusion en ce qui concerne l'origine, la provenance, les caractéristiques ou la valeur de la variété ou la personne de l'obtenteur. Elle ne doit pas être contraire aux bonnes moeurs ou à l'ordre public.
+
+Dans le cas où cette dénomination aurait fait l'objet par l'obtenteur, son ou ses ayants cause d'un dépôt de marque, au sens de la législation sur les marques de fabrique, de commerce et de service telle qu'elle résulte du livre VII du présent code, en France ou dans un des Etats parties à la convention susvisée pour des produits identiques ou similaires ou serait susceptible de créer une confusion avec une autre marque dont il a la jouissance, l'obtenteur doit souscrire un engagement pour lui et, éventuellement, tous ses ayants cause de renoncer définitivement, du jour de la délivrance du certificat d'obtention, au bénéfice de la jouissance de ladite marque en France et dans les Etats de l'Union dans lesquels sa variété peut être protégée par une législation prise en application de la convention susvisée.
+
+Sont assimilées aux marques déposées en application du livre VII du présent code, les marques de fabrique ou de commerce qui ont été internationalement enregistrées et étendues à la France, conformément à l'arrangement de Madrid du 14 avril 1891 concernant l'enregistrement international des marques de fabrique ou de commerce et qui jouissent de la protection dans les territoires où la législation relative à la protection des obtentions végétales est applicable.
+
+Cette renonciation ne porte pas atteinte à la validité du dépôt de la marque elle-même.
+
+####### Article R623-7
+
+Dans le cas où la variété a déjà fait l'objet d'une demande de protection dans un autre Etat de l'Union internationale pour la protection des obtentions végétales et si une dénomination a été acceptée par cet Etat, cette dénomination doit obligatoirement être utilisée en France pour désigner ladite variété, à moins qu'elle n'ait fait l'objet d'observations reconnues justifiées dans les conditions prévues par les articles R. 623-17 à R. 623-26 ou que soit constaté par le comité de la protection des obtentions végétales sa non-convenance sur les territoires où la législation relative à la protection des obtentions végétales est applicable ou que la dénomination ne soit pas conforme aux prescriptions du premier alinéa de l'article R. 623-6.
+
+####### Article R623-8
+
+La demande de certificat d'obtention végétale peut comporter dans les conditions prévues par l'article L. 623-6 une revendication de priorité attachée à un dépôt antérieur fait dans un des Etats de l'Union internationale pour la protection des obtentions végétales. Cette revendication doit être présentée par écrit en même temps que les pièces prévues à l'article R. 623-5. Elle doit mentionner la date et les références du dépôt antérieur, la dénomination sous laquelle la variété a été enregistrée ou, à défaut, la référence provisoire d'obtenteur, le pays dans lequel a été fait le dépôt et le nom du titulaire des droits attachés au dépôt. Elle doit être accompagnée de la justification de la redevance exigible.
+
+####### Article R623-9
+
+Le bénéfice du droit de priorité ne peut être accordé que si :
+
+1. Dans un délai de trois mois à dater du dépôt de la demande, le déposant remet au secrétariat général du comité une copie des documents constituant le dépôt antérieur dans tout autre pays de l'Union, certifiée conforme par l'administration qui l'aura reçue accompagnée d'une traduction ;
+
+2. Dans un délai de quatre ans à compter de la même date, il fournit les documents complémentaires ainsi que, s'il y a lieu, le matériel de multiplication ou de reproduction végétative nécessaire à l'examen préalable.
+
+####### Article R623-10
+
+Les pièces dont la production est prévue aux articles R. 623-4 à R. 623-6 ainsi qu'aux articles R. 623-15, R. 623-17 et R. 623-36 doivent être rédigées en langue française.
+
+Le comité peut exiger que tout autre document à lui adresser soit établi en langue française ou accompagné d'une traduction.
+
+####### Article R623-11
+
+Le bénéfice de la date de dépôt de la demande de certificat est acquis si sont produites lors de ce dépôt au moins les pièces visées à l'article R. 623-5, même si ces pièces ne sont pas régulières en la forme.
+
+Si le dépôt ne comporte pas les pièces susvisées, la demande est déclarée irrecevable et renvoyée au déposant ; les redevances éventuellement versées lui sont remboursées.
+
+En cas d'irrégularité de forme, celles-ci doivent être régularisées dans les deux mois de la notification qui est faite au déposant, faute de quoi la demande est rejetée et renvoyée au déposant.
+
+####### Article R623-12
+
+Par dérogation aux dispositions de l'article R. 623-4, une référence provisoire peut être donnée à la place d'une dénomination pour désigner la variété qui fait l'objet de la demande au moment du dépôt de celle-ci. Dans ce cas, la dénomination doit être proposée sous peine d'irrecevabilité de la demande dans les deux mois de la notification qui est adressée au titulaire de la demande par le comité.
+
+####### Article R623-13
+
+Un exemplaire de la demande de certificat d'obtention végétale est remis au déposant lors du dépôt, revêtu d'un visa attestant le jour et l'heure du dépôt de la demande et comportant un numéro d'enregistrement.
+
+Lorsque le dépôt est fait par voie postale, l'exemplaire de la demande destiné au déposant peut lui être adressé par la même voie. La date et l'heure du dépôt sont alors celles de la réception au secrétariat général du comité de la protection des obtentions végétales du pli contenant la demande ; si le versement des redevances exigibles au moment du dépôt n'est fait qu'ultérieurement, la date du dépôt de la demande transmise par voie postale est celle de ce versement et l'heure du dépôt celle de la fermeture, ce jour-là, des bureaux du secrétariat général du comité. La demande est déclarée irrecevable si ce versement n'intervient pas dans les deux mois qui suivent la réception de la demande par le secrétariat général du comité de la protection des obtentions végétales.
+
+####### Article R623-14
+
+La demande est inscrite au Registre des demandes de certificats d'obtention végétale prévu à l'article R. 623-38 dans l'ordre des dépôts sous le numéro qui a été indiqué au déposant.
+
+Ce numéro est celui qui doit figurer sur toutes les notifications prévues par la présente section jusqu'à délivrance du certificat d'obtention végétale.
+
+####### Article R623-15
+
+Jusqu'à la délivrance du certificat d'obtention végétale, le déposant peut demander la rectification des erreurs matérielles relevées dans les pièces déposées.
+
+La requête doit être présentée par écrit et comporter le texte des modifications proposées par le déposant. Elle est inscrite sur le Registre des demandes de certificat d'obtention végétale et n'est recevable que si elle est accompagnée de la justification du paiement de la redevance exigible.
+
+###### Sous-section 2 : Instruction des demandes de certificat d'obtention végétale.
+
+####### Article R623-16
+
+Sous réserve des dispositions de l'article R. 623-44, toute demande de certificat d'obtention végétale régulièrement déposée fait l'objet d'une publication dans un bulletin officiel qui sera édité par le comité de la protection des obtentions végétales.
+
+Cette publication a notamment pour objet de porter la demande de certificat d'obtention végétale à la connaissance de toute personne y ayant intérêt.
+
+La publication mentionne la date de dépôt, le nom et l'adresse du déposant et celui de l'obtenteur lorsque ce dernier n'est pas le déposant, la dénomination proposée ou, à défaut, la référence d'obtenteur, l'indication du genre ou espèce auquel appartient la variété et ses caractéristiques sommaires.
+
+A compter du jour de la publication prévue aux alinéas précédents, toute personne peut prendre connaissance de la demande telle qu'elle est inscrite au Registre des demandes de certificat d'obtention végétale.
+
+####### Article R623-17
+
+Dans un délai de deux mois à compter de la date de la publication prévue à l'article précédent, toute personne y ayant intérêt peut présenter des observations au comité de la protection des obtentions végétales.
+
+####### Article R623-18
+
+Les contestations relatives au bien-fondé du droit de l'obtenteur sur la variété pour laquelle un certificat d'obtention végétale est demandé sont portées directement devant les tribunaux de grande instance et, dans les territoires d'outre-mer, les tribunaux de première instance.
+
+Elles font l'objet d'une inscription au registre.
+
+####### Article R623-19
+
+Lorsque la dénomination de la variété proposée par l'obtenteur ou son ayant cause n'a pas figuré dans la demande initiale ou lorsque l'obtenteur propose, à la demande du comité, une nouvelle dénomination, il est procédé à une publication de cette dénomination dans le Bulletin officiel du comité de la protection des obtentions végétales.
+
+####### Article R623-20
+
+Les observations présentées sont notifiées par le comité de la protection des obtentions végétales au titulaire de la demande, le comité fixe le délai dans lequel le demandeur doit répondre.
+
+####### Article R623-21
+
+Le comité régulièrement saisi dans les conditions prévues ci-dessus procède à l'instruction de la demande de certificat d'obtention végétale et, le cas échéant, à l'examen des observations qui s'y rapportent.
+
+Il arrête les modalités de l'instruction.
+
+Par application des dispositions de l'article L. 623-12, il peut décider de ne pas procéder à un examen préalable s'il résulte des documents français ou étrangers en sa possession qu'un tel examen a déjà été effectué et que les renseignements qu'ils contiennent lui apparaissent suffisants pour lui permettre de prendre une décision.
+
+Dans le cas où le comité décide de faire procéder à un examen de la variété, il en fixe la durée et les modalités. Cet examen porte sur la nouveauté, l'homogénéité et la stabilité, à l'exclusion de toute appréciation sur la valeur culturale ; il n'est effectué que sur justification du paiement de la redevance exigible.
+
+####### Article R623-22
+
+Dans le cas où la dénomination proposée est reconnue par le comité comme n'étant pas conforme aux dispositions des articles R. 623-6 et R. 623-7 et des arrêtés pris pour l'application de la présente section, ou fait l'objet d'observations reconnues valables par le comité, l'obtenteur est invité à présenter une nouvelle dénomination dans un délai de deux mois à compter de la notification qui lui est faite. Cette nouvelle dénomination donne lieu aux mêmes mesures d'instruction et de publication. Dans le cas où l'obtenteur ne propose pas une nouvelle dénomination dans ce délai, la demande de certificat est déclarée irrecevable. Les redevances déjà perçues ne sont pas restituées.
+
+####### Article R623-23
+
+L'instruction est suspendue à la requête écrite de toute personne qui apporte la preuve qu'elle a intenté auprès du tribunal de grande instance ou, dans les territoires d'outre-mer, du tribunal de première instance une action en revendication de la propriété de la demande de certificat d'obtention. Toutefois, les essais décidés par le comité peuvent être effectués.
+
+L'instruction est reprise dès que la décision du tribunal est passée en force de chose jugée. Elle peut être également reprise à tout moment sur le consentement écrit de la personne qui a intenté l'action en revendication. Ce consentement est alors irrévocable. Pendant cette période, le titulaire de la demande ne peut retirer celle-ci sans le consentement de l'auteur de l'action en revendication. De plus, celui-ci est appelé à participer à l'instruction au même titre que le titulaire de la demande.
+
+####### Article R623-24
+
+Lorsque les différentes mesures d'instruction décidées par le comité ont été accomplies, un rapport sommaire résumant les résultats de l'instruction est notifié au titulaire de la demande, celui-ci a deux mois pour présenter ses observations. Il peut, pendant ce délai, prendre connaissance de l'ensemble du dossier d'enquête au secrétariat général du comité.
+
+Toute personne ayant présenté des observations dans les conditions prescrites par la présente section et par les arrêtés du ministre de l'agriculture qui pourront être pris pour son application est informée des conclusions du rapport concernant son intervention. Sur sa requête, le comité peut l'autoriser à prendre connaissance du dossier ayant trait à cette intervention. Elle peut présenter de nouvelles observations dans le même délai que ci-dessus.
+
+###### Sous-section 3 : Délivrance des certificats d'obtention végétale
+
+####### Article R623-25
+
+A l'expiration du délai prévu à l'article précédent, le comité statue sur la demande. Il peut décider soit la délivrance du certificat d'obtention végétale, soit le rejet de la demande, soit un supplément d'enquête dans des conditions et délais qu'il doit fixer.
+
+Sa décision est motivée. Elle est notifiée au déposant et, le cas échéant, aux auteurs des observations.
+
+####### Article R623-26
+
+Le certificat d'obtention végétale est délivré par le comité de la protection des obtentions végétales. Il est établi au nom du titulaire de la demande de certificat d'obtention végétale. Si le titulaire de la demande n'est pas l'obtenteur, le nom de ce dernier doit être mentionné sur le certificat d'obtention végétale.
+
+Le certificat comporte notamment, en dehors de la dénomination de la variété et de sa description botanique, les indications relatives à la date du dépôt de la demande, de la délivrance, des différentes mesures de publicité, les mentions concernant les priorités dans le cas où il en serait revendiqué.
+
+Dans le cas où, par application des dispositions des articles R. 623-4, R. 623-7 et R. 623-22, la variété est désignée par une ou plusieurs autres dénominations dans les différents Etats de l'Union internationale pour la protection des obtentions végétales, ces différentes dénominations sont mentionnées à titre indicatif sur le certificat d'obtention.
+
+####### Article R623-27
+
+Le certificat est inscrit au Registre national des certificats d'obtention végétale dans les conditions prévues à l'article R. 623-40.
+
+####### Article R623-28
+
+La délivrance du certificat d'obtention végétale est publiée au Bulletin officiel du comité de la protection des obtentions végétales dans un délai de trois mois à compter de la date de notification de délivrance faite au propriétaire du certificat d'obtention végétale.
+
+####### Article R623-29
+
+A partir du jour de la publication au Bulletin officiel, toute personne peut prendre connaissance au siège du comité du certificat d'obtention végétale tel qu'il est inscrit au Registre national des certificats d'obtention végétale. Elle peut se faire délivrer à ses frais des extraits de registre. Elle peut également prendre connaissance des pièces du dossier relatives au dépôt, à la procédure d'examen ou en obtenir reproduction à ses frais et, d'une manière générale, recevoir toutes informations sur l'obtention dont il s'agit, sous réserve des mesures particulières susceptibles d'être décidées par le comité de la protection des obtentions végétales pour sauvegarder le droit de l'obtenteur sur les variétés dont la production commerciale exige l'emploi répété d'une ou plusieurs autres variétés.
+
+####### Article R623-30
+
+Le comité de la protection des obtentions végétales n'est tenu de conserver les demandes de certificats d'obtention végétale que pendant une période de dix ans après l'extinction des droits attachés aux certificats correspondants.
+
+###### Sous-section 4 : Redevances annuelles
+
+####### Article R623-31
+
+La redevance annuelle prévue par l'article L. 623-16 (2e alinéa) est exigible pour la première fois à la date de la délivrance du certificat d'obtention végétale. Elle doit être versée dans les deux mois de la notification qui est faite par le comité de la protection des obtentions végétales au propriétaire du certificat d'obtention végétale.
+
+Pour les années suivantes, elle vient à échéance le dernier jour du mois de la date anniversaire de la délivrance du certificat d'obtention végétale.
+
+Lorsqu'à partir de la deuxième année le paiement de la redevance annuelle n'a pas été effectué à l'échéance telle qu'elle est définie ci-dessus, ladite redevance peut encore valablement être versée dans un délai supplémentaire de six mois moyennant le paiement d'une redevance de retard.
+
+####### Article R623-32
+
+Lorsque le paiement d'une redevance annuelle n'est pas effectué à la date de l'échéance normale, un avertissement est adressé au titulaire du certificat d'obtention végétale en lui indiquant qu'il encourt la déchéance de ses droits si ce paiement, accompagné de celui de la redevance de retard, n'est pas effectué avant l'expiration du délai prévu au troisième alinéa de l'article R. 623-31. L'absence d'avertissement ou toute erreur que celui-ci comporterait ne constitue pas une cause de restauration des droits du propriétaire du certificat d'obtention végétale.
+
+####### Article R623-33
+
+Lorsque le paiement d'une redevance annuelle, accompagné, le cas échéant, de la redevance de retard, n'a pas été effectué dans les délais prescrits ci-dessus, le comité de la protection des obtentions végétales constate la déchéance du droit de l'obtenteur.
+
+Cette déchéance est inscrite au Registre national des certificats d'obtention et publiée au Bulletin officiel du comité de la protection des obtentions végétales. Elle est motivée et notifiée au propriétaire du certificat d'obtention végétale à la date de l'inscription au Registre national des certificats d'obtention. L'intéressé est avisé qu'il dispose d'un délai de six mois à compter de l'expiration du dernier délai pour présenter au comité un recours en vue d'être restauré dans ses droits, dans les conditions prévues par l'article L. 623-23.
+
+Pour être valable, le recours doit être accompagné de la justification du versement de la redevance annuelle et d'une redevance pour inscription du recours au Registre national des certificats d'obtention végétale.
+
+####### Article R623-34
+
+Le comité de la protection des obtentions végétales statue dans un délai de deux mois. Dans le cas de rejet du recours, le montant de la dernière redevance annuelle est restitué.
+
+La décision du comité est notifiée au propriétaire du certificat d'obtention ; elle est inscrite au Registre national des certificats d'obtention végétale et publiée au Bulletin officiel du comité de la protection des obtentions végétales.
+
+####### Article R623-35
+
+Si le propriétaire du certificat d'obtention végétale a formé devant la cour d'appel de Paris un recours contre la décision du comité prise en application de l'article L. 623-23, mention de l'introduction du recours est portée d'office au Registre national des certificats d'obtention végétale et les effets de la déchéance sont suspendus jusqu'à ce que l'arrêt de la cour soit devenu définitif.
+
+La décision de la cour d'appel de Paris est inscrite au Registre national des certificats d'obtention végétale. Elle est accompagnée, le cas échéant, de la mention que le propriétaire du certificat d'obtention végétale s'est pourvu en cassation. En cas de pourvoi, l'arrêt de la Cour de cassation est inscrit au registre dans les mêmes conditions.
+
+###### Sous-section 5 : Renonciation - Déchéance
+
+####### Article R623-36
+
+La renonciation à un certificat d'obtention végétale est faite par une déclaration écrite. Elle est formulée au comité par le propriétaire du certificat ou par un mandataire muni d'un pouvoir spécial. Si le certificat appartient à plusieurs personnes, la renonciation ne peut être effectuée que si elle est requise par l'ensemble de celles-ci.
+
+Si les droits réels, de gage ou de licence ont été inscrits au Registre national des certificats d'obtention végétale, la renonciation n'est recevable que si elle est accompagnée du consentement des titulaires de ces droits.
+
+La renonciation est inscrite après le versement de la redevance de radiation au Registre national des certificats d'obtention végétale. Elle prend effet à la date de cette inscription.
+
+####### Article R623-37
+
+L'obtenteur susceptible d'être déchu de ses droits en application du 1° et du 2° du premier alinéa de l'article L. 623-23 est mis en demeure de faire cesser cette situation par une notification qui lui est adressée par le comité de protection des obtentions végétales. Si, à l'expiration d'un délai de deux mois à compter de la réception de la notification, cette mise en demeure est restée sans effet, le comité constate la déchéance du droit de l'obtenteur.
+
+La décision du comité est notifiée au propriétaire du certificat d'obtention végétale. Elle est inscrite au Registre national des certificats d'obtention végétale et publiée au Bulletin officiel du comité de la protection des obtentions végétales.
+
+###### Sous-section 6 : Registres nationaux
+
+####### Article R623-38
+
+Le comité de la protection des obtentions végétales tient un Registre des demandes de certificat d'obtention végétale et un Registre national des certificats d'obtention végétale.
+
+####### Article R623-39
+
+Au registre des demandes sont inscrites dans l'ordre chronologique les demandes de certificat d'obtention végétale, aussitôt après le dépôt de la demande.
+
+Pour chaque demande, l'inscription comporte notamment :
+
+- le numéro provisoire d'enregistrement ;
+- la date de dépôt ;
+- l'indication du genre ou espèce auquel appartient la variété ;
+- les nom et adresse de l'obtenteur et, s'il y a lieu, de son mandataire ou ayant cause lorsque l'obtenteur n'est pas le déposant ;
+- la dénomination proposée ou, à défaut, la référence d'obtenteur ainsi que, le cas échéant, la dénomination sous laquelle la variété a été désignée dans les autres Etats de l'Union ;
+- la revendication de priorité dans le cas où il en a été formulé ;
+- la mention des observations visées aux articles R. 623-17 à R. 623-26 ;
+- la date de délivrance du certificat d'obtention végétale avec son numéro d'inscription au Registre national des certificats d'obtention végétale ou la mention du rejet définitif.
+
+La description de la variété faite par le demandeur et celle du procédé d'obtention sont portées en annexe au registre, sous réserve des dispositions de l'article R. 623-44.
+
+####### Article R623-40
+
+L'inscription des certificats d'obtention végétale au Registre national des certificats d'obtention a lieu dans l'ordre de leur délivrance.
+
+L'inscription comporte :
+
+- le numéro d'ordre sous lequel le certificat a été délivré ;
+- le genre ou espèce auquel appartient la variété ;
+- la dénomination ainsi que, le cas échéant, toute autre dénomination sous laquelle elle est déjà désignée dans les autres Etats de l'Union ;
+- une description botanique ;
+- le nom et l'adresse du propriétaire du certificat d'obtention végétale ainsi que le nom et l'adresse de l'obtenteur si celui-ci n'est pas le propriétaire du certificat d'obtention végétale ;
+- éventuellement, la revendication de priorité ;
+- les dates auxquelles commence et expire la protection et, s'il y a lieu, la renonciation anticipée ou la décision constatant la déchéance du droit du propriétaire.
+
+Cette inscription est complétée, s'il y a lieu, par la mention des décisions judiciaires déterminant le titulaire du droit.
+
+Elle est également complétée par la mention de tous actes relatifs à la transmission de propriété du droit d'obtenteur, la cession ou la concession d'un droit d'exploitation, la licence d'office et tous actes transmettant ou modifiant les droits attachés à un certificat d'obtention végétale. Ces différentes inscriptions complémentaires seront faites moyennant le versement de redevances.
+
+####### Article R623-41
+
+L'inscription des mentions complémentaires pour les décisions judiciaires est faite à la requête du greffier du tribunal qui a rendu la décision, et pour les autres mentions à la requête de toute partie intéressée, sur production de l'un des originaux de l'acte si celui-ci est sous seing privé, ou d'une expédition s'il est authentique ou d'un document justifiant le transfert en cas de mutation par décès.
+
+####### Article R623-42
+
+Il est délivré à tout requérant contre versement de la redevance exigible des reproductions des inscriptions complémentaires portées au Registre national des certificats d'obtention végétale ou des certificats constatant qu'il n'existe pas d'inscription.
+
+###### Sous-section 7 : Demandes de certificats d'obtention végétale intéressant la défense nationale
+
+####### Article R623-43
+
+Des délégués du ministre chargé de la défense nationale, spécialement habilités à cet effet et dont les noms et qualités ont été portés à la connaissance du ministre chargé de l'agriculture par le ministre chargé de la défense nationale, prennent connaissance, dans les locaux du comité de la protection des obtentions végétales, des demandes de certificat d'obtention végétale déposées.
+
+Celles-ci sont présentées, dans le délai de quinze jours à compter de la date de leur réception, au comité de la protection des obtentions végétales.
+
+Lorsque la demande est formulée par les délégués du ministre chargé de la défense nationale, le comité de la protection des obtentions végétales doit, s'il ne l'a déjà fait, inviter l'obtenteur ou son ayant cause à fournir dans les plus courts délais compatibles avec le mode de reproduction ou de multiplication végétative de la variété, le matériel visé à l'article R. 623-5 (3°) et le communiquer dès sa réception aux délégués du ministre chargé de la défense nationale.
+
+####### Article R623-44
+
+En ce qui concerne les demandes de certificat d'obtention végétale de variétés appartenant aux espèces comprises dans la liste fixée par arrêté pris en application de l'article L. 623-9, les procédures prévues par les articles R. 623-16 à R. 623-30 ne peuvent, sauf intervention de l'autorisation spéciale prévue par l'article L. 623-9, être engagées pendant la durée des interdictions prescrites par ledit article. Elles ne peuvent l'être non plus pendant la durée des interdictions prorogées en application de l'article L. 623-10.
+
+Pendant la durée des interdictions, il est en outre sursis à la mise en annexe au Registre des demandes de certificats d'obtention végétale, telle que prévue par l'article R. 623-39, de la description de variété faite par le demandeur et de son procédé d'obtention.
+
+####### Article R623-45
+
+La demande d'autorisation de divulguer et d'exploiter librement une obtention appartenant à l'une des espèces visées à l'article ci-dessus avant le terme du délai prévu à l'article L. 623-9 doit être formulée auprès du comité de la protection des obtentions végétales ; elle peut l'être dès le dépôt de la demande de certificat. L'autorisation est notifiée au déposant par le ministre chargé de l'agriculture sur avis du ministre chargé de la défense nationale.
+
+En l'absence d'une telle autorisation et à tout moment, une demande d'autorisation particulière en vue d'accomplir des actes déterminés d'exploitation peut être adressée directement par le titulaire de la demande de certificat au ministre chargé de la défense nationale. Celui-ci, s'il accorde l'autorisation sollicitée, précise les conditions auxquelles ces actes d'exploitation sont soumis.
+
+Si l'autorisation particulière porte sur la cession de la demande de certificat ou sur la concession d'une licence d'exploitation, le ministre chargé de la défense nationale notifie copie de sa décision au ministre chargé de l'agriculture.
+
+####### Article R623-46
+
+La réquisition adressée au ministre chargé de l'agriculture par le ministre chargé de la défense nationale aux fins de prorogation des interdictions de divulgation et de libre exploitation d'une obtention, objet de la demande de certificat, doit parvenir au comité de la protection des obtentions végétales au plus tard quinze jours avant le terme du délai de cinq mois prévu à l'article L. 623-9.
+
+Toute réquisition aux fins de renouvellement d'une prorogation doit parvenir dans les mêmes conditions au plus tard quinze jours avant l'expiration de la période d'un an en cours.
+
+La prorogation des interdictions de divulgation et de libre exploitation est prononcée par arrêté du ministre chargé de l'agriculture et notifiée au déposant avant le terme de la période d'interdiction en cours.
+
+Des autorisations particulières en vue d'accomplir des actes déterminés d'exploitation peuvent être accordées dans les conditions prévues aux deuxième et troisième alinéas de l'article R. 623-45.
+
+Le ministre chargé de la défense nationale peut faire connaître à tout moment au ministre de l'agriculture la levée des interdictions prorogées en application de l'article L. 623-10. Cette mesure fait l'objet d'un arrêté du ministre chargé de l'agriculture notifié au titulaire de la demande de certificat.
+
+####### Article R623-47
+
+Les dispositions des articles R. 612-29, R. 612-30, R. 612-32 et R. 613-42 sont applicables aux requêtes formulées et aux instances introduites en application des articles L. 623-10 et L. 623-11.
+
+###### Sous-section 8 : Dispositions diverses
+
+####### Article R623-48
+
+Les notifications prévues par la présente section ainsi que par l'article L. 623-18 sont faites par lettre recommandée avec demande d'avis de réception.
+
+####### Article R623-49
+
+Toute notification est réputée régulière si elle est faite au dernier propriétaire de la demande de certificat d'obtention végétale, ou du certificat d'obtention végétale tel qu'il figure au Registre des demandes de certificats d'obtention végétale ou au Registre national des certificats d'obtention végétale.
+
+Si le propriétaire est domicilié à l'étranger, la notification est faite au dernier mandataire et au dernier domicile élu qu'il a désigné au comité de la protection des obtentions végétales.
+
+####### Article R623-50
+
+Tous les délais fixés par la présente section sont francs. Le jour de l'acte ou de la décision qui le fait courir, d'une part, le dernier jour, d'autre part, ne sont pas comptés.
+
+Tout délai qui expirerait normalement un samedi, un dimanche ou un jour férié sera prorogé jusqu'au premier jour ouvrable suivant.
+
+####### Article R623-51
+
+La description détaillée, avec ou sans saisie réelle des plantes, parties de plantes, ou tous éléments de reproduction ou de multiplication végétative de la variété considérée prétendue contrefaite, prévue par l'article L. 623-27, est ordonnée par le président du tribunal de grande instance ou dans les territoires d'outre-mer du tribunal de première instance dans le ressort duquel les opérations doivent être effectuées.
+
+L'ordonnance est rendue sur simple requête et sur la présentation soit du certificat d'obtention, soit, dans le cas prévu à l'article L. 623-26, d'une copie conforme de la demande de certificat d'obtention végétale.
+
+Si la requête est présentée par le concessionnaire d'un droit exclusif d'exploitation ou par le titulaire d'une licence d'office visée aux articles L. 623-17 et L. 623-20, le requérant doit justifier de l'inaction du propriétaire du certificat d'obtention végétale après une mise en demeure l'invitant à exercer l'action.
+
+####### Article R623-52
+
+Lorsque la saisie réelle est ordonnée, le juge peut exiger du requérant un cautionnement qui doit être consigné avant qu'il soit procédé à la saisie. A peine de nullité et de dommages-intérêts contre l'huissier, celui-ci doit, avant de procéder à la saisie, donner aux détenteurs de plantes, parties de plantes ou éléments de reproduction ou de multiplication végétative de la variété considérée copie de l'ordonnance et, le cas échéant, de l'acte constatant le dépôt du cautionnement. Copie doit être laissée aux mêmes détenteurs du procès-verbal de saisie.
+
+####### Article R623-53
+
+Le délai prévu à l'article L. 623-27, deuxième alinéa, pour se pourvoir devant le tribunal est de quinze jours à compter du jour où la saisie ou la description est intervenue.
+
+####### Article R623-54
+
+Des arrêtés du ministre chargé de l'agriculture pris après avis du comité de la protection des obtentions végétales préciseront, en tant que de besoin, les conditions d'application de la présente section.
+
+##### Section 2 : Liste des espèces végétales, durée et portée du droit
+
+###### Article R623-55
+
+Des certificats d'obtention végétale peuvent être délivrés dans les conditions prévues par les articles L. 412-1, L. 623-1, L. 623-3 à L. 623-16, et le présent chapitre pour les espèces suivantes :
+
+avoine, blé dur, blé tendre, haricot, laitue, luzerne, maïs, oeillet, orge, pois, pomme de terre, prunier, ray-grass, riz, rosier et trèfle violet.
+
+Pour ces espèces, tout étranger ayant la nationalité d'un Etat partie à la convention internationale pour la protection des obtentions végétales du 2 décembre 1961 ou ayant son domicile, siège ou établissement dans l'un de ces Etats, peut obtenir un certificat d'obtention végétale dans les mêmes conditions que les Français.
+
+Les étrangers n'ayant pas la nationalité de l'un de ces Etats ou n'ayant pas leur domicile, siège ou établissement dans l'un de ceux-ci ne peuvent obtenir de certificats d'obtention végétale que dans les conditions de réciprocité définies à l'article R. 623-56.
+
+###### Article R623-56
+
+Des certificats d'obtention végétale peuvent en outre être délivrés dans les conditions prévues par les articles L. 412-1, L. 623-1, L. 623-3 à L. 623-16 et le présent chapitre pour les espèces suivantes : abricotier, alstroemère, amandier, aubergine, Begonia elatior, berberis, brome (Bromus carinatus Hock. et Arn., Bromus sitchensis Trin., Bromus stamineus Desv. incl. B, valdivianus Phil., Bromus willdenowii Cunth B, unioloïdes H.B.C., Cartharticus aut c.), buddleia, cassis, cerisier, châtaignier, chicorée-endive (Cichorium intybus L.), chicorée frisée et chicorée scarole, chou cabus, chou de Bruxelles, chou de Milan, chou frisé, chou rouge, chrysanthème, cognassier, colza, concombre-cornichon, courge-courgette (Cucurbita pepo L.), cyprès (cyprès de Provence, cyprès de l'Arizona, cyprès de Duprez, cyprès de Leyland, X cupressocyparis et ses hybrides), dieffenbachia, épine du Christ, euphorbia fulgens, fétuque élevée, forsythia, fraisier, framboisier, freesia, gerbera, glaïeul, groseillier, groseillier à maquereau, hortensia, houblon, houx (hybrides d'Ilex aquifolium), iris bulbeux et rhizomateux, juniperus, kalanchoè, Lagerstroemia, lavande et lavandins, lentille, lin, lis, lupin blanc, mâche, malus ornemental, Nerium oleander, noisetier, noyer, orchidées, pâturins des prés, pêcher, pélargonium (pélargonium zonale, géranium lierre et hybrides), pélargonium des fleuristes, peuplier, piment, pleurotes (Pleurotus ostreatus et pulmonarius), poinsettia, poirier, pommier, prunier, pyracantha, rhododendrons, ronces fruitières, saintpaulia, seigle, soja, sorgho (lignées endogames de sorghum bicolore L. Moench), streptocarpus et ses hybrides, thuya, thym, tomate, tournesol, triticale, tulipe, vigne, weigela.
+
+Pour ces espèces, tout étranger peut obtenir des certificats d'obtention végétale à la condition que les Français bénéficient pour lesdites espèces de la réciprocité de protection de la part de l'Etat dont l'étranger a la nationalité ou dans lequel il a son domicile ou établissement.
+
+Des arrêtés du ministre chargé des affaires étrangères et du ministre chargé de l'agriculture pris sur proposition du comité de la protection des obtentions végétales constatent que pour chacune de ces espèces et pour chaque Etat considéré, la législation dont il s'agit satisfait à cette condition de réciprocité.
+
+###### Article R623-57
+
+Pour les espèces figurant sur la liste qui suit, peuvent seuls être protégés les hybrides FI, les hybrides de clone ou les lignées : chicorée-endive (Chicorium intybus L.), chou cabus, chou de Bruxelles, chou de Milan, chou frisé, chou rouge, concombre-cornichon, courge-courgette (Cucurbita pepo L.).
+
+Pour les espèces figurant sur la liste qui suit, peuvent seules être protégées les lignées endogames : sorgho (Sorghum bicolor L. Moench).
+
+Pour les espèces figurant sur la liste qui suit peuvent seules être protégées les variétés productrices de fruits ou les porte-greffe : abricotier, amandier, cassis, cerisier, châtaignier, cognassier, framboisier, groseillier, groseillier à maquereau, houblon, noisetier, noyer, pêcher, poirier, pommier, prunier, ronces fruitières, vigne.
+
+###### Article R623-58
+
+Pour les espèces figurant sur la liste qui suit, le droit de l'obtenteur porte sur les semences telles qu'elles sont définies conformément à l'article 1er du décret n° 81-605 du 18 mai 1981 modifié, ainsi que les plantes ou parties de plantes commercialisées en vue de la plantation : aubergine, avoine, blé dur, blé tendre, brome (Bromus carinatus Hock. et Arn., Bromus sitchensis Trin., Bromus stamineus Desv. incl. B valdivianus Phil., Bromus willdenowii Cunth B., unioloïdes H.B.C., Cartharticus autc.), chicorée-endive (Cichorium intybus L.), chicorée frisée et chicorée scarole, chou cabus, chou de Bruxelles, chou de Milan, chou frisé, chou rouge, colza, concombre-cornichon, courge-courgette (Cucurbita pepo L.), fétuque élevée, haricot, laitue, lentille, lin, lupin blanc, luzerne, mâche, maïs, orge, pâturin des prés, piment, pois, ray-grass, riz, seigle, soja, sorgho (lignées endogames de Sorghum bicolore L. Moench), tomate, tournesol, trèfle violet et triticale.
+
+###### Article R623-59
+
+Pour les pommes de terre, le droit de l'obtenteur porte sur les plants destinés à la propagation de l'espèce tels qu'ils sont définis conformément à l'article 1er du décret n° 81-605 du 18 mai 1981 modifié.
+
+###### Article R623-60
+
+Pour les peupliers, le droit de l'obtenteur porte sur les boutures et, d'une manière générale, sur toute partie de la plante destinée à être utilisée comme matériel de multiplication de la variété.
+
+###### Article R623-61
+
+Pour les fraisiers, le droit de l'obtenteur porte sur tout ou partie de la plante destinée à être utilisée comme matériel de multiplication de la variété.
+
+###### Article R623-62
+
+Pour les espèces figurant sur la liste qui suit, le droit de l'obtenteur porte sur tout ou partie de la plante, de même que sur tous éléments de reproduction ou de multiplication végétative de la variété considérée : alstroemère, Begonia eliator, berberis, buddleia, chrysanthème, cyprès (cyprès de Provence, cyprès de l'Arizona, cyprès de Duprez, cyprès de Leyland, X Cupressocyparis et ses hybrides), dieffenbachia, épine du Christ, Euphorbia fulgens, forsythia, freesia, gerbera, glaïeul, hortensia, houx (hybrides d'Ilex aquifolium), iris bulbeux et rhizomateux, juniperus, kalanchoè, Lagerstroemia, lavande et lavandins, lis, malus ornemental, Nerium oleander, oeillet, orchidées, pélargonium (pélargonium zonale, géranium lierre et hybrides), pélargonium des fleuristes, poinsettia, pyracantha, rhododendron, rosier, saintpaulia, streptocarpus et ses hybrides, thuya, thym, tulipe, weigela.
+
+###### Article R623-63
+
+Pour les espèces figurant sur la liste qui suit, le droit de l'obtenteur porte sur toute partie de la plante destinée à être utilisée comme matériel de multiplication tel que plants, greffons, boutures, marcottes ou destinée à l'établissement de cultures en vue de la production commerciale du fruit : abricotier, amandier, cassis, cerisier, châtaignier, cognassier, framboisier, groseillier, groseillier à maquereau, houblon, noisetier, noyer, pêcher, poirier, pommier, prunier, ronces fruitières, vigne.
+
+Le droit de l'obtenteur porte également sur les semences telles que définies à l'article 1er du décret n° 81-605 du 18 mai 1981 modifié, ou sur les pépins et noyaux de ces espèces dans le cas où ils sont utilisables à titre de semences pour la reproduction des variétés par voie sexuée.
+
+###### Article R623-64
+
+Pour les pleurotes (Pleurotus ostreatus et pulmonarius), le droit de l'obtenteur porte sur les mycéliums monocaryotiques et dicaryotiques (état végétatif et indifférencié).
+
+###### Article R623-65
+
+La durée de la protection est de vingt ans pour les espèces suivantes : alstroemère, aubergine, avoine, Begonia elatior, berberis, blé dur, blé tendre, buddleia, chicorée-endive (Cichorium intybus L.), chicorée frisée et chicorée scarole, chou cabus, chou de Bruxelles, chou de Milan, chou frisé, chou rouge, chrysanthème, colza, concombre-cornichon, courge-courgette (Cucurbita pepo L.), épine du Christ, Euphorbia fulgens, dieffenbachia, forsythia, fraisier, freesia, gerbera, glaïeul, haricot, hortensia, iris bulbeux et rhizomateux, kalanchoè, Lagerstroemia, laitue, lavande et lavandins, lentille, lin, lis, lupin blanc, mâche, maïs (à l'exclusion des lignées endogames), Nerium oleander, oeillet, orchidées, orge, pâturin des prés, pélargonium (pélargonium zonale, géranium lierre et hybrides), pélargonium des fleuristes, piment, pleurotes (Pleurotus ostreatus et pulmonarius), poinsettia, pois, pyracantha, riz, rosier, saintpaulia, seigle, streptocarpus et ses hybrides, soja, tomate, tournesol, triticale, tulipe, weigela.
+
+Elle est de vingt-cinq ans pour les espèces suivantes :
+
+abricotier, amandier, brome (Bromus carinatus Hock. et Arn., Bromus sitchensis Trin., Bromus stamineus Desv. incl. B. valdivianus Phil., Bromus willdenowii Cunth B, unioloïdes H.B.C., Cartharticus aut c.), cassis, cerisier, châtaignier, cognassier, cyprès (cyprès de Provence, cyprès de l'Arizona, cyprès de Duprez, cyprès de Leyland, X Cupressocyparis et ses hybrides), fétuque élevée, framboisier, groseillier, groseiller à maquereau, houblon, houx (hybrides d'Ilex aquifolium), juniperus, luzerne, maïs (lignées endogames exclusivement), malus ornemental, noisetier, noyer, pêcher, peuplier, poirier, pomme de terre, pommier, prunier, ray-grass, rhododendron, ronces fruitières, sorgho (lignées endogames de Sorghum bicolor L. Moench), thuya, thym, trèfle violet et vigne.
+
+###### Article R623-66
+
+Toute personne qui, à l'occasion de tous actes de cession, de concession ou de commercialisation des variétés visées aux articles précédents, désire user de la faculté qui lui est offerte par l'article L. 623-15 d'adjoindre à la dénomination variétale une marque de commerce ou de fabrique, que cette marque lui soit propre ou qu'elle lui soit concédée, doit prendre les précautions nécessaires, notamment dans la correspondance, dans la publicité, dans l'établissement des catalogues commerciaux, sur les emballages ou étiquettes, afin que cette dénomination soit suffisamment apparente dans son contexte afin qu'aucune confusion ne soit susceptible de s'établir dans l'esprit de l'acheteur sur l'identité de la variété.
+
+###### Article R623-67
+
+Des arrêtés du ministre chargé de l'agriculture, pris sur proposition du comité de la protection des obtentions végétales, fixeront en tant que de besoin les mesures de détail relatives à l'application de la présente section.
+
+#### Chapitre IV : Transferts techniques internationaux
+
+##### Article R624-1
+
+Tout contrat ou avenant de contrat ayant pour objet l'acquisition par une personne physique ou morale dont le domicile ou le siège est situé en France, à une personne physique ou morale dont le domicile ou le siège est situé à l'étranger, de droits de propriété industrielle et de tous éléments intellectuels relevant de l'acte scientifique et technique sous toutes ses formes, notamment le savoir-faire et l'ingénierie, est soumis à déclaration auprès de l'Institut national de la propriété industrielle.
+
+Tout contrat ou avenant de contrat ayant pour objet la cession, par une personne physique ou morale dont le domicile ou le siège est situé en France à une personne physique ou morale dont le domicile ou le siège est situé à l'étranger, de droits de propriété industrielle et de tous les éléments intellectuels relevant de l'aide scientifique ou technique sous toutes ses formes, notamment le savoir-faire et l'ingénierie, est soumis à déclaration auprès de l'Institut national de la propriété industrielle.
+
+##### Article R624-2
+
+La déclaration visée à l'article R. 624-1 doit être faite obligatoirement par le contractant dont le domicile ou le siège est situé en France un mois au plus tard après la conclusion du contrat.
+
+##### Article R624-3
+
+Pour chacun des contrats visés à l'article R. 624-1 et pour chacun de ceux conclus antérieurement au 1er juin 1970 et ayant l'un des objets visés à l'article R. 624-1, le contractant dont le domicile ou le siège est situé en France doit établir obligatoirement au début de chaque année :
+
+- d'une part, un relevé des montants des transferts financiers à l'étranger ou en provenance de l'étranger effectués au cours de l'année précédente en exécution du contrat ;
+- d'autre part, un relevé des montants des apports ou échanges portant sur des droits ou connaissances effectués par voie de compensation et ne donnant lieu à aucun transfert financier effectif par la voie bancaire (ou postale) vers l'étranger ou en provenance de l'étranger, ces montants étant, le cas échéant, évalués par le déclarant.
+
+##### Article R624-4
+
+Les relevés annuels visés à l'article R. 624-3 doivent être adressés par le contractant dont le domicile ou le siège est situé en France à l'Institut national de la propriété industrielle avant le 31 mars de chaque année.
+
+##### Article R624-5
+
+Les renseignements et les documents qui sont fournis à l'administration en application du présent chapitre ont, au regard des tiers, le caractère confidentiel.
+
+##### Article R624-6
+
+Pour l'application du présent chapitre, les personnes physiques ou morales dont le domicile ou le siège est situé dans les territoires français d'outre-mer ou dans la Principauté de Monaco sont assimilées aux personnes physiques ou morales dont le domicile ou le siège est fixé en France.
+
+##### Article R624-7
+
+Un arrêté conjoint du ministre de l'économie et des finances et du ministre chargé de la propriété industrielle fixe les modalités d'application du présent chapitre.
+
+### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques
+
+#### Chapitre unique
+
+##### Article R631-1
+
+Ainsi qu'il est dit à l'article R. 312-2 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales en application des articles L. 611-2, L. 615-17, L. 622-7 et L. 623-31 du code de la propriété intellectuelle sont fixés conformément au tableau IV annexé au code de l'organisation judiciaire, ci-après reproduit :
+
+Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales
+
+Tribunaux de grande instance, compétence territoriale s'étendant aux départements compris dans le ressort des cours d'appel de :
+
+Marseille :
+
+Aix : Aix-en-Provence, Bastia, Nîmes.
+
+Bordeaux :
+
+Bordeaux : Agen, Bordeaux, Poitiers.
+
+Strasbourg :
+
+Colmar : Colmar, Metz.
+
+Lille :
+
+Douai : Amiens, Douai.
+
+Limoges :
+
+Limoges : Bourges, Limoges, Riom.
+
+Lyon :
+
+Lyon : Chambéry, Lyon, Grenoble.
+
+Nancy :
+
+Nancy : Besançon, Dijon, Nancy.
+
+Paris :
+
+Paris : Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion, Nouméa, Papeete, Mamoudzou et Saint-Pierre-et-Miquelon.
+
+Rennes :
+
+Rennes : Angers, Caen, Rennes.
+
+Toulouse :
+
+Toulouse : Pau, Montpellier, Toulouse.
+
+## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs
+
+### Titre unique : Marques de fabrique, de commerce ou de service
+
+#### Chapitre Ier : Eléments constitutifs de la marque
+
+#### Chapitre II : Acquisition du droit sur la marque
+
+##### Article R712-1
+
+La demande d'enregistrement de marque est déposée soit à l'Institut national de la propriété industrielle, soit au greffe du tribunal de commerce, ou du tribunal de grande instance en tenant lieu, dans le ressort duquel le demandeur est établi ou domicilié. Il en est accusé réception.
+
+Le dépôt peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande d'avis de réception, ou d'un message par tout mode de télétransmission défini par décision de son directeur général. Dans ce cas, la date de dépôt est celle de la réception à l'institut. Le présent article s'applique aux déclarations de renouvellement prévues à l'article R. 712-24.
+
+##### Article R712-2
+
+Le dépôt peut être fait personnellement par le déposant ou par un mandataire ayant son domicile, son siège ou un établissement en France.
+
+Les personnes n'ayant pas leur domicile ou leur siège en France doivent, dans le délai qui leur est imparti par l'institut, constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent.
+
+En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
+
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles R. 712-21 et R. 714-1 et sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévues au présent titre. Le pouvoir est dispensé de légalisation.
+
+##### Article R712-3
+
+Le dépôt comprend :
+
+1° La demande d'enregistrement de la marque établie dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26 et précisant notamment :
+
+a) L'identification du déposant ;
+
+b) Le modèle de la marque, consistant dans la représentation graphique de cette dernière ; le modèle peut être complété par une brève description ; cette dernière est obligatoire dans les cas prévus à l'arrêté précité ;
+
+c) L'énumération des produits ou services auxquels elle s'applique, ainsi que l'énumération des classes correspondantes ;
+
+d) Le cas échéant, l'indication qu'est revendiqué le droit de priorité attaché à un précédent dépôt étranger ou qu'un certificat de garantie a été délivré en application de la loi du 13 avril 1908.
+
+2° Les pièces annexes ci-après :
+
+a) La justification du paiement des redevances prescrites ;
+
+b) S'il est constitué un mandataire, le pouvoir de ce dernier ;
+
+c) Si le caractère distinctif du signe déposé à titre de marque a été acquis par l'usage, la justification de cet usage ;
+
+d) S'il s'agit d'une marque collective de certification, le règlement déterminant les conditions auxquelles est subordonné l'usage de la marque et la justification de l'homologation correspondante ;
+
+e) Si le déposant est un étranger qui n'est ni domicilié, ni établi sur le territoire national, et sous réserve des conventions internationales, la justification qu'il a régulièrement déposé la marque dans le pays de son domicile ou de son établissement et que ce pays accorde la réciprocité de protection aux marques françaises.
+
+Un même dépôt ne peut porter que sur une seule marque.
+
+##### Article R712-4
+
+La revendication, à l'occasion d'un dépôt effectué en France, d'un droit de priorité attaché à un précédent dépôt étranger emporte obligation de faire parvenir à l'Institut national de la propriété industrielle, dans les trois mois du dépôt en France, une copie officielle du dépôt antérieur et, s'il y a lieu, la justification du droit de revendiquer la priorité.
+
+Si cette obligation n'est pas respectée, la priorité est réputée n'avoir pas été revendiquée.
+
+##### Article R712-5
+
+A la réception du dépôt, sont mentionnés sur la demande d'enregistrement : la date, le lieu et le numéro d'ordre de dépôt ou le numéro national prévu à l'article R. 712-6.
+
+Un récépissé du dépôt est remis au déposant.
+
+Lorsque le dépôt est effectué au greffe du tribunal de commerce ou du tribunal de grande instance en tenant lieu, les pièces du dépôt et le montant des redevances sont transmis sans délai à l'Institut national de la propriété industrielle par le greffier.
+
+##### Article R712-6
+
+Dès sa réception à l'Institut national de la propriété industrielle, le dépôt donne lieu à l'attribution d'un numéro national. Lorsqu'il n'a pu être mentionné sur le récépissé du dépôt, ce numéro est notifié au déposant.
+
+Est déclaré irrecevable toute correspondance ou tout dépôt de pièces ultérieur qui ne rappelle pas le numéro national de la demande d'enregistrement ou qui, le cas échéant, n'est pas accompagné de la justification du paiement de la redevance prescrite.
+
+##### Article R712-7
+
+Est déclaré irrecevable tout dépôt qui ne comporte pas au moins un exemplaire de la demande d'enregistrement, même irrégulière en la forme, contenant les mentions prévues à l'article R. 712-3 (1°, a, b et c) et qui n'est pas accompagné de la justification du paiement de la redevance de dépôt.
+
+##### Article R712-8
+
+Tout dépôt reconnu recevable est publié au Bulletin officiel de la propriété industrielle, sauf s'il apparaît soit que sa présentation ne satisfait pas aux prescriptions techniques nécessaires pour permettre sa reproduction, soit que sa publication serait de nature à porter atteinte à l'ordre public ou aux bonnes mœurs.
+
+La publication au Bulletin officiel intervient dans les six semaines qui suivent la réception du dépôt à l'Institut national de la propriété industrielle. Mention y est faite de la faculté ouverte à toute personne intéressée de formuler des observations dans un délai de deux mois et aux personnes mentionnées à l'article L. 712-4 de former dans ce même délai opposition à enregistrement.
+
+##### Article R712-9
+
+Les observations formulées en application de l'article L. 712-3 sont communiquées sans délai au déposant par l'institut ou classées sans suite s'il apparaît qu'elles ont été formulées après l'expiration du délai prescrit ou que leur objet est manifestement étranger aux prévisions législatives en vigueur. L'auteur en est informé.
+
+##### Article R712-10
+
+Tout dépôt donne lieu à vérification par l'institut :
+
+1° Que la demande d'enregistrement et les pièces qui y sont annexées sont conformes aux prescriptions de la législation et de la réglementation en vigueur ;
+
+2° Que le signe déposé peut constituer une marque par application des articles L. 711-1 et L. 711-2 ou être adopté comme marque par application de l'article L. 711-3.
+
+##### Article R712-11
+
+1° En cas de non-conformité de la demande aux dispositions de l'article R. 712-10, notification motivée en est faite au déposant.
+
+Un délai lui est imparti pour régulariser le dépôt ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de lever l'objection, la demande est rejetée.
+
+La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le déposant ne la conteste pas dans le délai qui lui est imparti.
+
+2° Dans le cas prévu à l'article R. 712-10 (2°), la notification d'irrégularité ne peut être émise plus de quatre mois après la date de réception de la demande à l'institut.
+
+3° Aucune régularisation effectuée conformément aux dispositions du présent article ne peut avoir pour effet d'étendre la portée du dépôt.
+
+##### Article R712-12
+
+Le relevé de déchéance prévu à l'article L. 712-10 est applicable aux délais prévus au présent titre, à l'exception de ceux mentionnés aux articles R. 712-16, R. 717-2, R. 717-5 et R. 717-8.
+
+La demande de relevé de déchéance est présentée au directeur général de l'institut.
+
+Est déclarée irrecevable toute demande :
+
+1° Non précédée de l'accomplissement de la formalité omise ;
+
+2° Présentée plus de deux mois à compter de la cessation de l'empêchement ;
+
+3° Portant sur un délai échu depuis plus de six mois ;
+
+4° Non accompagnée de la justification du paiement de la redevance prescrite.
+
+##### Article R712-13
+
+L'opposition à enregistrement formée par le propriétaire d'une marque antérieure ou le bénéficiaire d'un droit exclusif d'exploitation dans les conditions prévues à l'article L. 712-4 peut être présentée par l'intéressé agissant personnellement ou par l'intermédiaire d'un mandataire ayant, sous réserve des exceptions prévues aux articles L. 422-4 et L. 422-5, la qualité de conseil en propriété industrielle assortie de la mention "marques ou dessins et modèles" ou de la mention "juriste".
+
+##### Article R712-14
+
+L'opposition est présentée par écrit dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26.
+
+Elle précise :
+
+1° L'identité de l'opposant, ainsi que les indications propres à établir l'existence, la nature, l'origine et la portée de ses droits ;
+
+2° Les références de la demande d'enregistrement contre laquelle est formée l'opposition, ainsi que l'indication des produits ou services visés par l'opposition ;
+
+3° L'exposé des moyens sur lesquels repose l'opposition ;
+
+4° La justification du paiement de la redevance prescrite ;
+
+5° Le cas échéant, sauf lorsqu'il a la qualité de conseil en propriété industrielle, le pouvoir du mandataire, ce pouvoir pouvant être adressé à l'institut dans le délai maximum d'un mois.
+
+##### Article R712-15
+
+Est déclarée irrecevable toute opposition soit formée hors délai, soit présentée par une personne qui n'avait pas qualité, soit non conforme aux conditions prévues aux articles R. 712-13 et R. 712-14 et à l'arrêté mentionné à l'article R. 712-26.
+
+##### Article R712-16
+
+Sous réserve des cas de suspension prévus au quatrième alinéa de l'article L. 712-4 ou de clôture de la procédure en application de l'article R. 712-18, l'opposition est instruite selon la procédure ci-après :
+
+1° L'opposition est notifiée sans délai au titulaire de la demande d'enregistrement.
+
+Un délai est imparti à celui-ci pour présenter les observations en réponse et, le cas échéant, constituer un mandataire répondant aux conditions prévues à l'article R. 712-13. Le délai imparti ne peut être inférieur à deux mois ;
+
+2° A défaut d'observation en réponse ou, le cas échéant, de constitution régulière d'un mandataire dans le délai imparti, il est statué sur l'opposition.
+
+Dans le cas contraire, un projet de décision est établi au vu de l'opposition et des observations en réponse. Ce projet est notifié aux parties auxquelles un délai est imparti pour en contester éventuellement le bien-fondé ;
+
+3° Ce projet, s'il n'est pas contesté, vaut décision.
+
+Dans le cas contraire, il est statué sur l'opposition au vu des dernières observations et, si l'une des parties le demande, après que celles-ci auront été admises à présenter des observations orales.
+
+L'institut doit respecter le principe du contradictoire. Toute observation dont il est saisi par l'une des parties est notifiée à l'autre.
+
+##### Article R712-17
+
+Le titulaire de la demande d'enregistrement peut, dans ses premières observations en réponse, inviter l'opposant à produire des pièces propres à établir que la déchéance de ses droits pour défaut d'exploitation n'est pas encourue.
+
+L'institut impartit alors un délai à l'opposant pour produire ces pièces.
+
+##### Article R712-18
+
+La procédure d'opposition est clôturée :
+
+1° Lorsque l'opposant a perdu qualité pour agir ou n'a fourni dans le délai imparti aucune pièce propre à établir que la déchéance de ses droits n'est pas encourue ;
+
+2° Lorsque l'opposition est devenue sans objet par suite soit d'un accord entre les parties, soit du retrait ou du rejet de la demande d'enregistrement contre laquelle l'opposition a été formée ;
+
+3° Lorsque les effets de la marque antérieure ont cessé.
+
+##### Article R712-19
+
+Les dispositions des articles R. 712-13 à R. 712-18 seront appliquées progressivement par référence à la classification internationale des produits et services aux fins de l'enregistrement des marques établie en application de l'arrangement de Nice du 15 juin 1957.
+
+Pendant un délai de cinq ans courant à compter du 28 décembre 1991, seules pourront faire l'objet d'une opposition les demandes d'enregistrement portant sur les produits ou services relevant d'au moins une des classes désignées par arrêté du ministre chargé de la propriété industrielle conformément au tableau suivant.
+
+Tableau relatif à l'application progressive de la procédure d'opposition : demandes d'enregistrement portant sur des produits ou services relevant d'au moins une des classes ci-après, date limite de mise en application de la procédure.
+
+2, 20, 27 : 28 décembre 1991.
+
+6, 8, 13, 15, 17, 19, 21 : 1er juillet 1993.
+
+4, 7, 11, 12, 14, 18, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34 : 1er juillet 1995.
+
+1, 3, 5, 9, 10, 16, 35, 36, 37, 38, 39, 40, 41, 42 : 28 décembre 1996.
+
+##### Article R712-20
+
+Jusqu'au début des préparatifs techniques relatifs à l'enregistrement et mentionnés à l'article R. 712-22, le déposant peut être autorisé, sur requête justifiée, à rectifier les erreurs matérielles relevées dans les pièces déposées.
+
+##### Article R712-21
+
+La demande d'enregistrement peut être retirée jusqu'au début des préparatifs techniques relatifs à l'enregistrement. Le retrait peut être limité à une partie du dépôt. Il s'effectue par une déclaration écrite adressée ou remise à l'institut.
+
+Une déclaration de retrait ne peut viser qu'une seule marque. Elle est formulée par le demandeur ou par son mandataire lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit joindre un pouvoir spécial.
+
+Elle indique s'il a été ou non concédé des droits d'exploitation ou de gage. Dans l'affirmative, elle doit être accompagnée du consentement écrit du bénéficiaire de ce droit ou du créancier gagiste.
+
+Si la demande d'enregistrement a été formulée par plusieurs personnes, son retrait ne peut être effectué que s'il est requis par l'ensemble de celles-ci.
+
+Le retrait ne fait pas obstacle à la publication prévue au premier alinéa de l'article R. 712-8.
+
+##### Article R712-22
+
+La durée des préparatifs techniques mentionnés aux articles R. 712-20 et R. 712-21 est fixée par décision du directeur général de l'institut.
+
+##### Article R712-23
+
+La marque est enregistrée, à moins que la demande n'ait été rejetée ou retirée. Un certificat est adressé au déposant.
+
+L'enregistrement est publié au Bulletin officiel de la propriété industrielle.
+
+##### Article R712-24
+
+L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par déclaration du propriétaire de la marque établie dans les conditions prévues à l'arrêté visé à l'article R. 712-26. Il peut être précisé que le renouvellement ne vaut que pour certains produits ou services désignés dans l'acte d'enregistrement.
+
+La déclaration doit, à peine d'irrecevabilité :
+
+1° Etre présentée au cours des six derniers mois de validité de l'enregistrement par l'intéressé ou son mandataire, lequel doit joindre un pouvoir, à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
+
+2° Comporter l'identification du propriétaire de la marque et de la marque renouvelée ;
+
+3° Etre accompagnée de la justification du paiement de la redevance prescrite ;
+
+4° Lorsque l'irrecevabilité est constatée pour défaut de paiement de la redevance prescrite, le déclarant dispose d'un délai de deux mois à compter de la date de réception de la notification pour payer ladite redevance majorée du supplément prescrit.
+
+En cas de non-conformité de la déclaration, il est fait application de la procédure prévue à l'article R. 712-11 (1°).
+
+##### Article R712-25
+
+Tout nouveau dépôt portant sur une modification du signe ou une extension de la liste des produits et services d'une marque enregistrée peut être accompagné d'une déclaration de renouvellement anticipé de cette marque. La nouvelle période de protection court à compter de la déclaration de renouvellement.
+
+Les renouvellements ultérieurs de la marque renouvelée et du nouveau dépôt s'effectuent par une déclaration unique.
+
+##### Article R712-26
+
+Les conditions de présentation de la demande et le contenu du dossier sont précisés par arrêté du ministre chargé de la propriété industrielle, notamment en ce qui concerne :
+
+1° La demande d'enregistrement prévue à l'article R. 712-3 ;
+
+2° L'opposition prévue à l'article R. 712-14 ;
+
+3° La déclaration de retrait prévue à l'article R. 712-21 ou de renonciation prévue à l'article R. 714-1 ;
+
+4° La déclaration de renouvellement prévue aux articles R. 712-24 et R. 712-25 ;
+
+5° La demande d'inscription au Registre national des marques prévue aux articles R. 714-4 et R. 714-6 ;
+
+6° Les demandes d'enregistrement international de marque et d'inscription postérieure au registre international soumises au visa de l'institut.
+
+#### Chapitre III : Droits conférés par l'enregistrement
+
+#### Chapitre IV : Transmission et perte du droit sur la marque
+
+##### Article R714-1
+
+Le propriétaire de la marque enregistrée peut à tout moment renoncer à ses effets. L'institut lui en donne acte. Les dispositions de l'article R. 712-21 sont applicables à la renonciation.
+
+##### Article R714-2
+
+Le Registre national des marques est tenu par l'Institut national de la propriété industrielle.
+
+Y figurent pour chaque marque :
+
+1° L'identification du demandeur et les références du dépôt, ainsi que les actes ultérieurs en affectant l'existence ou la portée ;
+
+2° Les actes modifiant la propriété de la marque ou la jouissance des droits qui lui sont attachés ; en cas de revendication de propriété, l'assignation correspondante ;
+
+3° Les changements de nom, de forme juridique ou d'adresse ainsi que les rectifications d'erreurs matérielles affectant les inscriptions.
+
+Aucune inscription n'est portée au registre tant que le dépôt n'est pas publié dans les conditions prévues à l'article R. 712-8.
+
+##### Article R714-3
+
+Les indications mentionnées à l'article R. 714-2, deuxième alinéa (1°), sont inscrites à l'initiative de l'institut ou, s'il s'agit d'un jugement d'annulation ou de déchéance, sur réquisition du greffier ou d'une des parties.
+
+##### Article R714-4
+
+Les actes modifiant la propriété d'une marque ou la jouissance des droits qui lui sont attachés, tels que cession, concession d'un droit d'exploitation, constitution ou cession d'un droit de gage ou renonciation à ce dernier, saisie, validation et main-levée de saisie, sont inscrits à la demande de l'une des parties à l'acte.
+
+La demande comprend :
+
+1° Un bordereau de demande d'inscription ;
+
+2° Un des originaux de l'acte sous seing privé constatant la modification de la propriété ou de la jouissance ou une expédition de cet acte s'il est authentique ;
+
+3° Une reproduction de l'acte susmentionné lorsque le demandeur entend que l'original ou l'expédition lui soit restitué, ou un extrait lorsqu'il souhaite limiter l'inscription à ce dernier ;
+
+4° La justification du paiement de la redevance prescrite ;
+
+5° S'il y a lieu, le pouvoir du mandataire à moins que celui-ci n'ait la qualité de conseil en propriété industrielle.
+
+##### Article R714-5
+
+Par dérogation à l'article R. 714-4, deuxième alinéa, 2°, peut être produit avec la demande :
+
+1° En cas de mutation par décès, tout acte établissant le transfert, à la demande des héritiers ou légataires ;
+
+2° En cas de transfert par suite de fusion, scission ou absorption, une copie certifiée conforme, par le greffier ou le directeur général de l'institut, des actes correspondants déposés en annexe au registre du commerce et des sociétés ;
+
+3° Sur justification de l'impossibilité matérielle de produire l'original ou l'expédition, tout document établissant la modification de la propriété ou de la jouissance.
+
+##### Article R714-6
+
+Les changements de nom et d'adresse et les rectifications d'erreurs matérielles sont inscrits à la demande du titulaire de la demande d'enregistrement ou du propriétaire de la marque. Toutefois, lorsque ces changements et rectifications portent sur un acte précédemment inscrit, la demande peut être présentée par toute partie à l'acte.
+
+La demande comprend :
+
+1° Un bordereau de demande d'inscription ;
+
+2° La justification du changement intervenu ou de la réalité de l'erreur matérielle à rectifier ;
+
+3° La justification du paiement de la redevance prescrite ;
+
+4° S'il y a lieu, le pouvoir du mandataire, à moins que celui-ci n'ait la qualité de conseil en propriété industrielle.
+
+##### Article R714-7
+
+En cas de non-conformité d'une demande d'inscription, il est fait application de la procédure prévue à l'article R. 712-11 (1°).
+
+La même procédure est applicable aux justifications prévues aux articles R. 714-5 (3°) et R. 714-6, deuxième alinéa (2°).
+
+##### Article R714-8
+
+Toute inscription portée au Registre national des marques fait l'objet d'une mention du Bulletin officiel de la propriété industrielle.
+
+Toute personne intéressée peut obtenir de l'institut :
+
+1° Un certificat d'identité comprenant le modèle de la marque, les indications relatives au dépôt et à l'enregistrement, et, s'il y a lieu, les limitations à la liste des produits ou services résultant d'un retrait, d'une renonciation ou d'une décision judiciaire ;
+
+2° Une reproduction des inscriptions portées au Registre national des marques ;
+
+3° Un certificat constatant qu'il n'existe pas d'inscription.
+
+#### Chapitre V : Marques collectives
+
+##### Article R715-1
+
+La mention "marque collective" portée dans l'enregistrement d'une marque déposée antérieurement au 28 décembre 1991 sera, sauf s'il s'agit d'une marque collective de certification, radiée sur demande de son propriétaire.
+
+Cette radiation sera inscrite au Registre national des marques.
+
+#### Chapitre VI : Contentieux
+
+##### Article R716-1
+
+La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 716-8 comporte :
+
+1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
+
+2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
+
+3° La qualité du demandeur au regard des droits qu'il invoque ;
+
+4° La désignation et le numéro d'enregistrement de la marque concernée ;
+
+5° La description des marchandises arguées de contrefaçon dont la retenue est demandée.
+
+La demande visée à l'alinéa précédent peut être faite préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé du budget.
+
+#### Chapitre VII : Marques internationales
+
+##### Article R717-1
+
+Les articles R. 712-3 (2°, d), R. 712-9 à R. 712-11, R. 712-13 à R. 712-18, R. 714-2 et R. 714-4 à R. 714-8 sont applicables aux enregistrements internationaux de marque étendus à la France conformément à l'arrangement de Madrid du 14 avril 1891, dans la limite et sous la réserve des dispositions prévues au présent chapitre.
+
+##### Article R717-2
+
+Lorsque l'enregistrement international concerne une marque collective de certification, le règlement d'usage mentionné à l'article R. 712-3 (2°, d), accompagné, le cas échéant, de sa traduction en langue française, doit être fourni dans un délai de six mois à compter de l'inscription de la marque au Registre international.
+
+Lorsque cette prescription n'est pas respectée, l'enregistrement international est réputé ne pas porter en France sur une marque collective de certification.
+
+##### Article R717-3
+
+L'institut tient à la disposition du public le bulletin Les Marques internationales publié par l'Organisation mondiale de la propriété intellectuelle.
+
+Le délai de deux mois dans lequel les observations de tiers doivent être présentées en application de l'article L. 712-3 court à partir du premier jour du mois suivant la réception du bulletin Les Marques internationales à l'Institut national de la propriété industrielle.
+
+##### Article R717-4
+
+L'examen prévu à l'article R. 712-10 est limité à la vérification de l'aptitude du signe à constituer une marque ou à être adopté à titre de marque.
+
+Le délai de quatre mois dans lequel doivent être émises les notifications d'irrégularité, conformément à l'article R. 712-11 (2°), court à compter de la notification à l'Institut national de la propriété industrielle de l'extension à la France de l'enregistrement international.
+
+Les irrégularités sont notifiées au titulaire de l'enregistrement international par l'intermédiaire du bureau international de l'Organisation mondiale de la propriété intellectuelle.
+
+##### Article R717-5
+
+Le délai pour former opposition, conformément à l'article L. 712-4, court à partir du premier jour du mois suivant la réception du bulletin Les Marques internationales à l'Institut national de la propriété industrielle.
+
+L'opposition est notifiée au titulaire de l'enregistrement international par l'intermédiaire du bureau international de l'Organisation mondiale de la propriété intellectuelle.
+
+Le titulaire de l'enregistrement international est réputé avoir reçu la notification de l'opposition dans un délai de quinze jours à compter de la date d'émission de cette notification par l'Institut national de la propriété industrielle.
+
+##### Article R717-6
+
+Toute décision de rejet est prononcée sous forme de refus de protection en France de l'enregistrement international.
+
+Elle est notifiée au titulaire de l'enregistrement international par l'intermédiaire du bureau international de l'Organisation mondiale de la propriété intellectuelle.
+
+##### Article R717-7
+
+Les actes relatifs aux enregistrements internationaux qui produisent effet en France peuvent être inscrits au Registre national des marques, dès lors qu'ils ne sont pas susceptibles d'être inscrits au Registre international.
+
+##### Article R717-8
+
+Toute demande d'enregistrement international ou d'inscription postérieure à cet enregistrement soumise, en vertu de l'arrangement de Madrid du 14 avril 1891, au visa de l'Institut national de la propriété industrielle pour transmission au bureau international, doit être présentée dans les conditions fixées à l'arrêté mentionné à l'article R. 712-26.
+
+Les dispositions de l'article R. 712-11 sont applicables à toute demande ne répondant pas aux conditions prévues à l'alinéa précédent. La date de saisine de l'Institut national de la propriété industrielle est celle à laquelle la demande a, le cas échéant, été régularisée.
+
+#### Chapitre VIII : Dispositions communes
+
+##### Section unique
+
+###### Article R718-1
+
+Sous réserve des dispositions de l'article R. 712-16 (1°), les délais impartis par l'Institut national de la propriété industrielle ne sont ni inférieurs à un mois ni supérieurs à quatre mois.
+
+###### Article R718-2
+
+Lorsqu'un délai est exprimé en jours, celui de l'acte, de l'événement, de la décision ou de la notification qui le fait courir ne compte pas.
+
+Lorsqu'un délai est exprimé en mois ou en année, ce délai expire le jour du dernier mois ou de la dernière année qui porte le même quantième que le jour de l'acte, de l'événement, de la décision ou de la notification qui fait courir le délai. A défaut de quantième identique, le délai expire le dernier jour du mois.
+
+Lorsqu'un délai est exprimé en mois et en jours, les mois sont d'abord décomptés, puis les jours.
+
+Tout délai expire le dernier jour à vingt-quatre heures.
+
+Le délai qui expirerait normalement un samedi, un dimanche ou un jour férié ou chômé est prorogé jusqu'au premier jour ouvrable suivant.
+
+###### Article R718-3
+
+Toute notification est réputée régulière si elle est faite :
+
+1° Soit au dernier titulaire de la demande d'enregistrement de marque déclaré à l'institut ou au dernier propriétaire inscrit au Registre national des marques ;
+
+2° Soit au mandataire du titulaire ou du propriétaire susmentionné.
+
+Si le propriétaire est domicilié à l'étranger, la notification est réputée régulière lorsqu'elle est faite au dernier mandataire qu'il a constitué auprès de l'institut.
+
+###### Article R718-4
+
+Les notifications prévues par le présent titre sont faites par lettre recommandée avec demande d'avis de réception.
+
+L'envoi recommandé peut être remplacé par la remise de la lettre au destinataire, contre récépissé, dans les locaux de l'institut.
+
+Si l'adresse du destinataire est inconnue, la notification est faite par publication d'un avis au Bulletin officiel de la propriété industrielle.
+
+## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises
+
+### Titre unique
+
+#### Chapitre unique
+
+##### Article R811-1
+
+Les dispositions du présent code sont applicables aux territoires d'outre-mer à l'exception :
+
+1° Des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-63, R. 615-1 à R. 615-5 ;
+
+2° Des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1, R. 513-2, R. 612-2, R. 612-38, R. 613-46, R. 613-56, R. 613-58, R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4, R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle.
+
+##### Article R811-2
+
+Les dispositions du présent code sont applicables à la collectivité territoriale de Mayotte.
+
+##### Article R811-3
+
+Pour application du présent code et des dispositions qu'il rend applicables aux territoires d'outre-mer et à la collectivité territoriale de Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+
+- "tribunal de grande instance" par "tribunal de première instance" ;
+- "juge d'instance" par "juge du tribunal de première instance" ;
+- "région" par "territoire" et, en ce qui concerne la collectivité de Mayotte, par "collectivité territoriale" ;
+- "cour d'appel" par "tribunal supérieur d'appel" et "commissaire de police" par "officier de police judiciaire" en ce qui concerne la collectivité territoriale de Mayotte ;
+- "tribunal de commerce" par "tribunal de première instance statuant en matière commerciale" en ce qui concerne la collectivité territoriale de Mayotte et "tribunal mixte de commerce" en ce qui concerne les territoires de la Nouvelle-Calédonie, de la Polynésie française et de Wallis-et-Futuna ;
+- "conseil de prud'hommes" par "tribunal du travail".
