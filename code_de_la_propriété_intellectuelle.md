@@ -3823,11 +3823,11 @@ Cette déclaration doit indiquer s'il y a accord entre les collaborateurs sur la
 
 ##### Article R122-3
 
-A défaut de la déclaration prévue à l'article précédent, l'intéressé peut, lors du passage en vente publique d'une oeuvre déterminée, bénéficier du droit de suite en requérant l'officier public ou ministériel, au plus tard dans les vingt-quatre heures qui suivent la vente, de procéder au prélèvement prévu par l'article L. 122-8.
+A défaut de la déclaration prévue à l'article précédent, l'intéressé peut, lors du passage en vente publique d'une oeuvre déterminée, bénéficier du droit de suite en requérant l'officier public ou ministériel ou la personne habilitée à exercer à titre permanent ou occasionnel l'activité de ventes volontaires de meubles aux enchères publiques, au plus tard dans les vingt-quatre heures qui suivent la vente, de procéder au prélèvement prévu par l'article L. 122-8.
 
 Lorsque l'objet est dû à la collaboration de plusieurs artistes, et à défaut de la déclaration prévue à l'article précédent, celui ou ceux qui désirent bénéficier du droit de suite peuvent faire valoir leur droit conformément au paragraphe ci-dessus.
 
-La notification adressée à l'officier public ou ministériel doit indiquer s'il y accord entre les collaborateurs sur la répartition du prélèvement et dans quelle proportion ils ont convenu d'y procéder.
+La notification adressée à l'officier public ou ministériel ou la personne habilitée à exercer à titre permanent ou occasionnel l'activité de ventes volontaires de meubles aux enchères publiques doit indiquer s'il y a accord entre les collaborateurs sur la répartition du prélèvement et dans quelle proportion ils ont convenu d'y procéder.
 
 ##### Article R122-4
 
@@ -3837,35 +3837,35 @@ Ledit mandataire prendra toutes mesures utiles pour sauvegarder les droits de l'
 
 ##### Article R122-5
 
-A dater de l'insertion au Journal officiel de la déclaration prévue à l'article R. 122-2 ou de la réception de la déclaration prévue à l'article R.122-3, l'officier public ou ministériel procédant à la vente publique d'une oeuvre d'art faisant l'objet desdites déclarations doit, sous sa responsabilité personnelle, prélever sur le prix de vente obtenu la somme résultant de l'application du tarif déterminé par les articles L. 122-8 et R. 122-1.
+A dater de l'insertion au Journal officiel de la déclaration prévue à l'article R. 122-2 ou de la réception de la déclaration prévue à l'article R. 122-3, l'officier public ou ministériel ou la personne habilitée à exercer à titre permanent ou occasionnel l'activité de ventes volontaires de meubles aux enchères publiques, procédant à la vente publique d'une oeuvre d'art faisant l'objet desdites déclarations doit, sous sa responsabilité personnelle, prélever sur le prix de vente obtenu la somme résultant de l'application du tarif déterminé par les articles L. 122-8 et R. 122-1.
 
 ##### Article R122-6
 
-Trois jours francs après la vente qui aura donné lieu à prélèvement, les fonds seront tenus par l'officier public ou ministériel à la disposition de l'intéressé. La remise des fonds sera effectuée soit contre justification par l'intéressé de son identité ou de sa qualité pour agir, soit sur déclaration du mandataire et sous la responsabilité de celui-ci.
+Trois jours francs après la vente qui aura donné lieu à prélèvement, les fonds seront tenus par l'officier public ou ministériel ou la personne habilitée à exercer à titre permanent ou occasionnel l'activité de ventes volontaires de meubles aux enchères publiques, à la disposition de l'intéressé. La remise des fonds sera effectuée soit contre justification par l'intéressé de son identité ou de sa qualité pour agir, soit sur déclaration du mandataire et sous la responsabilité de celui-ci.
 
-Lorsque l'objet est dû à la collaboration de plusieurs artistes, à défaut de l'accord prévu aux articles R. 122-2 et R. 122-3, la somme résultant de l'application du tarif déterminé par les articles R. 122-8 et R. 122-1 sera réservée au profit des ayants droit jusqu'à ce que sa répartition ait été réglée à l'amiable ou qu'il ait été statué suivant les règles de droit. Si, à l'expiration du délai de trois mois prévu à l'article R. 122-7, les conditions de la répartition n'ont pas été fixées et notifiées par les intéressés à l'officier public ou ministériel ayant effectué le prélèvement, la somme résultant dudit prélèvement sera versée à la Caisse des dépôts et consignations pour être ultérieurement remise à qui il appartiendra.
+Lorsque l'objet est dû à la collaboration de plusieurs artistes, à défaut de l'accord prévu aux articles R. 122-2 et R. 122-3, la somme résultant de l'application du tarif déterminé par les articles R. 122-8 et R. 122-1 sera réservée au profit des ayants droit jusqu'à ce que sa répartition ait été réglée à l'amiable ou qu'il ait été statué suivant les règles de droit. Si, à l'expiration du délai de trois mois prévu à l'article R. 122-7, les conditions de la répartition n'ont pas été fixées et notifiées par les intéressés à l'officier public ou ministériel ou la personne habilitée à exercer à titre permanent ou occasionnel l'activité de ventes volontaires de meubles aux enchères publiques, ayant effectué le prélèvement, la somme résultant dudit prélèvement sera versée à la Caisse des dépôts et consignations pour être ultérieurement remise à qui il appartiendra.
 
 ##### Article R122-7
 
-Si la remise des fonds n'a pas été faite après la vente, l'officier public ou ministériel doit en conserver le montant pendant un délai de trois mois.
+Si la remise des fonds n'a pas été faite après la vente, l'officier public ou ministériel ou la personne habilitée à exercer à titre permanent ou occasionnel l'activité de ventes volontaires de meubles aux enchères publiques, doit en conserver le montant pendant un délai de trois mois.
 
-Avant l'expiration du premier mois, l'officier public ou ministériel informe par lettre recommandée l'artiste, ses héritiers et ayants cause ou son mandataire, qu'il a fait un prélèvement à son profit, par application de l'article L. 122-8 et que la somme en résultant est tenue à sa disposition.
+Avant l'expiration du premier mois, l'officier public ou ministériel ou la personne habilitée à exercer à titre permanent ou occasionnel l'activité de ventes volontaires de meubles aux enchères publiques, informe par lettre recommandée l'artiste, ses héritiers et ayants cause ou son mandataire, qu'il a fait un prélèvement à son profit, par application de l'article L. 122-8 et que la somme en résultant est tenue à sa disposition.
 
-S'il n'est pas répondu à cet avis avant l'expiration du troisième mois, l'officier public ou ministériel est, passé ce délai, déchargé de toute responsabilité moyennant le versement au vendeur de la somme prélevée.
+S'il n'est pas répondu à cet avis avant l'expiration du troisième mois, l'officier public ou ministériel ou la personne habilitée à exercer à titre permanent ou occasionnel l'activité de ventes volontaires de meubles aux enchères publiques, est, passé ce délai, déchargé de toute responsabilité moyennant le versement au vendeur de la somme prélevée.
 
-Le montant des frais d'avis, qui ne pourra excéder 1 F, est précompté sur le montant de la somme versée à l'artiste ou au vendeur.
+Le montant des frais d'avis, qui ne pourra excéder 0,15 euro, est précompté sur le montant de la somme versée à l'artiste ou au vendeur.
 
 ##### Article R122-8
 
-L'officier public ou ministériel qui aura effectué entre les mains du vendeur le versement de la somme prélevée et non réclamée est tenu, sur simple demande des intéressés, de faire connaître le montant de cette somme et les nom, qualités et adresse dudit vendeur contre lequel les intéressés conserveront tel recours que de droit.
+L'officier public ou ministériel ou la personne habilitée à exercer à titre permanent ou occasionnel l'activité de ventes volontaires de meubles aux enchères publiques, qui aura effectué entre les mains du vendeur le versement de la somme prélevée et non réclamée est tenu, sur simple demande des intéressés, de faire connaître le montant de cette somme et les nom, qualités et adresse dudit vendeur contre lequel les intéressés conserveront tel recours que de droit.
 
 ##### Article R122-9
 
-Dans le cas où l'officier public ou ministériel ayant effectué le prélèvement prescrit par l'article L. 122-8 serait, avant tout paiement à l'intéressé de la somme en résultant, saisi d'une opposition ou défense régulière à ce paiement, le montant de ladite somme devrait, à l'expiration du délai de trois mois fixé à l'article R. 122-7, être versé à la Caisse des dépôts et consignations pour être remis à qui il appartiendra.
+Dans le cas où l'officier public ou ministériel ou la personne habilitée à exercer à titre permanent ou occasionnel l'activité de ventes volontaires de meubles aux enchères publiques, ayant effectué le prélèvement prescrit par l'article L. 122-8 serait, avant tout paiement à l'intéressé de la somme en résultant, saisi d'une opposition ou défense régulière à ce paiement, le montant de ladite somme devrait, à l'expiration du délai de trois mois fixé à l'article R. 122-7, être versé à la Caisse des dépôts et consignations pour être remis à qui il appartiendra.
 
 ##### Article R122-10
 
-Les officiers publics ou ministériels tiennent un registre spécial pour l'application de l'article L. 122-8. Ce registre, dont les pages sont cotées et qui est paraphé par première et dernière, mentionne au fur et à mesure de toute vente publique la description sommaire de l'oeuvre d'art, le prix de vente, le nom de l'artiste pour lequel a été perçu le droit de suite, le nom et l'adresse du vendeur. Ce registre peut être remplacé par un registre à souche dont un des volants constituera l'avis prévu à l'article R. 122-7 et dont le talon devra répondre aux prescriptions du présent article.
+Les officiers publics ou ministériels et les personnes habilitées à exercer à titre permanent ou occasionnel l'activité de ventes volontaires de meubles aux enchères publiques, tiennent un registre spécial pour l'application de l'article L. 122-8. Ce registre, dont les pages sont cotées et qui est paraphé par première et dernière, mentionne au fur et à mesure de toute vente publique la description sommaire de l'oeuvre d'art, le prix de vente, le nom de l'artiste pour lequel a été perçu le droit de suite, le nom et l'adresse du vendeur. Ce registre peut être remplacé par un registre à souche dont un des volants constituera l'avis prévu à l'article R. 122-7 et dont le talon devra répondre aux prescriptions du présent article.
 
 ##### Article R122-11
 
