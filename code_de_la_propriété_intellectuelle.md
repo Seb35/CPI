@@ -2070,13 +2070,49 @@ Ne sont pas considérées comme des inventions susceptibles d'application indust
 
 ####### Article L611-17
 
-Ne sont pas brevetables :
+Ne sont pas brevetables les inventions dont l'exploitation commerciale serait contraire à la dignité de la personne humaine, à l'ordre public ou aux bonnes moeurs, cette contrariété ne pouvant résulter du seul fait que cette exploitation est interdite par une disposition législative ou réglementaire.
 
-a) Les inventions dont la publication ou la mise en oeuvre serait contraire à l'ordre public ou aux bonnes moeurs, la mise en oeuvre d'une telle invention ne pouvant être considérée comme telle du seul fait qu'elle est interdite par une disposition législative ou réglementaire ; à ce titre, le corps humain, ses éléments et ses produits ainsi que la connaissance de la structure totale ou partielle d'un gène humain ne peuvent, en tant que tels, faire l'objet de brevets.
+####### Article L611-18
 
-b) Les obtentions végétales d'un genre ou d'une espèce bénéficiant du régime de protection institué par les dispositions du chapitre III du titre II du présent livre relatives aux obtentions végétales ;
+Le corps humain, aux différents stades de sa constitution et de son développement, ainsi que la simple découverte d'un de ses éléments, y compris la séquence totale ou partielle d'un gène, ne peuvent constituer des inventions brevetables.
 
-c) Les races animales ainsi que les procédés essentiellement biologiques d'obtention de végétaux ou d'animaux, cette disposition ne s'appliquant pas aux procédés microbiologiques et aux produits obtenus par ces procédés.
+Seule une invention constituant l'application technique d'une fonction d'un élément du corps humain peut être protégée par brevet. Cette protection ne couvre l'élément du corps humain que dans la mesure nécessaire à la réalisation et à l'exploitation de cette application particulière. Celle-ci doit être concrètement et précisément exposée dans la demande de brevet.
+
+Ne sont notamment pas brevetables :
+
+a) Les procédés de clonage des êtres humains ;
+
+b) Les procédés de modification de l'identité génétique de l'être humain ;
+
+c) Les utilisations d'embryons humains à des fins industrielles ou commerciales ;
+
+d) Les séquences totales ou partielles d'un gène prises en tant que telles.
+
+####### Article L611-19
+
+I. - Ne sont pas brevetables :
+
+1° Les races animales ;
+
+2° Les variétés végétales telles que définies à l'article 5 du règlement (CE) n° 2100/94 du Conseil, du 27 juillet 1994, instituant un régime de protection communautaire des obtentions végétales ;
+
+3° Les procédés essentiellement biologiques pour l'obtention des végétaux et des animaux ; sont considérés comme tels les procédés qui font exclusivement appel à des phénomènes naturels comme le croisement ou la sélection ;
+
+4° Les procédés de modification de l'identité génétique des animaux de nature à provoquer chez eux des souffrances sans utilité médicale substantielle pour l'homme ou l'animal, ainsi que les animaux issus de tels procédés.
+
+II. - Nonobstant les dispositions du I, les inventions portant sur des végétaux ou des animaux sont brevetables si la faisabilité technique de l'invention n'est pas limitée à une variété végétale ou à une race animale déterminées.
+
+III. - Les dispositions du 3° du I n'affectent pas la brevetabilité d'inventions ayant pour objet un procédé technique, notamment microbiologique, ou un produit obtenu par un tel procédé ; est regardé comme un procédé microbiologique tout procédé utilisant ou produisant une matière biologique ou comportant une intervention sur une telle matière.
+
+####### Article L611-19
+
+Les races animales ainsi que les procédés essentiellement biologiques d'obtention de végétaux ou d'animaux ne sont pas brevetables.
+
+Cette disposition ne s'applique pas aux procédés microbiologiques et aux produits obtenus par ces procédés.
+
+####### Article L611-20
+
+Les obtentions végétales d'un genre ou d'une espèce bénéficiant du régime de protection institué par les dispositions du chapitre III du titre II du présent livre relatives aux obtentions végétales ne sont pas brevetables.
 
 ##### Chapitre II : Dépôt et instruction des demandes
 
@@ -2172,7 +2208,7 @@ Est rejetée, en tout ou partie, toute demande de brevet :
 
 3° Qui porte sur une demande divisionnaire dont l'objet s'étend au-delà du contenu de la description de la demande initiale ;
 
-4° Qui a pour objet une invention manifestement non brevetable en application de l'article L. 611-17 ;
+4° Qui a pour objet une invention manifestement non brevetable en application des articles L. 611-17 à L. 611-20 ;
 
 5° Dont l'objet ne peut manifestement être considéré comme une invention au sens de l'article L. 611-10, deuxième paragraphe, ou comme une invention susceptible d'application industrielle au sens de l'article L. 611-16 ;
 
@@ -2186,7 +2222,7 @@ Est rejetée, en tout ou partie, toute demande de brevet :
 
 Si les motifs de rejet n'affectent la demande de brevet qu'en partie, seules les revendications correspondantes sont rejetées.
 
-En cas de non-conformité partielle de la demande aux dispositions du a de l'article L. 611-17 ou de l'article L. 612-1, il est procédé d'office à la suppression des parties correspondantes de la description et des dessins.
+En cas de non-conformité partielle de la demande aux dispositions des articles L. 611-17 et L611-18 ou de l'article L. 612-1, il est procédé d'office à la suppression des parties correspondantes de la description et des dessins.
 
 ####### Article L612-13
 
@@ -2279,6 +2315,12 @@ Le droit exclusif d'exploitation mentionné à l'article L. 611-1 prend effet à
 L'étendue de la protection conférée par le brevet est déterminée par la teneur des revendications. Toutefois, la description et les dessins servent à interpréter les revendications.
 
 Si l'objet du brevet porte sur un procédé, la protection conférée par le brevet s'étend aux produits obtenus directement par ce procédé.
+
+####### Article L613-2-1
+
+La portée d'une revendication couvrant une séquence génique est limitée à la partie de cette séquence directement liée à la fonction spécifique concrètement exposée dans la description.
+
+Les droits créés par la délivrance d'un brevet incluant une séquence génique ne peuvent être invoqués à l'encontre d'une revendication ultérieure portant sur la même séquence si cette revendication satisfait elle-même aux conditions de l'article L. 611-18 et qu'elle expose une autre application particulière de cette séquence.
 
 ####### Article L613-3
 
@@ -2378,15 +2420,29 @@ Si le titulaire d'une licence obligatoire ne satisfait pas aux conditions auxque
 
 ####### Article L613-15
 
-Le propriétaire d'un brevet portant sur un perfectionnement à une invention déjà brevetée au profit d'un tiers ne peut exploiter son invention sans l'autorisation du titulaire du brevet antérieur ; ledit titulaire ne peut exploiter le perfectionnement breveté sans l'autorisation du titulaire du brevet de perfectionnement.
+Le titulaire d'un brevet portant atteinte à un brevet antérieur ne peut exploiter son brevet sans l'autorisation du titulaire du brevet antérieur ; ledit titulaire ne peut exploiter le brevet postérieur sans l'autorisation du titulaire du brevet postérieur.
 
-Le tribunal de grande instance peut, le ministère public entendu, accorder, dans l'intérêt public, sur sa demande, qui ne peut être antérieure à l'expiration du délai prévu à l'article L. 613-11, une licence au titulaire du brevet de perfectionnement dans la mesure nécessaire à l'exploitation de l'invention qui fait l'objet de ce brevet, et pour autant que l'invention, objet du brevet de perfectionnement, présente à l'égard du brevet antérieur un progrès technique et un intérêt économique importants. La licence accordée au titulaire du brevet de perfectionnement ne peut être transmise qu'avec ledit brevet. Le propriétaire du premier brevet obtient, sur requête présentée au tribunal, la concession d'une licence sur le brevet de perfectionnement.
+Lorsque le titulaire d'un brevet ne peut l'exploiter sans porter atteinte à un brevet antérieur dont un tiers est titulaire, le tribunal de grande instance peut lui accorder une licence d'exploitation du brevet antérieur dans la mesure nécessaire à l'exploitation du brevet dont il est titulaire et pour autant que cette invention constitue à l'égard du brevet antérieur un progrès technique important et présente un intérêt économique certain.
+
+La licence accordée au titulaire du brevet postérieur ne peut être transmise qu'avec ledit brevet.
+
+Le titulaire du brevet antérieur obtient, sur demande présentée au tribunal, la concession d'une licence réciproque sur le brevet postérieur.
 
 Les dispositions des articles L. 613-12 à L. 613-14 sont applicables.
 
 ####### Article L613-16
 
-Si l'intérêt de la santé publique l'exige, les brevets délivrés pour des médicaments, pour des procédés d'obtention de médicaments, pour des produits nécessaires à l'obtention de ces médicaments ou pour des procédés de fabrication de tels produits, peuvent, au cas où ces médicaments ne sont mis à la disposition du public qu'en quantité ou qualité insuffisantes ou à des prix anormalement élevés, être soumis, par arrêté du ministre chargé de la propriété industrielle, sur la demande du ministre chargé de la santé publique, au régime de la licence d'office dans les conditions prévues à l'article L. 613-17.
+Si l'intérêt de la santé publique l'exige et à défaut d'accord amiable avec le titulaire du brevet, le ministre chargé de la propriété industrielle peut, sur la demande du ministre chargé de la santé publique, soumettre par arrêté au régime de la licence d'office, dans les conditions prévues à l'article L. 613-17, tout brevet délivré pour :
+
+a) Un médicament, un dispositif médical, un dispositif médical de diagnostic in vitro, un produit thérapeutique annexe ;
+
+b) Leur procédé d'obtention, un produit nécessaire à leur obtention ou un procédé de fabrication d'un tel produit ;
+
+c) Une méthode de diagnostic ex vivo.
+
+Les brevets de ces produits, procédés ou méthodes de diagnostic ne peuvent être soumis au régime de la licence d'office dans l'intérêt de la santé publique que lorsque ces produits, ou des produits issus de ces procédés, ou ces méthodes sont mis à la disposition du public en quantité et qualité insuffisantes ou à des prix anormalement élevés, ou lorsque le brevet est exploité dans des conditions contraires à l'intérêt de la santé publique ou constitutives de pratiques déclarées anticoncurrentielles à la suite d'une décision administrative ou juridictionnelle devenue définitive.
+
+Lorsque la licence a pour but de remédier à une pratique déclarée anticoncurrentielle ou en cas d'urgence, le ministre chargé de la propriété industrielle n'est pas tenu de rechercher un accord amiable.
 
 ####### Article L613-17
 
