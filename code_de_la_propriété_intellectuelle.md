@@ -1001,23 +1001,9 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 ##### Chapitre unique
 
-###### Article L311-1
-
-Les auteurs et les artistes-interprètes des oeuvres fixées sur phonogrammes ou vidéogrammes, ainsi que les producteurs de ces phonogrammes ou vidéogrammes, ont droit à une rémunération au titre de la reproduction desdites oeuvres, réalisées dans les conditions mentionnées au 2° de l'article 122-5 et au 2° de l'article L. 211-3.
-
-###### Article L311-2
-
-Sous réserve des conventions internationales, le droit à rémunération mentionné aux articles L. 214-1 et L. 311-1 est réparti entre les auteurs, les artistes-interprètes, producteurs de phonogrammes ou de vidéogrammes pour les phonogrammes et vidéogrammes fixés pour la première fois en France.
-
 ###### Article L311-3
 
 La rémunération pour copie privée est, dans les conditions ci-après définies, évaluée selon le mode forfaitaire prévu au deuxième alinéa de l'article L. 131-4.
-
-###### Article L311-4
-
-La rémunération prévue à l'article L. 311-3 est versée par le fabricant, l'importateur ou la personne qui réalise des acquisitions intracommunautaires, au sens du 3° du I de l'article 256 bis du code général des impôts, de supports d'enregistrement utilisables pour la reproduction à usage privé d'oeuvres fixées sur des phonogrammes ou des vidéogrammes, lors de la mise en circulation en France de ces supports.
-
-Le montant de la rémunération est fonction du type de support et de la durée d'enregistrement qu'il permet.
 
 ###### Article L311-5
 
@@ -1036,22 +1022,6 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 La rémunération prévue à l'article L. 311-1 est perçue pour le compte des ayants droit par un ou plusieurs organismes mentionnés au titre II du présent livre.
 
 Elle est répartie entre les ayants droit par les organismes mentionnés à l'alinéa précédent, à raison des reproductions privées dont chaque oeuvre fait l'objet.
-
-###### Article L311-7
-
-La rémunération pour copie privée des phonogrammes bénéficie, pour moitié, aux auteurs au sens du présent code, pour un quart, aux artistes-interprètes et, pour un quart, aux producteurs.
-
-La rémunération pour copie privée des vidéogrammes bénéficie à parts égales aux auteurs au sens du présent code, aux artistes-interprètes et aux producteurs.
-
-###### Article L311-8
-
-La rémunération pour copie privée donne lieu à remboursement lorsque le support d'enregistrement est acquis pour leur propre usage ou production par :
-
-1° Les entreprises de communication audiovisuelle ;
-
-2° Les producteurs de phonogrammes ou de vidéogrammes et les personnes qui assurent, pour le compte des producteurs de phonogrammes ou de vidéogrammes, la reproduction de ceux-ci ;
-
-3° Les personnes morales ou organismes, dont la liste est arrêtée par le ministre chargé de la culture, qui utilisent les supports d'enregistrement à des fins d'aide aux handicapés visuels ou auditifs.
 
 #### Titre II : Sociétés de perception et de répartition des droits
 
