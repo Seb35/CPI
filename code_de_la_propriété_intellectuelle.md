@@ -1293,11 +1293,13 @@ Les officiers de police judiciaire compétents peuvent procéder, dès la consta
 
 ###### Article L335-2
 
-Toute édition d'écrits, de composition musicale, de dessin, de peinture ou de toute autre production, imprimée ou gravée en entier ou en partie, au mépris des lois et règlements relatifs à la propriété des auteurs, est une contrefaçon ; et toute contrefaçon est un délit.
+Toute édition d'écrits, de composition musicale, de dessin, de peinture ou de toute autre production, imprimée ou gravée en entier ou en partie, au mépris des lois et règlements relatifs à la propriété des auteurs, est une contrefaçon et toute contrefaçon est un délit.
 
-La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de deux ans d'emprisonnement et de 150000 euros d'amende [*sanctions pénales*].
+La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de trois ans d'emprisonnement et de 300 000 euros d'amende.
 
 Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaits.
+
+Lorsque les délits prévus par le présent article ont été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 ###### Article L335-3
 
@@ -1307,13 +1309,15 @@ Est également un délit de contrefaçon la violation de l'un des droits de l'au
 
 ###### Article L335-4
 
-Est punie de deux ans d'emprisonnement et de 150000 euros d'amende toute fixation, reproduction, communication ou mise à disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un phonogramme, d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-interprète, du producteur de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle.
+Est punie de trois ans d'emprisonnement et de 300 000 euros d'amende toute fixation, reproduction, communication ou mise à disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un phonogramme, d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-interprète, du producteur de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle.
 
 Est punie des mêmes peines toute importation ou exportation de phonogrammes ou de vidéogrammes réalisée sans l'autorisation du producteur ou de l'artiste-interprète, lorsqu'elle est exigée.
 
 Est puni de la peine d'amende prévue au premier alinéa le défaut de versement de la rémunération due à l'auteur, à l'artiste-interprète ou au producteur de phonogrammes ou de vidéogrammes au titre de la copie privée ou de la communication publique ainsi que de la télédiffusion des phonogrammes.
 
 Est puni de la peine d'amende prévue au premier alinéa le défaut de versement du prélèvement mentionné au troisième alinéa de l'article L. 133-3.
+
+Lorsque les délits prévus au présent article ont été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 ###### Article L335-5
 
@@ -1428,7 +1432,7 @@ Toutefois, dans le cas où une base de données protégée fait l'objet d'un nou
 
 ###### Article L343-1
 
-Est puni de deux ans d'emprisonnement et de 150000 euros d'amende le fait de porter atteinte aux droits du producteur d'une base de données tels que définis à l'article L. 342-1 [*sanctions pénales*].
+Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait de porter atteinte aux droits du producteur d'une base de données tels que définis à l'article L. 342-1. Lorsque le délit a été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 ###### Article L343-2
 
@@ -1880,11 +1884,11 @@ Les officiers de police judiciaire peuvent procéder, dès la constatation des i
 
 ###### Article L521-4
 
-Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de deux ans d'emprisonnement et de 150000 euros d'amende [*sanctions pénales*].
+Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de trois ans d'emprisonnement et de 300 000 euros d'amende. Lorsque le délit a été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 En outre, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
 
-La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 3750 euros d'amende.
+La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 3 750 euros d'amende.
 
 ###### Article L521-5
 
@@ -2837,7 +2841,7 @@ Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atte
 
 ####### Article L615-14
 
-1. Seront punis de deux ans d'emprisonnement et de 150000 euros d'amende ceux qui auront porté sciemment atteinte aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6.
+1. Sont punies de trois ans d'emprisonnement et de 300 000 euros d'amende les atteintes portées sciemment aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6. Lorsque le délit a été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 2. Alinéa perimé.
 
@@ -3201,7 +3205,7 @@ Les tribunaux de grande instance compétents, dont le nombre ne pourra être inf
 
 ####### Article L623-32
 
-Toute atteinte portée sciemment aux droits du titulaire d'un certificat d'obtention végétale, tels qu'ils sont définis à l'article L. 623-4, constitue un délit puni d'une amende de 3750 euros [*sanctions pénales*]. En cas de récidive, un emprisonnement de six mois peut, en outre, être prononcé. Il y a récidive, au sens du présent article, lorsqu'il a été rendu contre le prévenu dans les cinq années antérieures une condamnation pour le même délit.
+Toute atteinte portée sciemment aux droits du titulaire d'un certificat d'obtention végétale, tels qu'ils sont définis à l'article L. 623-4, constitue un délit puni d'une amende de 10 000 euros. Lorsqu'il a été rendu contre le prévenu dans les cinq années antérieures une condamnation pour le même délit ou en cas de commission du délit en bande organisée, un emprisonnement de six mois peut, en outre, être prononcé.
 
 ####### Article L623-33
 
@@ -3584,21 +3588,31 @@ Les officiers de police judiciaire peuvent procéder, dès la constatation des i
 
 ###### Article L716-9
 
-Sera puni de deux ans d'emprisonnement et de 150000 euros d'amende quiconque aura [*sanctions pénales*] :
+Est puni de quatre ans d'emprisonnement et de 400 000 euros d'amende le fait pour toute personne, en vue de vendre, fournir, offrir à la vente ou louer des marchandises présentées sous une marque contrefaite :
 
-a) Reproduit, imité, utilisé, apposé, supprimé ou modifié une marque, une marque collective ou une marque collective de certification en violation des droits conférés par son enregistrement et des interdictions qui découlent de celui-ci ;
+a) D'importer sous tout régime douanier, d'exporter, de réexporter ou de transborder des marchandises présentées sous une marque contrefaite ;
 
-b) Importé, sous tous régimes douaniers, ou exporté des marchandises présentées sous une marque contrefaite.
+b) De produire industriellement des marchandises présentées sous une marque contrefaite ;
+
+c) De donner des instructions ou des ordres pour la commission des actes visés aux a et b.
+
+Lorsque les délits prévus au présent article ont été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 ###### Article L716-10
 
-Sera puni des peines prévues à l'article précédent [*sanctions pénales*] quiconque :
+Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait pour toute personne :
 
-a) Aura détenu sans motif légitime des produits qu'il sait revêtus d'une marque contrefaite, ou aura sciemment vendu, mis en vente, fourni ou offert de fournir des produits ou des services sous une telle marque ;
+a) De détenir sans motif légitime, d'importer sous tous régimes douaniers ou d'exporter des marchandises présentées sous une marque contrefaite ;
 
-b) Aura sciemment livré un produit ou fourni un service autre que celui qui lui aura été demandé sous une marque enregistrée.
+b) D'offrir à la vente ou de vendre des marchandises présentées sous une marque contrefaite ;
 
-L'infraction, dans les conditions prévues au b, n'est pas constituée en cas d'exercice par un pharmacien de la faculté de substitution prévue à l'article L. 512-3 du code de la santé publique.
+c) De reproduire, d'imiter, d'utiliser, d'apposer, de supprimer, de modifier une marque, une marque collective ou une marque collective de certification en violation des droits conférés par son enregistrement et des interdictions qui découlent de celui-ci ;
+
+d) De sciemment livrer un produit ou fournir un service autre que celui qui lui est demandé sous une marque enregistrée.
+
+L'infraction, dans les conditions prévues au d, n'est pas constituée en cas d'exercice par un pharmacien de la faculté de substitution prévue à l'article L. 5125-23 du code de la santé publique.
+
+Lorsque les délits prévus aux a à d ont été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 ###### Article L716-11
 
