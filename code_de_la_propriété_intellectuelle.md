@@ -78,7 +78,9 @@ Sont considérés notamment comme oeuvres de l'esprit au sens du présent code :
 
 ###### Article L112-3
 
-Les auteurs de traductions, d'adaptations, transformations ou arrangements des oeuvres de l'esprit jouissent de la protection instituée par le présent code sans préjudice des droits de l'auteur de l'oeuvre originale. Il en est de même des auteurs d'anthologies ou de recueils d'oeuvres ou de données diverses qui, par le choix ou la disposition des matières, constituent des créations intellectuelles.
+Les auteurs de traductions, d'adaptations, transformations ou arrangements des oeuvres de l'esprit jouissent de la protection instituée par le présent code sans préjudice des droits de l'auteur de l'oeuvre originale. Il en est de même des auteurs d'anthologies ou de recueils d'oeuvres ou de données diverses, tels que les bases de données, qui, par le choix ou la disposition des matières, constituent des créations intellectuelles.
+
+On entend par base de données un recueil d'oeuvres, de données ou d'autres éléments indépendants, disposés de manière systématique ou méthodique, et individuellement accessibles par des moyens électroniques ou par tout autre moyen.
 
 ###### Article L112-4
 
@@ -286,7 +288,7 @@ Lorsque l'oeuvre a été divulguée, l'auteur ne peut interdire :
 
 1° Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ;
 
-2° Les copies ou reproductions strictement réservées à l'usage privé du copiste et non destinées à une utilisation collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que la copie de sauvegarde établie dans les conditions prévues au II de l'article L. 122-6-1 ;
+2° Les copies ou reproductions strictement réservées à l'usage privé du copiste et non destinées à une utilisation collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que la copie de sauvegarde établie dans les conditions prévues au II de l'article L. 122-6-1 ainsi que des copies ou des reproductions d'une base de données électronique;
 
 3° Sous réserve que soient indiqués clairement le nom de l'auteur et la source :
 
@@ -301,6 +303,8 @@ d) Les reproductions, intégrales ou partielles d'oeuvres d'art graphiques ou pl
 Un décret en Conseil d'Etat fixe les caractéristiques des documents et les conditions de leur distribution.
 
 4° La parodie, le pastiche et la caricature, compte tenu des lois du genre.
+
+5° Les actes nécessaires à l'accès au contenu d'une base de données électronique pour les besoins et dans les limites de l'utilisation prévue par contrat.
 
 ###### Article L122-6
 
@@ -991,7 +995,7 @@ A défaut d'accord amiable, le Médiateur peut proposer aux parties la solution 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article et les modalités de désignation des médiateurs.
 
-### Livre III : Dispositions générales
+### Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données
 
 #### Titre Ier : Rémunération pour copie privée
 
@@ -1049,7 +1053,7 @@ La rémunération pour copie privée donne lieu à remboursement lorsque le supp
 
 3° Les personnes morales ou organismes, dont la liste est arrêtée par le ministre chargé de la culture, qui utilisent les supports d'enregistrement à des fins d'aide aux handicapés visuels ou auditifs.
 
-#### Titre II : Sociétes de perception et de répartition des droits
+#### Titre II : Sociétés de perception et de répartition des droits
 
 ##### Chapitre unique
 
@@ -1155,6 +1159,10 @@ Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuv
 
 Le Centre national de la cinématographie peut exercer les droits reconnus à la partie civile en ce qui concerne le délit de contrefaçon, au sens de l'article L. 335-3, d'une oeuvre audiovisuelle lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
 
+###### Article L331-4
+
+Les droits mentionnés dans la première partie du présent code ne peuvent faire échec aux actes nécessaires à l'accomplissement d'une procédure juridictionnelle ou administrative prévue par la loi, ou entrepris à des fins de sécurité publique.
+
 ##### Chapitre II : Saisie-contrefaçon
 
 ###### Article L332-1
@@ -1183,13 +1191,13 @@ Faute par le saisissant de saisir la juridiction compétente dans les trente jou
 
 ###### Article L332-4
 
-En matière de logiciels, la saisie-contrefaçon est exécutée en vertu d'une ordonnance rendue sur requête par le président du tribunal de grande instance. Le président autorise, s'il y a lieu, la saisie réelle.
+En matière de logiciels et de bases de données, la saisie-contrefaçon est exécutée en vertu d'une ordonnance rendue sur requête par le président du tribunal de grande instance. Le président autorise, s'il y a lieu, la saisie réelle.
 
 L'huissier instrumentaire ou le commissaire de police peut être assisté d'un expert désigné par le requérant.
 
 A défaut d'assignation ou de citation dans la quinzaine de la saisie, la saisie-contrefaçon est nulle.
 
-En outre, les commissaires de police sont tenus, à la demande de tout auteur d'un logiciel protégé par le présent code ou de ses ayants droit, d'opérer une saisie-description du logiciel contrefaisant, saisie-description qui peut se concrétiser par une copie.
+En outre, les commissaires de police sont tenus, à la demande de tout titulaire de droits sur un logiciel ou sur une base de données, d'opérer une saisie-description du logiciel ou de la base de données contrefaisants, saisie-description qui peut se concrétiser par une copie.
 
 ##### Chapitre III : Saisie-arrêt
 
@@ -1287,8 +1295,6 @@ La mesure de retenue est levée de plein droit à défaut pour le demandeur, dan
 - soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
 
 Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration des douanes communication des noms et adresses de l'expéditeur, de l'importateur et du destinataire des marchandises retenues, ou de leur détenteur, ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
-
-### Livre III : Dispositions générales relatives au droit d'auteur, aux droits voisins et droits des producteurs de bases de données
 
 #### Titre IV : Droits des producteurs de bases de données
 
