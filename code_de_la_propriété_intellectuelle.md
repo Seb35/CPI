@@ -4284,7 +4284,7 @@ La communication des comptes annuels des sociétés de perception et de réparti
 
 A. - En ce qui concerne la gestion financière de la société :
 
-1. Dans le respect des règles comptables usuelles en matière de constatation de produits et de charges, un compte de gestion conforme à l'annexe 1 (Nota).
+1. Dans le respect des règles comptables usuelles en matière de constatation de produits et de charges, un compte de gestion conforme à l'annexe 1.
 
 Les sociétés concernées auront également la faculté :
 
@@ -4320,17 +4320,9 @@ B. - En ce qui concerne la mise en oeuvre des actions dont le financement est pr
 
 3. Un commentaire des orientations suivies en la matière par la société.
 
+4. La liste des conventions mentionnées à l'article R. 321-10.
+
 C. - Une information annuelle sur les actions éventuellement engagées pour la défense des catégories professionnelles concernées par leur objet social.
-
-##### Article R321-9
-
-L'aide à la création mentionnée à l'article L. 321-9 s'entend :
-
-a) D'une part, des concours apportés à la création d'une œuvre, à son interprétation, à la première fixation d'une œuvre ou d'une interprétation sur un phonogramme ou un vidéogramme ;
-
-b) D'autre part, des actions propres à assurer la défense et la promotion de la création.
-
-L'aide à la formation d'artistes mentionnée au même article s'entend de la formation d'auteurs et de la formation d'artistes-interprètes.
 
 ##### Annexes à l'article R321-8
 
@@ -5023,6 +5015,26 @@ L'aide à la formation d'artistes mentionnée au même article s'entend de la fo
 <td valign="top" width="72"/><td valign="top" width="80"/>
  </tr>
 </tbody></table>
+
+##### Article R321-9
+
+I.-L'aide à la création mentionnée à l'article L. 321-9 s'entend des concours apportés :
+
+a) A la création d'une œuvre, à son interprétation, à la première fixation d'une œuvre ou d'une interprétation sur un phonogramme ou un vidéogramme ;
+
+b) A des actions de défense, de promotion et d'information engagées dans l'intérêt des créateurs et de leurs œuvres.
+
+II.-L'aide à la diffusion du spectacle vivant mentionnée à l'article L. 321-9 s'entend des concours apportés :
+
+a) A des manifestations présentant, à titre principal ou accessoire, un spectacle vivant ;
+
+b) A des actions propres à assurer la diffusion des œuvres et des prestations artistiques du spectacle vivant.
+
+III.-L'aide à la formation d'artistes mentionnée à l'article L. 321-9 s'entend des concours apportés à des actions de formation des auteurs et des artistes-interprètes.
+
+##### Article R321-10
+
+Toute aide allouée par une société de perception et de répartition des droits en application de l'article L. 321-9 fait l'objet d'une convention entre la société et le bénéficiaire. Cette convention prévoit les conditions d'utilisation du concours apporté ainsi que celles dans lesquelles le bénéficiaire communique à la société les éléments permettant de justifier que l'aide est utilisée conformément à sa destination.
 
 #### Chapitre II : Sociétés agréées pour la gestion du droit de reproduction par reprographie
 
