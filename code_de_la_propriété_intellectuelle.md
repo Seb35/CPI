@@ -7376,79 +7376,33 @@ Le délai prévu à l'article L. 623-27, deuxième alinéa, pour se pourvoir dev
 
 Des arrêtés du ministre chargé de l'agriculture pris après avis du comité de la protection des obtentions végétales préciseront, en tant que de besoin, les conditions d'application de la présente section.
 
-##### Section 2 : Liste des espèces végétales, durée et portée du droit
+##### Section 2 : Champ d'application des certificats d'obtention végétale, durée et portée du droit de l'obtenteur
 
 ###### Article R623-55
 
-Des certificats d'obtention végétale peuvent être délivrés dans les conditions prévues par les articles L. 412-1, L. 623-1, L. 623-3 à L. 623-16, et le présent chapitre pour les espèces suivantes :
+1. Des certificats d'obtention végétale peuvent être délivrés, dans les conditions prévues par les articles L. 623-1 à L. 623-35 et les articles R. 623-1 à R. 623-54, pour toute variété appartenant à une espèce du règne végétal.
 
-avoine, blé dur, blé tendre, haricot, laitue, luzerne, maïs, oeillet, orge, pois, pomme de terre, prunier, ray-grass, riz, rosier et trèfle violet.
+Tout étranger ayant la nationalité d'un Etat partie à la convention internationale pour la protection des obtentions végétales du 2 décembre 1961, modifiée par l'acte additionnel du 10 novembre 1972, ou ayant son domicile, siège ou établissement dans l'un de ces Etats peut obtenir un certificat d'obtention végétale pour les variétés appartenant aux genres ou espèces faisant l'objet de la part de cet Etat de la même protection et figurant sur la liste annexée à cette convention ou sur une liste complémentaire établie en application des dispositions de celle-ci.
 
-Pour ces espèces, tout étranger ayant la nationalité d'un Etat partie à la convention internationale pour la protection des obtentions végétales du 2 décembre 1961 ou ayant son domicile, siège ou établissement dans l'un de ces Etats, peut obtenir un certificat d'obtention végétale dans les mêmes conditions que les Français.
+Tout étranger ayant la nationalité d'un Etat partie à la convention internationale pour la protection des obtentions végétales dans le texte révisé du 23 octobre 1978 ou ayant son domicile, siège ou établissement dans l'un de ces Etats peut obtenir un certificat d'obtention végétale dans les mêmes conditions que les Français.
 
-Les étrangers n'ayant pas la nationalité de l'un de ces Etats ou n'ayant pas leur domicile, siège ou établissement dans l'un de ceux-ci ne peuvent obtenir de certificats d'obtention végétale que dans les conditions de réciprocité définies à l'article R. 623-56.
+2. Les étrangers n'ayant ni la nationalité d'un des Etats mentionnés au 1 ni leur domicile, siège ou établissement dans l'un de ceux-ci ne peuvent obtenir de certificats d'obtention végétale qu'à la condition que les Français bénéficient de la réciprocité de protection de la part de l'Etat dont l'étranger a la nationalité ou dans lequel il a son domicile, siège ou établissement.
+
+Des arrêtés du ministre des affaires étrangères et du ministre chargé de l'agriculture pris sur proposition du comité de la protection des obtentions végétales établissent la liste des Etats dont la législation satisfait à la condition de réciprocité. Ces arrêtés peuvent comporter une liste limitative d'espèces végétales pour lesquelles la condition de réciprocité est satisfaite.
 
 ###### Article R623-56
 
-Des certificats d'obtention végétale peuvent en outre être délivrés dans les conditions prévues par les articles L. 412-1, L. 623-1, L. 623-3 à L. 623-16 et le présent chapitre pour les espèces suivantes : abricotier, alstroemère, amandier, aubergine, Begonia elatior, berberis, brome (Bromus carinatus Hock. et Arn., Bromus sitchensis Trin., Bromus stamineus Desv. incl. B, valdivianus Phil., Bromus willdenowii Cunth B, unioloïdes H.B.C., Cartharticus aut c.), buddleia, cassis, cerisier, châtaignier, chicorée-endive (Cichorium intybus L.), chicorée frisée et chicorée scarole, chou cabus, chou de Bruxelles, chou de Milan, chou frisé, chou rouge, chrysanthème, cognassier, colza, concombre-cornichon, courge-courgette (Cucurbita pepo L.), cyprès (cyprès de Provence, cyprès de l'Arizona, cyprès de Duprez, cyprès de Leyland, X cupressocyparis et ses hybrides), dieffenbachia, épine du Christ, euphorbia fulgens, fétuque élevée, forsythia, fraisier, framboisier, freesia, gerbera, glaïeul, groseillier, groseillier à maquereau, hortensia, houblon, houx (hybrides d'Ilex aquifolium), iris bulbeux et rhizomateux, juniperus, kalanchoè, Lagerstroemia, lavande et lavandins, lentille, lin, lis, lupin blanc, mâche, malus ornemental, Nerium oleander, noisetier, noyer, orchidées, pâturins des prés, pêcher, pélargonium (pélargonium zonale, géranium lierre et hybrides), pélargonium des fleuristes, peuplier, piment, pleurotes (Pleurotus ostreatus et pulmonarius), poinsettia, poirier, pommier, prunier, pyracantha, rhododendrons, ronces fruitières, saintpaulia, seigle, soja, sorgho (lignées endogames de sorghum bicolore L. Moench), streptocarpus et ses hybrides, thuya, thym, tomate, tournesol, triticale, tulipe, vigne, weigela.
+La durée de la protection est de vingt ans.
 
-Pour ces espèces, tout étranger peut obtenir des certificats d'obtention végétale à la condition que les Français bénéficient pour lesdites espèces de la réciprocité de protection de la part de l'Etat dont l'étranger a la nationalité ou dans lequel il a son domicile ou établissement.
-
-Des arrêtés du ministre chargé des affaires étrangères et du ministre chargé de l'agriculture pris sur proposition du comité de la protection des obtentions végétales constatent que pour chacune de ces espèces et pour chaque Etat considéré, la législation dont il s'agit satisfait à cette condition de réciprocité.
+Pour les arbres forestiers, fruitiers ou d'ornement, pour la vigne ainsi que pour les graminées et légumineuses fourragères pérennes, les pommes de terre et les lignées endogames utilisées pour la production de variétés hybrides, la durée de la protection est fixée à vingt-cinq ans.
 
 ###### Article R623-57
 
-Pour les espèces figurant sur la liste qui suit, peuvent seuls être protégés les hybrides FI, les hybrides de clone ou les lignées : chicorée-endive (Chicorium intybus L.), chou cabus, chou de Bruxelles, chou de Milan, chou frisé, chou rouge, concombre-cornichon, courge-courgette (Cucurbita pepo L.).
-
-Pour les espèces figurant sur la liste qui suit, peuvent seules être protégées les lignées endogames : sorgho (Sorghum bicolor L. Moench).
-
-Pour les espèces figurant sur la liste qui suit peuvent seules être protégées les variétés productrices de fruits ou les porte-greffe : abricotier, amandier, cassis, cerisier, châtaignier, cognassier, framboisier, groseillier, groseillier à maquereau, houblon, noisetier, noyer, pêcher, poirier, pommier, prunier, ronces fruitières, vigne.
+Le droit de l'obtenteur porte sur tous les éléments de reproduction ou de multiplication végétative de la variété considérée ainsi que sur tout ou partie de la plante de cette variété.
 
 ###### Article R623-58
 
-Pour les espèces figurant sur la liste qui suit, le droit de l'obtenteur porte sur les semences telles qu'elles sont définies conformément à l'article 1er du décret n° 81-605 du 18 mai 1981 modifié, ainsi que les plantes ou parties de plantes commercialisées en vue de la plantation : aubergine, avoine, blé dur, blé tendre, brome (Bromus carinatus Hock. et Arn., Bromus sitchensis Trin., Bromus stamineus Desv. incl. B valdivianus Phil., Bromus willdenowii Cunth B., unioloïdes H.B.C., Cartharticus autc.), chicorée-endive (Cichorium intybus L.), chicorée frisée et chicorée scarole, chou cabus, chou de Bruxelles, chou de Milan, chou frisé, chou rouge, colza, concombre-cornichon, courge-courgette (Cucurbita pepo L.), fétuque élevée, haricot, laitue, lentille, lin, lupin blanc, luzerne, mâche, maïs, orge, pâturin des prés, piment, pois, ray-grass, riz, seigle, soja, sorgho (lignées endogames de Sorghum bicolore L. Moench), tomate, tournesol, trèfle violet et triticale.
-
-###### Article R623-59
-
-Pour les pommes de terre, le droit de l'obtenteur porte sur les plants destinés à la propagation de l'espèce tels qu'ils sont définis conformément à l'article 1er du décret n° 81-605 du 18 mai 1981 modifié.
-
-###### Article R623-60
-
-Pour les peupliers, le droit de l'obtenteur porte sur les boutures et, d'une manière générale, sur toute partie de la plante destinée à être utilisée comme matériel de multiplication de la variété.
-
-###### Article R623-61
-
-Pour les fraisiers, le droit de l'obtenteur porte sur tout ou partie de la plante destinée à être utilisée comme matériel de multiplication de la variété.
-
-###### Article R623-62
-
-Pour les espèces figurant sur la liste qui suit, le droit de l'obtenteur porte sur tout ou partie de la plante, de même que sur tous éléments de reproduction ou de multiplication végétative de la variété considérée : alstroemère, Begonia eliator, berberis, buddleia, chrysanthème, cyprès (cyprès de Provence, cyprès de l'Arizona, cyprès de Duprez, cyprès de Leyland, X Cupressocyparis et ses hybrides), dieffenbachia, épine du Christ, Euphorbia fulgens, forsythia, freesia, gerbera, glaïeul, hortensia, houx (hybrides d'Ilex aquifolium), iris bulbeux et rhizomateux, juniperus, kalanchoè, Lagerstroemia, lavande et lavandins, lis, malus ornemental, Nerium oleander, oeillet, orchidées, pélargonium (pélargonium zonale, géranium lierre et hybrides), pélargonium des fleuristes, poinsettia, pyracantha, rhododendron, rosier, saintpaulia, streptocarpus et ses hybrides, thuya, thym, tulipe, weigela.
-
-###### Article R623-63
-
-Pour les espèces figurant sur la liste qui suit, le droit de l'obtenteur porte sur toute partie de la plante destinée à être utilisée comme matériel de multiplication tel que plants, greffons, boutures, marcottes ou destinée à l'établissement de cultures en vue de la production commerciale du fruit : abricotier, amandier, cassis, cerisier, châtaignier, cognassier, framboisier, groseillier, groseillier à maquereau, houblon, noisetier, noyer, pêcher, poirier, pommier, prunier, ronces fruitières, vigne.
-
-Le droit de l'obtenteur porte également sur les semences telles que définies à l'article 1er du décret n° 81-605 du 18 mai 1981 modifié, ou sur les pépins et noyaux de ces espèces dans le cas où ils sont utilisables à titre de semences pour la reproduction des variétés par voie sexuée.
-
-###### Article R623-64
-
-Pour les pleurotes (Pleurotus ostreatus et pulmonarius), le droit de l'obtenteur porte sur les mycéliums monocaryotiques et dicaryotiques (état végétatif et indifférencié).
-
-###### Article R623-65
-
-La durée de la protection est de vingt ans pour les espèces suivantes : alstroemère, aubergine, avoine, Begonia elatior, berberis, blé dur, blé tendre, buddleia, chicorée-endive (Cichorium intybus L.), chicorée frisée et chicorée scarole, chou cabus, chou de Bruxelles, chou de Milan, chou frisé, chou rouge, chrysanthème, colza, concombre-cornichon, courge-courgette (Cucurbita pepo L.), épine du Christ, Euphorbia fulgens, dieffenbachia, forsythia, fraisier, freesia, gerbera, glaïeul, haricot, hortensia, iris bulbeux et rhizomateux, kalanchoè, Lagerstroemia, laitue, lavande et lavandins, lentille, lin, lis, lupin blanc, mâche, maïs (à l'exclusion des lignées endogames), Nerium oleander, oeillet, orchidées, orge, pâturin des prés, pélargonium (pélargonium zonale, géranium lierre et hybrides), pélargonium des fleuristes, piment, pleurotes (Pleurotus ostreatus et pulmonarius), poinsettia, pois, pyracantha, riz, rosier, saintpaulia, seigle, streptocarpus et ses hybrides, soja, tomate, tournesol, triticale, tulipe, weigela.
-
-Elle est de vingt-cinq ans pour les espèces suivantes :
-
-abricotier, amandier, brome (Bromus carinatus Hock. et Arn., Bromus sitchensis Trin., Bromus stamineus Desv. incl. B. valdivianus Phil., Bromus willdenowii Cunth B, unioloïdes H.B.C., Cartharticus aut c.), cassis, cerisier, châtaignier, cognassier, cyprès (cyprès de Provence, cyprès de l'Arizona, cyprès de Duprez, cyprès de Leyland, X Cupressocyparis et ses hybrides), fétuque élevée, framboisier, groseillier, groseiller à maquereau, houblon, houx (hybrides d'Ilex aquifolium), juniperus, luzerne, maïs (lignées endogames exclusivement), malus ornemental, noisetier, noyer, pêcher, peuplier, poirier, pomme de terre, pommier, prunier, ray-grass, rhododendron, ronces fruitières, sorgho (lignées endogames de Sorghum bicolor L. Moench), thuya, thym, trèfle violet et vigne.
-
-###### Article R623-66
-
-Toute personne qui, à l'occasion de tous actes de cession, de concession ou de commercialisation des variétés visées aux articles précédents, désire user de la faculté qui lui est offerte par l'article L. 623-15 d'adjoindre à la dénomination variétale une marque de commerce ou de fabrique, que cette marque lui soit propre ou qu'elle lui soit concédée, doit prendre les précautions nécessaires, notamment dans la correspondance, dans la publicité, dans l'établissement des catalogues commerciaux, sur les emballages ou étiquettes, afin que cette dénomination soit suffisamment apparente dans son contexte afin qu'aucune confusion ne soit susceptible de s'établir dans l'esprit de l'acheteur sur l'identité de la variété.
-
-###### Article R623-67
-
-Des arrêtés du ministre chargé de l'agriculture, pris sur proposition du comité de la protection des obtentions végétales, fixeront en tant que de besoin les mesures de détail relatives à l'application de la présente section.
+Toute personne qui, à l'occasion de tous actes de cession, de concession ou de commercialisation des variétés visées aux articles précédents, désire user de la faculté qui lui est offerte par l'article L. 623-15 d'adjoindre à la dénomination variétale une marque de commerce ou de fabrique, que cette marque lui soit propre ou qu'elle lui soit concédée, doit prendre les précautions nécessaires notamment dans la correspondance, dans la publicité, dans l'établissement des catalogues commerciaux, sur les emballages ou étiquettes, afin que cette dénomination soit suffisamment apparente dans son contexte pour qu'aucune confusion ne soit susceptible de s'établir dans l'esprit de l'acheteur sur l'identité de la variété.
 
 #### Chapitre IV : Transferts techniques internationaux
 
