@@ -1568,7 +1568,7 @@ Le conseil en propriété industrielle exerce sa profession soit à titre indivi
 
 ###### Article L422-7
 
-Lorsque la profession de conseil en propriété industrielle est exercée en société, elle peut l'être par une société civile professionnelle ou par une société constituée sous une autre forme. Dans ce dernier cas, il est nécessaire que :
+Lorsque la profession de conseil en propriété industrielle est exercée en société, elle peut l'être par une société civile professionnelle, par une société d'exercice libéral ou par une société constituée sous une autre forme. Dans ce dernier cas, il est nécessaire que :
 
 a) Le président du conseil d'administration, les directeurs généraux, les membres du directoire, le directeur général unique et le ou les gérants ainsi que la majorité des membres du conseil d'administration ou du conseil de surveillance aient la qualité de conseil en propriété industrielle ;
 
@@ -1576,7 +1576,7 @@ b) Les conseils en propriété industrielle détiennent plus de la moitié du ca
 
 c) L'admission de tout nouvel associé est subordonnée à l'agrément préalable, selon le cas, du conseil d'administration, du conseil de surveillance, du ou des gérants.
 
-Les dispositions des deux premiers alinéas de l'article 93, des articles 107 et 142 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ne sont applicables respectivement ni aux membres du conseil d'administration ni aux membres du conseil de surveillance des sociétés de conseils en propriété industrielle.
+Les dispositions des deux premiers alinéas de l'article L. 225-21, des articles L. 225-44 et L. 225-85 du code de commerce ne sont applicables respectivement ni aux membres du conseil d'administration ni aux membres du conseil de surveillance des sociétés de conseils en propriété industrielle.
 
 Lorsque la profession de conseil en propriété industrielle est exercée par une société, il y a lieu, outre l'inscription des conseils personnes physiques, à l'inscription de la société dans une section spéciale de la liste prévue à l'article L. 422-1.
 
@@ -1593,6 +1593,26 @@ Il est institué une compagnie nationale des conseils en propriété industriell
 Toute personne physique ou morale exerçant la profession de conseil en propriété industrielle qui se rend coupable soit d'une infraction aux règles du présent titre ou des textes pris pour son application, soit de faits contraires à la probité, à l'honneur ou à la délicatesse, même s'ils sont extraprofessionnels, peut faire l'objet de l'une des mesures disciplinaires suivantes : avertissement, blâme, radiation temporaire ou définitive.
 
 Les sanctions sont prononcées par la chambre de discipline de la Compagnie nationale des conseils en propriété industrielle présidée par un magistrat de l'ordre judiciaire.
+
+###### Article L422-11
+
+En toute matière et pour tous les services mentionnés à l'article L. 422-1, le conseil en propriété industrielle observe le secret professionnel. Ce secret s'étend aux consultations adressées ou destinées à son client, aux correspondances professionnelles échangées avec son client, un confrère ou un avocat, aux notes d'entretien et, plus généralement, à toutes les pièces du dossier.
+
+###### Article L422-12
+
+La profession de conseil en propriété industrielle est incompatible :
+
+1° Avec toute activité de caractère commercial, qu'elle soit exercée directement ou par personne interposée ;
+
+2° Avec la qualité d'associé dans une société en nom collectif, d'associé commandité dans une société en commandite simple ou par actions, de gérant d'une société à responsabilité limitée, de président du conseil d'administration, membre du directoire, directeur général ou directeur général délégué d'une société anonyme, de président ou dirigeant d'une société par actions simplifiée, de gérant d'une société civile, à moins que ces sociétés n'aient pour objet l'exercice de la profession de conseil en propriété industrielle ou la gestion d'intérêts professionnels connexes ou d'intérêts familiaux ;
+
+3° Avec la qualité de membre du conseil de surveillance ou d'administrateur d'une société commerciale, lorsque le conseil en propriété industrielle a moins de sept années d'exercice professionnel et n'a pas obtenu préalablement une dispense dans des conditions prévues par décret en Conseil d'Etat.
+
+###### Article L422-13
+
+La profession de conseil en propriété industrielle est incompatible avec l'exercice de toute autre profession, sous réserve de dispositions législatives ou réglementaires particulières.
+
+Elle est toutefois compatible avec les fonctions d'enseignement, ainsi qu'avec celles d'arbitre, de médiateur, de conciliateur ou d'expert judiciaire.
 
 ##### Chapitre III : Dispositions diverses
 
