@@ -72,7 +72,7 @@ Sont considérés notamment comme oeuvres de l'esprit au sens du présent code :
 
 12° Les plans, croquis et ouvrages plastiques relatifs à la géographie, à la topographie, à l'architecture et aux sciences ;
 
-13° Les logiciels ;
+13° Les logiciels, y compris le matériel de conception préparatoire ;
 
 14° Les créations des industries saisonnières de l'habillement et de la parure. Sont réputées industries saisonnières de l'habillement et de la parure les industries qui, en raison des exigences de la mode, renouvellent fréquemment la forme de leurs produits, et notamment la couture, la fourrure, la lingerie, la broderie, la mode, la chaussure, la ganterie, la maroquinerie, la fabrique de tissus de haute nouveauté ou spéciaux à la haute couture, les productions des paruriers et des bottiers et les fabriques de tissus d'ameublement.
 
@@ -156,7 +156,7 @@ Les dispositions du dernier alinéa de l'article L. 113-7 et celles de l'article
 
 ###### Article L113-9
 
-Sauf stipulation contraire, le logiciel créé par un ou plusieurs employés dans l'exercice de leurs fonctions appartient à l'employeur auquel sont dévolus tous les droits reconnus aux auteurs.
+Sauf dispositions statutaires ou stipulations contraires, les droits patrimoniaux sur les logiciels et leur documentation créés par un ou plusieurs employés dans l'exercice de leurs fonctions ou d'après les instructions de leur employeur sont dévolus à l'employeur qui est seul habilité à les exercer.
 
 Toute contestation sur l'application du présent article est soumise au tribunal de grande instance du siège social de l'employeur.
 
@@ -216,7 +216,11 @@ Il aura, pour cette contribution, la qualité d'auteur et jouira des droits qui 
 
 ###### Article L121-7
 
-Sauf stipulation contraire, l'auteur ne peut s'opposer à l'adaptation du logiciel dans la limite des droits qu'il a cédés, ni exercer son droit de repentir ou de retrait.
+Sauf stipulation contraire plus favorable à l'auteur d'un logiciel, celui-ci ne peut :
+
+1° S'opposer à la modification du logiciel par le cessionnaire des droits mentionnés au 2° de l'article L. 122-6, lorsqu'elle n'est préjudiciable ni à son honneur ni à sa réputation ;
+
+2° Exercer son droit de repentir ou de retrait.
 
 ###### Article L121-8
 
@@ -270,7 +274,7 @@ Lorsque l'oeuvre a été divulguée, l'auteur ne peut interdire :
 
 1° Les représentations privées et gratuites effectuées exclusivement dans un cercle de famille ;
 
-2° Les copies ou reproductions strictement réservées à l'usage privé du copiste et non destinées à une utilisation collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour lesquelles l'oeuvre originale a été créée ;
+2° Les copies ou reproductions strictement réservées à l'usage privé du copiste et non destinées à une utilisation collective, à l'exception des copies des oeuvres d'art destinées à être utilisées pour des fins identiques à celles pour lesquelles l'oeuvre originale a été créée et des copies d'un logiciel autres que la copie de sauvegarde établie dans les conditions prévues au II de l'article L. 122-6-1 ;
 
 3° Sous réserve que soient indiqués clairement le nom de l'auteur et la source :
 
@@ -278,11 +282,55 @@ a) Les analyses et courtes citations justifiées par le caractère critique, pol
 
 b) Les revues de presse ;
 
-c) La diffusion, même intégrale, par la voie de presse ou de télédiffusion, à titre d'information d'actualité, des discours destinés au public prononcés dans les assemblées politiques, administratives, judiciaires ou académiques, ainsi que dans les réunions publiques d'ordre politique et les cérémonies officielles ; 4° La parodie, le pastiche et la caricature, compte tenu des lois du genre.
+c) La diffusion, même intégrale, par la voie de presse ou de télédiffusion, à titre d'information d'actualité, des discours destinés au public prononcés dans les assemblées politiques, administratives, judiciaires ou académiques, ainsi que dans les réunions publiques d'ordre politique et les cérémonies officielles ;
+
+4° La parodie, le pastiche et la caricature, compte tenu des lois du genre.
 
 ###### Article L122-6
 
-Par dérogation au 2° de l'article L. 122-5 lorsque l'oeuvre est un logiciel, toute reproduction autre que l'établissement d'une copie de sauvegarde par l'utilisateur ainsi que toute utilisation d'un logiciel non expressément autorisée par l'auteur ou ses ayants droit, ou ayants cause, est illicite.
+Sous réserve des dispositions de l'article L. 122-6-1, le droit d'exploitation appartenant à l'auteur d'un logiciel comprend le droit d'effectuer et d'autoriser :
+
+1° La reproduction permanente ou provisoire d'un logiciel en tout ou partie par tout moyen et sous toute forme. Dans la mesure où le chargement, l'affichage, l'exécution, la transmission ou le stockage de ce logiciel nécessitent une reproduction, ces actes ne sont possibles qu'avec l'autorisation de l'auteur ;
+
+2° La traduction, l'adaptation, l'arrangement ou toute autre modification d'un logiciel et la reproduction du logiciel en résultant ;
+
+3° La mise sur le marché à titre onéreux ou gratuit, y compris la location, du ou des exemplaires d'un logiciel par tout procédé. Toutefois, la première vente d'un exemplaire d'un logiciel dans le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen par l'auteur ou avec son consentement épuise le droit de mise sur le marché de cet exemplaire dans tous les Etats membres à l'exception du droit d'autoriser la location ultérieure d'un exemplaire.
+
+###### Article L122-6-1
+
+I. Les actes prévus aux 1° et 2° de l'article L. 122-6 ne sont pas soumis à l'autorisation de l'auteur lorsqu'ils sont nécessaires pour permettre l'utilisation du logiciel, conformément à sa destination, par la personne ayant le droit de l'utiliser, y compris pour corriger des erreurs.
+
+Toutefois, l'auteur est habilité à se réserver par contrat le droit de corriger les erreurs et de déterminer les modalités particulières auxquelles seront soumis les actes prévus aux 1° et 2° de l'article L. 122-6, nécessaires pour permettre l'utilisation du logiciel, conformément à sa destination, par la personne ayant le droit de l'utiliser.
+
+II. La personne ayant le droit d'utiliser le logiciel peut faire une copie de sauvegarde lorsque celle-ci est nécessaire pour préserver l'utilisation du logiciel.
+
+III. La personne ayant le droit d'utiliser le logiciel peut sans l'autorisation de l'auteur observer, étudier ou tester le fonctionnement de ce logiciel afin de déterminer les idées et principes qui sont à la base de n'importe quel élément du logiciel lorsqu'elle effectue toute opération de chargement, d'affichage, d'exécution, de transmission ou de stockage du logiciel qu'elle est en droit d'effectuer.
+
+IV. La reproduction du code du logiciel ou la traduction de la forme de ce code n'est pas soumise à l'autorisation de l'auteur lorsque la reproduction ou la traduction au sens du 1° ou du 2° de l'article L. 122-6 est indispensable pour obtenir les informations nécessaires à l'interopérabilité d'un logiciel créé de façon indépendante avec d'autres logiciels, sous réserve que soient réunies les conditions suivantes :
+
+1° Ces actes sont accomplis par la personne ayant le droit d'utiliser un exemplaire du logiciel ou pour son compte par une personne habilitée à cette fin ;
+
+2° Les informations nécessaires à l'interopérabilité n'ont pas déjà été rendues facilement et rapidement accessibles aux personnes mentionnées au 1° ci-dessus ;
+
+3° Et ces actes sont limités aux parties du logiciel d'origine nécessaires à cette interopérabilité.
+
+Les informations ainsi obtenues ne peuvent être :
+
+1° Ni utilisées à des fins autres que la réalisation de l'interopérabilité du logiciel créé de façon indépendante ;
+
+2° Ni communiquées à des tiers sauf si cela est nécessaire à l'interopérabilité du logiciel créé de façon indépendante ;
+
+3° Ni utilisées pour la mise au point, la production ou la commercialisation d'un logiciel dont l'expression est substantiellement similaire ou pour tout autre acte portant atteinte au droit d'auteur.
+
+V. Le présent article ne saurait être interprété comme permettant de porter atteinte à l'exploitation normale du logiciel ou de causer un préjudice injustifié aux intérêts légitimes de l'auteur.
+
+Toute stipulation contraire aux dispositions prévues aux II, III et IV du présent article est nulle et non avenue.
+
+###### Article L122-6-2
+
+Toute publicité ou notice d'utilisation relative aux moyens permettant la suppression ou la neutralisation de tout dispositif technique protégeant un logiciel doit mentionner que l'utilisation illicite de ces moyens est passible des sanctions prévues en cas de contrefaçon.
+
+Un décret en Conseil d'Etat fixera les conditions d'application du présent article.
 
 ###### Article L122-7
 
@@ -337,10 +385,6 @@ Le droit d'exploitation des oeuvres posthumes appartient aux ayants droit de l'a
 Si la divulgation est effectuée à l'expiration de cette période, il appartient aux propriétaires, par succession ou à d'autres titres, de l'oeuvre, qui effectuent ou font effectuer la publication.
 
 Les oeuvres posthumes doivent faire l'objet d'une publication séparée, sauf dans le cas où elles ne constituent qu'un fragment d'une oeuvre précédemment publiée. Elles ne peuvent être jointes à des oeuvres du même auteur précédemment publiées que si les ayants droit de l'auteur jouissent encore sur celles-ci du droit d'exploitation.
-
-###### Article L123-5
-
-Pour un logiciel, les droits prévus par le présent code s'éteignent à l'expiration d'une période de vingt-cinq années à compter de sa date de création.
 
 ###### Article L123-6
 
@@ -408,7 +452,7 @@ Toutefois, la rémunération de l'auteur peut être évaluée forfaitairement da
 
 4° La nature ou les conditions de l'exploitation rendent impossible l'application de la règle de la rémunération proportionnelle, soit que la contribution de l'auteur ne constitue pas l'un des éléments essentiels de la création intellectuelle de l'oeuvre, soit que l'utilisation de l'oeuvre ne présente qu'un caractère accessoire par rapport à l'objet exploité ;
 
-5° En cas de cession d'un logiciel ;
+5° En cas de cession des droits portant sur un logiciel ;
 
 6° Dans les autres cas prévus au présent code.
 
@@ -645,6 +689,22 @@ La commission se détermine à la majorité de ses membres présents. En cas de 
 Les délibérations de la commission sont exécutoires si, dans un délai d'un mois, son président n'a pas demandé une seconde délibération.
 
 Les décisions de la commission sont publiées au Journal officiel de la République française.
+
+###### Section 5 : Contrat de nantissement du droit d'exploitation des logiciels
+
+####### Article L132-34
+
+Sans préjudice des dispositions de la loi du 17 mars 1909 relative à la vente et au nantissement des fonds de commerce, le droit d'exploitation de l'auteur d'un logiciel défini à l'article L. 122-6 peut faire l'objet d'un nantissement dans les conditions suivantes :
+
+Le contrat de nantissement est, à peine de nullité, constaté par un écrit.
+
+Le nantissement est inscrit, à peine d'inopposabilité, sur un registre spécial tenu par l'Institut national de la propriété industrielle. L'inscription indique précisément l'assiette de la sûreté et notamment les codes source et les documents de fonctionnement.
+
+Le rang des inscriptions est déterminé par l'ordre dans lequel elles sont requises.
+
+Les inscriptions de nantissement sont, sauf renouvellement préalable, périmées à l'expiration d'une durée de cinq ans.
+
+Un décret en Conseil d'Etat fixera les conditions d'application du présent article.
 
 ### Livre II : Les droits voisins du droit d'auteur
 
@@ -956,7 +1016,11 @@ Les organismes de défense professionnelle régulièrement constitués ont quali
 
 ###### Article L331-2
 
-Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité de toute infraction aux dispositions des livres Ier, II et III peut résulter des constatations d'agents assermentés désignés selon les cas par le Centre national de la cinématographie, par les organismes professionnels d'auteurs et par les sociétés mentionnées au titre II du présent livre. Ces agents sont agréés par le ministre chargé de la culture dans les conditions prévues par un décret en Conseil d'Etat.
+Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité de toute infraction aux dispositions des livres Ier, II et III du présent code et de l'article 52 de la loi n° 85-660 du 3 juillet 1985 relative aux droits d'auteur et aux droits des artistes interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises de communication audiovisuelle peut résulter des constatations d'agents assermentés désignés selon les cas par le Centre national de la cinématographie, par les organismes professionnels d'auteurs et par les sociétés mentionnées au titre II du présent livre. Ces agents sont agréés par le ministre chargé de la culture dans les conditions prévues par un décret en Conseil d'Etat.
+
+###### Article L331-3
+
+Le Centre national de la cinématographie peut exercer les droits reconnus à la partie civile en ce qui concerne le délit de contrefaçon, au sens de l'article L. 335-3, d'une oeuvre audiovisuelle lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
 
 ##### Chapitre II : Saisie-contrefaçon
 
@@ -1035,6 +1099,8 @@ Seront punis des mêmes peines le débit, l'exportation et l'importation des ouv
 ###### Article L335-3
 
 Est également un délit de contrefaçon toute reproduction, représentation ou diffusion, par quelque moyen que ce soit, d'une oeuvre de l'esprit en violation des droits de l'auteur, tels qu'ils sont définis et réglementés par la loi.
+
+Est également un délit de contrefaçon la violation de l'un des droits de l'auteur d'un logiciel définis à l'article L. 122-6.
 
 ###### Article L335-4
 
