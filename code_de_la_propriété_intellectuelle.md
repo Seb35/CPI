@@ -3579,6 +3579,90 @@ La commission établit son règlement intérieur.
 
 Les décisions de la commission sont publiées au Journal officiel de la République française à la diligence du ministre chargé de la culture.
 
+### Titre II : Sociétés de perception et de répartition des droits
+
+#### Chapitre Ier : Dispositions générales
+
+##### Article R321-1
+
+Le dossier adressé au ministre chargé de la culture, en application de l'article L. 321-3, comprend les projets de statuts et de règlements généraux et toutes pièces justifiant la qualité professionnelle des fondateurs ainsi que l'état des moyens humains, matériels ou financiers permettant à la société d'assurer effectivement la perception des droits et l'exploitation de son répertoire.
+
+La transmission du dossier est faite par lettre recommandée avec demande d'avis de réception.
+
+##### Article R321-2
+
+Les documents mentionnés à l'article L. 321-5 sont communiqués, sur demande écrite, dans les conditions prévues aux articles 40 à 42 du décret n° 78-704 du 3 juillet 1978.
+
+Sera puni de la peine d'amende prévue pour la 3e classe de contraventions tout gérant de droit ou de fait qui aura refusé de communiquer tout ou partie des documents mentionnés à l'alinéa précédent.
+
+##### Article R321-3
+
+Dans les sociétés de perception et de répartition des droits, les associés peuvent être convoqués soit par lettre recommandée, soit par un avis inséré dans deux journaux au moins, de diffusion nationale, habilités à recevoir les annonces légales dans le département du siège social et qui sont déterminés par les statuts.
+
+Outre les indications prévues au premier alinéa de l'article 40 du décret n° 78-704 du 3 juillet 1978, l'avis mentionne la date et le lieu de réunion des assemblées ; cet avis est publié quinze jours au moins avant la date de l'assemblée.
+
+Lorsque les statuts prévoient que certaines assemblées doivent être tenues selon des conditions particulières de quorum ou de majorité, il est fait mention de ces conditions dans l'avis de convocation à ces assemblées.
+
+##### Article R321-4
+
+La date de l'assemblée au cours de laquelle, conformément à l'article 1856 du code civil, il est rendu compte de la gestion sociale est déterminée par les statuts.
+
+Lorsque, dans les conditions prévues par les statuts, cette assemblée ne peut être tenue, les associés doivent en être prévenus au moins quinze jours avant, soit par lettre recommandée avec demande d'avis de réception, soit par un avis de report publié selon les modalités prévues à l'article R. 321-3. La lettre ou l'avis indique les motifs du report ainsi que la date à laquelle l'assemblée se tiendra.
+
+##### Article R321-5
+
+Tout associé peut demander à être convoqué individuellement aux assemblées ou à certaines d'entre elles par lettre recommandée avec demande d'avis de réception.
+
+Lorsque la convocation est faite par avis dans la presse, les frais de l'envoi recommandé sont à la charge de l'intéressé.
+
+##### Article R321-6
+
+Lorsque l'assemblée porte sur la reddition des comptes, les documents mentionnés à l'article 41 du décret n° 78-704 du 3 juillet 1978 précité ne sont, par dérogation aux dispositions dudit article, adressés qu'aux associés qui en auront fait la demande écrite ; cet envoi est fait, selon les modalités prévues au troisième alinéa de l'article 40 de ce décret, quinze jours au moins avant la réunion de l'assemblée.
+
+##### Article R321-7
+
+Les utilisateurs peuvent prendre connaissance du répertoire mentionné à l'article L. 321-7 au siège de la société ou, le cas échéant, dans ses agences régionales. Sur leur demande, il leur en est délivré copie sans qu'il puisse alors leur être réclamé d'autre somme que celle représentant le coût de la copie.
+
+#### Chapitre II : Sociétés agréées pour la gestion du droit de reproduction par reprographie
+
+##### Article R322-1
+
+Une société régie par le titre II du livre III peut être agréée au titre de l'article L. 122-10, si elle remplit les conditions suivantes :
+
+1° Apporter la preuve de la diversité de ses associés à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux. Cette diversité doit trouver son expression dans la composition des organes délibérants et dirigeants ;
+
+2° Justifier, par toutes pièces, la qualification de ses gérants et mandataires sociaux appréciée en fonction :
+
+a) De leur qualité d'auteur ;
+
+b) Ou de la nature et du niveau de leurs diplômes ;
+
+c) Ou de leur expérience professionnelle dans le secteur de l'édition ou de la gestion d'organismes professionnels ;
+
+3° Donner toutes informations relatives à son organisation administrative et aux conditions d'installation et d'équipement. Ces informations doivent concerner la collecte des données sur la pratique de la reprographie, la perception des rémunérations, le traitement des données nécessaires pour la répartition des rémunérations perçues, le plan de financement et le budget prévisionnel des trois exercices suivant la demande d'agrément ;
+
+4° Prévoir dans ses statuts, son règlement général et les actes types d'engagement de chacun des associés les règles garantissant le caractère équitable des modalités prévues pour la répartition des rémunérations perçues par les auteurs et les éditeurs.
+
+##### Article R322-2
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 322-1, est transmise par lettre recommandée au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier n'est pas en état, le ministre chargé de la culture demande par lettre recommandée un dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
+
+L'agrément peut être retiré, lorsque la société ne remplit pas l'une des conditions fixées à l'article R. 322-1, après mise en demeure ou notification des griefs. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations. Le retrait est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+##### Article R322-3
+
+Tout changement de statut, ou de règlement général, toute cessation de fonction d'un membre des organes dirigeants et délibérants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de la décision correspondante. Le défaut de déclaration peut entraîner retrait de l'agrément.
+
+##### Article R322-4
+
+Si, à la date de la publication de l'œuvre, l'auteur ou son ayant droit n'a pas désigné une société de perception et de répartition des droits agréée, la société réunissant le plus grand nombre d'œuvres gérées, déterminé conformément aux usages des professions concernées, est réputée cessionnaire du droit de reproduction par reprographie.
+
+Le ministre chargé de la culture désigne chaque année la ou les sociétés répondant à la condition définie à l'alinéa précédent.
+
 ### Titre III : Procédures et sanctions
 
 #### Chapitre Ier : Dispositions générales
