@@ -4167,6 +4167,36 @@ a) Une reproduction des inscriptions portées au registre ;
 
 b) Un certificat constatant qu'il n'existe pas d'inscription.
 
+#### Chapitre III : Rémunération au titre du prêt en bibliothèque
+
+##### Article R133-1
+
+Les bibliothèques accueillant du public pour le prêt mentionnées aux articles L. 133-3 et L. 133-4 sont :
+
+1° Les bibliothèques des collectivités territoriales désignées aux articles L. 310-1 à L. 310-6 et L. 320-1 à L. 320-4 du code du patrimoine ;
+
+2° Les bibliothèques des établissements publics à caractère scientifique, culturel et professionnel et des autres établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur ;
+
+3° Les bibliothèques des comités d'entreprise ;
+
+4° Toute autre bibliothèque ou organisme mettant un fonds documentaire à la disposition d'un public, dont plus de la moitié des exemplaires de livres acquis dans l'année est destinée à une activité organisée de prêt au bénéfice d'usagers inscrits individuels ou collectifs.
+
+##### Article R133-2
+
+Le montant de la première part de la rémunération prévue au deuxième alinéa de l'article L. 133-3 est calculé sur la base d'une contribution forfaitaire par usager inscrit dans les bibliothèques accueillant du public pour le prêt, telles que visées à l'article R. 133-1.
+
+Cette contribution est fixée à 1 euro par usager inscrit dans les bibliothèques des établissements publics à caractère scientifique, culturel et professionnel et des autres établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur et versée par ce dernier. Elle est fixée à 1,5 euro par usager inscrit dans les autres bibliothèques accueillant du public pour le prêt et versée par le ministère chargé de la culture.
+
+Pour la première année d'application de la loi, cette contribution est respectivement fixée à 0,5 euro par usager inscrit dans les bibliothèques des établissements d'enseignement supérieur et à 0,75 euro par usager inscrit dans les autres bibliothèques accueillant du public pour le prêt.
+
+Le nombre des usagers inscrits est précisé chaque année par arrêté dans les conditions suivantes :
+
+1° Le nombre des usagers inscrits dans les bibliothèques publiques est évalué chaque année à partir des éléments statistiques fournis par les communes et les départements en application des articles R. 1422-5 et R. 1422-14 du code général des collectivités territoriales ;
+
+2° Le nombre des usagers inscrits dans les bibliothèques des établissements publics à caractère scientifique, culturel et professionnel et des autres établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur est évalué chaque année à partir des statistiques annuelles établies par le ministre chargé de l'enseignement supérieur ;
+
+3° Afin de tenir compte des usagers inscrits dans les autres bibliothèques accueillant du public pour le prêt, le nombre des usagers inscrits dans les bibliothèques publiques est majoré d'un taux exprimé en pourcentage. Ce taux est fixé à 4 % et révisable tous les trois ans à partir d'estimations chiffrées relatives au développement de l'activité de ces bibliothèques.
+
 ## Livre II : Les droits voisins du droit d'auteur
 
 ### Titre unique
@@ -5356,6 +5386,64 @@ Le rapport définitif de vérification est adopté par la commission après exam
 Le rapport annuel prévu au III de l'article L. 321-13 est établi sur la base des constatations faites par la commission à l'issue de ses contrôles.
 
 Les observations de la commission mettant en cause une société ou un organisme lui sont communiquées au préalable. La société ou l'organisme dispose d'un délai de trente jours pour faire valoir ses observations ou demander à ce que ses représentants soient entendus par la commission. Les observations de la société ou l'organisme sont annexées au rapport.
+
+#### Chapitre VI : Sociétés agréées pour la gestion collective de la rémunération au titre du prêt en bibliothèque
+
+##### Article R326-1
+
+Une société régie par les dispositions des articles L. 321-1 à L. 321-13 est agréée au titre de l'article L. 133-2 si elle :
+
+1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses associés à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux ;
+
+2° Apporte la preuve de la représentation équitable des auteurs et des éditeurs parmi ses associés et au sein de ses organes dirigeants ;
+
+3° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison :
+
+a) De leur qualité d'auteur ;
+
+b) Ou de la nature et du niveau de leurs diplômes ;
+
+c) Ou de leur expérience dans le secteur de l'édition ou de la gestion d'organismes professionnels ;
+
+4° Donne les informations nécessaires relatives :
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement de la société ;
+
+b) Aux moyens mis en œuvre pour la collecte des données statistiques sur les acquisitions d'ouvrages par les bibliothèques ;
+
+c) Aux moyens mis en œuvre pour la perception des rémunérations et le traitement des données nécessaires à la répartition de ces rémunérations ;
+
+d) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ;
+
+5° Indique les dispositions qu'elle a prises ou qu'elle entend prendre pour garantir le respect des règles de répartition des rémunérations entre les auteurs et les éditeurs, ainsi que le caractère équitable de la répartition au sein de chacune de ces catégories.
+
+##### Article R326-2
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 326-1, est transmise par lettre recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
+
+##### Article R326-3
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+##### Article R326-4
+
+L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
+
+##### Article R326-5
+
+Tout changement de règlement général et toute cessation de fonction d'un membre des organes délibérants et dirigeants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément.
+
+##### Article R326-6
+
+Si une société agréée cesse de remplir l'une des conditions fixées à l'article R. 326-1, le ministre chargé de la culture la met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en oeuvre.
+
+Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+##### Article R326-7
+
+Si, à la date de la publication d'une oeuvre, l'auteur et l'éditeur n'ont pas désigné une société agréée de perception et de répartition des droits, la gestion de leur droit à rémunération au titre du prêt en bibliothèque est confiée à la société réunissant le plus grand nombre d'oeuvres gérées. Ce nombre est déterminé conformément aux usages des professions intéressées.
+
+Le ministre chargé de la culture désigne chaque année la société répondant à la condition définie à l'alinéa précédent.
 
 ### Titre III : Procédures et sanctions
 
@@ -10057,18 +10145,6 @@ Si l'adresse du destinataire est inconnue, la notification est faite par publica
 ### Titre unique
 
 #### Chapitre unique
-
-##### Article R811-1
-
-Les dispositions du présent code sont applicables aux territoires d'outre-mer à l'exception :
-
-1° Des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2, R. 615-1 à R. 615-5 ;
-
-2° Des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1, R. 513-2, R. 612-2, R. 612-38, R. 613-46, R. 613-56, R. 613-58, R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4, R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle.
-
-##### Article R811-2
-
-Les dispositions du présent code sont applicables à Mayotte.
 
 ##### Article R811-3
 
