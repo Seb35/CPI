@@ -3394,6 +3394,8 @@ a) Aura détenu sans motif légitime des produits qu'il sait revêtus d'une marq
 
 b) Aura sciemment livré un produit ou fourni un service autre que celui qui lui aura été demandé sous une marque enregistrée.
 
+L'infraction, dans les conditions prévues au b, n'est pas constituée en cas d'exercice par un pharmacien de la faculté de substitution prévue à l'article L. 512-3 du code de la santé publique.
+
 ###### Article L716-11
 
 Sera puni des mêmes peines quiconque :
