@@ -389,23 +389,29 @@ Un décret en Conseil d'Etat fixe les modalités de la délivrance et du retrait
 
 L'auteur jouit, sa vie durant, du droit exclusif d'exploiter son oeuvre sous quelque forme que ce soit et d'en tirer un profit pécuniaire.
 
-Au décès de l'auteur, ce droit persiste au bénéfice de ses ayants droit pendant l'année civile en cours et les cinquante années qui suivent. Toutefois, pour les compositions musicales avec ou sans paroles, cette durée est de soixante-dix années.
+Au décès de l'auteur, ce droit persiste au bénéfice de ses ayants droit pendant l'année civile en cours et les soixante-dix années qui suivent.
 
 ###### Article L123-2
 
 Pour les oeuvres de collaboration, l'année civile prise en considération est celle de la mort du dernier vivant des collaborateurs.
 
+Pour les oeuvres audiovisuelles, l'année civile prise en considération est celle de la mort du dernier vivant des collaborateurs suivants : l'auteur du scénario, l'auteur du texte parlé, l'auteur des compositions musicales avec ou sans paroles spécialement réalisées pour l'oeuvre, le réalisateur principal.
+
 ###### Article L123-3
 
-Pour les oeuvres pseudonymes ou collectives, la durée du droit exclusif est de cinquante années à compter du 1er janvier de l'année civile suivant celle de la publication. Toutefois, pour les compositions musicales avec ou sans paroles, cette durée est de soixante-dix années. La date de publication est déterminée par tout mode de preuve du droit commun, et notamment par le dépôt légal.
+Pour les oeuvres pseudonymes, anonymes ou collectives, la durée du droit exclusif est de soixante-dix années à compter du 1er janvier de l'année civile suivant celle où l'oeuvre a été publiée. La date de publication est déterminée par tout mode de preuve de droit commun, et notamment par le dépôt légal.
 
-En cas de publication échelonnée d'une oeuvre collective, le délai court à compter du 1er janvier de l'année civile qui suit la publication de chaque élément. Toutefois, si la publication est entièrement réalisée dans un délai de vingt ans à compter de la publication d'un premier élément, la durée du droit exclusif pour l'ensemble de l'oeuvre prend fin seulement à l'expiration de la cinquantième année suivant celle de la publication du dernier élément.
+Au cas où une oeuvre pseudonyme, anonyme ou collective est publiée de manière échelonnée, le délai court à compter du 1er janvier de l'année civile qui suit la date à laquelle chaque élément a été publié.
 
-En ce qui concerne les oeuvres anonymes ou pseudonymes, si le ou les auteurs se sont fait connaître, la durée du droit d'exploitation est celle afférente à la catégorie de l'oeuvre considérée, et la période de protection légale commence à courir dans les conditions prévues à l'article L. 123-1.
+Lorsque le ou les auteurs d'oeuvres anonymes ou pseudonymes se sont fait connaître, la durée du droit exclusif est celle prévue aux articles L. 123-1 ou L. 123-2.
+
+Les dispositions du premier et du deuxième alinéa ne sont applicables qu'aux oeuvres pseudonymes, anonymes ou collectives publiées pendant les soixante-dix années suivant l'année de leur création.
+
+Toutefois, lorsqu'une oeuvre pseudonyme, anonyme ou collective est divulguée à l'expiration de la période mentionnée à l'alinéa précédent, son propriétaire, par succession ou à d'autres titres, qui en effectue ou fait effectuer la publication jouit d'un droit exclusif de vingt-cinq années à compter du 1er janvier de l'année civile suivant celle de la publication.
 
 ###### Article L123-4
 
-Pour les oeuvres posthumes, la durée du droit exclusif est de cinquante années à compter de la date de publication de l'oeuvre ; toutefois, pour les compositions musicales avec ou sans paroles, cette durée est de soixante-dix années.
+Pour les oeuvres posthumes, la durée du droit exclusif est celle prévue à l'article L. 123-1. Pour les oeuvres posthumes divulguées après l'expiration de cette période, la durée du droit exclusif est de vingt-cinq années à compter du 1er janvier de l'année civile suivant celle de la publication.
 
 Le droit d'exploitation des oeuvres posthumes appartient aux ayants droit de l'auteur si l'oeuvre est divulguée au cours de la période prévue à l'article L. 123-1.
 
@@ -421,7 +427,7 @@ Ce droit s'éteint au cas où le conjoint contracte un nouveau mariage.
 
 ###### Article L123-7
 
-Après le décès de l'auteur, le droit de suite mentionné à l'article L. 122-8 subsiste au profit de ses héritiers et, pour l'usufruit prévu à l'article L. 123-6, de son conjoint, à l'exclusion de tous légataires et ayants cause, pendant l'année civile en cours et les cinquante années suivantes.
+Après le décès de l'auteur, le droit de suite mentionné à l'article L. 122-8 subsiste au profit de ses héritiers et, pour l'usufruit prévu à l'article L. 123-6, de son conjoint, à l'exclusion de tous légataires et ayants cause, pendant l'année civile en cours et les soixante-dix années suivantes.
 
 ###### Article L123-8
 
@@ -440,6 +446,10 @@ Au cas où l'acte de décès ne doit être ni dressé ni transcrit en France, un
 ###### Article L123-11
 
 Lorsque les droits prorogés par l'effet de l'article L. 123-10 ont été cédés à titre onéreux, les cédants ou leurs ayants droit pourront, dans un délai de trois ans à compter du 25 septembre 1951, demander au cessionnaire ou à ses ayants droit une révision des conditions de la cession en compensation des avantages résultant de la prorogation.
+
+###### Article L123-12
+
+Lorsque le pays d'origine de l'oeuvre, au sens de l'acte de Paris de la convention de Berne, est un pays tiers à la Communauté européenne et que l'auteur n'est pas un ressortissant d'un Etat membre de la Communauté, la durée de protection est celle accordée dans le pays d'origine de l'oeuvre sans que cette durée puisse excéder celle prévue à l'article L. 123-1.
 
 #### Titre III : Exploitation des droits
 
@@ -765,7 +775,17 @@ Les bénéficiaires des droits ouverts au présent titre ne peuvent interdire :
 
 ###### Article L211-4
 
-La durée des droits patrimoniaux objets du présent titre est de cinquante années à compter du 1er janvier de l'année civile suivant celle de la première communication au public, de l'interprétation de l'oeuvre, de sa production ou des programmes visés à l'article L. 216-1.
+La durée des droits patrimoniaux objet du présent titre est de cinquante années à compter du 1er janvier de l'année civile suivant celle :
+
+- de l'interprétation pour les artistes interprètes ;
+- de la première fixation d'une séquence de son pour les producteurs de phonogrammes et d'une séquence d'images sonorisée ou non pour les producteurs de vidéogrammes ;
+- de la première communication au public des programmes visés à l'article L. 216-1 pour les entreprises de communication audiovisuelle.
+
+Toutefois, si une fixation de l'interprétation, un phonogramme ou un vidéogramme font l'objet d'une communication au public pendant la période définie aux trois premiers alinéas, les droits patrimoniaux de l'artiste-interprète ou du producteur du phonogramme ou du vidéogramme n'expirent que cinquante ans après le 1er janvier de l'année civile suivant cette communication au public.
+
+###### Article L211-5
+
+Sous réserve des dispositions des conventions internationales auxquelles la France est partie, les titulaires de droits voisins qui ne sont pas ressortissants d'un Etat membre de la Communauté européenne bénéficient de la durée de protection prévue dans le pays dont ils sont ressortissants sans que cette durée puisse excéder celle prévue à l'article L. 211-4.
 
 ##### Chapitre II : Droits des artistes-interprètes
 
