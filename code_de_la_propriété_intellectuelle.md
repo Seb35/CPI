@@ -10146,6 +10146,26 @@ Si l'adresse du destinataire est inconnue, la notification est faite par publica
 
 #### Chapitre unique
 
+##### Article R811-1
+
+Les dispositions du présent code sont applicables aux territoires d'outre-mer à l'exception :
+
+1° Des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2, R. 615-1 à R. 615-5 ;
+
+2° Des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1, R. 513-2, R. 612-2, R. 612-38, R. 613-46, R. 613-56, R. 613-58, R. 712-2, R. 712-13, R. 712-14, R. 712-21, R. 712-24, R. 714-4, R. 714-6 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
+
+3° Des articles R. 133-1 et R. 326-1 à R. 326-7 ;
+
+4° de l'article R. 133-2.
+
+##### Article R811-2
+
+Les dispositions du présent code sont applicables à Mayotte.
+
+Toutefois ne sont pas applicables les articles R. 133-1 et R. 326-1 à R. 326-7.
+
+Toutefois n'est pas applicable l'article R. 133-2.
+
 ##### Article R811-3
 
 Pour application du présent code et des dispositions qu'il rend applicables aux territoires d'outre-mer et à Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
