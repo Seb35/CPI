@@ -1054,7 +1054,7 @@ La fermeture temporaire ne peut entraîner ni rupture ni suspension du contrat d
 
 Dans tous les cas prévus par les quatre articles précédents, le tribunal peut prononcer la confiscation de tout ou partie des recettes procurées par l'infraction ainsi que celle de tous les phonogrammes, vidéogrammes, objets et exemplaires contrefaisants ou reproduits illicitement et du matériel spécialement installé en vue de la réalisation du délit.
 
-Il peut également ordonner, aux frais du condamné, l'affichage du jugement prononçant la condamnation dans les conditions et sous les peines prévues à l'article 51 du code pénal, ainsi que sa publication intégrale ou par extraits dans les journaux qu'il désigne, sans que les frais de cette publication puissent excéder le montant maximum de l'amende encourue.
+Il peut également ordonner, aux frais du condamné, l'affichage du jugement prononçant la condamnation dans les conditions et sous les peines prévues à l'article 131-35 du code pénal, ainsi que sa publication intégrale ou par extraits dans les journaux qu'il désigne, sans que les frais de cette publication puissent excéder le montant maximum de l'amende encourue.
 
 ###### Article L335-7
 
@@ -1169,7 +1169,7 @@ Les services visés à l'alinéa précédent incluent les consultations juridiqu
 
 Nul n'est autorisé à faire usage du titre de conseil en propriété industrielle, d'un titre équivalent ou susceptible de prêter à confusion, s'il n'est inscrit sur la liste des conseils en propriété industrielle établie par le directeur de l'Institut national de la propriété industrielle.
 
-Toute violation des dispositions du précédent alinéa sera punie des peines prévues au deuxième alinéa de l'article 259 du code pénal.
+Toute violation des dispositions du précédent alinéa sera punie des peines encourues pour le délit d'usurpation de titre prévu par l'article 433-17 du code pénal.
 
 Nul ne peut être inscrit sur la liste des conseils en propriété industrielle s'il n'est inscrit sur la liste prévue à l'article L. 421-1 et s'il n'exerce sa profession dans les conditions prévues à l'article L. 422-6.
 
@@ -1390,6 +1390,18 @@ Toute atteinte portée sciemment aux droits garantis par le présent livre est p
 En outre, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
 
 La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 25 000 F d'amende.
+
+###### Article L521-5
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues à l'article 121-2 du code pénal des infractions définies à l'article L. 521-4 du présent code.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
 ###### Article L521-6
 
@@ -2306,11 +2318,11 @@ Les dispositions de l'article L. 615-4 ne sont pas applicables aux demandes de b
 
 ####### Article L615-12
 
-Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d'une demande de brevet est puni d'une amende de 20 000 F à 50 000 F. En cas de récidive, l'amende peut être portée au double. Il y a récidive au sens du présent article lorsqu'il a été rendu contre le prévenu dans les cinq années antérieure une condamnation pour le même délit.
+Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d'une demande de brevet est puni d'une amende de 50 000 F [*sanctions pénales*]. En cas de récidive, l'amende peut être portée au double. Il y a récidive au sens du présent article lorsqu'il a été rendu contre le prévenu dans les cinq années antérieure une condamnation pour le même délit.
 
 ####### Article L615-13
 
-Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque a sciemment enfreint une des interdictions portées aux articles L. 612-9 et L. 612-10 est puni d'une amende de 3 000 F à 30 000 F. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de un à cinq ans pourra, en outre, être prononcée.
+Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque a sciemment enfreint une des interdictions portées aux articles L. 612-9 et L. 612-10 est puni d'une amende de 30 000 F [*sanctions pénales*]. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de un à cinq ans [*circonstances aggravantes*] pourra, en outre, être prononcée.
 
 ####### Article L615-14
 
@@ -2326,11 +2338,11 @@ Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera 
 
 ####### Article L615-15
 
-Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque aura sciemment enfreint une des obligations ou interdictions prévues aux articles L. 614-18, L. 614-20 et au premier alinéa de l'article L. 614-21 sera puni d'une amende de 3 000 F à 40 000 F. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de un à cinq ans pourra, en outre, être prononcée.
+Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque aura sciemment enfreint une des obligations ou interdictions prévues aux articles L. 614-18, L. 614-20 et au premier alinéa de l'article L. 614-21 sera puni d'une amende de 40 000 F [*sanctions pénales*]. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
 
 ####### Article L615-16
 
-Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque aura sciemment enfreint l'une des obligations ou interdictions prévues au second alinéa de l'article L. 614-2, à l'article L. 614-4 et au premier alinéa de l'article L. 614-5 sera puni d'une amende de 3 000 F à 40 000 F. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de un à cinq ans pourra, en outre, être prononcée.
+Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque aura sciemment enfreint l'une des obligations ou interdictions prévues au second alinéa de l'article L. 614-2, à l'article L. 614-4 et au premier alinéa de l'article L. 614-5 sera puni d'une amende de 40 000 F [*sanctions pénales*]. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
 
 ###### Section 3 : Règles de compétence et de procédure
 
@@ -2380,13 +2392,13 @@ Des décrets en Conseil d'Etat fixent les modalités d'application du présent t
 
 ###### Article L621-1
 
-Tout directeur, commis, ouvrier de fabrique, qui aura communiqué ou tenté de communiquer à des étrangers ou à des Français résidant en pays étranger des secrets de la fabrique où il est employé sera puni d'un emprisonnement de deux ans à cinq ans et d'une amende de 1 800 F à 120 000 F.
+Les peines frappant la violation des secrets de fabrique sont prévues à l'article L. 152-7 du code du travail ci-après reproduit :
 
-Il pourra, en outre, être privé des droits mentionnés à l'article 42 du code pénal pendant cinq ans au moins et dix ans au plus à compter du jour où il aura subi sa peine.
+"Art. L. 152-7 :
 
-Si ces secrets ont été communiqués à des Français résidant en France, la peine sera d'un emprisonnement de trois mois à deux ans et d'une amende de 500 F à 15 000 F.
+"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de fabrique est puni de deux ans d'emprisonnement et de 200 000 F d'amende [*sanctions pénales*].
 
-Le maximum de la peine prononcée par les premier et troisième alinéas du présent article sera nécessairement appliqué s'il s'agit de secrets de fabrique d'armes et munitions de guerre appartenant à l'Etat.
+"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
 
 ##### Chapitre II : Produits semi-conducteurs
 
@@ -2678,7 +2690,7 @@ Les tribunaux de grande instance compétents, dont le nombre ne pourra être inf
 
 ####### Article L623-32
 
-Toute atteinte portée sciemment aux droits du titulaire d'un certificat d'obtention végétale, tels qu'ils sont définis à l'article L. 623-4, constitue un délit puni d'une amende de 2 000 F à 15 000 F. En cas de récidive, un emprisonnement de deux à six mois peut, en outre, être prononcé. Il y a récidive, au sens du présent article, lorsqu'il a été rendu contre le prévenu dans les cinq années antérieures une condamnation pour le même délit.
+Toute atteinte portée sciemment aux droits du titulaire d'un certificat d'obtention végétale, tels qu'ils sont définis à l'article L. 623-4, constitue un délit puni d'une amende de 25 000 F [*sanctions pénales*]. En cas de récidive, un emprisonnement de six mois peut, en outre, être prononcé. Il y a récidive, au sens du présent article, lorsqu'il a été rendu contre le prévenu dans les cinq années antérieures une condamnation pour le même délit.
 
 ####### Article L623-33
 
@@ -2688,11 +2700,11 @@ Le tribunal correctionnel saisi ne peut statuer qu'après que la juridiction civ
 
 ####### Article L623-34
 
-Quiconque se prévaut indûment de la qualité de propriétaire d'un certificat ou d'une demande de certificat d'obtention végétale est puni d'une amende de 2 000 F à 5 000 F. En cas de récidive, l'amende peut être portée au double. Il y a récidive au sens du présent article lorsqu'il a été rendu contre le prévenu, dans les cinq années antérieures, une condamnation pour le même délit.
+Quiconque se prévaut indûment de la qualité de propriétaire d'un certificat ou d'une demande de certificat d'obtention végétale est puni d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5e classe [*sanctions pénales*]. En cas de récidive, l'amende est celle prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5e classe commises en récidive. Il y a récidive au sens du présent article lorsqu'il a été rendu contre le prévenu, dans les cinq années antérieures, une condamnation pour le même délit.
 
 ####### Article L623-35
 
-Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque a sciemment enfreint une des interdictions portées aux articles L. 623-9 et L. 623-10 est puni d'une amende de 3 000 F à 30 000 F. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement d'un à cinq ans poura, en outre, être prononcée.
+Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque a sciemment enfreint une des interdictions portées aux articles L. 623-9 et L. 623-10 est puni d'une amende de 30 000 F [*sanctions pénales*]. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de cinq ans pourra, en outre, être prononcée.
 
 ### Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs
 
@@ -3093,6 +3105,18 @@ Outre les sanctions prévues aux articles L. 716-9 et L. 716-10, le tribunal peu
 
 La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
 
+###### Article L716-11-2
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues à l'article 121-2 du code pénal des infractions définies aux articles L. 716-9 à L. 716-11 du présent code.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+
 ###### Article L716-12
 
 En cas de récidive des infractions définies aux articles L. 716-9 à L. 716-11, ou si le délinquant est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
@@ -3101,7 +3125,7 @@ Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera 
 
 ###### Article L716-13
 
-Le tribunal peut dans tous les cas ordonner, aux frais du condamné, l'affichage du jugement prononçant la condamnation dans les conditions et sous les peines prévues à l'article 51 du code pénal, ainsi que sa publication intégrale ou par extrait dans les journaux qu'il désigne, sans que les frais de cette publication puissent excéder le montant maximum de l'amende encourue.
+Le tribunal peut dans tous les cas ordonner, aux frais du condamné, l'affichage du jugement prononçant la condamnation dans les conditions et sous les peines prévues à l'article 131-35 du code pénal, ainsi que sa publication intégrale ou par extrait dans les journaux qu'il désigne, sans que les frais de cette publication puissent excéder le montant maximum de l'amende encourue.
 
 ###### Article L716-14
 
