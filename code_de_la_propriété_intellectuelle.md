@@ -826,7 +826,7 @@ La rémunération pour copie privée est, dans les conditions ci-après définie
 
 ###### Article L311-4
 
-La rémunération prévue à l'article L. 311-3 est versée par le fabricant ou l'importateur des supports d'enregistrement utilisables pour la reproduction à usage privé d'oeuvres fixées sur des phonogrammes ou des vidéogrammes, lors de la mise en circulation en France de ces supports.
+La rémunération prévue à l'article L. 311-3 est versée par le fabricant, l'importateur ou la personne qui réalise des acquisitions intracommunautaires, au sens du 3° du I de l'article 256 bis du code général des impôts, de supports d'enregistrement utilisables pour la reproduction à usage privé d'oeuvres fixées sur des phonogrammes ou des vidéogrammes, lors de la mise en circulation en France de ces supports.
 
 Le montant de la rémunération est fonction du type de support et de la durée d'enregistrement qu'il permet.
 
@@ -2261,6 +2261,12 @@ Quiconque se prévaut indûment de la qualité de propriétaire d'un brevet ou d
 ####### Article L615-13
 
 Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atteinte à la sûreté de l'Etat, quiconque a sciemment enfreint une des interdictions portées aux articles L. 612-9 et L. 612-10 est puni d'une amende de 3 000 F à 30 000 F. Si la violation a porté préjudice à la défense nationale, une peine d'emprisonnement de un à cinq ans pourra, en outre, être prononcée.
+
+####### Article L615-14
+
+1. Seront punis de deux ans d'emprisonnement et de 1 000 000 F d'amende ceux qui auront porté sciemment atteinte aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6.
+
+2. Alinéa perimé.
 
 ####### Article L615-14
 
