@@ -3949,13 +3949,19 @@ La transmission du dossier est faite par lettre recommandée avec demande d'avis
 
 ##### Article R321-2
 
-Les documents mentionnés à l'article L. 321-5 sont communiqués, sur demande écrite, dans les conditions prévues aux articles 40 à 42 du décret n° 78-704 du 3 juillet 1978.
+Tout associé peut, à tout moment, demander à la société de lui adresser :
 
-Sera puni de la peine d'amende prévue pour la 3e classe de contraventions tout gérant de droit ou de fait qui aura refusé de communiquer tout ou partie des documents mentionnés à l'alinéa précédent.
+1° La liste des mandataires sociaux ;
+
+2° Un tableau retraçant sur une période de cinq ans le montant annuel des sommes perçues et réparties ainsi que des prélèvements pour frais de gestion et des autres prélèvements ;
+
+3° Un document décrivant les règles de répartition applicables ;
+
+4° Le produit des droits lui revenant au cours des douze derniers mois, résultant des contrats conclus avec les utilisateurs, et la manière dont ce produit est déterminé.
 
 ##### Article R321-3
 
-Dans les sociétés de perception et de répartition des droits, les associés peuvent être convoqués soit par lettre recommandée, soit par un avis inséré dans deux journaux au moins, de diffusion nationale, habilités à recevoir les annonces légales dans le département du siège social et qui sont déterminés par les statuts.
+Dans les sociétés de perception et de répartition des droits, les associés peuvent être convoqués soit par lettre recommandée, soit par un avis inséré dans deux journaux au moins, de diffusion nationale, habilités à recevoir les annonces légales dans le département du siège social et qui sont déterminés par les statuts. Toute modification de la liste de ces journaux intervenant avant la mise à jour des statuts est portée à la connaissance des associés par tout moyen approprié.
 
 Outre les indications prévues au premier alinéa de l'article 40 du décret n° 78-704 du 3 juillet 1978, l'avis mentionne la date et le lieu de réunion des assemblées ; cet avis est publié quinze jours au moins avant la date de l'assemblée.
 
@@ -3975,7 +3981,47 @@ Lorsque la convocation est faite par avis dans la presse, les frais de l'envoi r
 
 ##### Article R321-6
 
-Lorsque l'assemblée porte sur la reddition des comptes, les documents mentionnés à l'article 41 du décret n° 78-704 du 3 juillet 1978 précité ne sont, par dérogation aux dispositions dudit article, adressés qu'aux associés qui en auront fait la demande écrite ; cet envoi est fait, selon les modalités prévues au troisième alinéa de l'article 40 de ce décret, quinze jours au moins avant la réunion de l'assemblée.
+Avant l'assemblée générale d'approbation des comptes, tout associé a le droit de prendre connaissance des livres et documents mentionnés à l'article 48 du décret n° 78-704 du 3 juillet 1978 relatif à l'application de la loi n° 78-9 du 4 janvier 1978 modifiant le titre IX du livre III du code civil, et concernant l'exercice en cours. Ce droit s'exerce dans les deux mois précédant la réunion de l'assemblée, sauf durée supérieure fixée par les statuts de la société.
+
+L'associé adresse à la société, au moins quinze jours avant la date fixée pour cette réunion, une demande écrite mentionnant les documents auxquels il souhaite accéder. Dans un délai de dix jours à compter de la réception de la demande, la société propose une date pour l'exercice du droit d'accès qui s'effectue dans des conditions définies par les statuts. Le troisième alinéa de l'article 48 du décret du 3 juillet 1978 précité est applicable.
+
+Le droit d'accès s'exerce au siège social ou au lieu de la direction administrative et, sous réserve des dispositions du dernier alinéa de l'article R. 321-6-1, sans faculté d'obtenir copie des documents.
+
+##### Article R321-6-1
+
+L'associé peut, en outre, pendant la période définie au premier alinéa de l'article R. 321-6, demander à la société de lui adresser :
+
+1° Les comptes annuels qui seront soumis à l'assemblée générale ainsi que les comptes de l'exercice précédent, accompagnés des documents mentionnés à l'article R. 321-8 ;
+
+2° Les rapports des organes dirigeants et des commissaires aux comptes qui seront soumis à l'assemblée ;
+
+3° Le cas échéant, le texte et l'exposé des motifs des résolutions proposées, ainsi que les renseignements concernant les candidats à un mandat social ;
+
+4° Le montant global, certifié exact par les commissaires aux comptes, des rémunérations versées aux personnes les mieux rémunérées, le nombre de ces personnes étant de dix ou de cinq selon que l'effectif de la société excède ou non deux cents salariés ;
+
+5° La liste des placements figurant dans les comptes à la clôture de l'exercice ainsi que des taux de rendement moyen au cours de l'exercice pour les placements à court et moyen terme ;
+
+6° Un tableau mentionnant les organismes dans lesquels la société détient une participation ainsi que le compte de résultat et le bilan de chacun de ces organismes ;
+
+7° Un état faisant ressortir, pour les principales catégories d'utilisateurs, leur nombre et le montant des droits versés dans l'année ;
+
+8° Le tableau de correspondance entre les comptes annuels dans leur présentation ordinaire et les tableaux prévus par l'article R. 321-8.
+
+Les documents mentionnés aux 1° à 8° sont, pendant la même période, tenus à la disposition des associés au siège social ou au lieu de la direction administrative, où ils peuvent en prendre connaissance ou en obtenir copie.
+
+##### Article R321-6-2
+
+L'information des associés définie à l'article R. 321-6 est assurée dans le respect des limites posées par l'article L. 321-5 et des règles prévues par les statuts en matière de confidentialité, notamment au regard du secret des affaires, vis-à-vis des tiers. En outre, un associé ne peut accéder aux informations nominatives concernant les personnels de la société.
+
+Le cas échéant, les informations nominatives exclues du droit d'accès sont occultées.
+
+Les documents qui ont un caractère préparatoire aux décisions des organes sociaux ou qui se rattachent à une procédure contentieuse en cours ne sont pas accessibles.
+
+La société peut ne pas donner suite aux demandes répétitives ou abusives.
+
+##### Article R321-6-4
+
+Le fait, pour un gérant de droit ou de fait, de refuser de communiquer tout ou partie des documents mentionnés aux articles R. 321-2, R. 321-6 et R. 321-6-1 est puni de la peine d'amende prévue pour les contraventions de la 3e classe.
 
 ##### Article R321-7
 
@@ -3983,7 +4029,7 @@ Les utilisateurs peuvent prendre connaissance du répertoire mentionné à l'art
 
 ##### Article R321-8
 
-La communication des comptes annuels des sociétés de perception et de répartition des droits, prévue en application du 1° de l'article L. 321-5 à tout associé et en application du premier alinéa de l'article L. 321-12, au ministre chargé de la culture doit comporter :
+La communication des comptes annuels des sociétés de perception et de répartition des droits, prévue en application de l'article R. 321-6-1 à tout associé et en application du premier alinéa de l'article L. 321-12, au ministre chargé de la culture doit comporter :
 
 A. - En ce qui concerne la gestion financière de la société :
 
@@ -4892,6 +4938,40 @@ Lorsque le médiateur constate un accord entre les parties, il rédige un procè
 Si, à l'issue du délai prévu à l'article R. 324-7, aucun accord n'a pu être trouvé entre les parties, le médiateur peut, par lettre recommandée avec avis de réception, soit faire des recommandations aux parties, soit proposer la solution qu'il juge appropriée au règlement de tout ou partie du différend.
 
 Faute d'avoir exprimé au médiateur leur opposition par écrit dans un délai de trois mois à compter de la date de réception de sa proposition, les parties sont réputées avoir accepté celle-ci.
+
+#### Chapitre V : Commission permanente de contrôle des sociétés de perception et de répartition des droits
+
+##### Article R325-1
+
+La commission permanente de contrôle des sociétés de perception et de répartition des droits instituée à l'article L. 321-13 siège sur convocation de son président.
+
+Elle peut valablement délibérer en présence de trois de ses membres. Ses délibérations sont adoptées à la majorité des membres présents, le président ayant voix prépondérante en cas de partage égal des voix. Le rapporteur qui a été désigné en application du dernier alinéa du I de l'article L. 321-13 assiste aux délibérations.
+
+La commission peut entendre les dirigeants des sociétés de perception et de répartition des droits, ceux des filiales et organismes que ces sociétés contrôlent ainsi que toute personne dont l'avis est jugé utile par son président.
+
+La commission prend toutes dispositions pour garantir le secret de ses investigations.
+
+##### Article R325-2
+
+La commission arrête son programme annuel de travail sur proposition de son président.
+
+La décision de procéder à un contrôle est notifiée par lettre recommandée à la société ou à l'organisme qui en fait l'objet.
+
+La demande de documents et d'informations est adressée à la société ou à l'organisme contrôlé par lettre fixant le délai imparti pour y répondre. Ce délai ne peut être inférieur à trente jours.
+
+Les vérifications sur place font l'objet d'une notification écrite préalable.
+
+##### Article R325-3
+
+Le rapport provisoire de vérification, établi par le rapporteur et adopté par la commission, est communiqué par le président à la société ou à l'organisme contrôlé, qui dispose de trente jours pour faire valoir ses observations ou demander à ce que ses représentants soient entendus par la commission.
+
+Le rapport définitif de vérification est adopté par la commission après examen des éventuelles observations de la société ou de l'organisme contrôlé et, le cas échéant, après audition de ses représentants. Les observations de la société ou de l'organisme contrôlé sont annexées au rapport de vérification. Ce rapport est adressé à la société ou à l'organisme contrôlé. Il est également adressé au ministre chargé de la culture.
+
+##### Article R325-4
+
+Le rapport annuel prévu au III de l'article L. 321-13 est établi sur la base des constatations faites par la commission à l'issue de ses contrôles.
+
+Les observations de la commission mettant en cause une société ou un organisme lui sont communiquées au préalable. La société ou l'organisme dispose d'un délai de trente jours pour faire valoir ses observations ou demander à ce que ses représentants soient entendus par la commission. Les observations de la société ou l'organisme sont annexées au rapport.
 
 ### Titre III : Procédures et sanctions
 
