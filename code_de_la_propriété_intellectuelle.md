@@ -1360,6 +1360,8 @@ La mesure de retenue est levée de plein droit à défaut pour le demandeur, dan
 
 Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration des douanes communication des noms et adresses de l'expéditeur, de l'importateur et du destinataire des marchandises retenues, ou de leur détenteur, ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
 
+La retenue mentionnée au premier alinéa ne porte pas sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de la Communauté européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de la Communauté européenne, pour y être légalement commercialisées.
+
 #### Titre IV : Droits des producteurs de bases de données
 
 ##### Chapitre Ier : Champ d'application
@@ -1894,6 +1896,8 @@ La mesure de retenue est levée de plein droit à défaut pour le demandeur, dan
 - soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
 
 Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration des douanes communication des noms et adresses de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de leur détenteur ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
+
+La retenue mentionnée au premier alinéa ne porte pas sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de la Communauté européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de la Communauté européenne, pour y être légalement commercialisées.
 
 ### Livre VI : Protection des inventions et des connaissances techniques
 
@@ -3551,6 +3555,8 @@ La mesure de retenue est levée de plein droit à défaut pour le demandeur, dan
 - soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
 
 Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration des douanes communication des noms et adresses de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de leur détenteur, ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
+
+La retenue mentionnée au premier alinéa ne porte pas sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de la Communauté européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de la Communauté européenne, pour y être légalement commercialisées.
 
 ###### Article L716-8-1
 
