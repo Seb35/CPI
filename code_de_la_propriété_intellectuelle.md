@@ -1028,7 +1028,7 @@ Les officiers de police judiciaire compétents peuvent procéder, dès la consta
 
 Toute édition d'écrits, de composition musicale, de dessin, de peinture ou de toute autre production, imprimée ou gravée en entier ou en partie, au mépris des lois et règlements relatifs à la propriété des auteurs, est une contrefaçon ; et toute contrefaçon est un délit.
 
-La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie d'un emprisonnement de trois mois à deux ans et d'une amende de 6 000 F à 120 000 F ou de l'une de ces deux peines seulement.
+La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de deux ans d'emprisonnement et de 1 000 000 F d'amende [*sanctions pénales*].
 
 Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaits.
 
@@ -1038,7 +1038,7 @@ Est également un délit de contrefaçon toute reproduction, représentation ou 
 
 ###### Article L335-4
 
-Est punie d'un emprisonnement de trois mois à deux ans et d'une amende de 6 000 F à 120 000 F ou de l'une de ces deux peines seulement toute fixation, reproduction, communication ou mise à disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un phonogramme, d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-interprète, du producteur de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle.
+Est punie de deux ans d'emprisonnement et de 1 000 000 F d'amende [*sanctions pénales*] toute fixation, reproduction, communication ou mise à disposition du public, à titre onéreux ou gratuit, ou toute télédiffusion d'une prestation, d'un phonogramme, d'un vidéogramme ou d'un programme, réalisée sans l'autorisation, lorsqu'elle est exigée, de l'artiste-interprète, du producteur de phonogrammes ou de vidéogrammes ou de l'entreprise de communication audiovisuelle.
 
 Est punie des mêmes peines toute importation ou exportation de phonogrammes ou de vidéogrammes réalisée sans l'autorisation du producteur ou de l'artiste-interprète, lorsqu'elle est exigée.
 
@@ -1046,15 +1046,9 @@ Est puni de la peine d'amende prévue au premier alinéa le défaut de versement
 
 ###### Article L335-5
 
-En cas de récidive des infractions définies aux trois précédents articles, les peines encourues sont portées au double.
+Dans le cas de condamnation fondée sur l'une des infractions définies aux trois précédents articles, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
 
-En outre, le tribunal peut ordonner, soit à titre définitif, soit à titre temporaire, pour une durée n'excédant pas cinq ans, la fermeture de l'établissement exploité par le condamné.
-
-Lorsque cette mesure de fermeture a été prononcée, le personnel doit recevoir une indemnité égale à son salaire, augmentée de tous les avantages en nature, pendant la durée de la fermeture et au plus pendant six mois.
-
-Si les conventions collectives ou particulières prévoient, après licenciement, une indemnité supérieure, c'est celle-ci qui sera due. Toute infraction aux dispositions des deux alinéas qui précèdent sera punie d'un emprisonnement d'un à six mois et d'une amende de 150 F à 15 000 F.
-
-En cas de récidive, les peines seront portées au double.
+La fermeture temporaire ne peut entraîner ni rupture ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
 
 ###### Article L335-6
 
@@ -1065,6 +1059,35 @@ Il peut également ordonner, aux frais du condamné, l'affichage du jugement pro
 ###### Article L335-7
 
 Dans les cas prévus aux cinq articles précédents, le matériel, les objets contrefaisants et les recettes ayant donné lieu à confiscation seront remis à la victime ou à ses ayants droit pour les indemniser de leur préjudice ; le surplus de leur indemnité ou l'entière indemnité s'il n'y a eu aucune confiscation de matériel, d'objets contrefaisants ou de recettes, sera réglé par les voies ordinaires.
+
+###### Article L335-8
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code pénal des infractions définies aux articles L. 335-2 à L. 335-4 du présent code.
+
+Les peines [*sanctions*] encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+
+2° Les peines mentionnées à l'article 131-39.
+
+L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+
+###### Article L335-9
+
+En cas de récidive des infractions définies aux articles L. 335-2 à L. 335-4 ou si le délinquant est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double [*sanctions*].
+
+###### Article L335-10
+
+L'administration des douanes peut, sur demande écrite du titulaire d'un droit d'auteur ou d'un droit voisin, assortie de justifications de son droit dans les conditions prévues par décret en Conseil d'Etat, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une contrefaçon de ce droit.
+
+Le procureur de la République, le demandeur, ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
+
+La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers :
+
+- soit des mesures conservatoires prévues par l'article L. 332-1 ;
+- soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
+
+Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration des douanes communication des noms et adresses de l'expéditeur, de l'importateur et du destinataire des marchandises retenues, ou de leur détenteur, ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
 
 ## Deuxième partie : La propriété industrielle
 
@@ -1290,13 +1313,19 @@ Lorsque le dépôt est effectué au greffe du tribunal de commerce, celui-ci pro
 
 Le dépôt est présenté dans les formes et conditions prévues par le présent livre.
 
-Il comporte, à peine d'irrecevabilité, l'identification du déposant et une reproduction du ou des dessins ou modèles concernés. Le dépôt est rejeté s'il apparaît à l'examen :
+Il comporte, à peine d'irrecevabilité, l'identification du déposant et une reproduction du ou des dessins ou modèles concernés.
+
+Le dépôt est rejeté s'il apparaît à l'examen :
 
 1. Qu'il n'est pas présenté dans les conditions et formes prescrites.
 
 2. Que sa publication est susceptible de porter atteinte aux bonnes moeurs ou à l'ordre public.
 
 Toutefois, le rejet ne peut être prononcé sans que le déposant ait été préalablement invité, selon le cas, soit à régulariser le dépôt, soit à présenter ses observations.
+
+Pour les dessins et modèles relevant d'industries qui renouvellent fréquemment la forme et le décor de leurs produits, le dépôt peut être effectué sous une forme simplifiée dans les conditions fixées par décret en Conseil d'Etat.
+
+La déchéance des droits issus d'un tel dépôt est prononcée lorsqu'il n'a pas été, au plus tard six mois avant la date prévue pour sa publication, rendu conforme aux prescriptions générales fixées par le décret prévu à l'alinéa précédent.
 
 ###### Article L512-3
 
@@ -1350,15 +1379,36 @@ La confiscation, au profit de la partie lésée, des objets portant atteinte aux
 
 Le tribunal, en cas de condamnation, peut en outre prononcer la confiscation des instruments ayant servi spécialement à la fabrication des objets incriminés.
 
+###### Article L521-3-1
+
+Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues au premier alinéa de l'article L. 521-4, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et des matériels spécialement installés en vue de tels agissements.
+
 ###### Article L521-4
 
-Toute atteinte portée sciemment aux droits garantis par le présent livre est punie d'une amende de 90 F à 20 000 F.
+Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de deux ans d'emprisonnement et de 1 000 000 F d'amende [*sanctions pénales*].
 
-Dans le cas de récidive, ou si le délinquant est une personne ayant travaillé pour la partie lésée, il est prononcé, en outre, un emprisonnement d'un mois à six mois.
+En outre, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
 
-Il y a récidive lorsqu'il a été prononcé contre le prévenu, dans les cinq années antérieures, une première condamnation pour un des délits prévus par le présent livre.
+La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 25 000 F d'amende.
 
-Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq années du droit d'élection et d'éligibilité pour les tribunaux et chambres de commerce, ainsi que pour les conseils de prud'hommes.
+###### Article L521-6
+
+En cas de récidive des infractions aux droits garantis par le présent livre, ou si le délinquant est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
+
+Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
+
+###### Article L521-7
+
+L'administration des douanes peut, sur demande écrite du propriétaire d'un dessin ou modèle déposé, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une contrefaçon desdits dessins ou modèles.
+
+Le procureur de la République, le demandeur, ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
+
+La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers :
+
+- soit de mesures conservatoires décidées par le président du tribunal de grande instance ;
+- soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
+
+Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration des douanes communication des noms et adresses de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de leur détenteur ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
 
 ### Livre VI : Protection des inventions et des connaissances techniques
 
@@ -1422,7 +1472,7 @@ Si l'inventeur est un salarié, le droit au titre de propriété industrielle, �
 
 Si l'employeur n'est pas soumis à une convention collective de branche, tout litige relatif à la rémunération supplémentaire est soumis à la commission de conciliation instituée par l'article L. 615-21 ou au tribunal de grande instance.
 
-2. Toutes les autres inventions appartiennent au salarié. Toutefois, lorsqu'une invention est faite par un salarié, soit dans le domaine des activités de l'entreprise, soit par la connaissance ou l'utilisation des techniques ou de moyens spécifiques à l'entreprise, ou de données procurées par elle, l'employeur a le droit, dans des conditions et délais fixés par décret en Conseil d'Etat, de se faire attribuer la propriété ou la jouissance de tout ou partie des droits attachés au brevet protégeant l'invention de son salarié.
+2. Toutes les autres inventions appartiennent au salarié. Toutefois, lorsqu'une invention est faite par un salarié soit dans le cours de l'exécution de ses fonctions, soit dans le domaine des activités de l'entreprise, soit par la connaissance ou l'utilisation des techniques ou de moyens spécifiques à l'entreprise, ou de données procurées par elle, l'employeur a le droit, dans des conditions et délais fixés par décret en Conseil d'Etat, de se faire attribuer la propriété ou la jouissance de tout ou partie des droits attachés au brevet protégeant l'invention de son salarié.
 
 Le salarié doit en obtenir un juste prix qui, à défaut d'accord entre les parties, est fixé par la commission de conciliation instituée par l'article L. 615-21 ou par le tribunal de grande instance : ceux-ci prendront en considération tous éléments qui pourront leur être fournis notamment par l'employeur et par le salarié, pour calculer le juste prix tant en fonction des apports initiaux de l'un et de l'autre que de l'utilité industrielle et commerciale de l'invention.
 
@@ -1521,7 +1571,7 @@ c) Les races animales ainsi que les procédés essentiellement biologiques d'obt
 
 ####### Article L612-1
 
-La demande de brevet est présentée dans les formes et conditions prévues par le présent chapitre.
+La demande de brevet est présentée dans les formes et conditions prévues par le présent chapitre et précisées par voie réglementaire.
 
 ####### Article L612-2
 
@@ -1617,7 +1667,9 @@ Est rejetée, en tout ou partie, toute demande de brevet :
 
 7° Qui n'a pas été modifiée, après mise en demeure, alors que l'absence de nouveauté résultait manifestement du rapport de recherche ;
 
-8° Dont les revendications ne se fondent pas sur la description ; 9° Lorsque le demandeur n'a pas satisfait à l'obligation prévue au 1° de l'article L. 612-14.
+8° Dont les revendications ne se fondent pas sur la description ;
+
+9° Lorsque le demandeur n'a pas, s'il y a lieu, présenté d'observations ni déposé de nouvelles revendications au cours de la procédure d'établissement du rapport de recherche prévu à l'article L. 612-14.
 
 Si les motifs de rejet n'affectent la demande de brevet qu'en partie, seules les revendications correspondantes sont rejetées.
 
@@ -1625,7 +1677,7 @@ En cas de non-conformité partielle de la demande aux dispositions du a de l'art
 
 ####### Article L612-13
 
-Du jour du dépôt de la demande et jusqu'au jour où la recherche documentaire préalable au rapport prévu au 1° de l'article L. 612-14 a été commencée, le demandeur peut déposer de nouvelles revendications.
+Du jour du dépôt de la demande et jusqu'au jour où la recherche documentaire préalable au rapport prévu à l'article L. 612-14 a été commencée, le demandeur peut déposer de nouvelles revendications.
 
 La faculté de déposer de nouvelles revendications est ouverte au demandeur d'un certificat d'utilité jusqu'au jour de la délivrance de ce titre.
 
@@ -1919,7 +1971,7 @@ La décision d'annulation d'un brevet d'invention a un effet absolu sous réserv
 
 Les décisions passées en force de chose jugée sont notifiées au directeur de l'Institut national de la propriété industrielle, aux fins d'inscription au Registre national des brevets.
 
-Lorsque la décision annule partiellement une revendication, elle renvoie le propriétaire du brevet devant l'Institut national de la propriété industrielle afin de présenter une rédaction de la revendication modifiée selon le dispositif du jugement. Le directeur de l'institut a le pouvoir de rejeter la revendication modifiée pour défaut de conformité au jugement, sous réserve d'un recours devant la cour d'appel de Paris.
+Lorsque la décision annule partiellement une revendication, elle renvoie le propriétaire du brevet devant l'Institut national de la propriété industrielle afin de présenter une rédaction de la revendication modifiée selon le dispositif du jugement. Le directeur de l'institut a le pouvoir de rejeter la revendication modifiée pour défaut de conformité au jugement, sous réserve d'un recours devant l'une des cours d'appel désignée conformément à l'article L. 411-4 du code.
 
 ####### Article L613-28
 
@@ -2058,9 +2110,9 @@ L'extinction ou l'annulation ultérieure du brevet européen n'affecte pas les d
 
 ######## Article L614-14
 
-Une demande de brevet français ou un brevet français et une demande de brevet européen ou un brevet européen ayant la même date de priorité, couvrant la même invention et appartenant au même inventeur ou à son ayant cause, ne peuvent, pour les parties communes, faire l'objet indépendamment l'une de l'autre d'un transfert, gage, nantissement ou d'une concession de droits d'exploitation, à peine de nullité.
+Une demande de brevet français ou un brevet français et une demande de brevet européen ou un brevet européen ayant la même date de dépôt ou la même date de priorité, couvrant la même invention et appartenant au même inventeur ou à son ayant cause, ne peuvent, pour les parties communes, faire l'objet indépendamment l'une de l'autre d'un transfert, gage, nantissement ou d'une concession de droits d'exploitation, à peine de nullité.
 
-Par dérogation à l'article L. 613-9, le transfert ou la modification des droits attachés à la demande de brevet français ou au brevet français n'est rendu opposable aux tiers par son inscription au Registre national des brevets que dans la mesure où le même transfert ou la même modification des droits attachés à la demande de brevet européen ou au brevet européen a été inscrit au registre des brevets.
+Par dérogation à l'article L. 613-9, le transfert ou la modification des droits attachés à la demande de brevet français ou au brevet français n'est rendu opposable aux tiers par son inscription au Registre national des brevets que dans la mesure où le même transfert ou la même modification des droits attachés à la demande de brevet européen ou au brevet européen a été inscrit au registre européen des brevets.
 
 La demande de brevet français ou le brevet français et le droit de priorité pour le dépôt d'une demande de brevet européen ne peuvent être transférés indépendamment l'un de l'autre.
 
@@ -2068,7 +2120,9 @@ La demande de brevet français ou le brevet français et le droit de priorité p
 
 Le tribunal saisi d'une action en contrefaçon d'un brevet français qui couvre la même invention qu'un brevet européen demandé par le même inventeur ou délivré à celui-ci ou à son ayant cause avec la même date de priorité surseoit à statuer jusqu'à la date à laquelle le brevet français cesse de produire ses effets aux termes de l'article L. 614-13 ou jusqu'à la date à laquelle la demande de brevet européen est rejetée, retirée ou réputée retirée, ou le brevet européen révoqué.
 
-Si l'action en contrefaçon a été engagée sur la base du seul brevet français, le demandeur peut, à la reprise de l'instance, poursuivre celle-ci en substituant le brevet européen au brevet français pour les faits postérieurs à la date à laquelle le brevet français cesse de produire ses effets et pour les parties communes. Si une action en contrefaçon est intentée sur la base d'un brevet français et d'un brevet européen, ni les sanctions pénales ni les réparations civiles ne peuvent se cumuler.
+Si l'action en contrefaçon a été engagée sur la base du seul brevet français, le demandeur peut, à la reprise de l'instance, poursuivre celle-ci en substituant le brevet européen au brevet français pour les faits postérieurs à la date à laquelle le brevet français cesse de produire ses effets et pour les parties communes.
+
+Si une action en contrefaçon est intentée sur la base à la fois d'un brevet français et d'un brevet européen, ni les sanctions pénales ni les réparations civiles ne peuvent se cumuler.
 
 Si l'action a été intentée sur la base de l'un seulement des deux brevets, une nouvelle action sur la base de l'autre brevet, pour les mêmes faits, ne peut être engagée par le même demandeur, à l'égard du même défendeur.
 
@@ -2104,7 +2158,7 @@ L'autorisation prévue au premier alinéa peut être accordée à tout moment. S
 
 ######## Article L614-21
 
-Avant le terme de l'un ou de l'autre des délais mentionnés au dernier alinéa de l'article L. 614-20, les interdictions prévues audit article peuvent être prorogées, sur réquisition du ministre de la défense, pour une durée d'un an renouvelable. Dans ce cas, la demande n'est pas transmise au bureau international institué par le traité de coopération en matière de brevets. Les interdictions prorogées peuvent être levées à tout moment.
+Avant le terme de l'un ou de l'autre des délais mentionnés au dernier alinéa de l'article L. 614-20, les interdictions prévues audit article peuvent être prorogées, sur réquisition du ministre de la défense, pour une durée d'un an renouvelable. Dans ce cas, la demande n'est pas transmise au bureau international institué par le traité de Washington. Les interdictions prorogées peuvent être levées à tout moment.
 
 Dans le cas de prorogations des interdictions, les dispositions des deuxième, troisième et quatrième alinéas de l'article L. 612-10 sont applicables.
 
@@ -2248,12 +2302,6 @@ Le président du tribunal de grande instance peut, s'il en est requis par l'ayan
 
 Les dispositions de l'article L. 615-4 ne sont pas applicables aux demandes de brevet exploité dans les conditions définies au présent article aussi longtemps que ces demandes sont soumises aux interdictions prévues par les articles L. 612-9 et L. 612-10. Une telle exploitation fait encourir de plein droit à ses auteurs la responsabilité définie au présent article.
 
-####### Article L615-11
-
-La saisie d'un brevet est effectuée par acte extra-judiciaire signifié au propriétaire du brevet, à l'Institut national de la propriété industrielle ainsi qu'aux personnes possédant des droits sur le brevet ; elle rend inopposable au créancier saisissant toute modification ultérieure des droits attachés au brevet.
-
-A peine de nullité de la saisie, le créancier saisissant doit, dans le délai prescrit, se pourvoir devant le tribunal, en validité de la saisie et aux fins de mise en vente du brevet.
-
 ###### Section 2 : Actions pénales
 
 ####### Article L615-12
@@ -2270,11 +2318,11 @@ Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atte
 
 2. Alinéa perimé.
 
-####### Article L615-14
+####### Article L615-14-1
 
-1. Seront punis d'un emprisonnement de trois mois à deux ans et d'une amende de 6 000 F à 120 000 F ou de l'une de ces deux peines seulement ceux qui auront porté sciemment atteinte aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6.
+En cas de récidive des infractions définies à l'article L. 615-14, ou si le délinquant est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
 
-2. Les dispositions du 1 ci-dessus entrent en vigueur le 1er janvier 1993.
+Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
 
 ####### Article L615-15
 
@@ -2894,13 +2942,15 @@ Encourt la déchéance de ses droits le propriétaire de la marque qui, sans jus
 
 Est assimilé à un tel usage :
 
-a) L'usage fait avec le consentement du propriétaire de la marque ou, pour les marques collectives, dans les conditions du règlement ; b) L'usage de la marque sous une forme modifiée n'en altérant pas le caractère distinctif ;
+a) L'usage fait avec le consentement du propriétaire de la marque ou, pour les marques collectives, dans les conditions du règlement ;
+
+b) L'usage de la marque sous une forme modifiée n'en altérant pas le caractère distinctif ;
 
 c) L'apposition de la marque sur des produits ou leur conditionnement exclusivement en vue de l'exportation.
 
 La déchéance peut être demandée en justice par toute personne intéressée. Si la demande ne porte que sur une partie des produits ou des services visés dans l'enregistrement, la déchéance ne s'étend qu'aux produits ou aux services concernés.
 
-L'usage sérieux de la marque commencé ou repris postérieurement à la période de cinq ans visée au premier alinéa du présent article n'y fait pas obstacle s'il a été seulement entrepris trois mois après que le propriétaire a eu connaissance de l'éventualité de la demande de déchéance.
+L'usage sérieux de la marque commencé ou repris postérieurement à la période de cinq ans visée au premier alinéa du présent article n'y fait pas obstacle s'il a été entrepris dans les trois mois précédant la demande de déchéance et après que le propriétaire a eu connaissance de l'éventualité de cette demande.
 
 La preuve de l'exploitation incombe au propriétaire de la marque dont la déchéance est demandée. Elle peut être apportée par tous moyens.
 
@@ -2994,20 +3044,28 @@ A défaut pour le requérant de s'être pourvu soit par la voie civile, soit par
 
 ###### Article L716-8
 
-L'administration des douanes peut, sur demande écrite du propriétaire d'une marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation, retenir dans le cadre de ses contrôles les marchandises qu'il prétend revêtues d'une marque constituant la contrefaçon de celle dont il a obtenu l'enregistrement ou sur laquelle il bénéficie d'un droit d'usage exclusif.
+L'administration des douanes peut, sur demande écrite du propriétaire d'une marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation, retenir dans le cadre de ses contrôles les marchandises qu'il prétend présentées sous une marque constituant la contrefaçon de celle dont il a obtenu l'enregistrement ou sur laquelle il bénéficie d'un droit d'usage exclusif.
 
-Le procureur de la République, le demandeur ainsi que le déclarant des marchandises sont informés sans délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
+Le procureur de la République, le demandeur ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
 
-La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de la date de retenue des marchandises, de justifier auprès des services douaniers :
+La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers :
 
 - soit de mesures conservatoires décidées par le président du tribunal de grande instance ;
 - soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
 
-Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration des douanes communication des noms et adresse de l'expéditeur, de l'importateur et du destinataire des marchandises retenues ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
+Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration des douanes communication des noms et adresses de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de leur détenteur, ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
+
+###### Article L716-8-1
+
+Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues aux articles L. 716-9 et L. 716-10, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et des matériels spécialement installés en vue de tels agissements.
 
 ###### Article L716-9
 
-Sera puni d'emprisonnement de trois mois à deux ans et d'une amende de 6 000 F à 120 000 F ou de l'une de ces deux peines seulement quiconque aura reproduit, imité, utilisé, apposé, supprimé ou modifié une marque, une marque collective ou une marque collective de certification, en violation des droits conférés par son enregistrement et des interdictions qui découlent de celui-ci.
+Sera puni de deux ans d'emprisonnement et de 1 000 000 F d'amende quiconque aura [*sanctions pénales*] :
+
+a) Reproduit, imité, utilisé, apposé, supprimé ou modifié une marque, une marque collective ou une marque collective de certification en violation des droits conférés par son enregistrement et des interdictions qui découlent de celui-ci ;
+
+b) Importé, sous tous régimes douaniers, ou exporté des marchandises présentées sous une marque contrefaite.
 
 ###### Article L716-10
 
@@ -3029,9 +3087,17 @@ c) Dans un délai de dix ans à compter de la date à laquelle a pris fin la pro
 
 Les dispositions du présent article sont applicables aux marques syndicales prévues par le chapitre III du titre Ier du livre IV du code du travail.
 
+###### Article L716-11-1
+
+Outre les sanctions prévues aux articles L. 716-9 et L. 716-10, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
+
+La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 25 000 F d'amende [*sanctions pénales*].
+
 ###### Article L716-12
 
-En cas de récidive des infractions définies aux articles L. 716-9 à L. 716-11, les peines encourues sont portées au double.
+En cas de récidive des infractions définies aux articles L. 716-9 à L. 716-11, ou si le délinquant est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
+
+Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers ainsi que pour les conseils de prud'hommes.
 
 ###### Article L716-13
 
@@ -3077,7 +3143,7 @@ Constitue une appellation d'origine la dénomination d'un pays, d'une région ou
 
 ###### Article L811-1
 
-Les dispositions du présent code sont applicables aux territoires d'outre-mer et à la collectivité territoriale de Mayotte, à l'exception des articles L. 421-1, L. 421-2, L. 422-1 à L. 422-10 et L. 423-2.
+Les dispositions du présent code sont applicables à la collectivité territoriale de Mayotte, à l'exception des articles L. 335-8 et L. 621-1. Elles sont applicables aux territoires d'outre-mer à l'exception des articles L. 335-8, L. 421-1 à L. 422-10, L. 423-2 et L. 621-1.
 
 ###### Article L811-2
 
