@@ -3280,7 +3280,9 @@ Constitue une appellation d'origine la dénomination d'un pays, d'une région ou
 
 ###### Article L811-1
 
-Les dispositions du présent code sont applicables à la collectivité territoriale de Mayotte, à l'exception des articles L. 335-8 et L. 621-1. Elles sont applicables aux territoires d'outre-mer à l'exception des articles L. 335-8, L. 421-1 à L. 422-10, L. 423-2 et L. 621-1.
+Sous réserve des adaptations prévues aux articles suivants, les dispositions du présent code sont applicables dans la collectivité territoriale de Mayotte.
+
+Sous les mêmes réserves, elles sont applicables dans les territoires d'outre-mer à l'exception des articles L. 421-1 à L. 422-10 et L. 423-2.
 
 ###### Article L811-2
 
@@ -3292,6 +3294,16 @@ Pour l'application du présent code et des dispositions qu'il rend applicables a
 - " conseil de prud'hommes " par " tribunal du travail ".
 
 De même, les références à des dispositions législatives non applicables dans les territoires d'outre-mer sont remplacées par les références aux dispositions ayant le même objet, résultant de la réglementation territoriale applicable dans ces derniers.
+
+###### Article L811-3
+
+Pour son application dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
+
+"Art. L. 621-1 :
+
+"Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de fabrique est puni de deux ans d'emprisonnement et de 200 000 F d'amende [*sanctions pénales*].
+
+"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
 
 # Partie réglementaire
 
