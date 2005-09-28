@@ -7356,23 +7356,25 @@ Les dispositions des articles R. 611-1 à R. 611-10 relatives aux obligations du
 
 ####### Article R611-14-1
 
-I. - Pour les fonctionnaires ou agents publics de l'Etat et de ses établissements publics régis par les dispositions applicables aux corps et emplois figurant sur la liste annexée au présent chapitre et qui sont les auteurs d'une invention visée au 1 de l'article R. 611-12, la rémunération supplémentaire prévue par l'article L. 611-7 est constituée par une prime d'intéressement aux produits tirés de l'invention par la personne publique qui en est bénéficiaire.
+I. - Pour les fonctionnaires ou agents publics de l'Etat et de ses établissements publics relevant des catégories définies dans l'annexe au présent article et qui sont les auteurs d'une invention mentionnée au 1 de l'article R. 611-12, la rémunération supplémentaire prévue par l'article L. 611-7 est constituée par une prime d'intéressement aux produits tirés de l'invention par la personne publique qui en est bénéficiaire et par une prime au brevet d'invention.
 
-II. - Le complément de rémunération dû au titre de l'intéressement est versé annuellement et peut faire l'objet d'avances en cours d'année.
+II. - La prime d'intéressement est calculée, pour chaque invention, sur une base constituée du produit hors taxes des redevances perçues chaque année au titre de l'invention par la personne publique, après déduction de la totalité des frais directs supportés par celle-ci, et affectée du coefficient représentant la contribution à l'invention de l'agent concerné. La prime au brevet d'invention n'est pas prise en compte dans les frais directs.
 
-Il est calculé, pour chaque invention, sur une base constituée du produit hors taxes des redevances perçues chaque année au titre de l'invention par la personne publique après déduction de la totalité des frais directs supportés par celle-ci, et affectée du coefficient représentant la contribution à l'invention de l'agent concerné.
+Le montant versé à chaque agent auteur d'une invention est égal à 50 % de la base définie ci-dessus, dans la limite du montant du traitement brut annuel soumis à retenue pour pension correspondant au deuxième chevron du groupe hors échelle D, et, au-delà de ce montant, à 25 % de cette base.
 
-Le complément de rémunération versé à chaque agent auteur d'une invention est égal à 50 % de la base définie ci-dessus, dans la limite du montant du traitement brut annuel soumis à retenue pour pension correspondant au deuxième chevron du groupe hors échelle D, et, au-delà de ce montant, à 25 % de cette base.
+La prime d'intéressement est versée annuellement et peut faire l'objet d'avances en cours d'année.
 
-III. - Lorsque plusieurs agents sont auteurs d'une même invention, la contribution respective de chacun d'eux à l'invention, représentée par un coefficient, est déterminée définitivement avant le premier versement annuel ou, le cas échéant, avant le versement d'avances, selon des modalités arrêtées par le ministre ayant autorité sur le service ou par l'ordonnateur principal de la personne publique. Lorsqu'un seul agent est auteur de l'invention, le coefficient représentant sa contribution est égal à 1.
+III. - La prime au brevet d'invention a un caractère forfaitaire. Son montant est fixé par arrêté conjoint des ministres chargés du budget, de la fonction publique et de la recherche. Elle est pour chaque agent affectée du coefficient représentant sa contribution à l'invention.
 
-Si l'invention résulte d'une collaboration entre agents relevant de plusieurs personnes publiques différentes, les modalités de répartition et de paiement de la prime d'intéressement sont arrêtées de concert par les personnes publiques concernées.
+Cette prime est versée en deux tranches. Le droit au versement de la première tranche, qui représente 20 % du montant de la prime, est ouvert à l'issue d'un délai d'un an à compter du premier dépôt de la demande de brevet. Le droit au versement de la seconde tranche est ouvert lors de la signature d'une concession de licence d'exploitation ou d'un contrat de cession dudit brevet.
 
-IV. - Lorsque l'invention a été réalisée par l'agent dans le cadre de son activité principale, la rémunération due au titre de l'intéressement est versée à l'intéressé, en complément de sa rémunération d'activité, sans autre limitation que celle prévue par le présent décret.
+IV. - Lorsque plusieurs agents sont auteurs d'une même invention, la contribution respective de chacun d'eux à l'invention, représentée par un coefficient, est déterminée définitivement avant le premier versement annuel au titre de la rémunération supplémentaire mentionnée au I ou, le cas échéant, avant le versement d'avances, selon des modalités arrêtées par le ministre ayant autorité sur le service ou par l'ordonnateur principal de la personne publique. Lorsqu'un seul agent est auteur de l'invention, le coefficient représentant sa contribution est égal à 1.
 
-Le cas échéant, elle continue d'être versée à l'agent pendant le temps d'exploitation de l'invention, s'il quitte ses fonctions pour quelque cause que ce soit ou est admis à faire valoir ses droits à pension de retraite.
+Si l'invention résulte d'une collaboration entre agents relevant de plusieurs personnes publiques, les modalités de répartition et de paiement de la prime d'intéressement et de la prime au brevet d'invention sont arrêtées de concert par les personnes publiques concernées.
 
-V. - En cas de décès de l'agent, la prime d'intéressement est versée jusqu'au terme de l'année au cours de laquelle il est décédé.
+V. - Lorsque l'invention a été réalisée par l'agent dans le cadre de son activité principale, la rémunération due au titre de la prime d'intéressement et de la prime au brevet d'invention lui est versée, en complément de sa rémunération d'activité, sans autre limitation que celle prévue par le présent article.
+
+Le cas échéant, la prime d'intéressement continue d'être versée à l'agent pendant le temps d'exploitation de l'invention, s'il quitte ses fonctions pour quelque cause que ce soit ou est admis à faire valoir ses droits à pension de retraite. En cas de décès de l'agent, la prime d'intéressement et la prime au brevet d'invention sont versées jusqu'au terme de l'année civile du décès.
 
 ####### Article Annexe art. R611-14-1
 
@@ -7401,6 +7403,8 @@ V. - En cas de décès de l'agent, la prime d'intéressement est versée jusqu'a
 - Ingénieurs et spécialistes de l'Institut national de la santé et de la recherche médicale régis par le décret n° 64-420 du 12 mai 1964 modifié.
 - Ingénieurs experts de l'Institut national de recherche en informatique et en automatique régis par le décret n° 86-83 du 17 janvier 1986 modifié.
 - Agents recrutés par les établissements publics à caractère scientifique et technologique en application des dispositions de l'article 23 de la loi n° 82-610 du 15 juillet 1982 modifiée d'orientation et de programmation pour la recherche et le développement technologique de la France.
+- autres agents recrutés par les établissements publics à caractère scientifique et technologique et les établissements d'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
+- agents recrutés dans les services d'activités industrielles et commerciales des établissements publics d'enseignement supérieur en application de l'article L. 123-5 du code de l'éducation pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
 <center>Enseignement supérieur, recherche et affaires sociales :</center>
 
@@ -7427,6 +7431,7 @@ V. - En cas de décès de l'agent, la prime d'intéressement est versée jusqu'a
 
 - personnels associés ou invités dans les établissements d'enseignement supérieur et de la recherche relevant du ministre chargé de l'agriculture, régis par le décret n° 95-621 du 6 mai 1995.
 - assistants d'enseignement et de recherche contractuels des établissements d'enseignement supérieur publics relevant du ministre chargé de l'agriculture, régis par le décret n° 91-374 du 16 avril 1991.
+- autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
 <center>Industrie :</center><center> Corps de fonctionnaires :</center>
 
@@ -7437,12 +7442,13 @@ V. - En cas de décès de l'agent, la prime d'intéressement est versée jusqu'a
 - Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
 - Fonctionnaires de l'Etat détachés sur des emplois du groupe des écoles des télécommunications en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
 
-<center>Agents non titulaires</center>
+<center></center><center> Agents non titulaires</center>
 
 - Personnels chercheurs des écoles nationales supérieures des mines de Paris et Saint-Etienne régis par le décret n° 71-999 du 7 décembre 1971.
 - Personnels enseignants, chercheurs et ingénieurs associés régis par le décret n° 70-663 du 10 juillet 1970 modifié.
 - Agents contractuels chargés de mission de classe exceptionnelle, agents contractuels chargés de mission de classe normale, agents contractuels hors catégorie et agents contractuels de 1re catégorie régis par le décret n° 75-62 du 28 janvier 1975 modifié.
 - Personnels contractuels de droit public du groupe des écoles des télécommunications recrutés en vertu du 2° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
+- autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
 <center>Equipement, transports et logement.</center>
 
@@ -7470,6 +7476,30 @@ V. - En cas de décès de l'agent, la prime d'intéressement est versée jusqu'a
 - décret n° 46-1507 du 18 juin 1946 fixant le statut des auxiliaires recrutés sur contrat par le ministère des travaux publics et des transports pour le service des ponts et chaussées, modifié par les décrets n° 68-313 du 1er avril 1968 et n° 75-1355 du 18 décembre 1975 relatifs au même objet ;
 - décret n° 48-1018 du 16 juin 1948 modifié fixant le statut des agents sur contrat du ministère des travaux publics, des transports et du tourisme ;
 - règlement intérieur du 4 juin 1970 relatif aux personnels non titulaires employés par la direction régionale de l'équipement de l'Ile-de-France.
+- autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
+
+<center>Défense.</center>
+
+<center>Corps de fonctionnaires civils et militaires :</center>
+
+- ingénieurs de l'armement régis par le décret n° 82-1067 du 15 décembre 1982 modifié ;
+- ingénieurs militaires des essences régis par le décret n° 76-802 du 19 août 1976 modifié ;
+- praticiens des armées régis par le décret n° 2004-534 du 14 juin 2004 ;
+- ingénieurs des études et techniques régis par le décret n° 79-1135 du 27 décembre 1979 modifié ;
+- ingénieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-750 du 18 octobre 1989 modifié ;
+- techniciens supérieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-749 du 18 octobre 1989 modifié ;
+- techniciens du ministère de la défense régis par le décret n° 98-203 du 20 mars 1998 modifié.
+
+<center>Agents non titulaires :</center>
+
+- agents non titulaires de catégorie spéciale, hors catégorie et de catégorie A, régis par le décret n° 49-1378 du 3 octobre 1949 modifié ;
+- professeurs à occupation principale de l'Ecole nationale supérieure de l'aéronautique régis par le décret n° 67-962 du 23 octobre 1967 ;
+- personnels scientifiques des laboratoires et centres de recherche de l'Ecole polytechnique régis par le décret n° 73-311 du 14 mars 1973 modifié ;
+- ingénieurs et spécialistes des laboratoires et centres de recherche de l'Ecole polytechnique régis par le décret n° 73-312 du 14 mars 1973 modifié ;
+- agents non titulaires ingénieurs régis par le décret n° 88-541 du 4 mai 1988 relatif à certains agents sur contrat des services à caractère industriel ou commercial du ministère de la défense ;
+- personnels enseignants de l'Ecole polytechnique régis par le décret n° 2000-497 du 5 juin 2000 ;
+- personnels contractuels scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique régis par le décret n° 2003-1006 du 21 octobre 2003 ;
+- autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
 ###### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.
 
