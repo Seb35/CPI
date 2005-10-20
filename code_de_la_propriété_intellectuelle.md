@@ -5505,7 +5505,7 @@ Les agents désignés par le Centre national de la cinématographie, par les org
 
 ##### Article R335-1
 
-La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 335-10 comporte :
+I.-La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 335-10 comporte :
 
 1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
 
@@ -5515,11 +5515,17 @@ La demande de retenue de marchandises par l'administration des douanes prévue �
 
 4° Tous éléments permettant d'identifier l'oeuvre ou la prestation contrefaites ;
 
-5° La description des marchandises arguées de contrefaçon dont la retenue est demandée.
+5° La description des marchandises arguées de contrefaçon dont la retenue est demandée ;
 
-La demande peut être faite préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont légalement ni fabriquées, ni mises en libre pratique non plus que commercialisées dans un autre Etat membre de la Communauté européenne.
 
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé du budget.
+II.-La demande mentionnée au I peut être présentée à l'autorité administrative compétente préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
+
+##### Article R*335-1-1
+
+L'autorité administrative compétente mentionnée aux I et II de l'article R. 335-1 est le ministre chargé des douanes.
 
 ##### Article R335-2
 
@@ -7218,7 +7224,7 @@ Les articles R. 512-1 à R. 514-5 sont applicables aux dépôts produisant effet
 
 ##### Article R521-1
 
-La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 521-7 comporte :
+I. - La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 521-7 comporte :
 
 1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
 
@@ -7228,11 +7234,17 @@ La demande de retenue de marchandises par l'administration des douanes prévue �
 
 4° L'objet et le numéro national du dessin ou modèle concerné, accompagné d'un certificat d'identité délivré par l'Institut national de la propriété industrielle ;
 
-5° La description des marchandises arguées de contrefaçon dont la retenue est demandée.
+5° La description des marchandises arguées de contrefaçon dont la retenue est demandée ;
 
-La demande visée à l'alinéa précédent peut être faite préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont légalement ni fabriquées, ni mises en libre pratique non plus que commercialisées dans un autre Etat membre de la Communauté européenne.
 
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé du budget.
+II. - La demande mentionnée au I peut être présentée à l'autorité administrative compétente préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
+
+##### Article R*521-1-1
+
+L'autorité administrative compétente mentionnée aux I et II de l'article R. 521-1 est le ministre chargé des douanes.
 
 ## Livre VI : Protection des inventions et des connaissances techniques
 
@@ -10076,7 +10088,7 @@ Cette radiation sera inscrite au Registre national des marques.
 
 ##### Article R716-1
 
-La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 716-8 comporte :
+I. - La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 716-8 comporte :
 
 1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
 
@@ -10086,11 +10098,17 @@ La demande de retenue de marchandises par l'administration des douanes prévue �
 
 4° La désignation et le numéro d'enregistrement de la marque concernée ;
 
-5° La description des marchandises arguées de contrefaçon dont la retenue est demandée.
+5° La description des marchandises arguées de contrefaçon dont la retenue est demandée ;
 
-La demande visée à l'alinéa précédent peut être faite préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont légalement ni fabriquées, ni mises en libre pratique non plus que commercialisées dans un autre Etat membre de la Communauté européenne.
 
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé du budget.
+II. - La demande mentionnée au I peut être présentée à l'autorité administrative compétente préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
+
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
+
+##### Article R*716-1-1
+
+L'autorité administrative compétente mentionnée aux I et II de l'article R. 716-1 est le ministre chargé des douanes.
 
 #### Chapitre VII : Marque internationale et marque communautaire
 
