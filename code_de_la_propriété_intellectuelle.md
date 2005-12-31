@@ -613,15 +613,15 @@ Faute par l'éditeur de fournir les justifications nécessaires, il y sera contr
 
 ####### Article L132-15
 
-Le redressement judiciaire de l'éditeur n'entraîne pas la résiliation du contrat.
+La procédure de sauvegarde ou de redressement judiciaire de l'éditeur n'entraîne pas la résiliation du contrat.
 
-Lorsque l'activité est poursuivie en application des articles 31 et suivants de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, toutes les obligations de l'éditeur à l'égard de l'auteur doivent être respectées.
+Lorsque l'activité est poursuivie en application des articles L. 621-22 et suivants du code de commerce, toutes les obligations de l'éditeur à l'égard de l'auteur doivent être respectées.
 
-En cas de cession de l'entreprise d'édition en application des articles 81 et suivants de la loi n° 85-98 du 25 janvier 1985 précitée, l'acquéreur est tenu des obligations du cédant.
+En cas de cession de l'entreprise d'édition en application des articles L. 621-83 et suivants du code de commerce précité, l'acquéreur est tenu des obligations du cédant.
 
 Lorsque l'activité de l'entreprise a cessé depuis plus de trois mois ou lorsque la liquidation judiciaire est prononcée, l'auteur peut demander la résiliation du contrat.
 
-Le liquidateur ne peut procéder à la vente en solde des exemplaires fabriqués ni à leur réalisation dans les conditions prévues aux articles 155 et 156 de la loi n° 85-98 du 25 janvier 1985 précitée que quinze jours après avoir averti l'auteur de son intention, par lettre recommandée avec demande d'accusé de réception.
+Le liquidateur ne peut procéder à la vente en solde des exemplaires fabriqués ni à leur réalisation dans les conditions prévues aux articles L. 622-17 et L. 622-18 du code de commerce précité que quinze jours après avoir averti l'auteur de son intention, par lettre recommandée avec demande d'accusé de réception.
 
 L'auteur possède, sur tout ou partie des exemplaires, un droit de préemption. A défaut d'accord, le prix de rachat sera fixé à dire d'expert.
 
@@ -741,9 +741,9 @@ Sauf convention contraire, chacun des auteurs de l'oeuvre audiovisuelle peut dis
 
 ####### Article L132-30
 
-Le redressement judiciaire du producteur n'entraîne pas la résiliation du contrat de production audiovisuelle.
+La procédure de sauvegarde ou de redressement judiciaire du producteur n'entraîne pas la résiliation du contrat de production audiovisuelle.
 
-Lorsque la réalisation ou l'exploitation de l'oeuvre est continuée en application des articles 31 et suivants de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, l'administrateur est tenu au respect de toutes les obligations du producteur, notamment à l'égard des coauteurs.
+Lorsque la réalisation ou l'exploitation de l'oeuvre est continuée en application des articles L. 621-22 et suivants du code de commerce, l'administrateur est tenu au respect de toutes les obligations du producteur, notamment à l'égard des coauteurs.
 
 En cas de cession de tout ou partie de l'entreprise ou de liquidation, l'administrateur, le débiteur, le liquidateur, selon le cas, est tenu d'établir un lot distinct pour chaque oeuvre audiovisuelle pouvant faire l'objet d'une cession ou d'une vente aux enchères. Il a l'obligation d'aviser, à peine de nullité, chacun des auteurs et des coproducteurs de l'oeuvre par lettre recommandée, un mois avant toute décision sur la cession ou toute procédure de licitation. L'acquéreur est, de même, tenu aux obligations du cédant.
 
@@ -9658,51 +9658,13 @@ Un arrêté conjoint du ministre de l'économie et des finances et du ministre c
 
 ##### Article R631-1
 
-Ainsi qu'il est dit à l'article R. 312-2 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales en application des articles L. 611-2, L. 615-17, L. 622-7 et L. 623-31 du code de la propriété intellectuelle sont fixés conformément au tableau IV annexé au code de l'organisation judiciaire, ci-après reproduit :
+Ainsi qu'il est dit à l'article R. 312-2 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière d'obtentions végétales en application de l'article L. 623-31 du code de la propriété intellectuelle sont fixés conformément au tableau IV annexé au code de l'organisation judiciaire, ci-après reproduit :
 
-Siège et ressort des tribunaux compétents pour connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection, de topographies de produits semi-conducteurs et d'obtentions végétales
+Siège et ressort des tribunaux compétents pour connaître des actions en matière d'obtentions végétales
 
-Tribunaux de grande instance, compétence territoriale s'étendant aux départements compris dans le ressort des cours d'appel de :
+##### Article R631-2
 
-Marseille :
-
-Aix : Aix-en-Provence, Bastia, Nîmes.
-
-Bordeaux :
-
-Bordeaux : Agen, Bordeaux, Poitiers.
-
-Strasbourg :
-
-Colmar : Colmar, Metz.
-
-Lille :
-
-Douai : Amiens, Douai.
-
-Limoges :
-
-Limoges : Bourges, Limoges, Riom.
-
-Lyon :
-
-Lyon : Chambéry, Lyon, Grenoble.
-
-Nancy :
-
-Nancy : Besançon, Dijon, Nancy.
-
-Paris :
-
-Paris : Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion, Nouméa, Papeete, Mamoudzou et Saint-Pierre-et-Miquelon.
-
-Rennes :
-
-Rennes : Angers, Caen, Rennes.
-
-Toulouse :
-
-Toulouse : Pau, Montpellier, Toulouse.
+Ainsi qu'il est dit à l'article R. 312-2-1 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs en application des articles L. 611-2, L. 615-17 et L. 622-7 du code de la propriété intellectuelle sont fixés conformément au tableau IV sexties annexé au code de l'organisation judiciaire.
 
 ## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs
 
