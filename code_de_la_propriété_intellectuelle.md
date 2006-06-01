@@ -3833,6 +3833,10 @@ Constitue une appellation d'origine la dénomination d'un pays, d'une région ou
 
 ##### Chapitre unique
 
+###### Article L811-1
+
+Les dispositions du présent code sont applicables à Mayotte à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4 et sous réserve des adaptations prévues aux articles suivants. Sous la même réserve, elles sont applicables en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à L. 422-13 et L. 423-2.
+
 ###### Article L811-2
 
 Pour l'application du présent code et des dispositions qu'il rend applicables en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
@@ -3923,18 +3927,6 @@ a) Lorsque le titulaire de la marque communautaire a été déchu de ses droits 
 b) Lorsqu'il est établi, par application d'une décision de l'Office de l'harmonisation dans le marché intérieur ou de la juridiction nationale, que la demande ou la marque communautaire est affectée en France d'un motif de refus d'enregistrement, de nullité ou de révocation.
 
 III. - La demande de marque nationale issue de la transformation d'une demande ou d'une marque communautaire bénéficie de la date de dépôt ou de la date de priorité de cette demande ou de cette marque et, le cas échéant, de l'ancienneté d'une marque nationale antérieurement enregistrée et valablement revendiquée."
-
-## Troisième partie : Application aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
-
-### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
-
-#### Titre unique
-
-##### Chapitre unique
-
-###### Article L811-1
-
-Les dispositions du présent code sont applicables à Mayotte à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4 et sous réserve des adaptations prévues aux articles suivants. Sous la même réserve, elles sont applicables en Polynésie française, dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à L. 422-10 et L. 423-2.
 
 # Partie réglementaire
 
