@@ -5974,11 +5974,9 @@ Le comité de la protection des obtentions végétales peut proposer au ministre
 
 Le comité de la protection des obtentions végétales a son siège à Paris. Outre son président, il comprend dix membres nommés par arrêté du ministre chargé de l'agriculture dont un sur proposition du ministre chargé des départements et territoires d'outre-mer, dans les conditions prévues à l'article L. 412-1.
 
-###### Article R412-4
+###### Article D412-4
 
-Le magistrat chargé d'assurer la présidence du comité est choisi parmi les magistrats de la cour d'appel de Paris ou du tribunal de grande instance de Paris appartenant au moins au premier grade de la hiérarchie judiciaire.
-
-Il est nommé par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre de l'agriculture.
+Un représentant de l'Etat, choisi parmi les membres du Conseil général de l'agriculture, de l'alimentation et des espaces ruraux et nommé par arrêté du ministre chargé de l'agriculture, assure la présidence du comité.
 
 Le président a pour mission, en dehors des réunions du comité dont il assure la présidence, de veiller à la bonne marche du secrétariat général prévu à l'article R. 412-10 et d'assurer avec son aide la préparation et l'exécution des décisions du comité.
 
