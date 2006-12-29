@@ -5892,6 +5892,26 @@ L'autorité administrative compétente mentionnée aux I et II de l'article R. 3
 
 Toute publicité ou notice d'utilisation relative à un moyen permettant la suppression ou la neutralisation de tout dispositif technique protégeant un logiciel, qui ne comporte pas la mention en caractères apparents que l'utilisation illicite de ces moyens est passible des sanctions prévues en cas de contrefaçon, est punie des peines prévues pour les contraventions de la troisième classe.
 
+##### Article R335-3
+
+Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait :
+
+1° De détenir en vue d'un usage personnel ou d'utiliser une application technologique, un dispositif ou un composant conçus ou spécialement adaptés pour porter atteinte à une mesure technique efficace mentionnée à l'article L. 331-5 du présent code qui protège une œuvre, une interprétation, un phonogramme, un vidéogramme, un programme ou une base de données ;
+
+2° De recourir à un service conçu ou spécialement adapté pour porter l'atteinte visée à l'alinéa précédent.
+
+Ces dispositions ne s'appliquent pas aux actes qui ne portent pas préjudice aux titulaires de droits et qui sont réalisés à des fins de sécurité informatique ou à des fins de recherche scientifique en cryptographie.
+
+##### Article R335-4
+
+Est puni de l'amende prévue pour les contraventions de la quatrième classe le fait :
+
+1° De détenir en vue d'un usage personnel ou d'utiliser une application technologique, un dispositif ou un composant conçus ou spécialement adaptés pour supprimer ou modifier un élément d'information visé à l'article L. 331-22 et qui ont pour but de porter atteinte à un droit d'auteur, à un droit voisin ou à un droit de producteur de base de données, de dissimuler ou de faciliter une telle atteinte ;
+
+2° De recourir à un service conçu ou spécialement adapté pour porter, dans les mêmes conditions, l'atteinte visée à l'alinéa précédent.
+
+Ces dispositions ne s'appliquent pas aux actes qui ne portent pas préjudice aux titulaires de droits et qui sont réalisés à des fins de sécurité informatique ou à des fins de recherche scientifique en cryptographie.
+
 ## Livre IV : Organisation administrative et professionnelle
 
 ### Titre Ier : Institutions
