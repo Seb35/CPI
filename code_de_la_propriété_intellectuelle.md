@@ -7833,9 +7833,10 @@ Le cas échéant, la prime d'intéressement continue d'être versée à l'agent 
 - Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
 - Fonctionnaires de l'Etat détachés sur des emplois du groupe des écoles des télécommunications en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
 
-<center></center><center> Agents non titulaires</center>
+<center>Agents non titulaires</center>
 
-- Personnels chercheurs des écoles nationales supérieures des mines de Paris et Saint-Etienne régis par le décret n° 71-999 du 7 décembre 1971.
+- chercheurs et ingénieurs régis par le décret n° 2000-677 du 18 juillet 2000 portant dispositions statutaires communes aux agents contractuels des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
+- attachés de recherche régis par le décret n° 71-999 du 7 décembre 1971 ;
 - Personnels enseignants, chercheurs et ingénieurs associés régis par le décret n° 70-663 du 10 juillet 1970 modifié.
 - Agents contractuels chargés de mission de classe exceptionnelle, agents contractuels chargés de mission de classe normale, agents contractuels hors catégorie et agents contractuels de 1re catégorie régis par le décret n° 75-62 du 28 janvier 1975 modifié.
 - Personnels contractuels de droit public du groupe des écoles des télécommunications recrutés en vertu du 2° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
