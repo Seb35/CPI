@@ -6825,7 +6825,7 @@ Le secrétariat du conseil est assuré par l'Institut national de la propriété
 
 ##### Article R421-1
 
-L'inscription d'une personne physique sur la liste des personnes qualifiées en propriété industrielle prévue à l'article L. 421-1 est subordonnée au respect de l'ensemble des conditions suivantes :
+Sous réserve des dispositions de l'article R. 421-1-1, l'inscription d'une personne physique sur la liste des personnes qualifiées en propriété industrielle prévue à l'article L. 421-1 est subordonnée au respect de l'ensemble des conditions suivantes :
 
 1° La possession d'un diplôme national de deuxième cycle juridique, scientifique ou technique délivré par un établissement public à caractère scientifique, culturel et professionnel au sens de la loi n° 84-52 du 26 janvier 1984 habilité à le délivrer, ou d'un titre reconnu équivalent dans des conditions fixées par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur ;
 
@@ -6834,6 +6834,40 @@ L'inscription d'une personne physique sur la liste des personnes qualifiées en 
 3° Une pratique professionnelle de trois années au moins ;
 
 4° Le succès à un examen d'aptitude dont les modalités et le programme sont fixés, pour chaque spécialisation, par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur. Les épreuves sont aménagées pour les mandataires agréés près l'Office européen des brevets.
+
+##### Article R421-1-1
+
+Peuvent également être inscrits sur la liste des personnes qualifiées prévue à l'article L. 421-1 :
+
+1° Sous réserve de remplir les conditions de diplômes des 1° et 2° de l'article R. 421-1 et de justifier de huit ans au moins de pratique professionnelle en rapport avec la propriété industrielle :
+
+a) Les personnes ayant exercé au sein d'une ou plusieurs entreprises, groupements d'entreprises, associations, fondations ou établissements publics ;
+
+b) Les salariés d'un avocat ou d'un conseil en propriété industrielle, d'une association ou d'une société d'avocats ou d'une société de conseils en propriété industrielle, d'un office d'avoué ou d'avocat au Conseil d'Etat et à la Cour de cassation ;
+
+c) Les fonctionnaires et anciens fonctionnaires de catégorie A ou les personnes assimilées aux fonctionnaires de cette catégorie ayant exercé dans une administration ou un service public ou une organisation internationale ;
+
+Les personnes mentionnées aux a, b et c peuvent avoir exercé leurs activités dans plusieurs des fonctions visées dans ces dispositions dès lors que la durée totale de ces activités est au moins égale à huit ans ;
+
+2° Les personnes remplissant l'ensemble des conditions suivantes :
+
+a) La possession d'un diplôme équivalant à un diplôme de second cycle de l'enseignement supérieur juridique, scientifique ou technique, obtenu, le cas échéant, dans le cadre de la formation professionnelle ;
+
+b) La possession du diplôme du Centre d'études internationales de la propriété industrielle (CEIPI) de l'université de Strasbourg ou d'un titre reconnu équivalent dans des conditions fixées par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur, délivrés dans le cadre de la formation professionnelle continue ;
+
+c) Une pratique professionnelle de huit ans au moins, en rapport avec la propriété industrielle, acquise :
+
+- au sein d'une ou plusieurs entreprises, groupements d'entreprises, associations, fondations ou établissements publics ;
+- en tant que salariés d'un avocat ou d'un conseil en propriété industrielle, d'une association ou d'une société d'avocats ou d'une société de conseils en propriété industrielle, d'un office d'avoué ou d'avocat au Conseil d'Etat et à la Cour de cassation ;
+- en tant que fonctionnaires et anciens fonctionnaires de catégorie A ou en tant que personnes assimilées aux fonctionnaires de cette catégorie ayant exercé dans une administration ou un service public ou une organisation internationale.
+
+Les personnes mentionnées au c peuvent avoir exercé leurs activités dans plusieurs des fonctions visées dans ces dispositions dès lors que la durée totale de ces activités est au moins égale à huit ans.
+
+Sauf lorsqu'elle résulte de fonctions exercées au sein d'une organisation internationale, la pratique professionnelle prévue aux 1° et 2° doit avoir été acquise dans un Etat membre de l'Union européenne ou partie à l'Espace économique européen.
+
+##### Article R421-1-2
+
+La réalité et le contenu de la pratique professionnelle des personnes visées à l'article R. 421-1-1 ainsi que leur connaissance des règles déontologiques relatives à la profession de conseil en propriété industrielle sont soumis, dans les conditions fixées par arrêté du ministre chargé de la propriété industrielle, au contrôle du jury mentionné à l'article R. 421-6. Ce jury détermine en outre, au vu de la pratique professionnelle des intéressés, la mention de spécialisation dont est assortie leur inscription.
 
 ##### Article R421-2
 
@@ -6865,19 +6899,19 @@ Un arrêté du ministre chargé de la propriété industrielle peut prévoir d'a
 
 La pratique professionnelle prévue à l'article R. 421-1 (3°) résulte de l'exercice à titre principal d'une activité d'étude, de conseil, d'assistance ou de représentation en matière de propriété industrielle, droits annexes et droits portant sur toute question connexe.
 
-La pratique professionnelle doit avoir été acquise en France dans la matière objet de la mention de spécialisation recherchée et sous la responsabilité d'une personne qualifiée en propriété industrielle inscrite avec la même mention.
+La pratique professionnelle doit avoir été acquise en France dans la matière correspondant à la mention de spécialisation recherchée et sous la responsabilité d'une personne qualifiée en propriété industrielle inscrite avec la même mention. Cette pratique professionnelle peut également avoir été acquise dans un autre Etat membre de l'Union européenne ou partie à l'Espace économique européen sous réserve qu'elle l'ait été sous la responsabilité d'une personne habilitée à représenter les personnes, dans la matière correspondant à la spécialisation recherchée, devant le service central de la propriété industrielle de l'Etat dans lequel elle est établie.
 
 Lorsque la pratique n'aura pas été acquise sous la responsabilité d'une telle personne, le jury prévu à l'article R. 421-6 pourra, sur dossier, admettre à se présenter à l'examen un candidat dont la pratique aura été reconnue équivalente par son contenu, son étendue et son respect des normes usuelles dans la spécialisation concernée.
 
 ##### Article R421-6
 
-Le jury chargé du contrôle des épreuves de l'examen prévu à l'article R. 421-1 (4°) comprend un magistrat de l'ordre judiciaire, président, un professeur d'université enseignant le droit privé, un avocat et quatre personnes qualifiées en propriété industrielle. En cas d'empêchement, chaque membre est remplacé par un suppléant.
+Le jury chargé du contrôle des épreuves de l'examen prévu à l'article R. 421-1 (4°) comprend un magistrat de l'ordre judiciaire, président, un professeur d'université enseignant le droit privé, un avocat, deux personnes compétentes en propriété industrielle et quatre personnes inscrites sur la liste des personnes qualifiées en propriété industrielle, dont deux conseils en propriété industrielle. Il est désigné un suppléant pour chaque membre titulaire.
 
 Les conditions de désignation des membres du jury et de leurs suppléants sont fixées par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur.
 
 ##### Article R421-7
 
-Les conditions de diplôme, de stage et d'examen professionnel prévues à l'article R. 421-1 ne sont pas applicables aux personnes qui ont suivi avec succès un cycle d'études d'une durée minimum de trois ans, ou d'une durée équivalente à temps partiel dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de même niveau de formation et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui justifient :
+Les conditions de diplôme, de stage et d'examen professionnel prévues aux articles R. 421-1 et R. 421-1-1 ne sont pas applicables aux personnes qui ont suivi avec succès un cycle d'études d'une durée minimum de trois ans, ou d'une durée équivalente à temps partiel dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de même niveau de formation et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui justifient :
 
 1° Soit d'un diplôme, certificat ou autre titre permettant l'exercice de la profession dans un Etat membre de l'Union européenne délivrés :
 
@@ -6899,13 +6933,13 @@ La liste des candidats admis à se présenter à cet examen est dressée par le 
 
 ##### Article R421-9
 
-La demande d'inscription est présentée au directeur général de l'Institut national de la propriété industrielle. Lui est jointe la justification qu'il est satisfait selon le cas aux conditions prévues à l'article R. 421-1 ou aux articles R. 421-7 et R. 421-8.
+La demande d'inscription est présentée au directeur général de l'Institut national de la propriété industrielle. Lui est jointe la justification qu'il est satisfait selon le cas aux conditions prévues à l'article R. 421-1, à l'article R. 421-1-1 ou aux articles R. 421-7 et R. 421-8.
 
 Il est donné récépissé de la demande.
 
 ##### Article R421-10
 
-La décision du directeur général de l'institut statuant sur la demande d'inscription le cas échéant, après décision du jury conformément à l'article R. 421-5 est notifiée à l'intéressé. Le refus est motivé.
+La décision du directeur général de l'institut statuant sur la demande d'inscription le cas échéant, après décision du jury conformément aux articles R. 421-5 et R. 421-1-2 est notifiée à l'intéressé. Le refus est motivé.
 
 ##### Article R421-11
 
@@ -7592,7 +7626,7 @@ Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la
 
 En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
 
-Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions de l'article R. 513-2 et sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévues aux chapitres II, III et IV du présent titre. Le pouvoir est dispensé de légalisation.
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions de l'article R. 513-2 et sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévues aux chapitres II, III et IV du présent titre. Le pouvoir est dispensé de légalisation.
 
 ##### Article R512-3
 
@@ -7618,7 +7652,7 @@ f) Le cas échéant, l'indication que la publication du dépôt doit être diff�
 
 3° La justification du paiement des redevances prescrites ;
 
-4° S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+4° S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat.
 
 Le déposant peut, jusqu'à la publication prévue à l'article R. 512-10, obtenir à ses frais une copie officielle des documents contenus dans son dépôt.
 
@@ -7670,7 +7704,7 @@ Aucune régularisation effectuée conformément aux dispositions du présent art
 
 La demande d'enregistrement peut être retirée jusqu'au début des préparatifs techniques requis par la publication prévue au premier alinéa de l'article R. 512-10.
 
-Le retrait s'effectue par une déclaration écrite adressée ou remise à l'institut, formulée par le titulaire ou son mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit justifier d'un pouvoir spécial. En cas de pluralité de déposants, le retrait ne peut être effectué que s'il est requis par l'ensemble de ceux-ci.
+Le retrait s'effectue par une déclaration écrite adressée ou remise à l'institut, formulée par le titulaire ou son mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit justifier d'un pouvoir spécial. En cas de pluralité de déposants, le retrait ne peut être effectué que s'il est requis par l'ensemble de ceux-ci.
 
 Une déclaration de retrait ne peut viser qu'un seul dépôt. Le retrait peut être limité à une partie des dessins ou modèles de la demande.
 
@@ -7746,7 +7780,7 @@ La demande comprend :
 
 3° La justification du paiement de la redevance prescrite ;
 
-4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat.
 
 ##### Article R512-16
 
@@ -7766,7 +7800,7 @@ La demande comprend :
 
 1° Un bordereau de demande d'inscription ;
 
-2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
+2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
 
 3° S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite.
 
@@ -8232,7 +8266,7 @@ Le dépôt peut être fait par le demandeur personnellement ou par un mandataire
 
 Les personnes physiques ou morales n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen doivent constituer un mandataire satisfaisant aux conditions prévues à l'alinéa précédent dans le délai de deux mois à compter de la date de réception de la notification qui leur est adressée à cet effet. En cas de pluralité de demandeurs, un mandataire commun doit être constitué. Si celui-ci n'est pas l'un des demandeurs, il doit satisfaire aux conditions prévues par le premier alinéa.
 
-Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles R. 612-38 et R. 613-45 et, sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévus aux articles R. 611-15 à R. 611-20, R. 612-1 à R. 613-3, R. 613-45 à R. 613-65, R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légalisation.
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles R. 612-38 et R. 613-45 et, sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévus aux articles R. 611-15 à R. 611-20, R. 612-1 à R. 613-3, R. 613-45 à R. 613-65, R. 616-1 à R. 616-3 et R. 618-1 à R. 618-4. Le pouvoir est dispensé de légalisation.
 
 ###### Article R612-3
 
@@ -8561,7 +8595,7 @@ Sous réserve des dispositions de l'article L. 612-13, si l'examen prévu à l'a
 
 La demande de brevet peut être retirée à tout moment, par une déclaration écrite, jusqu'au paiement de la redevance de délivrance et d'impression du fascicule du brevet.
 
-Cette déclaration ne peut viser qu'une seule demande. Elle est formulée par le demandeur ou par un mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit joindre à la déclaration un pouvoir spécial de retrait.
+Cette déclaration ne peut viser qu'une seule demande. Elle est formulée par le demandeur ou par un mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la déclaration un pouvoir spécial de retrait.
 
 Si la demande de brevet a été déposée au nom de plusieurs personnes, son retrait ne peut être effectué que s'il est requis par l'ensemble de celles-ci.
 
@@ -9133,7 +9167,7 @@ Les dispositions prévues aux articles R. 613-4 à R. 613-43 et R. 613-51 s'appl
 
 La renonciation au brevet ou à une ou plusieurs de ses revendications est faite par une déclaration écrite.
 
-Cette déclaration ne peut viser qu'un seul brevet. Elle est formulée par le propriétaire du brevet ou par un mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit joindre à la déclaration un pouvoir spécial de renonciation.
+Cette déclaration ne peut viser qu'un seul brevet. Elle est formulée par le propriétaire du brevet ou par un mandataire, lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre à la déclaration un pouvoir spécial de renonciation.
 
 Si le brevet appartient à plusieurs personnes, la renonciation ne peut être effectuée que si elle est requise par l'ensemble de celles-ci.
 
@@ -9234,7 +9268,7 @@ La demande comprend :
 
 3° La justification du paiement de la redevance prescrite ;
 
-4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle.
+4° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat.
 
 ###### Article R613-56
 
@@ -9254,7 +9288,7 @@ La demande comprend :
 
 1° Un bordereau de demande d'inscription ;
 
-2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
+2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
 
 3° S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite.
 
@@ -10303,7 +10337,7 @@ Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la
 
 En cas de pluralité de déposants, un mandataire commun doit être constitué. Si celui-ci n'est pas l'un des déposants, il doit satisfaire aux conditions prévues par le deuxième alinéa.
 
-Sauf lorsqu'il a la qualité de conseil en propriété industrielle, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles R. 712-21 et R. 714-1 et sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévues au présent titre. Le pouvoir est dispensé de légalisation.
+Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le mandataire doit joindre un pouvoir qui s'étend, sous réserve des dispositions des articles R. 712-21 et R. 714-1 et sauf stipulation contraire, à tous les actes et à la réception de toutes les notifications prévues au présent titre. Le pouvoir est dispensé de légalisation.
 
 ##### Article R712-3
 
@@ -10323,7 +10357,7 @@ d) Le cas échéant, l'indication qu'est revendiqué le droit de priorité attac
 
 a) La justification du paiement des redevances prescrites ;
 
-b) S'il est constitué un mandataire, le pouvoir de ce dernier ;
+b) S'il est constitué un mandataire, le pouvoir de ce dernier, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
 
 c) Si le caractère distinctif du signe déposé à titre de marque a été acquis par l'usage, la justification de cet usage ;
 
@@ -10423,7 +10457,7 @@ Elle précise :
 
 4° La justification du paiement de la redevance prescrite ;
 
-5° Le cas échéant, sauf lorsqu'il a la qualité de conseil en propriété industrielle, le pouvoir du mandataire, ce pouvoir pouvant être adressé à l'institut dans le délai maximum d'un mois.
+5° Le cas échéant, sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat, le pouvoir du mandataire, ce pouvoir pouvant être adressé à l'institut dans le délai maximum d'un mois.
 
 ##### Article R712-15
 
@@ -10475,7 +10509,7 @@ L'institut peut exiger la justification de la réalité de l'erreur matérielle 
 
 La demande d'enregistrement peut être retirée jusqu'au début des préparatifs techniques relatifs à l'enregistrement. Le retrait peut être limité à une partie du dépôt. Il s'effectue par une déclaration écrite adressée ou remise à l'institut.
 
-Une déclaration de retrait ne peut viser qu'une seule marque. Elle est formulée par le demandeur ou par son mandataire lequel, sauf s'il a la qualité de conseil en propriété industrielle, doit joindre un pouvoir spécial.
+Une déclaration de retrait ne peut viser qu'une seule marque. Elle est formulée par le demandeur ou par son mandataire lequel, sauf s'il a la qualité de conseil en propriété industrielle ou d'avocat, doit joindre un pouvoir spécial.
 
 Elle indique s'il a été ou non concédé des droits d'exploitation ou de gage. Dans l'affirmative, elle doit être accompagnée du consentement écrit du bénéficiaire de ce droit ou du créancier gagiste.
 
@@ -10599,7 +10633,7 @@ La demande comprend :
 
 3° La justification du paiement de la redevance prescrite ;
 
-4° S'il y a lieu, le pouvoir du mandataire, à moins que celui-ci n'ait la qualité de conseil en propriété industrielle.
+4° S'il y a lieu, le pouvoir du mandataire, à moins que celui-ci n'ait la qualité de conseil en propriété industrielle ou d'avocat.
 
 ##### Article R714-5
 
@@ -10619,7 +10653,7 @@ La demande comprend :
 
 1° Un bordereau de demande d'inscription ;
 
-2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ;
+2° S'il y a lieu, le pouvoir du mandataire, à moins qu'il n'ait la qualité de conseil en propriété industrielle ou d'avocat ;
 
 3° S'il s'agit d'une rectification d'erreur matérielle, la justification du paiement de la redevance prescrite ;
 
