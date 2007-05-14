@@ -4754,6 +4754,16 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 
 #### Chapitre unique
 
+##### Article D311-1
+
+Les comptes rendus des séances de la commission comportent :
+
+- la liste des membres présents ;
+- un relevé synthétique des travaux mentionnant les positions exprimées par les membres, incluant les propositions de rémunérations soumises au vote de la commission et les éléments utilisés pour le calcul desdites rémunérations ;
+- le relevé des délibérations exécutoires.
+
+Les comptes rendus sont approuvés par la commission à la majorité des membres présents. Ils sont publiés sur le site internet du ministère de la culture.
+
 ##### Article R311-1
 
 La commission prévue à l'article L. 311-5 siège soit en formation plénière, soit dans l'une ou l'autre de deux formations spécialisées, la première, dans les phonogrammes, et la seconde, dans les vidéogrammes. Chacune de ces formations est présidée par le président de la commission et comprend, pour moitié, des représentants des bénéficiaires du droit à rémunération, pour un quart, des représentants des fabricants ou des importateurs ou des personnes qui réalisent des acquisitions intracommunautaires de supports et, pour un quart, des représentants des consommateurs.
