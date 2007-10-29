@@ -1308,7 +1308,7 @@ Les actions en paiement des droits perçus par ces sociétés civiles se prescri
 
 ##### Chapitre Ier : Dispositions générales
 
-###### Section 1 : Règles générales de procédure
+###### Section 1 : Dispositions communes
 
 ####### Article L331-1
 
@@ -1316,9 +1316,45 @@ Toutes les contestations relatives à l'application des dispositions de la premi
 
 Les organismes de défense professionnelle régulièrement constitués ont qualité pour ester en justice pour la défense des intérêts dont ils ont statutairement la charge.
 
+Le bénéficiaire valablement investi à titre exclusif, conformément aux dispositions du livre II, d'un droit exclusif d'exploitation appartenant à un producteur de phonogrammes ou de vidéogrammes peut, sauf stipulation contraire du contrat de licence, exercer l'action en justice au titre de ce droit. L'exercice de l'action est notifié au producteur.
+
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de propriété littéraire et artistique, y compris lorsque ces actions et demandes portent à la fois sur une question de propriété littéraire et artistique et sur une question connexe de concurrence déloyale, sont déterminés par voie réglementaire.
+
+####### Article L331-1-1
+
+Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu auteur de l'atteinte aux droits, notamment le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires, financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
+
+####### Article L331-1-2
+
+Si la demande lui est faite, la juridiction saisie d'une procédure civile prévue aux livres Ier, II et III de la première partie peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des marchandises et services qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a été trouvée en possession de telles marchandises ou fournissant de tels services ou a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces marchandises ou la fourniture de ces services.
+
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
+
+Les documents ou informations recherchés portent sur :
+
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des marchandises ou services, ainsi que des grossistes destinataires et des détaillants ;
+
+b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les marchandises ou services en cause.
+
+####### Article L331-1-3
+
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le manque à gagner, subies par la partie lésée, les bénéfices réalisés par l'auteur de l'atteinte aux droits et le préjudice moral causé au titulaire de ces droits du fait de l'atteinte.
+
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si l'auteur de l'atteinte avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
+
+####### Article L331-1-4
+
+En cas de condamnation civile pour contrefaçon, atteinte à un droit voisin du droit d'auteur ou aux droits du producteur de bases de données, la juridiction peut ordonner, à la demande de la partie lésée, que les objets réalisés ou fabriqués portant atteinte à ces droits, les supports utilisés pour recueillir les données extraites illégalement de la base de données et les matériaux ou instruments ayant principalement servi à leur réalisation ou fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais de l'auteur de l'atteinte aux droits.
+
+La juridiction peut également ordonner la confiscation de tout ou partie des recettes procurées par la contrefaçon, l'atteinte à un droit voisin du droit d'auteur ou aux droits du producteur de bases de données, qui seront remises à la partie lésée ou à ses ayants droit.
+
 ####### Article L331-2
 
-Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité de toute infraction aux dispositions des livres Ier, II et III du présent code et de l'article 52 de la loi n° 85-660 du 3 juillet 1985 relative aux droits d'auteur et aux droits des artistes interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises de communication audiovisuelle peut résulter des constatations d'agents assermentés désignés selon les cas par le Centre national de la cinématographie, par les organismes professionnels d'auteurs et par les sociétés mentionnées au titre II du présent livre. Ces agents sont agréés par le ministre chargé de la culture dans les conditions prévues par un décret en Conseil d'Etat.
+Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité de toute infraction aux dispositions des livres Ier, II et III du présent code et de l'article 52 de la loi n° 85-660 du 3 juillet 1985 relative aux droits d'auteur et aux droits des artistes interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises de communication audiovisuelle peut résulter des constatations d'agents assermentés désignés selon les cas par le Centre national de la cinématographie, par les organismes de défense professionnelle visés à l'article L. 331-1 et par les sociétés mentionnées au titre II du présent livre. Ces agents sont agréés par le ministre chargé de la culture dans les conditions prévues par un décret en Conseil d'Etat.
 
 ####### Article L331-3
 
@@ -1482,33 +1518,35 @@ Si la saisie doit avoir pour effet de retarder ou de suspendre des représentati
 
 1° La suspension de toute fabrication en cours tendant à la reproduction illicite d'une oeuvre ou à la réalisation d'une atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ;
 
-2° La saisie, quels que soient le jour et l'heure, des exemplaires constituant une reproduction illicite de l'oeuvre, déjà fabriqués ou en cours de fabrication, ou des exemplaires, produits, appareils, dispositifs, composants ou moyens, fabriqués ou en cours de fabrication, portant atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22, des recettes réalisées, ainsi que des exemplaires illicitement utilisés ;
+2° La saisie, quels que soient le jour et l'heure, des exemplaires constituant une reproduction illicite de l'oeuvre, déjà fabriqués ou en cours de fabrication, ou des exemplaires, produits, appareils, dispositifs, composants ou moyens, fabriqués ou en cours de fabrication, portant atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22, des recettes réalisées, ainsi que des exemplaires illicitement utilisés ; il peut également ordonner la saisie réelle des matériels et instruments utilisés pour produire ou distribuer illicitement les oeuvres, ainsi que de tout document s'y rapportant ;
 
 3° La saisie des recettes provenant de toute reproduction, représentation ou diffusion, par quelque moyen que ce soit, d'une oeuvre de l'esprit, effectuée en violation des droits de l'auteur ou provenant d'une atteinte aux mesures techniques et aux informations mentionnées respectivement aux articles L. 331-5 et L. 331-22 ;
 
-4° La suspension, par tout moyen, du contenu d'un service de communication au public en ligne portant atteinte à l'un des droits de l'auteur, y compris en ordonnant de cesser de stocker ce contenu ou, à défaut, de cesser d'en permettre l'accès. Dans ce cas, le délai prévu à l'article L. 332-2 est réduit à quinze jours.
+4° La suspension, par tout moyen, du contenu d'un service de communication au public en ligne portant atteinte à l'un des droits de l'auteur, y compris en ordonnant de cesser de stocker ce contenu ou, à défaut, de cesser d'en permettre l'accès. Le délai dans lequel la mainlevée ou le cantonnement des effets de cette mesure peuvent être demandés par le défendeur est fixé par voie réglementaire ;
 
-Le président du tribunal de grande instance peut, dans les mêmes formes, ordonner les mesures prévues aux 1° à 4° à la demande des titulaires de droits voisins définis au livre II.
+5° La saisie réelle des oeuvres illicites ou produits soupçonnés de porter atteinte à un droit d'auteur, ou leur remise entre les mains d'un tiers afin d'empêcher leur introduction ou leur circulation dans les circuits commerciaux ;
 
-Le président du tribunal de grande instance peut, dans les ordonnances prévues ci-dessus, ordonner la constitution préalable par le saisissant d'un cautionnement convenable.
+Le président du tribunal de grande instance peut, dans les mêmes formes, ordonner les mesures prévues aux 1° à 5° à la demande des titulaires de droits voisins définis au livre II.
+
+Le président du tribunal de grande instance peut, dans les ordonnances prévues ci-dessus, ordonner la constitution préalable de garanties par le saisissant.
 
 ###### Article L332-2
 
-Dans les trente jours de la date du procès-verbal de la saisie prévue à l'alinéa premier de l'article L. 332-1 ou de la date de l'ordonnance prévue au même article, le saisi ou le tiers saisi peuvent demander au président du tribunal de grande instance de prononcer la mainlevée de la saisie ou d'en cantonner les effets, ou encore d'autoriser la reprise de la fabrication ou celle des représentations ou exécutions publiques, sous l'autorité d'un administrateur constitué séquestre, pour le compte de qui il appartiendra, des produits de cette fabrication ou de cette exploitation.
+Dans un délai fixé par voie réglementaire, le saisi ou le tiers saisi peuvent demander au président du tribunal de grande instance de prononcer la mainlevée de la saisie ou d'en cantonner les effets, ou encore d'autoriser la reprise de la fabrication ou celle des représentations ou exécutions publiques, sous l'autorité d'un administrateur constitué séquestre, pour le compte de qui il appartiendra, des produits de cette fabrication ou de cette exploitation.
 
 Le président du tribunal de grande instance statuant en référé peut, s'il fait droit à la demande du saisi ou du tiers saisi, ordonner à la charge du demandeur la consignation d'une somme affectée à la garantie des dommages et intérêts auxquels l'auteur pourrait prétendre.
 
 ###### Article L332-3
 
-Faute par le saisissant de saisir la juridiction compétente dans les trente jours de la saisie, mainlevée de cette saisie pourra être ordonnée à la demande du saisi ou du tiers saisi par le président du tribunal, statuant en référé.
+Faute par le saisissant de saisir la juridiction compétente dans un délai fixé par voie réglementaire, mainlevée de cette saisie pourra être ordonnée à la demande du saisi ou du tiers saisi par le président du tribunal, statuant en référé.
 
 ###### Article L332-4
 
-En matière de logiciels et de bases de données, la saisie-contrefaçon est exécutée en vertu d'une ordonnance rendue sur requête par le président du tribunal de grande instance. Le président autorise, s'il y a lieu, la saisie réelle.
+En matière de logiciels et de bases de données, la saisie-contrefaçon est exécutée en vertu d'une ordonnance rendue sur requête par le président du tribunal de grande instance. Le président peut ordonner la saisie réelle des objets réalisés ou fabriqués illicitement ainsi que celle des matériels et instruments utilisés pour produire ou distribuer illicitement un logiciel ou une base de données ainsi que de tout document s'y rapportant.
 
 L'huissier instrumentaire ou le commissaire de police peut être assisté d'un expert désigné par le requérant.
 
-A défaut d'assignation ou de citation dans la quinzaine de la saisie, la saisie-contrefaçon est nulle.
+A défaut d'assignation ou de citation dans un délai fixé par voie réglementaire, la saisie-contrefaçon est nulle.
 
 En outre, les commissaires de police sont tenus, à la demande de tout titulaire de droits sur un logiciel ou sur une base de données, d'opérer une saisie-description du logiciel ou de la base de données contrefaisants, saisie-description qui peut se concrétiser par une copie.
 
@@ -1548,7 +1586,7 @@ Toute édition d'écrits, de composition musicale, de dessin, de peinture ou de 
 
 La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est punie de trois ans d'emprisonnement et de 300 000 euros d'amende.
 
-Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaits.
+Seront punis des mêmes peines le débit, l'exportation et l'importation des ouvrages contrefaisants.
 
 Lorsque les délits prévus par le présent article ont été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
@@ -1654,25 +1692,27 @@ La fermeture temporaire ne peut entraîner ni rupture ni suspension du contrat d
 
 ###### Article L335-6
 
-En cas de condamnation pour l'un des délits prévus et réprimés au présent chapitre, le tribunal peut prononcer la confiscation de tout ou partie des recettes procurées par l'infraction ainsi que celle de tous les phonogrammes, vidéogrammes, objets et exemplaires contrefaisants ou reproduits illicitement et du matériel spécialement installé en vue de la réalisation du délit.
+Les personnes physiques coupables de l'une des infractions prévues aux articles L. 335-2 à L. 335-4-2 peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
 
-Il peut également ordonner, aux frais du condamné, l'affichage du jugement prononçant la condamnation dans les conditions et sous les peines prévues à l'article 131-35 du code pénal, ainsi que sa publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'il désigne, sans que les frais de cette publication puissent excéder le montant maximum de l'amende encourue.
+La juridiction peut prononcer la confiscation de tout ou partie des recettes procurées par l'infraction ainsi que celle de tous les phonogrammes, vidéogrammes, objets et exemplaires contrefaisants ou reproduits illicitement ainsi que du matériel spécialement installé en vue de la réalisation du délit.
 
-###### Article L335-7
+Elle peut ordonner la destruction, aux frais du condamné, ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
 
-Lorsqu'il est fait application de l'article précédent, le matériel, les objets contrefaisants et les recettes ayant donné lieu à confiscation seront remis à la victime ou à ses ayants droit pour les indemniser de leur préjudice ; le surplus de leur indemnité ou l'entière indemnité s'il n'y a eu aucune confiscation de matériel, d'objets contrefaisants ou de recettes, sera réglé par les voies ordinaires.
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
 
 ###### Article L335-8
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code pénal des délits prévus et réprimés au présent chapitre.
+Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, de l'une des infractions prévues aux articles L. 335-2 à L. 335-4-2 du présent code encourent :
 
-Les peines encourues par les personnes morales sont :
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+2° Les peines mentionnées à l'article 131-39 du même code.
 
-2° Les peines mentionnées à l'article 131-39.
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
-L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
 
 ###### Article L335-9
 
@@ -1791,29 +1831,65 @@ Lorsqu'une base de données a fait l'objet d'une mise à la disposition du publi
 
 Toutefois, dans le cas où une base de données protégée fait l'objet d'un nouvel investissement substantiel, sa protection expire quinze ans après le 1er janvier de l'année civile suivant celle de ce nouvel investissement.
 
-##### Chapitre III : Sanctions
+##### Chapitre III : Procédures et sanctions
 
 ###### Article L343-1
 
-Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait de porter atteinte aux droits du producteur d'une base de données tels que définis à l'article L. 342-1. Lorsque le délit a été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+L'atteinte aux droits du producteur de bases de données peut être prouvée par tous moyens.
+
+A cet effet, toute personne ayant qualité pour agir en vertu du présent titre est en droit de faire procéder par tous huissiers, assistés par des experts désignés par le demandeur, sur ordonnance rendue sur requête par la juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, des supports ou produits portant prétendument atteinte aux droits du producteur de bases de données, soit à la saisie réelle de ces supports ou produits ainsi que de tout document s'y rapportant.
+
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour produire ou distribuer les supports ou produits portant prétendument atteinte aux droits du producteur de bases de données.
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action engagée en vertu du présent titre est ultérieurement jugée non fondée ou si la mainlevée de la saisie est prononcée.
+
+La mainlevée de la saisie peut être prononcée selon les modalités prévues par les articles L. 332-2 et L. 332-3.
 
 ###### Article L343-2
 
-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, des infractions définies à l'article L. 343-1. Les peines encourues par les personnes morales sont :
+Toute personne ayant qualité pour agir dans le cas d'une atteinte aux droits du producteur de bases de données peut saisir en référé la juridiction civile compétente afin de voir ordonner, au besoin sous astreinte, à l'encontre du prétendu auteur de cette atteinte ou des intermédiaires dont il utilise les services, toute mesure urgente destinée à prévenir une atteinte aux droits du producteur de bases de données ou à empêcher la poursuite d'actes portant prétendument atteinte à ceux-ci. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+La juridiction peut interdire la poursuite des actes portant prétendument atteinte aux droits du producteur de bases de données, la subordonner à la constitution de garanties destinées à assurer l'indemnisation éventuelle du préjudice subi par le demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation dans les circuits commerciaux.
 
-2° Les peines mentionnées à l'article 131-39 du même code ; l'interdiction mentionnée au 2° de cet article porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action engagée en vertu du présent titre est ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte aux droits du producteur de bases de données sont ordonnées avant l'engagement d'une action au fond, le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 ###### Article L343-3
 
-En cas de récidive des infractions définies à l'article L. 343-1 ou si le délinquant est ou a été lié à la partie lésée par convention, les peines encourues sont portées au double.
-
-Les coupables peuvent, en outre, être privés pour un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
+Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité des infractions définies au présent chapitre peut résulter des constatations d'agents assermentés désignés par les organismes professionnels de producteurs. Ces agents sont agréés par le ministre chargé de la culture dans les mêmes conditions que celles prévues pour les agents visés à l'article L. 331-2.
 
 ###### Article L343-4
 
-Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité des infractions définies au présent chapitre peut résulter des constatations d'agents assermentés désignés par les organismes professionnels de producteurs. Ces agents sont agréés par le ministre chargé de la culture dans les mêmes conditions que celles prévues pour les agents visés à l'article L. 331-2.
+Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait de porter atteinte aux droits du producteur d'une base de données tels que définis à l'article L. 342-1. Lorsque le délit a été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+
+###### Article L343-5
+
+Les personnes physiques coupables de l'un des délits prévus au présent chapitre peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+Elle peut également ordonner, aux frais du condamné, l'affichage ou la diffusion du jugement prononçant la condamnation, dans les conditions et sous les peines prévues à l'article 131-35 du code pénal.
+
+###### Article L343-6
+
+Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal des délits prévus et réprimés au présent chapitre encourent :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+###### Article L343-7
+
+En cas de récidive des infractions définies à l'article L. 343-4 ou si le délinquant est ou a été lié à la partie lésée par convention, les peines encourues sont portées au double.
+
+Les coupables peuvent, en outre, être privés pour un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
 
 ## Deuxième partie : La propriété industrielle
 
@@ -2211,80 +2287,190 @@ Des décrets en Conseil d'Etat fixent, en tant que de besoin, les conditions d'a
 
 Des dispositions réglementaires propres à certaines industries peuvent prescrire les mesures nécessaires pour permettre aux industriels de faire constater leur priorité d'emploi d'un dessin ou modèle, notamment par la tenue de registres privés soumis au visa de l'Institut national de la propriété industrielle.
 
+##### Chapitre V : Dessins ou modèles communautaires
+
+###### Article L515-1
+
+Toute atteinte aux droits définis par l'article 19 du règlement (CE) n° 6/2002 du Conseil, du 12 décembre 2001, sur les dessins ou modèles communautaires constitue une contrefaçon engageant la responsabilité civile de son auteur.
+
 #### Titre II : Contentieux
 
-##### Chapitre unique
+##### Chapitre Ier : Contentieux des dessins ou modèles nationaux
 
 ###### Article L521-1
 
-La partie lésée peut, même avant la publicité du dépôt, faire procéder par tous huissiers à la description détaillée, avec ou sans saisie, des objets ou instruments incriminés, en vertu d'une ordonnance rendue par le président du tribunal de grande instance dans le ressort duquel les opérations devront être effectuées, sur simple requête et production du certificat de dépôt.
+Toute atteinte portée aux droits du propriétaire d'un dessin ou modèle, tels qu'ils sont définis aux articles L. 513-4 à L. 513-8, constitue une contrefaçon engageant la responsabilité civile de son auteur.
 
-Le président a la faculté d'autoriser le requérant à se faire assister d'un officier de police ou du juge du tribunal d'instance du canton et d'imposer au requérant un cautionnement que celui-ci est tenu de consigner avant de faire procéder à l'opération : ce cautionnement est toujours imposé à l'étranger qui requiert la saisie.
+Les faits postérieurs au dépôt, mais antérieurs à la publication de l'enregistrement du dessin ou modèle, ne peuvent être considérés comme ayant porté atteinte aux droits qui y sont attachés.
 
-Copie est laissée aux détenteurs des objets décrits tant de l'ordonnance que de l'acte constatant le dépôt du cautionnement, le tout à peine de nullité et de dommages-intérêts contre l'huissier.
-
-A défaut par le requérant de s'être pourvu soit par la voie civile, soit par la voie correctionnelle, dans le délai de quinzaine, la description ou saisie est nulle de plein droit, sans préjudice des dommages-intérêts.
+Toutefois, lorsqu'une copie de la demande d'enregistrement a été notifiée à une personne, la responsabilité de celle-ci peut être recherchée pour des faits postérieurs à cette notification même s'ils sont antérieurs à la publication de l'enregistrement.
 
 ###### Article L521-2
 
-Les faits antérieurs au dépôt ne donnent lieu à aucune action dérivant du présent livre.
+L'action civile en contrefaçon est exercée par le propriétaire du dessin ou modèle.
 
-Les faits postérieurs au dépôt, mais antérieurs à sa publicité, ne peuvent donner lieu, en vertu de l'article L. 521-4, à une action, même au civil, qu'à la charge par la partie lésée d'établir la mauvaise foi de la personne mise en examen.
+Toutefois, le bénéficiaire d'un droit exclusif d'exploitation peut, sauf stipulation contraire du contrat de licence, exercer l'action en contrefaçon si, après mise en demeure, le propriétaire du dessin ou modèle n'exerce pas cette action.
 
-Aucune action, pénale ou civile, ne peut être intentée, en vertu du même article, avant que le dépôt n'ait été rendu public.
-
-Lorsque les faits sont postérieurs à la publicité du dépôt, leurs auteurs peuvent exciper de leur bonne foi, mais à la condition d'en rapporter la preuve.
+Toute partie à un contrat de licence est recevable à intervenir dans l'instance en contrefaçon engagée par une autre partie afin d'obtenir la réparation du préjudice qui lui est propre.
 
 ###### Article L521-3
 
-La confiscation, au profit de la partie lésée, des objets portant atteinte aux droits garantis par le présent livre est prononcée même en cas de relaxe.
-
-Le tribunal, en cas de condamnation, peut en outre prononcer la confiscation des instruments ayant servi spécialement à la fabrication des objets incriminés.
+L'action civile en contrefaçon se prescrit par trois ans à compter des faits qui en sont la cause.
 
 ###### Article L521-3-1
 
-Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues au premier alinéa de l'article L. 521-4, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et des matériels spécialement installés en vue de tels agissements.
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de dessins et modèles, y compris lorsque ces actions et demandes portent à la fois sur une question de dessins et modèles et sur une question connexe de concurrence déloyale, sont déterminés par la voie réglementaire.
 
 ###### Article L521-4
 
-Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de trois ans d'emprisonnement et de 300 000 euros d'amende. Lorsque le délit a été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+La contrefaçon peut être prouvée par tous moyens.
 
-En outre, le tribunal peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des objets prétendus contrefaisants ainsi que de tout document s'y rapportant.
 
-La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux dommages et intérêts prévus aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 3 750 euros d'amende.
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour produire ou distribuer les objets prétendus contrefaisants.
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire, l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 ###### Article L521-5
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues à l'article 121-2 du code pénal des infractions définies à l'article L. 521-4 du présent code.
+Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits contrefaisants qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a été trouvée en possession de produits contrefaisants ou qui fournit des services utilisés dans des activités de contrefaçon ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits ou la fourniture de ces services.
 
-Les peines encourues par les personnes morales sont :
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
 
-1° L'amende suivant les modalités prévues par l'article 131-38 du code pénal ;
+Les documents ou informations recherchés portent sur :
+
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits ou services, ainsi que des grossistes destinataires et des détaillants ;
+
+b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que le prix obtenu pour les produits ou services en cause.
+
+###### Article L521-6
+
+Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
+
+La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu contrefacteur, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires, financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
+
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond, le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+###### Article L521-7
+
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au titulaire des droits du fait de l'atteinte.
+
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
+
+###### Article L521-8
+
+En cas de condamnation civile pour contrefaçon, la juridiction peut ordonner, à la demande de la partie lésée, que les produits reconnus comme produits contrefaisants, les matériaux et instruments ayant principalement servi à leur création ou fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du contrefacteur.
+
+###### Article L521-9
+
+Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues au premier alinéa de l'article L. 521-10, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et des matériels ou instruments spécialement installés en vue de tels agissements.
+
+###### Article L521-10
+
+Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de trois ans d'emprisonnement et de 300 000 euros d'amende. Lorsque le délit a été commis en bande organisée ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+
+En outre, la juridiction peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
+
+La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés. Lorsque la fermeture définitive entraîne le licenciement du personnel, elle donne lieu, en dehors de l'indemnité de préavis et de l'indemnité de licenciement, aux indemnités prévues aux articles L. 122-14-4 et L. 122-14-5 du code du travail en cas de rupture de contrat de travail. Le non-paiement de ces indemnités est puni de six mois d'emprisonnement et de 3 750 euros d'amende.
+
+###### Article L521-11
+
+Les personnes physiques coupables du délit prévu au premier alinéa de l'article L. 521-10 peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
+
+###### Article L521-12
+
+Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, du délit prévu au premier alinéa de l'article L. 521-10 du présent code encourent :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
 
 2° Les peines mentionnées à l'article 131-39 du même code.
 
-L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
 
-###### Article L521-6
+Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+###### Article L521-13
 
 En cas de récidive des infractions aux droits garantis par le présent livre, ou si le délinquant est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
 
 Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
 
-###### Article L521-7
+###### Article L521-14
 
-L'administration des douanes peut, sur demande écrite du propriétaire d'un dessin ou modèle déposé, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une contrefaçon desdits dessins ou modèles.
+En dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, sur demande écrite du propriétaire d'un dessin ou d'un modèle déposé ou du bénéficiaire d'un droit exclusif d'exploitation, assortie des justifications de son droit, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une contrefaçon.
 
-Le procureur de la République, le demandeur, ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
+Le procureur de la République, le demandeur ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
 
-La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers :
+Lors de l'information visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises sont communiquées au propriétaire du dessin ou du modèle déposé ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article 59 bis du code des douanes.
 
-- soit de mesures conservatoires décidées par le président du tribunal de grande instance ;
-- soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
+La mesure de retenue est levée de plein droit à défaut, pour le demandeur, dans le délai de dix jours ouvrables ou de trois jours ouvrables s'il s'agit de denrées périssables, à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers, soit de mesures conservatoires décidées par la juridiction civile compétente, soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises au cas où la contrefaçon ne serait pas ultérieurement reconnue.
 
-Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration des douanes communication des noms et adresses de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de leur détenteur ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
+Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la charge du demandeur.
 
-La retenue mentionnée au premier alinéa ne porte pas sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de la Communauté européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de la Communauté européenne, pour y être légalement commercialisées.
+Aux fins de l'engagement des actions en justice visées au quatrième alinéa, le demandeur peut obtenir de l'administration des douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de leur détenteur, ainsi que de leur quantité, leur origine et leur provenance par dérogation à l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
+
+La retenue mentionnée au premier alinéa ne porte pas :
+
+- sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de la Communauté européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de la Communauté européenne pour y être légalement commercialisées ;
+- sur les marchandises de statut communautaire, légalement fabriquées ou légalement mises en libre pratique dans un autre Etat membre de la Communauté européenne, dans lequel elles ont été placées sous le régime du transit et qui sont destinées, après avoir transité sur le territoire douanier tel que défini à l'article 1er du code des douanes, à être exportées vers un Etat non membre de la Communauté européenne.
+
+###### Article L521-15
+
+En l'absence de demande écrite du propriétaire d'un dessin ou d'un modèle déposé ou du bénéficiaire d'un droit exclusif d'exploitation et en dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, dans le cadre de ses contrôles, retenir une marchandise susceptible de porter atteinte à un dessin ou un modèle déposé ou à un droit exclusif d'exploitation.
+
+Cette retenue est immédiatement notifiée au propriétaire du dessin ou du modèle déposé ou au bénéficiaire du droit exclusif d'exploitation. Le procureur de la République est également informé de ladite mesure.
+
+Lors de la notification visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises est communiquée au propriétaire du dessin ou du modèle déposé ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article 59 bis du code des douanes.
+
+La mesure de retenue est levée de plein droit si le propriétaire du dessin ou du modèle déposé ou si le bénéficiaire du droit exclusif d'exploitation n'a pas déposé la demande prévue par l'article L. 521-14 du présent code dans un délai de trois jours ouvrables à compter de la notification de la retenue visée au deuxième alinéa du présent article.
+
+###### Article L521-16
+
+I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'un dessin ou d'un modèle déposé, prévue par la réglementation communautaire en vigueur, est mise en oeuvre avant qu'une demande d'intervention du propriétaire du dessin ou du modèle déposé ou du bénéficiaire du droit exclusif d'exploitation ait été déposée ou acceptée, les agents des douanes peuvent, par dérogation à l'article 59 bis du code des douanes, informer ce propriétaire ou ce bénéficiaire du droit exclusif d'exploitation de la mise en oeuvre de cette mesure. Ils peuvent également lui communiquer des informations portant sur la quantité des marchandises et leur nature.
+
+Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon de dessin ou modèle, prévue par la réglementation communautaire en vigueur, est mise en oeuvre après qu'une demande d'intervention du propriétaire du dessin ou du modèle déposé ou du bénéficiaire d'un droit exclusif d'exploitation a été acceptée, les agents des douanes peuvent également communiquer à ce propriétaire ou à ce bénéficiaire les informations prévues par cette réglementation communautaire, nécessaires pour déterminer s'il y a eu violation de son droit.
+
+II.-Les frais générés par la mise en oeuvre d'une retenue prévue par la réglementation communautaire en vigueur sont à la charge du propriétaire du dessin ou du modèle déposé ou du bénéficiaire du droit exclusif d'exploitation.
+
+###### Article L521-17
+
+Pendant le délai de la retenue visée aux articles L. 521-14 à L. 521-16, le propriétaire du dessin ou du modèle déposé ou le bénéficiaire du droit exclusif d'exploitation peut, à sa demande ou à la demande de l'administration des douanes, inspecter les marchandises retenues.
+
+Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons.A la demande du propriétaire du dessin ou du modèle déposé ou du bénéficiaire du droit exclusif d'exploitation, ces échantillons peuvent lui être remis aux seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou pénale.
+
+###### Article L521-18
+
+En vue de prononcer les mesures prévues aux articles L. 521-14 à L. 521-17, les agents des douanes appliquent les pouvoirs qui leur sont dévolus par le code des douanes.
+
+###### Article L521-19
+
+Les conditions d'application des mesures prévues aux articles L. 521-14 à L. 521-18 sont définies par décret en Conseil d'Etat.
+
+##### Chapitre II : Contentieux des dessins ou modèles communautaires
+
+###### Article L522-1
+
+Les dispositions du chapitre Ier du présent titre sont applicables aux atteintes portées aux droits du propriétaire d'un dessin ou modèle communautaire.
+
+###### Article L522-2
+
+Un décret en Conseil d'Etat détermine le siège et le ressort des juridictions de première instance et d'appel qui sont compétentes pour connaître des actions et des demandes prévues à l'article 80 du règlement (CE) n° 6/2002 du Conseil, du 12 décembre 2001, sur les dessins ou modèles communautaires, y compris lorsque ces actions et demandes portent à la fois sur une question de dessins ou modèles et sur une question connexe de concurrence déloyale.
 
 ### Livre VI : Protection des inventions et des connaissances techniques
 
@@ -2841,6 +3027,16 @@ Elle prend effet à la date de la notification de l'arrêté aux parties.
 
 A défaut d'accord amiable approuvé par le ministre chargé de la propriété industrielle et le ministre chargé de la santé publique, le montant des redevances est fixé par le tribunal de grande instance.
 
+####### Article L613-17-1
+
+La demande d'une licence obligatoire, présentée en application du règlement (CE) n° 816/2006 du Parlement européen et du Conseil, du 17 mai 2006, concernant l'octroi de licences obligatoires pour des brevets visant la fabrication de produits pharmaceutiques destinés à l'exportation vers des pays connaissant des problèmes de santé publique, est adressée à l'autorité administrative. La licence est délivrée conformément aux conditions déterminées par l'article 10 de ce règlement. L'arrêté d'octroi de la licence fixe le montant des redevances dues.
+
+La licence prend effet à la date la plus tardive à laquelle l'arrêté est notifié au demandeur et au titulaire du droit.
+
+####### Article L613-17-2
+
+Toute violation de l'interdiction prévue à l'article 13 du règlement (CE) n° 816/2006 du Parlement européen et du Conseil, du 17 mai 2006, précité et à l'article 2 du règlement (CE) n° 953/2003 du Conseil, du 26 mai 2003, visant à éviter le détournement vers des pays de l'Union européenne de certains médicaments essentiels constitue une contrefaçon punie des peines prévues à l'article L. 615-14 du présent code.
+
 ####### Article L613-18
 
 Le ministre chargé de la propriété industrielle peut mettre en demeure les propriétaires de brevets d'invention autres que ceux visés à l'article L. 613-16 d'en entreprendre l'exploitation de manière à satisfaire aux besoins de l'économie nationale.
@@ -2915,7 +3111,7 @@ Les dispositions des deuxième et troisième alinéas du présent article ne s'a
 
 Le brevet est déclaré nul par décision de justice :
 
-a) Si son objet n'est pas brevetable aux termes des articles L. 611-10, L. 611-11 et L. 611-13 à L. 611-17 ;
+a) Si son objet n'est pas brevetable aux termes des articles L. 611-10, L. 611-11 et L. 611-13 à L. 611-19 ;
 
 b) S'il n'expose pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter ;
 
@@ -3030,7 +3226,9 @@ Si un rapport de recherche a été établi avant transformation de la demande, c
 
 ######## Article L614-7
 
-Lorsque le texte, dans lequel l'Office européen des brevets créé par la Convention de Munich délivre un brevet européen ou maintient un tel brevet sous une forme modifiée, n'est pas rédigé en français, le titulaire du brevet doit fournir à l'Institut national de la propriété industrielle une traduction de ce texte dans les conditions et délai déterminés par décret en Conseil d'Etat. Faute de satisfaire à cette obligation, le brevet est sans effet.
+Le texte de la demande de brevet européen ou du brevet européen rédigé dans la langue de procédure devant l'Office européen des brevets créé par la convention de Munich est le texte qui fait foi.
+
+En cas de litige relatif à un brevet européen dont le texte n'est pas rédigé en français, le titulaire du brevet fournit, à ses frais, à la demande du présumé contrefacteur ou à la demande de la juridiction compétente, une traduction complète du brevet en français.
 
 ######## Article L614-8
 
@@ -3044,13 +3242,11 @@ Si la publication a été faite dans une langue autre que le français, les droi
 
 ######## Article L614-10
 
-Lorsqu'une traduction en langue française a été produite dans les conditions prévues à l'article L. 614-7 ou au second alinéa de l'article L. 614-9, cette traduction est considérée comme faisant foi si la demande de brevet européen ou le brevet européen confère dans le texte de la traduction une protection moins étendue que celle qui est conférée par ladite demande ou par ledit brevet dans la langue dans laquelle la demande a été déposée.
+Hormis les cas d'action en nullité et par dérogation au premier alinéa de l'article L. 614-7, lorsqu'une traduction en langue française a été produite dans les conditions prévues au second alinéa du même article L. 614-7 ou au second alinéa de l'article L. 614-9, cette traduction est considérée comme faisant foi si la demande de brevet européen ou le brevet européen confère dans le texte de la traduction une protection moins étendue que celle qui est conférée par ladite demande ou par ledit brevet dans la langue dans laquelle la demande a été déposée.
 
-Toutefois, une traduction révisée peut être produite à tout moment par le titulaire de la demande ou du brevet. Cette traduction ne prend cependant effet que lorsque les conditions prévues à l'article L. 614-7 ou au second alinéa de l'article L. 614-9 ont été remplies.
+Toutefois, une traduction révisée peut être produite à tout moment par le titulaire de la demande ou du brevet. La traduction révisée des revendications ne prend cependant effet que lorsque les conditions prévues au second alinéa de l'article L. 614-9 ont été remplies.
 
 Toute personne qui a, de bonne foi, commencé à exploiter une invention ou fait des préparatifs effectifs et sérieux à cette fin, sans que cette exploitation constitue une contrefaçon de la demande ou du brevet dans le texte de la traduction initiale, peut, dès que la traduction révisée a pris effet, poursuivre à titre gratuit son exploitation dans son entreprise ou pour les besoins de celle-ci.
-
-Par dérogation aux dispositions ci-dessus, la langue de la procédure fait foi dans les actions en nullité.
 
 ######## Article L614-11
 
@@ -3188,7 +3384,7 @@ Toute atteinte portée aux droits du propriétaire du brevet, tels qu'ils sont d
 
 La contrefaçon engage la responsabilité civile de son auteur.
 
-Toutefois, l'offre, la mise dans le commerce, l'utilisation, la détention en vue de l'utilisation ou la mise dans le commerce d'un produit contrefait, lorsque ces faits sont commis par une autre personne que le fabricant du produit contrefait, n'engagent la responsabilité de leur auteur que si les faits ont été commis en connaissance de cause.
+Toutefois, l'offre, la mise dans le commerce, l'utilisation, la détention en vue de l'utilisation ou la mise dans le commerce d'un produit contrefaisant, lorsque ces faits sont commis par une autre personne que le fabricant du produit contrefaisant, n'engagent la responsabilité de leur auteur que si les faits ont été commis en connaissance de cause.
 
 ####### Article L615-2
 
@@ -3198,17 +3394,22 @@ Toutefois, le bénéficiaire d'un droit exclusif d'exploitation peut, sauf stipu
 
 Le breveté est recevable à intervenir dans l'instance en contrefaçon engagée par le licencié, conformément à l'alinéa précédent.
 
-Le titulaire d'une licence de droit, d'une licence obligatoire ou d'une licence d'office, mentionnées aux articles L. 613-10, L. 613-11, L. 613-15, L. 613-17 et L. 613-19, peut exercer l'action en contrefaçon si, après la mise en demeure, le propriétaire du brevet n'exerce pas cette action.
+Le titulaire d'une licence obligatoire ou d'une licence d'office, mentionnées aux articles L. 613-11, L. 613-15, L. 613-17,
+L. 613-17-1 et L. 613-19, peut exercer l'action en contrefaçon si, après la mise en demeure, le propriétaire du brevet n'exerce pas cette action.
 
 Tout licencié est recevable à intervenir dans l'instance en contrefaçon engagée par le breveté, afin d'obtenir la réparation du préjudice qui lui est propre.
 
 ####### Article L615-3
 
-Lorsque le tribunal est saisi d'une action en contrefaçon sur le fondement d'un brevet, son président, saisi et statuant en la forme des référés, peut interdire, à titre provisoire, sous astreinte, la poursuite des actes argués de contrefaçon, ou subordonner cette poursuite à la constitution de garanties destinées à assurer l'indemnisation du breveté.
+Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
 
-La demande d'interdiction ou de constitution de garanties n'est admise que si l'action au fond apparaît sérieuse et a été engagée dans un bref délai à compter du jour où le breveté a eu connaissance des faits sur lesquels elle est fondée.
+La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu contrefacteur, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires, financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
 
-Le juge peut subordonner l'interdiction à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du préjudice subi par le défendeur si l'action en contrefaçon est ultérieurement jugée non fondée.
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond, le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 ####### Article L615-4
 
@@ -3224,13 +3425,15 @@ Le tribunal saisi d'une action en contrefaçon sur le fondement d'une demande de
 
 ####### Article L615-5
 
-Le propriétaire d'une demande de brevet ou le propriétaire d'une demande de certificat d'utilité, ou le propriétaire d'un brevet ou d'un certificat d'utilité, a la possibilité de faire la preuve par tous moyens de la contrefaçon dont il se prétend victime.
+La contrefaçon peut être prouvée par tous moyens.
 
-Il est par ailleurs en droit de faire procéder, sur ordonnance du président du tribunal de grande instance du lieu de la contrefaçon présumée, par tous huissiers assistés d'experts de son choix, à la description détaillée, avec ou sans saisie réelle, des produits ou procédés prétendus contrefaits. L'ordonnance est exécutoire par provision. Elle peut être subordonnée à une consignation par le requérant. Dans la même ordonnance, le président du tribunal peut autoriser l'huissier à procéder à toute constatation utile en vue d'établir l'origine, la consistance et l'étendue de la contrefaçon.
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des produits ou procédés prétendus contrefaisants ainsi que de tout document s'y rapportant.
 
-Le même droit est ouvert au concessionnaire d'un droit exclusif d'exploitation sous la condition prévue au deuxième alinéa de l'article L. 615-2, ainsi que sous la condition prévue au quatrième alinéa de l'article L. 615-2, au titulaire d'une licence de droit, d'une licence obligatoire ou d'une licence d'office visées aux articles L. 613-10, L. 613-11, L. 613-15, L. 613-17 et L. 613-19.
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour fabriquer ou distribuer les produits ou pour mettre en oeuvre les procédés prétendus contrefaisants.
 
-A défaut par le requérant de s'être pourvu devant le tribunal dans le délai de quinze jours, la saisie sera nulle de plein droit, sans préjudice d'éventuels dommages-intérêts.
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire, l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 ####### Article L615-5-1
 
@@ -3242,15 +3445,35 @@ b) La probabilité est grande que le produit identique a été obtenu par le pro
 
 Dans la production de la preuve contraire, sont pris en considération les intérêts légitimes du défendeur pour la protection de ses secrets de fabrication et de commerce.
 
+####### Article L615-5-2
+
+Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits ou procédés contrefaisants qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a été trouvée en possession de produits contrefaisants ou mettant en oeuvre des procédés contrefaisants ou qui fournit des services utilisés dans des activités de contrefaçon ou a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits, la mise en oeuvre de ces procédés ou la fourniture de ces services.
+
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
+
+Les documents ou informations recherchés portent sur :
+
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits, procédés ou services, ainsi que des grossistes destinataires et des détaillants ;
+
+b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits, procédés ou services en cause.
+
 ####### Article L615-6
 
 Dans une instance en contrefaçon introduite en vertu d'une demande de certificat d'utilité, le demandeur devra produire un rapport de recherche établi dans les mêmes conditions que le rapport prévu à l'article L. 612-14.
 
 ####### Article L615-7
 
-Sur la demande de la partie lésée, et autant que la mesure s'avère nécessaire pour assurer l'interdiction de continuer la contrefaçon, les juges pourront ordonner la confiscation, au profit du demandeur, des objets reconnus contrefaits, qui sont la propriété du contrefacteur à la date de l'entrée en vigueur de l'interdiction, et, le cas échéant, celles des dispositifs ou moyens spécialement destinés à la réalisation de la contrefaçon.
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au titulaire des droits du fait de l'atteinte.
 
-Il sera tenu compte de la valeur des objets confisqués dans le calcul de l'indemnité allouée au bénéficiaire de la condamnation.
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
+
+####### Article L615-7-1
+
+En cas de condamnation civile pour contrefaçon, la juridiction peut ordonner, à la demande de la partie lésée, que les produits reconnus comme produits contrefaisants et les matériaux et instruments ayant principalement servi à leur création ou fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du contrefacteur.
 
 ####### Article L615-8
 
@@ -3264,7 +3487,7 @@ Si ladite personne conteste la réponse qui lui est faite ou si le titulaire du 
 
 ####### Article L615-10
 
-Lorsqu'une invention, objet d'une demande de brevet ou d'un brevet, est exploitée pour les besoins de la défense nationale par l'Etat ou ses fournisseurs, sous-traitants et titulaires de sous-commandes, sans qu'une licence d'exploitation leur ait été octroyée, l'action civile est portée devant la chambre du conseil du tribunal de grande instance. Celui-ci ne peut ordonner ni la cessation ou l'interruption de l'exploitation ni la confiscation prévue à l'article L. 615-7.
+Lorsqu'une invention, objet d'une demande de brevet ou d'un brevet, est exploitée pour les besoins de la défense nationale par l'Etat ou ses fournisseurs, sous-traitants et titulaires de sous-commandes, sans qu'une licence d'exploitation leur ait été octroyée, l'action civile est portée devant la chambre du conseil du tribunal de grande instance. Celui-ci ne peut ordonner ni la cessation ou l'interruption de l'exploitation ni la confiscation prévue aux articles L. 615-3 et L. 615-7-1.
 
 Si une expertise ou une description avec ou sans saisie réelle telle que prévue à l'article L. 615-5 est ordonnée par le président du tribunal, l'officier public commis doit surseoir à la saisie, à la description et à toute recherche dans les archives et documents de l'entreprise, si le contrat d'études ou de fabrication comporte une classification de sécurité de défense.
 
@@ -3286,7 +3509,7 @@ Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atte
 
 ####### Article L615-14
 
-1. Sont punies de trois ans d'emprisonnement et de 300 000 euros d'amende les atteintes portées sciemment aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6. Lorsque le délit a été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+1. Sont punies de trois ans d'emprisonnement et de 300 000 euros d'amende les atteintes portées sciemment aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6. Lorsque le délit a été commis en bande organisée ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 2. Alinéa perimé.
 
@@ -3295,6 +3518,28 @@ Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atte
 En cas de récidive des infractions définies à l'article L. 615-14, ou si le délinquant est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
 
 Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
+
+####### Article L615-14-2
+
+Les personnes physiques coupables du délit prévu à l'article L. 615-14 peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
+
+####### Article L615-14-3
+
+Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal du délit prévu à l'article L. 615-14 du présent code encourent :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+
+Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
 
 ####### Article L615-15
 
@@ -3408,6 +3653,8 @@ Cette interdiction ne s'étend pas :
 
 L'interdiction ci-dessus n'est pas opposable à l'acquéreur de bonne foi d'un produit semi-conducteur. Celui-ci est cependant redevable d'une juste indemnité s'il entend poursuivre l'exploitation commerciale du produit ainsi acquis.
 
+Toute violation de l'interdiction prévue aux alinéas précédents constitue une contrefaçon engageant la responsabilité civile de son auteur.
+
 ####### Article L622-6
 
 L'interdiction prévue à l'article précédent prend effet au jour du dépôt ou de la date de la première exploitation commerciale si elle est antérieure. Elle est acquise au titulaire de l'enregistrement jusqu'au terme de la dixième année civile qui suit.
@@ -3416,7 +3663,9 @@ Toutefois, devient sans effet tout enregistrement concernant une topographie qui
 
 ####### Article L622-7
 
-Les articles L. 411-4, L. 411-5, L. 612-11, L. 613-8, L. 613-9, L. 613-19, L. 615-10 et L. 615-17 sont applicables aux conditions et formes dans lesquelles :
+Les articles L. 411-4, L. 411-5, L. 612-11, L. 613-8, L. 613-9,
+L. 613-19, L. 615-2, L. 615-3,
+L. 615-5, L. 615-5-2, L. 615-7, L. 615-7-1, L. 615-8, L. 615-10 et L. 615-17 sont applicables aux conditions et formes dans lesquelles :
 
 - sont prises les décisions du directeur de l'Institut national de la propriété industrielle mentionnées au présent chapitre ;
 - peuvent être transmis, donnés en garantie ou saisis les droits attachés à l'enregistrement d'une topographie ;
@@ -3630,13 +3879,53 @@ Les faits antérieurs à la publication de la délivrance du certificat ne sont 
 
 ####### Article L623-27
 
-Le propriétaire d'une demande de certificat d'obtention ou d'un certificat est en droit de faire procéder, avec autorisation de justice, à la description détaillée, avec ou sans saisie réelle, de tous végétaux ou parties de végétaux, de tous éléments de reproduction ou de multiplication végétative prétendu obtenus en méconnaissance de ses droits. Ce droit est ouvert au concessionnaire d'un droit exclusif d'exploitation ou au titulaire d'une licence d'office sous la condition fixée au troisième alinéa de l'article L. 623-25.
+Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
 
-A défaut par le requérant de s'être pourvu devant le tribunal dans le délai fixé par voie réglementaire, la description ou saisie est nulle de plein droit, sous préjudice des dommages-intérêts qui peuvent être réclamés s'il y a lieu.
+La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu contrefacteur, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires, financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
+
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond, le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+####### Article L623-27-1
+
+La contrefaçon peut être prouvée par tous moyens.
+
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des objets prétendus contrefaisants ainsi que de tout document s'y rapportant.
+
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour produire ou distribuer les objets prétendus contrefaisants.
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire, l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+####### Article L623-27-2
+
+Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits contrefaisants qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a été trouvée en possession de produits contrefaisants ou qui fournit des services utilisés dans des activités de contrefaçon ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits ou la fourniture de ces services.
+
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
+
+Les documents ou informations recherchés portent sur :
+
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits ou services, ainsi que des grossistes destinataires et des détaillants ;
+
+b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits ou services en cause.
 
 ####### Article L623-28
 
-Le tribunal peut, sur la demande de la partie lésée, prononcer au profit de celle-ci la confiscation de végétaux ou parties de végétaux, des éléments de reproduction ou de multiplication végétative obtenus en violation des droits du titulaire d'un certificat d'obtention et, le cas échéant, celle des instruments spécialement destinés au cycle de reproduction.
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au titulaire des droits du fait de l'atteinte.
+
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
+
+####### Article L623-28-1
+
+En cas de condamnation civile pour contrefaçon, la juridiction peut ordonner, à la demande de la partie lésée, que les produits reconnus comme produits contrefaisants et les matériaux et instruments ayant principalement servi à leur création ou fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du contrefacteur.
 
 ####### Article L623-29
 
@@ -3646,7 +3935,7 @@ L'action civile introduite suspend la prescription de l'action pénale.
 
 ####### Article L623-30
 
-Lorsqu'une variété objet d'une demande de certificat ou d'un certificat d'obtention est exploitée pour les besoins de la défense nationale par l'Etat ou ses fournisseurs, sous-traitants et titulaires de sous-commandes, sans qu'une licence d'exploitation leur ait été octroyée, la juridiction saisie ne peut ordonner ni la cessation ou l'interruption de l'exploitation, ni la confiscation prévue à l'article L. 623-28.
+Lorsqu'une variété objet d'une demande de certificat ou d'un certificat d'obtention est exploitée pour les besoins de la défense nationale par l'Etat ou ses fournisseurs, sous-traitants et titulaires de sous-commandes, sans qu'une licence d'exploitation leur ait été octroyée, la juridiction saisie ne peut ordonner ni la cessation ou l'interruption de l'exploitation, ni la confiscation prévue à l'article L. 623-28-1.
 
 Si une expertise ou une description, avec ou sans saisie réelle, est ordonnée par le président de la juridiction saisie, l'officier public commis doit surseoir à la saisie, à la description et à toute recherche dans l'entreprise si le contrat d'études ou de reproduction ou de multiplication comporte une classification de sécurité de défense.
 
@@ -3669,6 +3958,28 @@ Les tribunaux de grande instance compétents, dont le nombre ne pourra être inf
 ####### Article L623-32
 
 Toute atteinte portée sciemment aux droits du titulaire d'un certificat d'obtention végétale, tels qu'ils sont définis à l'article L. 623-4, constitue un délit puni d'une amende de 10 000 euros. Lorsqu'il a été rendu contre le prévenu dans les cinq années antérieures une condamnation pour le même délit ou en cas de commission du délit en bande organisée, un emprisonnement de six mois peut, en outre, être prononcé.
+
+####### Article L623-32-1
+
+Les personnes physiques coupables du délit prévu à l'article L. 623-32 peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
+
+####### Article L623-32-2
+
+Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal du délit prévu à l'article L. 623-32 du présent code encourent :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+
+Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
 
 ####### Article L623-33
 
@@ -4000,7 +4311,7 @@ Cependant, pourront être constatés et poursuivis les faits postérieurs à la 
 
 ###### Article L716-3
 
-Les actions civiles relatives aux marques sont portées devant les tribunaux de grande instance ainsi que les actions mettant en jeu à la fois une question de marque et une question de dessin et de modèle ou de concurrence déloyale connexes.
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de marques, y compris lorsque ces actions et demandes portent à la fois sur une question de marques et sur une question connexe de concurrence déloyale, sont déterminés par voie réglementaire.
 
 ###### Article L716-4
 
@@ -4018,34 +4329,92 @@ Est irrecevable toute action en contrefaçon d'une marque postérieure enregistr
 
 ###### Article L716-6
 
-Lorsque le tribunal est saisi d'une action en contrefaçon, son président, saisi et statuant en la forme des référés, peut interdire, à titre provisoire, sous astreinte, la poursuite des actes argués de contrefaçon, ou subordonner cette poursuite à la constitution de garanties destinées à assurer l'indemnisation du propriétaire de la marque ou du bénéficiaire d'un droit exclusif d'exploitation.
+Toute personne ayant qualité pour agir en contrefaçon peut saisir en référé la juridiction civile compétente afin de voir ordonner, au besoin sous astreinte, à l'encontre du prétendu contrefacteur ou des intermédiaires dont il utilise les services, toute mesure destinée à prévenir une atteinte imminente aux droits conférés par le titre ou à empêcher la poursuite d'actes argués de contrefaçon. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable qu'il est porté atteinte à ses droits ou qu'une telle atteinte est imminente.
 
-La demande d'interdiction ou de constitution de garanties n'est admise que si l'action au fond apparaît sérieuse et a été engagée dans un bref délai à compter du jour où le propriétaire de la marque ou le bénéficiaire d'un droit exclusif d'exploitation a eu connaissance des faits sur lesquels elle est fondée. Le juge peut subordonner l'interdiction à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du préjudice subi par le défendeur si l'action en contrefaçon est ultérieurement jugée non fondée.
+La juridiction peut interdire la poursuite des actes argués de contrefaçon, la subordonner à la constitution de garanties destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des produits soupçonnés de porter atteinte aux droits conférés par le titre, pour empêcher leur introduction ou leur circulation dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu contrefacteur, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires, financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
+
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte aux droits sont ordonnées avant l'engagement d'une action au fond, le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
 
 ###### Article L716-7
 
-Le titulaire d'une demande d'enregistrement, le propriétaire d'une marque enregistrée ou le bénéficiaire d'un droit exclusif d'exploitation est en droit de faire procéder en tout lieu par tout huissier assisté d'experts de son choix, en vertu d'une ordonnance du président du tribunal de grande instance rendue sur requête, soit à la description détaillée avec ou sans prélèvement d'échantillons, soit à la saisie réelle des produits ou des services qu'il prétend marqués, offerts à la vente, livrés ou fournis à son préjudice en violation de ses droits.
+La contrefaçon peut être prouvée par tous moyens.
 
-La saisie réelle peut être subordonnée par le président du tribunal à la constitution de garanties par le demandeur destinées à assurer l'indemnisation éventuelle du préjudice subi par le défendeur si l'action en contrefaçon est ultérieurement jugée non fondée.
+A cet effet, toute personne ayant qualité pour agir en contrefaçon est en droit de faire procéder en tout lieu et par tous huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des produits ou services prétendus contrefaisants ainsi que de tout document s'y rapportant.
 
-A défaut pour le requérant de s'être pourvu soit par la voie civile, soit par la voie correctionnelle dans le délai de quinzaine, la saisie est nulle de plein droit, sans préjudice des dommages-intérêts qui peuvent être réclamés.
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour fabriquer ou distribuer les produits ou fournir les services prétendus contrefaisants.
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action en contrefaçon est ultérieurement jugée non fondée ou la saisie annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire, l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+###### Article L716-7-1
+
+Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent titre peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits contrefaisants qui portent atteinte aux droits du demandeur, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a été trouvée en possession de produits contrefaisants ou qui fournit des services utilisés dans des activités de contrefaçon ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits ou la fourniture de ces services.
+
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
+
+Les documents ou informations recherchés portent sur :
+
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits ou services, ainsi que des grossistes destinataires et des détaillants ;
+
+b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits ou services en cause.
 
 ###### Article L716-8
 
-L'administration des douanes peut, sur demande écrite du propriétaire d'une marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation, retenir dans le cadre de ses contrôles les marchandises qu'il prétend présentées sous une marque constituant la contrefaçon de celle dont il a obtenu l'enregistrement ou sur laquelle il bénéficie d'un droit d'usage exclusif.
+En dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, sur demande écrite du propriétaire d'une marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation, assortie des justifications de son droit, retenir dans le cadre de ses contrôles les marchandises que celui-ci prétend constituer une contrefaçon.
 
 Le procureur de la République, le demandeur ainsi que le déclarant ou le détenteur des marchandises sont informés sans délai, par les services douaniers, de la retenue à laquelle ces derniers ont procédé.
 
-La mesure de retenue est levée de plein droit à défaut pour le demandeur, dans le délai de dix jours ouvrables à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers :
+Lors de l'information visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises sont communiquées au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article 59 bis du code des douanes.
 
-- soit de mesures conservatoires décidées par le président du tribunal de grande instance ;
-- soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties requises pour couvrir sa responsabilité éventuelle au cas où la contrefaçon ne serait pas ultérieurement reconnue.
+La mesure de retenue est levée de plein droit à défaut, pour le demandeur, dans le délai de dix jours ouvrables ou de trois jours ouvrables s'il s'agit de denrées périssables, à compter de la notification de la retenue des marchandises, de justifier auprès des services douaniers soit de mesures conservatoires décidées par la juridiction civile compétente, soit de s'être pourvu par la voie civile ou la voie correctionnelle et d'avoir constitué les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises au cas où la contrefaçon ne serait pas ultérieurement reconnue.
 
-Aux fins de l'engagement des actions en justice visées à l'alinéa précédent, le demandeur peut obtenir de l'administration des douanes communication des noms et adresses de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de leur détenteur, ainsi que de leur quantité, nonobstant les dispositions de l'article 59 bis du code des douanes relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
+Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile compétente sont à la charge du demandeur.
 
-La retenue mentionnée au premier alinéa ne porte pas sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de la Communauté européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de la Communauté européenne, pour y être légalement commercialisées.
+Aux fins de l'engagement des actions en justice visées au quatrième alinéa, le demandeur peut obtenir de l'administration des douanes communication des nom et adresse de l'expéditeur, de l'importateur, du destinataire des marchandises retenues ou de leur détenteur, ainsi que de leur quantité, leur origine et leur provenance par dérogation à l'article 59 bis du code des douanes, relatif au secret professionnel auquel sont tenus les agents de l'administration des douanes.
+
+La retenue mentionnée au premier alinéa ne porte pas :
+
+- sur les marchandises de statut communautaire, légalement fabriquées ou mises en libre pratique dans un Etat membre de la Communauté européenne et destinées, après avoir emprunté le territoire douanier tel que défini à l'article 1er du code des douanes, à être mises sur le marché d'un autre Etat membre de la Communauté européenne pour y être légalement commercialisées ;
+- sur les marchandises de statut communautaire, légalement fabriquées ou légalement mises en libre pratique dans un autre Etat membre de la Communauté européenne, dans lequel elles ont été placées sous le régime du transit et qui sont destinées, après avoir transité sur le territoire douanier tel que défini à l'article 1er du code des douanes, à être exportées vers un Etat non membre de la Communauté européenne.
 
 ###### Article L716-8-1
+
+En l'absence de demande écrite du propriétaire d'une marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation et en dehors des cas prévus par la réglementation communautaire en vigueur, l'administration des douanes peut, dans le cadre de ses contrôles, retenir une marchandise susceptible de porter atteinte à une marque enregistrée ou à un droit exclusif d'exploitation.
+
+Cette retenue est immédiatement notifiée au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation. Le procureur de la République est également informé de ladite mesure.
+
+Lors de la notification visée au deuxième alinéa, la nature et la quantité réelle ou estimée des marchandises est communiquée au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation, par dérogation à l'article 59 bis du code des douanes.
+
+La mesure de retenue est levée de plein droit si le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation n'a pas déposé la demande prévue par l'article L. 716-8 du présent code dans un délai de trois jours ouvrables à compter de la notification de la retenue visée au deuxième alinéa du présent article.
+
+###### Article L716-8-2
+
+I.-Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon d'une marque enregistrée, prévue par la réglementation communautaire en vigueur, est mise en oeuvre avant qu'une demande d'intervention du propriétaire de la marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation ait été déposée ou acceptée, les agents des douanes peuvent, par dérogation à l'article 59 bis du code des douanes, informer ce propriétaire ou ce bénéficiaire du droit exclusif d'exploitation de la mise en oeuvre de cette mesure. Ils peuvent également lui communiquer des informations portant sur la quantité des marchandises et leur nature.
+
+Lorsque la retenue portant sur des marchandises soupçonnées de constituer une contrefaçon de marque, prévue par la réglementation communautaire en vigueur, est mise en oeuvre après qu'une demande d'intervention du propriétaire de la marque enregistrée ou du bénéficiaire d'un droit exclusif d'exploitation a été acceptée, les agents des douanes peuvent également communiquer à ce propriétaire ou à ce bénéficiaire les informations prévues par cette réglementation communautaire nécessaires pour déterminer s'il y a eu violation de son droit.
+
+II.-Les frais générés par la mise en oeuvre d'une retenue prévue par la réglementation communautaire en vigueur sont à la charge du propriétaire de la marque enregistrée ou du bénéficiaire du droit exclusif d'exploitation.
+
+###### Article L716-8-3
+
+Pendant le délai de la retenue visée aux articles L. 716-8 à L. 716-8-2, le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation peut, à sa demande ou à la demande de l'administration des douanes, inspecter les marchandises retenues.
+
+Lors du contrôle des marchandises mises en retenue, l'administration des douanes peut prélever des échantillons.A la demande du propriétaire de la marque enregistrée ou du bénéficiaire du droit exclusif d'exploitation, ces échantillons peuvent lui être remis aux seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou pénale.
+
+###### Article L716-8-4
+
+En vue de prononcer les mesures prévues aux articles L. 716-8 à L. 716-8-3, les agents des douanes appliquent les pouvoirs qui leur sont dévolus par le code des douanes.
+
+###### Article L716-8-5
+
+Les conditions d'application des mesures prévues aux articles L. 716-8 à L. 716-8-4 sont définies par décret en Conseil d'Etat.
+
+###### Article L716-8-6
 
 Les officiers de police judiciaire peuvent procéder, dès la constatation des infractions prévues aux articles L. 716-9 et L. 716-10, à la saisie des produits fabriqués, importés, détenus, mis en vente, livrés ou fournis illicitement et des matériels spécialement installés en vue de tels agissements.
 
@@ -4053,21 +4422,21 @@ Les officiers de police judiciaire peuvent procéder, dès la constatation des i
 
 Est puni de quatre ans d'emprisonnement et de 400 000 euros d'amende le fait pour toute personne, en vue de vendre, fournir, offrir à la vente ou louer des marchandises présentées sous une marque contrefaite :
 
-a) D'importer sous tout régime douanier, d'exporter, de réexporter ou de transborder des marchandises présentées sous une marque contrefaite ;
+a) D'importer, d'exporter, de réexporter ou de transborder des marchandises présentées sous une marque contrefaisante ;
 
-b) De produire industriellement des marchandises présentées sous une marque contrefaite ;
+b) De produire industriellement des marchandises présentées sous une marque contrefaisante ;
 
 c) De donner des instructions ou des ordres pour la commission des actes visés aux a et b.
 
-Lorsque les délits prévus au présent article ont été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus au présent article ont été commis en bande organisée ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 ###### Article L716-10
 
 Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait pour toute personne :
 
-a) De détenir sans motif légitime, d'importer sous tous régimes douaniers ou d'exporter des marchandises présentées sous une marque contrefaite ;
+a) De détenir sans motif légitime, d'importer ou d'exporter des marchandises présentées sous une marque contrefaisante ;
 
-b) D'offrir à la vente ou de vendre des marchandises présentées sous une marque contrefaite ;
+b) D'offrir à la vente ou de vendre des marchandises présentées sous une marque contrefaisante ;
 
 c) De reproduire, d'imiter, d'utiliser, d'apposer, de supprimer, de modifier une marque, une marque collective ou une marque collective de certification en violation des droits conférés par son enregistrement et des interdictions qui découlent de celui-ci ;
 
@@ -4097,15 +4466,17 @@ La fermeture temporaire ne peut entraîner ni rupture, ni suspension du contrat 
 
 ###### Article L716-11-2
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues à l'article 121-2 du code pénal des infractions définies aux articles L. 716-9 à L. 716-11 du présent code.
+Les personnes morales déclarées pénalement responsables dans les conditions prévues par l'article 121-2 du code pénal des infractions définies aux articles L. 716-9 à L. 716-11 du présent code encourent :
 
-Les peines encourues par les personnes morales sont :
-
-1° L'amende suivant les modalités prévues par l'article 131-38 du code pénal ;
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
 
 2° Les peines mentionnées à l'article 131-39 du même code.
 
-L'interdiction mentionnée au 2° de l'article 131-39 porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise.
+
+Les personnes morales déclarées pénalement responsables peuvent en outre être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
 
 ###### Article L716-12
 
@@ -4115,25 +4486,29 @@ Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera 
 
 ###### Article L716-13
 
-Le tribunal peut dans tous les cas ordonner, aux frais du condamné, l'affichage du jugement prononçant la condamnation dans les conditions et sous les peines prévues à l'article 131-35 du code pénal, ainsi que sa publication intégrale ou par extrait dans les journaux qu'il désigne, sans que les frais de cette publication puissent excéder le montant maximum de l'amende encourue.
+Les personnes physiques coupables de l'un des délits prévus aux articles L. 716-9 et L. 716-10 peuvent être condamnées, à leurs frais, à retirer des circuits commerciaux les objets jugés contrefaisants et toute chose qui a servi ou était destinée à commettre l'infraction.
+
+La juridiction peut ordonner la destruction aux frais du condamné ou la remise à la partie lésée des objets et choses retirés des circuits commerciaux ou confisqués, sans préjudice de tous dommages et intérêts.
+
+Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
 
 ###### Article L716-14
 
-En cas de condamnation pour infraction aux articles L. 716-9 et L. 716-10, le tribunal peut prononcer la confiscation des produits ainsi que celle des instruments ayant servi à commettre le délit.
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le manque à gagner, subies par la partie lésée, les bénéfices réalisés par le contrefacteur et le préjudice moral causé au titulaire des droits du fait de l'atteinte.
 
-Il peut ordonner que les produits confisqués soient remis au propriétaire de la marque contrefaite sans préjudice de tous dommages et intérêts.
-
-Il peut également prescrire leur destruction.
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et intérêts une somme forfaitaire qui ne peut être inférieure au montant des redevances ou droits qui auraient été dus si le contrefacteur avait demandé l'autorisation d'utiliser le droit auquel il a porté atteinte.
 
 ###### Article L716-15
 
-Des décrets en Conseil d'Etat fixent en tant que de besoin les conditions d'application du présent livre.
+En cas de condamnation civile pour contrefaçon, la juridiction peut ordonner, à la demande de la partie lésée, que les produits reconnus comme produits contrefaisants et les matériaux et instruments ayant principalement servi à leur création ou fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du contrefacteur.
 
 ###### Article L716-16
 
-Les dispositions de l'article L. 712-4 seront appliquées progressivement par référence à la classification internationale des produits et services aux fins de l'enregistrement des marques.
-
-Les demandes déposées antérieurement au 28 décembre 1991 seront examinées et enregistrées selon la procédure instituée par la loi n° 64-1360 du 31 décembre 1964 sur les marques de fabrique, de commerce ou de service.
+Des décrets en Conseil d'Etat fixent en tant que de besoin les conditions d'application du présent livre.
 
 ##### Chapitre VII : La marque communautaire
 
@@ -4143,7 +4518,7 @@ Constitue une contrefaçon engageant la responsabilité civile de son auteur la 
 
 ###### Article L717-2
 
-Les dispositions des articles L. 716-8 à L. 716-14 sont applicables aux atteintes portées au droit du propriétaire d'une marque communautaire.
+Les dispositions des articles L. 716-8 à L. 716-15 sont applicables aux atteintes portées au droit du propriétaire d'une marque communautaire.
 
 ###### Article L717-3
 
@@ -4174,17 +4549,91 @@ Une telle déchéance ne peut cependant être prononcée en application du prés
 
 La formule exécutoire mentionnée à l'article 82 du règlement communautaire mentionné à l'article L. 717-1 est apposée par l'Institut national de la propriété industrielle.
 
-#### Titre II : Appellations d'origine
+#### Titre II : Indications géographiques
 
-##### Chapitre unique
+##### Chapitre Ier : Généralités
 
 ###### Article L721-1
 
 Les règles relatives à la détermination des appellations d'origine sont fixées par l'article L. 115-1 du code de la consommation reproduit ci-après :
 
-"Article L. 115-1 :
+" Article L. 115-1 :
 
-Constitue une appellation d'origine la dénomination d'un pays, d'une région ou d'une localité servant à désigner un produit qui en est originaire et dont la qualité ou les caractères sont dus au milieu géographique, comprenant des facteurs naturels et des facteurs humains."
+Constitue une appellation d'origine la dénomination d'un pays, d'une région ou d'une localité servant à désigner un produit qui en est originaire et dont la qualité ou les caractères sont dus au milieu géographique, comprenant des facteurs naturels et des facteurs humains. "
+
+##### Chapitre II : Contentieux
+
+###### Section unique : Actions civiles
+
+####### Article L722-1
+
+Toute atteinte portée à une indication géographique engage la responsabilité civile de son auteur.
+
+Pour l'application du présent chapitre, on entend par " indication géographique " :
+
+a) Les appellations d'origine définies à l'article L. 115-1 du code de la consommation ;
+
+b) Les appellations d'origine protégées et les indications géographiques protégées prévues par la réglementation communautaire relative à la protection des indications géographiques et des appellations d'origine des produits agricoles et des denrées alimentaires ;
+
+c) Les noms des vins de qualité produits dans une région déterminée et les indications géographiques prévues par la réglementation communautaire portant organisation commune du marché vitivinicole ;
+
+d) Les dénominations géographiques prévues par la réglementation communautaire établissant les règles générales relatives à la définition, à la désignation et à la présentation des boissons spiritueuses.
+
+####### Article L722-2
+
+L'action civile pour atteinte à une indication géographique est exercée par toute personne autorisée à utiliser cette indication géographique ou tout organisme auquel la législation donne pour mission la défense des indications géographiques.
+
+Toute personne mentionnée au premier alinéa est recevable à intervenir dans l'instance engagée par une autre partie pour atteinte à l'indication géographique.
+
+####### Article L722-3
+
+Toute personne ayant qualité pour agir pour une atteinte à une indication géographique peut saisir en référé la juridiction civile compétente afin de voir ordonner, au besoin sous astreinte, à l'encontre du prétendu auteur de cette atteinte ou des intermédiaires dont il utilise les services, toute mesure destinée à prévenir une atteinte imminente à une indication géographique ou à empêcher la poursuite d'actes portant prétendument atteinte à celle-ci. La juridiction civile compétente peut également ordonner toutes mesures urgentes sur requête lorsque les circonstances exigent que ces mesures ne soient pas prises contradictoirement, notamment lorsque tout retard serait de nature à causer un préjudice irréparable au demandeur. Saisie en référé ou sur requête, la juridiction ne peut ordonner les mesures demandées que si les éléments de preuve, raisonnablement accessibles au demandeur, rendent vraisemblable qu'il est porté atteinte à une indication géographique ou qu'une telle atteinte est imminente.
+
+La juridiction peut interdire la poursuite des actes portant prétendument atteinte à une indication géographique, la subordonner à la constitution de garanties destinées à assurer l'indemnisation éventuelle du demandeur ou ordonner la saisie ou la remise entre les mains d'un tiers des produits portant prétendument atteinte à une indication géographique, pour empêcher leur introduction ou leur circulation dans les circuits commerciaux. Si le demandeur justifie de circonstances de nature à compromettre le recouvrement des dommages et intérêts, la juridiction peut ordonner la saisie conservatoire des biens mobiliers et immobiliers du prétendu auteur de l'atteinte à l'indication géographique, y compris le blocage de ses comptes bancaires et autres avoirs, conformément au droit commun. Pour déterminer les biens susceptibles de faire l'objet de la saisie, elle peut ordonner la communication des documents bancaires, financiers, comptables ou commerciaux ou l'accès aux informations pertinentes.
+
+Elle peut également accorder au demandeur une provision lorsque l'existence de son préjudice n'est pas sérieusement contestable.
+
+Saisie en référé ou sur requête, la juridiction peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action pour atteinte à l'indication géographique est ultérieurement jugée non fondée ou les mesures annulées.
+
+Lorsque les mesures prises pour faire cesser une atteinte à une indication géographique sont ordonnées avant l'engagement d'une action au fond, le demandeur doit se pourvoir, par la voie civile ou pénale, dans un délai fixé par voie réglementaire. A défaut, sur demande du défendeur et sans que celui-ci ait à motiver sa demande, les mesures ordonnées sont annulées, sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+####### Article L722-4
+
+L'atteinte à une indication géographique peut être prouvée par tous moyens.
+
+A cet effet, toute personne ayant qualité pour agir en vertu du présent titre est en droit de faire procéder en tout lieu et par tous huissiers, assistés d'experts désignés par le demandeur, en vertu d'une ordonnance rendue sur requête par la juridiction civile compétente, soit à la description détaillée, avec ou sans prélèvement d'échantillons, soit à la saisie réelle des objets portant prétendument atteinte à une indication géographique ainsi que de tout document s'y rapportant.
+
+La juridiction peut ordonner, aux mêmes fins probatoires, la saisie réelle des matériels et instruments utilisés pour produire ou distribuer les objets portant prétendument atteinte à une indication géographique.
+
+Elle peut subordonner l'exécution des mesures qu'elle ordonne à la constitution par le demandeur de garanties destinées à assurer l'indemnisation éventuelle du défendeur si l'action engagée en vertu du présent titre est ultérieurement jugée non fondée ou la saisie annulée.
+
+A défaut pour le demandeur de s'être pourvu au fond, par la voie civile ou pénale, dans un délai fixé par voie réglementaire, l'intégralité de la saisie, y compris la description, est annulée à la demande du saisi, sans que celui-ci ait à motiver sa demande et sans préjudice des dommages et intérêts qui peuvent être réclamés.
+
+####### Article L722-5
+
+Si la demande lui en est faite, la juridiction saisie d'une procédure civile prévue au présent chapitre peut ordonner, au besoin sous astreinte, afin de déterminer l'origine et les réseaux de distribution des produits, la production de tous documents ou informations détenus par le défendeur ou par toute personne qui a été trouvée en possession de produits portant atteinte à une indication géographique ou qui fournit des services utilisés dans des activités portant atteinte à une indication géographique ou encore qui a été signalée comme intervenant dans la production, la fabrication ou la distribution de ces produits ou la fourniture de ces services.
+
+La production de documents ou d'informations peut être ordonnée s'il n'existe pas d'empêchement légitime.
+
+Les documents ou informations recherchés portent sur :
+
+a) Les nom et adresse des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des produits ou services, ainsi que des grossistes destinataires et des détaillants ;
+
+b) Les quantités produites, commercialisées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les produits ou services en cause.
+
+####### Article L722-6
+
+Pour fixer les dommages et intérêts, la juridiction prend en considération les conséquences économiques négatives, dont le manque à gagner, subies par la partie lésée, les bénéfices réalisés par l'auteur de l'atteinte à une indication géographique et le préjudice moral causé à la partie lésée du fait de l'atteinte.
+
+Toutefois, la juridiction peut, à titre d'alternative et sur demande de la partie lésée, allouer à titre de dommages et intérêts une somme forfaitaire.
+
+####### Article L722-7
+
+En cas de condamnation civile pour atteinte à une indication géographique, la juridiction peut ordonner, à la demande de la partie lésée, que les produits reconnus comme portant atteinte à une indication géographique et les matériaux et instruments ayant principalement servi à leur création ou fabrication soient rappelés des circuits commerciaux, écartés définitivement de ces circuits, détruits ou confisqués au profit de la partie lésée.
+
+La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle désigne, selon les modalités qu'elle précise.
+
+Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais de l'auteur de l'atteinte.
 
 ## Troisième partie : Application aux territoires d'outre-mer et à Mayotte
 
