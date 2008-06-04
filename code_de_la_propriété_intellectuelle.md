@@ -2488,6 +2488,8 @@ La délivrance du titre donne lieu à la diffusion légale prévue à l'article 
 
 Sous réserve des dispositions des conventions internationales auxquelles la France est partie, les étrangers dont le domicile ou l'établissement est situé en dehors du territoire où le présent titre est applicable jouissent du bénéfice du présent titre, sous la condition que les Français bénéficient de la réciprocité de protection dans les pays dont lesdits étrangers sont ressortissants.
 
+Sauf stipulation contraire d'un engagement international auquel la France est partie, les dispositions du présent article s'appliquent aux inventions réalisées ou utilisées dans l'espace extra-atmosphérique y compris sur les corps célestes ou dans ou sur des objets spatiaux placés sous juridiction nationale en application de l'article VIII du traité du 27 janvier 1967 sur les principes régissant les activités des Etats en matière d'exploration et d'utilisation de l'espace extra-atmosphérique, y compris la Lune et les autres corps célestes.
+
 ####### Article L611-2
 
 Les titres de propriété industrielle protégeant les inventions sont :
@@ -2911,7 +2913,9 @@ b) Aux actes accomplis à titre expérimental qui portent sur l'objet de l'inven
 
 c) A la préparation de médicaments faite extemporanément et par unité dans les officines de pharmacie, sur ordonnance médicale, ni aux actes concernant les médicaments ainsi préparés ;
 
-d) Aux études et essais requis en vue de l'obtention d'une autorisation de mise sur le marché pour un médicament, ainsi qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisation.
+d) Aux études et essais requis en vue de l'obtention d'une autorisation de mise sur le marché pour un médicament, ainsi qu'aux actes nécessaires à leur réalisation et à l'obtention de l'autorisation ;
+
+e) Aux objets destinés à être lancés dans l'espace extra-atmosphérique introduits sur le territoire français.
 
 ####### Article L613-5-1
 
@@ -8447,7 +8451,7 @@ Les articles R. 512-1 à R. 514-5 sont applicables aux dépôts produisant effet
 
 ### Titre II : Contentieux
 
-#### Chapitre unique : Retenue en douane.
+#### Chapitre Ier : Retenue en douane.
 
 ##### Article R521-1
 
@@ -8472,6 +8476,12 @@ Les modalités de présentation de la demande sont précisées par arrêté du m
 ##### Article R*521-1-1
 
 L'autorité administrative compétente mentionnée aux I et II de l'article R. 521-1 est le ministre chargé des douanes.
+
+#### Chapitre II : Contentieux des dessins et modèles communautaires
+
+#### Article R522-1
+
+Ainsi qu'il est dit à l'article R. 211-7 du code de l'organisation judiciaire, les actions et demandes en matière de dessin ou modèle communautaire prévues par l'article L. 522-2 sont portées devant le tribunal de grande instance de Paris.
 
 ## Livre VI : Protection des inventions et des connaissances techniques
 
@@ -10820,13 +10830,13 @@ Un arrêté conjoint du ministre de l'économie et des finances et du ministre c
 
 #### Chapitre unique
 
-##### Article R631-1
+##### Article D631-1
 
 Ainsi qu'il est dit à l'article R. 312-2 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière d'obtentions végétales en application de l'article L. 623-31 du code de la propriété intellectuelle sont fixés conformément au tableau IV annexé au code de l'organisation judiciaire, ci-après reproduit :
 
 Siège et ressort des tribunaux compétents pour connaître des actions en matière d'obtentions végétales
 
-##### Article R631-2
+##### Article D631-2
 
 Ainsi qu'il est dit à l'article R. 312-2-1 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs en application des articles L. 611-2, L. 615-17 et L. 622-7 du code de la propriété intellectuelle sont fixés conformément au tableau IV sexties annexé au code de l'organisation judiciaire.
 
