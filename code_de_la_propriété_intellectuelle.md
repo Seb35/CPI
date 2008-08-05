@@ -1312,11 +1312,11 @@ Les actions en paiement des droits perçus par ces sociétés civiles se prescri
 
 ####### Article L331-1
 
-Toutes les contestations relatives à l'application des dispositions de la première partie du présent code qui relèvent des juridictions de l'ordre judiciaire sont portées devant les tribunaux compétents, sans préjudice du droit pour la partie lésée de se pourvoir devant la juridiction répressive dans les termes du droit commun.
+Toutes les contestations relatives à l'application des dispositions de la première partie du présent code qui relèvent des juridictions de l'ordre judiciaire sont exclusivement portées devant les tribunaux de grande instance, sans préjudice du droit pour la partie lésée de se pourvoir devant la juridiction répressive dans les termes du droit commun.
 
 Les organismes de défense professionnelle régulièrement constitués ont qualité pour ester en justice pour la défense des intérêts dont ils ont statutairement la charge.
 
-Le bénéficiaire valablement investi à titre exclusif, conformément aux dispositions du livre II, d'un droit exclusif d'exploitation appartenant à un producteur de phonogrammes ou de vidéogrammes peut, sauf stipulation contraire du contrat de licence, exercer l'action en justice au titre de ce droit. L'exercice de l'action est notifié au producteur.
+Le bénéficiaire valablement investi à titre exclusif, conformément aux dispositions du livre II, d'un droit exclusif d'exploitation appartenant à un producteur de phonogrammes ou de vidéogrammes peut, sauf stipulation contraire du contrat de licence, exercer l'action en justice au titre de ce droit.L'exercice de l'action est notifié au producteur.
 
 Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de propriété littéraire et artistique, y compris lorsque ces actions et demandes portent à la fois sur une question de propriété littéraire et artistique et sur une question connexe de concurrence déloyale, sont déterminés par voie réglementaire.
 
@@ -2247,6 +2247,10 @@ Sans préjudice des droits résultant de l'application d'autres dispositions lé
 
 Tout acte modifiant ou transmettant les droits attachés à un dessin ou modèle déposé n'est opposable aux tiers que s'il a été inscrit au Registre national des dessins et modèles.
 
+Toutefois, avant son inscription, un acte est opposable aux tiers qui ont acquis des droits après la date de cet acte mais qui avaient connaissance de celui-ci lors de l'acquisition de ces droits.
+
+Le licencié, partie à un contrat de licence non inscrit sur le Registre national ou international des dessins et modèles, est également recevable à intervenir dans l'instance en contrefaçon engagée par le propriétaire du dessin ou modèle afin d'obtenir la réparation du préjudice qui lui est propre.
+
 ###### Article L513-4
 
 Sont interdits, à défaut du consentement du propriétaire du dessin ou modèle, la fabrication, l'offre, la mise sur le marché, l'importation, l'exportation, l'utilisation, ou la détention à ces fins, d'un produit incorporant le dessin ou modèle.
@@ -2319,7 +2323,9 @@ L'action civile en contrefaçon se prescrit par trois ans à compter des faits q
 
 ###### Article L521-3-1
 
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de dessins et modèles, y compris lorsque ces actions et demandes portent à la fois sur une question de dessins et modèles et sur une question connexe de concurrence déloyale, sont déterminés par la voie réglementaire.
+Les actions civiles et les demandes relatives aux dessins et modèles sont exclusivement portées devant les tribunaux de grande instance, y compris lorsqu'elles portent à la fois sur une question de dessins et modèles et sur une question connexe de concurrence déloyale.
+
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de dessins et modèles sont déterminés par voie réglementaire.
 
 ###### Article L521-4
 
@@ -2566,7 +2572,7 @@ L'inventeur, salarié ou non, est mentionné comme tel dans le brevet ; il peut 
 
 ####### Article L611-10
 
-1. Sont brevetables les inventions nouvelles impliquant une activité inventive et susceptibles d'application industrielle.
+1. Sont brevetables, dans tous les domaines technologiques, les inventions nouvelles impliquant une activité inventive et susceptibles d'application industrielle.
 
 2. Ne sont pas considérées comme des inventions au sens du premier alinéa du présent article notamment :
 
@@ -2580,7 +2586,7 @@ d) Les présentations d'informations.
 
 3. Les dispositions du 2 du présent article n'excluent la brevetabilité des éléments énumérés auxdites dispositions que dans la mesure où la demande de brevet ou le brevet ne concerne que l'un de ces éléments considéré en tant que tel.
 
-4. Sous réserve des dispositions des articles L. 611-17, L. 611-18 et L. 611-19, sont brevetables aux conditions prévues au 1 les inventions portant sur un produit constitué en totalité ou en partie de matière biologique, ou sur un procédé permettant de produire, de traiter ou d'utiliser de la matière biologique.
+4. Sous réserve des dispositions des articles L. 611-16 à L. 611-19, sont brevetables aux conditions prévues au 1 les inventions portant sur un produit constitué en totalité ou en partie de matière biologique, ou sur un procédé permettant de produire, de traiter ou d'utiliser de la matière biologique.
 
 Est regardée comme matière biologique la matière qui contient des informations génétiques et peut se reproduire ou être reproduite dans un système biologique.
 
@@ -2592,7 +2598,9 @@ L'état de la technique est constitué par tout ce qui a été rendu accessible 
 
 Est également considéré comme compris dans l'état de la technique le contenu de demandes de brevet français et de demandes de brevet européen ou international désignant la France, telles qu'elles ont été déposées, qui ont une date de dépôt antérieure à celle mentionnée au second alinéa du présent article et qui n'ont été publiées qu'à cette date ou qu'à une date postérieure.
 
-Les dispositions des alinéas précédents n'excluent pas la brevetabilité, pour la mise en oeuvre d'une des méthodes visées à l'article L. 611-16, d'une substance ou composition exposée dans l'état de la technique, à condition que son utilisation pour toute méthode visée audit article ne soit pas contenue dans l'état de la technique.
+Les deuxième et troisième alinéas n'excluent pas la brevetabilité d'une substance ou composition comprise dans l'état de la technique pour la mise en œuvre des méthodes visées à l'article L. 611-16, à condition que son utilisation pour l'une quelconque de ces méthodes ne soit pas comprise dans l'état de la technique.
+
+Les deuxième et troisième alinéas n'excluent pas non plus la brevetabilité d'une substance ou composition visée au quatrième alinéa pour toute utilisation spécifique dans toute méthode visée à l'article L. 611-16, à condition que cette utilisation ne soit pas comprise dans l'état de la technique.
 
 ####### Article L611-12
 
@@ -2621,7 +2629,7 @@ Une invention est considérée comme susceptible d'application industrielle si s
 
 ####### Article L611-16
 
-Ne sont pas considérées comme des inventions susceptibles d'application industrielle au sens de l'article L. 611-10 les méthodes de traitement chirurgical ou thérapeutique du corps humain ou animal et les méthodes de diagnostic appliquées au corps humain ou animal. Cette disposition ne s'applique pas aux produits, notamment aux substances ou compositions, pour la mise en oeuvre d'une de ces méthodes.
+Ne sont pas brevetables les méthodes de traitement chirurgical ou thérapeutique du corps humain ou animal et les méthodes de diagnostic appliquées au corps humain ou animal. Cette disposition ne s'applique pas aux produits, notamment aux substances ou compositions, pour la mise en oeuvre d'une de ces méthodes.
 
 ####### Article L611-17
 
@@ -2753,9 +2761,9 @@ Est rejetée, en tout ou partie, toute demande de brevet :
 
 3° Qui porte sur une demande divisionnaire dont l'objet s'étend au-delà du contenu de la description de la demande initiale ;
 
-4° Qui a pour objet une invention manifestement non brevetable en application des articles L. 611-17, L. 611-18 et L. 611-19 ;
+4° Qui a pour objet une invention manifestement non brevetable en application des articles L. 611-16 à L. 611-19 ;
 
-5° Dont l'objet ne peut manifestement être considéré comme une invention au sens de l'article L. 611-10, deuxième paragraphe, ou comme une invention susceptible d'application industrielle au sens de l'article L. 611-16 ;
+5° Dont l'objet ne peut manifestement être considéré comme une invention au sens de l'article L. 611-10, deuxième paragraphe ;
 
 6° Dont la description ou les revendications ne permettent pas d'appliquer les dispositions de l'article L. 612-14 ;
 
@@ -2767,7 +2775,7 @@ Est rejetée, en tout ou partie, toute demande de brevet :
 
 Si les motifs de rejet n'affectent la demande de brevet qu'en partie, seules les revendications correspondantes sont rejetées.
 
-En cas de non-conformité partielle de la demande aux dispositions des articles L. 611-17 et L. 611-18 ou L. 612-1, il est procédé d'office à la suppression des parties correspondantes de la description et des dessins.
+En cas de non-conformité partielle de la demande aux dispositions des articles L. 611-17, L. 611-18, L. 611-19 (4° du I) ou L. 612-1, il est procédé d'office à la suppression des parties correspondantes de la description et des dessins.
 
 ####### Article L612-13
 
@@ -2861,7 +2869,7 @@ Le droit exclusif d'exploitation mentionné à l'article L. 611-1 prend effet à
 
 ####### Article L613-2
 
-L'étendue de la protection conférée par le brevet est déterminée par la teneur des revendications. Toutefois, la description et les dessins servent à interpréter les revendications.
+L'étendue de la protection conférée par le brevet est déterminée par les revendications. Toutefois, la description et les dessins servent à interpréter les revendications.
 
 Si l'objet du brevet porte sur un procédé, la protection conférée par le brevet s'étend aux produits obtenus directement par ce procédé.
 
@@ -2960,6 +2968,8 @@ Les actes comportant une transmission ou une licence, visés aux deux premiers a
 Tous les actes transmettant ou modifiant les droits attachés à une demande de brevet ou à un brevet doivent, pour être opposables aux tiers, être inscrits sur un registre, dit Registre national des brevets, tenu par l'Institut national de la propriété industrielle.
 
 Toutefois, avant son inscription, un acte est opposable aux tiers qui ont acquis des droits après la date de cet acte, mais qui avaient connaissance de celui-ci lors de l'acquisition de ces droits.
+
+Le licencié, partie à un contrat de licence non inscrit sur le Registre national des brevets, est également recevable à intervenir dans l'instance en contrefaçon engagée par le propriétaire du brevet afin d'obtenir la réparation du préjudice qui lui est propre.
 
 ####### Article L613-11
 
@@ -3103,13 +3113,15 @@ Les délais mentionnés à l'article L. 613-22 peuvent être suspendus dans les 
 
 ####### Article L613-24
 
-Le propriétaire du brevet peut à tout moment renoncer soit à la totalité du brevet, soit à une ou plusieurs revendications du brevet.
+Le propriétaire du brevet peut à tout moment soit renoncer à la totalité du brevet ou à une ou plusieurs revendications, soit limiter la portée du brevet en modifiant une ou plusieurs revendications.
 
-La renonciation est faite par écrit auprès de l'Institut national de la propriété industrielle. Elle prend effet à compter du jour de sa publication.
+La requête en renonciation ou en limitation est présentée auprès de l'Institut national de la propriété industrielle dans des conditions fixées par voie réglementaire.
 
-Si des droits réels, de gage ou de licence, ont été inscrits au registre national des brevets, la renonciation n'est recevable que si les titulaires de ces droits y consentent.
+Le directeur de l'Institut national de la propriété industrielle examine la conformité de la requête avec les dispositions réglementaires mentionnées à l'alinéa précédent.
 
-Les dispositions des deuxième et troisième alinéas du présent article ne s'appliquent pas aux renonciations effectuées en application des dispositions de l'article L. 612-15.
+Les effets de la renonciation ou de la limitation rétroagissent à la date du dépôt de la demande de brevet.
+
+Les deuxième et troisième alinéas s'appliquent aux limitations effectuées en application des articles L. 613-25 et L. 614-12.
 
 ####### Article L613-25
 
@@ -3119,9 +3131,15 @@ a) Si son objet n'est pas brevetable aux termes des articles L. 611-10, L. 611-1
 
 b) S'il n'expose pas l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter ;
 
-c) Si son objet s'étend au-delà du contenu de la demande telle qu'elle a été déposée ou, lorsque le brevet a été délivré sur la base d'une demande divisionnaire, si son objet s'étend au-delà du contenu de la demande initiale telle qu'elle a été déposée.
+c) Si son objet s'étend au-delà du contenu de la demande telle qu'elle a été déposée ou, lorsque le brevet a été délivré sur la base d'une demande divisionnaire, si son objet s'étend au-delà du contenu de la demande initiale telle qu'elle a été déposée ;
+
+d) Si, après limitation, l'étendue de la protection conférée par le brevet a été accrue.
 
 Si les motifs de nullité n'affectent le brevet qu'en partie, la nullité est prononcée sous la forme d'une limitation correspondante des revendications.
+
+Dans le cadre d'une action en nullité du brevet, son titulaire est habilité à limiter le brevet en modifiant les revendications ; le brevet ainsi limité constitue l'objet de l'action en nullité engagée.
+
+La partie qui, lors d'une même instance, procède à plusieurs limitations de son brevet, de manière dilatoire ou abusive, peut être condamnée à une amende civile d'un montant maximum de 3 000 euros, sans préjudice de dommages et intérêts qui seraient réclamés.
 
 ####### Article L613-26
 
@@ -3220,11 +3238,11 @@ Dans le cas de prorogation des interdictions, les dispositions des deuxième et 
 
 ######## Article L614-6
 
-Une demande de brevet européen ne peut être transformée en demande de brevet français que dans les cas prévus à l'article 135-1 (a) de la convention de Munich.
+Une demande de brevet européen ne peut être transformée en demande de brevet français que dans le cas prévu à l'article 135-1 (a) de la convention de Munich.
 
-Dans ces cas et sous peine de rejet de sa demande de brevet français, le déposant doit satisfaire aux conditions qui sont fixées par voie réglementaire.
+Dans ce cas et sous peine de rejet de sa demande de brevet français, le déposant doit satisfaire aux conditions qui sont fixées par voie réglementaire.
 
-Si un rapport de recherche a été établi avant transformation de la demande, ce rapport tient lieu de rapport de recherche prévu à l'article L. 612-15.
+Si un rapport de recherche a été établi avant transformation de la demande, ce rapport tient lieu de rapport de recherche prévu à l'article L. 612-14.
 
 ####### Paragraphe 2 : Effets en France des brevets européens
 
@@ -3260,7 +3278,11 @@ L'inscription au registre européen des brevets des actes transmettant ou modifi
 
 La nullité du brevet européen est prononcée en ce qui concerne la France par décision de justice pour l'un quelconque des motifs visés à l'article 138, paragraphe 1, de la Convention de Munich.
 
-Si les motifs de nullité n'affectent le brevet qu'en partie, la nullité est prononcée sous la forme d'une limitation des revendications, de la description ou des dessins.
+Si les motifs de nullité n'affectent le brevet qu'en partie, la nullité est prononcée sous la forme d'une limitation correspondante des revendications.
+
+Dans le cadre d'une action en nullité du brevet européen, son titulaire est habilité à limiter le brevet en modifiant les revendications conformément à l'article 105 bis de la convention de Munich ; le brevet ainsi limité constitue l'objet de l'action en nullité engagée.
+
+La partie qui, lors d'une même instance, procède à plusieurs limitations de son brevet de manière dilatoire ou abusive peut être condamnée à une amende civile d'un montant maximum de 3 000 euros, sans préjudice de dommages et intérêts qui seraient réclamés.
 
 ######## Article L614-13
 
@@ -4269,6 +4291,10 @@ b) Propre à induire en erreur, notamment sur la nature, la qualité ou la prove
 
 Toute transmission ou modification des droits attachés à une marque enregistrée doit, pour être opposable aux tiers, être inscrite au Registre national des marques.
 
+Toutefois, avant son inscription, un acte est opposable aux tiers qui ont acquis des droits après la date de cet acte mais qui avaient connaissance de celui-ci lors de l'acquisition de ces droits.
+
+Le licencié, partie à un contrat de licence non inscrit sur le Registre national ou international des marques, est également recevable à intervenir dans l'instance en contrefaçon engagée par le propriétaire de la marque afin d'obtenir la réparation du préjudice qui lui est propre.
+
 ##### Chapitre V : Marques collectives
 
 ###### Article L715-1
@@ -4313,7 +4339,9 @@ Cependant, pourront être constatés et poursuivis les faits postérieurs à la 
 
 ###### Article L716-3
 
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de marques, y compris lorsque ces actions et demandes portent à la fois sur une question de marques et sur une question connexe de concurrence déloyale, sont déterminés par voie réglementaire.
+Les actions civiles et les demandes relatives aux marques sont exclusivement portées devant les tribunaux de grande instance, y compris lorsqu'elles portent à la fois sur une question de marques et sur une question connexe de concurrence déloyale.
+
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de marques sont déterminés par voie réglementaire.
 
 ###### Article L716-4
 
@@ -4636,6 +4664,12 @@ En cas de condamnation civile pour atteinte à une indication géographique, la 
 La juridiction peut aussi ordonner toute mesure appropriée de publicité du jugement, notamment son affichage ou sa publication intégrale ou par extraits dans les journaux ou sur les services de communication au public en ligne qu'elle désigne, selon les modalités qu'elle précise.
 
 Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais de l'auteur de l'atteinte.
+
+####### Article L722-8
+
+Les actions civiles et les demandes relatives aux indications géographiques sont exclusivement portées devant les tribunaux de grande instance, y compris lorsqu'elles portent à la fois sur une question d'indications géographiques et sur une question connexe de concurrence déloyale.
+
+Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière d'indications géographiques sont déterminés par voie réglementaire.
 
 ## Troisième partie : Application aux territoires d'outre-mer et à Mayotte
 
