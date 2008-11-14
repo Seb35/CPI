@@ -1400,7 +1400,7 @@ L'autorité a le pouvoir d'infliger une sanction pécuniaire applicable soit en 
 
 Les décisions de l'autorité sont rendues publiques dans le respect des secrets protégés par la loi. Elles sont notifiées aux parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet suspensif.
 
-Le président de l'Autorité de régulation des mesures techniques saisit le Conseil de la concurrence des abus de position dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir connaissance dans le secteur des mesures techniques. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, dans les conditions prévues à l'article L. 464-1 du code de commerce. Le président de l'autorité peut également le saisir, pour avis, de toute autre question relevant de sa compétence. l'Autorité de la concurrence communique à l'autorité toute saisine entrant dans le champ de compétence de celle-ci et recueille son avis sur les pratiques dont il est saisi dans le secteur des mesures techniques mentionnées à l'article L. 331-5 du présent code.
+Le président de l'Autorité de régulation des mesures techniques saisit l'Autorité de la concurrence des abus de position dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir connaissance dans le secteur des mesures techniques. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, dans les conditions prévues à l'article L. 464-1 du code de commerce. Le président de l'autorité peut également le saisir, pour avis, de toute autre question relevant de sa compétence. l'Autorité de la concurrence communique à l'autorité toute saisine entrant dans le champ de compétence de celle-ci et recueille son avis sur les pratiques dont il est saisi dans le secteur des mesures techniques mentionnées à l'article L. 331-5 du présent code.
 
 ####### Article L331-8
 
@@ -6602,7 +6602,7 @@ Le rapporteur qui a instruit une affaire peut présenter des observations orales
 
 Lorsqu'elle estime que l'instruction est incomplète, l'Autorité peut décider de renvoyer l'affaire en tout ou partie à l'instruction. Cette décision n'est pas susceptible de recours.
 
-II.-L'Autorité peut, si elle le juge utile, demander à son président de saisir pour avis le Conseil de la concurrence selon les modalités fixées au dernier alinéa de l'article L. 331-7 et décider de surseoir à statuer, dans l'attente de cet avis, sur la demande dont elle a été saisie.
+II.-L'Autorité peut, si elle le juge utile, demander à son président de saisir pour avis l'Autorité de la concurrence selon les modalités fixées au dernier alinéa de l'article L. 331-7 et décider de surseoir à statuer, dans l'attente de cet avis, sur la demande dont elle a été saisie.
 
 ####### Article R331-22
 
