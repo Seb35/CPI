@@ -1901,7 +1901,7 @@ Les coupables peuvent, en outre, être privés pour un temps qui n'excédera pas
 
 ###### Article L411-1
 
-L'Institut national de la propriété industrielle est un établissement public doté de la personnalité civile et de l'autonomie financière, placé auprès du ministre de l'industrie.
+L'Institut national de la propriété industrielle est un établissement public doté de la personnalité civile et de l'autonomie financière, placé auprès du ministre chargé de la propriété industrielle.
 
 Cet établissement a pour mission :
 
@@ -2512,12 +2512,6 @@ Les dispositions du présent livre concernant les brevets sont applicables aux c
 
 Tout propriétaire d'un brevet d'invention produisant ses effets en France et ayant pour objet un médicament, un procédé d'obtention d'un médicament, un produit nécessaire à l'obtention de ce médicament ou un procédé de fabrication d'un tel produit peut, lorsque ceux-ci sont utilisés pour la réalisation d'une spécialité pharmaceutique faisant l'objet d'une autorisation de mise sur le marché conformément aux articles L. 601 ou L. 617-1 du code de la santé publique, et à compter de sa délivrance, obtenir, dans les formes et conditions fixées par le présent livre et précisées par décret en Conseil d'Etat, un certificat complémentaire de protection pour celles des parties du brevet correspondant à cette autorisation.
 
-####### Article L611-4
-
-Les demandes de brevet et brevets déposés avant le 1er juillet 1979 restent soumis aux règles applicables à la date de leur dépôt.
-
-Toutefois, les dispositions du présent livre sont applicables à l'exercice des droits résultant de ces brevets et demandes de brevet, ainsi qu'à la poursuite de l'instruction des demandes de brevet pour lesquelles le premier projet d'avis documentaire n'a pas été établi avant le 1er juillet 1979.
-
 ####### Article L611-5
 
 Les certificats d'addition demandés antérieurement à l'entrée en vigueur de la loi n° 90-1052 du 26 novembre 1990 relative à la propriété industrielle restent soumis aux règles applicables à la date de leur demande.
@@ -2679,11 +2673,11 @@ La demande de brevet est présentée dans les formes et conditions prévues par 
 
 La date de dépôt de la demande de brevet est celle à laquelle le demandeur a produit les documents qui contiennent :
 
-a) Une déclaration selon laquelle un brevet est demandé ;
+a) Une indication selon laquelle un brevet est demandé ;
 
-b) L'identification du demandeur ;
+b) Les informations permettant d'identifier ou de communiquer avec le demandeur ;
 
-c) Une description et une ou plusieurs revendications, même si la description et les revendications ne sont pas conformes aux autres exigences du présent titre.
+c) Une description, même si celle-ci n'est pas conforme aux autres exigences du présent titre, ou un renvoi à une demande déposée antérieurement dans les conditions fixées par voie réglementaire.
 
 ####### Article L612-3
 
@@ -2711,7 +2705,7 @@ Les revendications définissent l'objet de la protection demandée. Elles doiven
 
 ####### Article L612-7
 
-1. Le demandeur d'un brevet qui veut se prévaloir de la priorité d'un dépôt antérieur est tenu de produire une déclaration de priorité et une copie de la demande antérieure dans les conditions et délais fixés par voie réglementaire.
+1. Le demandeur d'un brevet qui veut se prévaloir de la priorité d'un dépôt antérieur est tenu de produire une déclaration de priorité et de justifier de l'existence de la demande antérieure dans les conditions et délais fixés par voie réglementaire.
 
 2. Des priorités multiples peuvent être revendiquées pour une demande de brevet, même si elles proviennent d'Etats différents. Le cas échéant, des priorités multiples peuvent être revendiquées pour une même revendication. Si des priorités multiples sont revendiquées, les délais qui ont pour point de départ la date de priorité sont calculés à compter de la date de la priorité la plus ancienne.
 
@@ -2793,21 +2787,29 @@ Ce rapport est établi dans des conditions fixées par décret.
 
 ####### Article L612-15
 
-Le demandeur peut requérir que l'établissement du rapport de recherche soit différé pendant un délai de dix-huit mois ; ce délai court du dépôt de la demande de brevet ou de la date de priorité si une priorité a été revendiquée. Le demandeur peut renoncer à cette requête à tout moment ; il doit le faire avant d'exercer une action en contrefaçon ou de procéder à la notification prévue au premier alinéa de l'article L. 615-4. A partir de la publication prévue au 1° de l'article L. 612-21, tout tiers peut requérir l'établissement du rapport de recherche.
-
-Le demandeur peut à tout moment transformer sa demande de brevet en demande de certificat d'utilité. Au terme du délai prévu à l'alinéa précédent, si le rapport de recherche n'a pas été requis, cette transformation est prononcée d'office dans des conditions fixées par voie réglementaire.
+Le demandeur peut transformer sa demande de brevet en demande de certificat d'utilité dans des conditions fixées par voie réglementaire.
 
 ####### Article L612-16
 
-Le demandeur qui n'a pas respecté un délai à l'égard de l'Institut national de la propriété industrielle peut présenter un recours en vue d'être restauré dans ses droits s'il justifie d'une excuse légitime et si l'empêchement a pour conséquence directe le rejet de la demande de brevet ou d'une requête, la perte de tout autre droit ou celle d'un moyen de recours.
+Le demandeur qui n'a pas respecté un délai à l'égard de l'Institut national de la propriété industrielle peut présenter un recours en vue d'être restauré dans ses droits s'il justifie d'une excuse légitime et si l'inobservation de ce délai a pour conséquence directe le rejet de la demande de brevet ou d'une requête, la déchéance de la demande de brevet ou du brevet ou la perte de tout autre droit.
 
 Le recours doit être présenté au directeur de l'Institut national de la propriété industrielle dans un délai de deux mois à compter de la cessation de l'empêchement. L'acte non accompli doit l'être dans ce délai. Le recours n'est recevable que dans un délai d'un an à compter de l'expiration du délai non observé.
 
-Les dispositions du présent article ne sont applicables ni aux délais prévus aux articles L. 612-15, L. 612-19 et L. 613-22 ni au délai de priorité institué par l'article 4 de la convention de Paris pour la protection de la propriété industrielle.
+Lorsque le recours se rapporte au défaut de paiement d'une redevance de maintien en vigueur, le délai non observé s'entend du délai de grâce prévu au second alinéa de l'article L. 612-19 et la restauration n'est accordée par le directeur de l'Institut national de la propriété industrielle qu'à la condition que les redevances de maintien en vigueur échues au jour de la restauration aient été acquittées dans le délai prescrit par voie réglementaire.
+
+Les dispositions du présent article ne sont applicables ni aux délais prévus aux deuxième et troisième alinéas, à l'article L. 612-16-1 et aux délais de présentation et de correction d'une déclaration de priorité prescrits par voie réglementaire, ni au délai de priorité institué par l'article 4 de la convention de Paris pour la protection de la propriété industrielle.
+
+####### Article L612-16-1
+
+Le demandeur qui n'a pas respecté le délai de priorité institué par l'article 4 de la convention de Paris pour la protection de la propriété industrielle à l'égard de l'Institut national de la propriété industrielle peut présenter un recours en vue d'être restauré dans son droit s'il justifie d'une excuse légitime.
+
+La demande de brevet, déposée plus d'un an après la demande antérieure dont elle revendique la priorité, doit l'être dans le délai de deux mois à compter de l'expiration du délai de priorité.
+
+Le recours doit également être présenté auprès du directeur général de l'INPI dans le délai de deux mois à compter de l'expiration du délai de priorité. Toutefois, le recours n'est pas recevable s'il est présenté après l'achèvement des préparatifs techniques de publication de la demande de brevet.
 
 ####### Article L612-17
 
-Après l'accomplissement de la procédure prévue aux articles L. 612-14 et L. 612-15, le brevet est délivré.
+Après l'accomplissement de la procédure prévue à l'article L. 612-14, le brevet est délivré.
 
 Tous les titres délivrés comprennent la description, s'il y a lieu les dessins, les revendications et, s'il s'agit d'un brevet, le rapport de recherche.
 
@@ -2819,7 +2821,7 @@ Lorsque le fonctionnement normal des communications est interrompu, un décret q
 
 Toute demande de brevet ou tout brevet donne lieu au paiement de redevances annuelles qui doivent être acquittées au plus tard au jour fixé par décret pris en Conseil d'Etat.
 
-Lorsque le paiement d'une redevance annuelle n'a pas été effectué à la date prévue à l'alinéa précédent, ladite redevance peut être valablement versée dans un délai supplémentaire de six mois moyennant le paiement d'un supplément dans le même délai.
+Lorsque le paiement d'une redevance annuelle n'a pas été effectué à la date prévue à l'alinéa précédent, ladite redevance peut être valablement versée dans un délai de grâce de six mois moyennant le paiement d'un supplément dans le même délai.
 
 ####### Article L612-20
 
@@ -3103,13 +3105,7 @@ Elle est constatée par une décision du directeur de l'Institut national de la 
 
 La décision est publiée et notifiée au breveté.
 
-2. Le breveté peut, dans les trois mois suivant la notification de la décision, présenter un recours en vue d'être restauré dans ses droits s'il justifie d'une excuse légitime du non-paiement de l'annuité.
-
-La restauration est accordée par le directeur de l'Institut national de la propriété industrielle sous réserve que la ou les redevances annuelles soient acquittées dans le délai prescrit par voie réglementaire.
-
-####### Article L613-23
-
-Les délais mentionnés à l'article L. 613-22 peuvent être suspendus dans les cas et selon les modalités prévues à l'article L. 612-18.
+2. Abrogé.
 
 ####### Article L613-24
 
@@ -4109,9 +4105,9 @@ Toutefois, ce délai peut être suspendu :
 
 a) Lorsque l'opposition est fondée sur une demande d'enregistrement de marque ;
 
-b) En cas d'engagement d'une action en nullité, en déchéance ou en revendication de propriété ;
+b) En cas de demande en nullité, en déchéance ou en revendication de propriété, de la marque sur laquelle est fondée l'opposition ;
 
-c) Sur demande conjointe des parties, sans que la suspension puisse dans ce cas excéder six mois.
+c) Sur demande conjointe des parties, pendant une durée de trois mois renouvelable une fois.
 
 ###### Article L712-5
 
@@ -4153,7 +4149,7 @@ Toute modification du signe ou extension de la liste des produits ou services d�
 
 ###### Article L712-10
 
-Le demandeur qui n'a pas respecté les délais mentionnés aux articles L. 712-2 et L. 712-9, et qui justifie d'un empêchement qui n'est imputable ni à sa volonté, ni à sa faute, ni à sa négligence, peut, dans des conditions fixées par décret en Conseil d'Etat, être relevé des déchéances qu'il a pu encourir.
+Le demandeur qui n'a pas respecté les délais mentionnés à l'article L. 712-2, et qui justifie d'un empêchement qui n'est imputable ni à sa volonté, ni à sa faute, ni à sa négligence, peut, dans des conditions fixées par décret en Conseil d'Etat, être relevé des déchéances qu'il a pu encourir.
 
 ###### Article L712-11
 
@@ -4215,9 +4211,9 @@ Toutefois, faculté reste alors ouverte au propriétaire de s'opposer à tout no
 
 ###### Article L713-5
 
-L'emploi d'une marque jouissant d'une renommée pour des produits ou services non similaires à ceux désignés dans l'enregistrement engage la responsabilité civile de son auteur s'il est de nature à porter préjudice au propriétaire de la marque ou si cet emploi constitue une exploitation injustifiée de cette dernière.
+La reproduction ou l'imitation d'une marque jouissant d'une renommée pour des produits ou services non similaires à ceux désignés dans l'enregistrement engage la responsabilité civile de son auteur si elle est de nature à porter préjudice au propriétaire de la marque ou si cette reproduction ou imitation constitue une exploitation injustifiée de cette dernière.
 
-Les dispositions de l'alinéa précédent sont applicables à l'emploi d'une marque notoirement connue au sens de l'article 6 bis de la convention de Paris pour la protection de la propriété industrielle précitée.
+Les dispositions de l'alinéa précédent sont applicables à la reproduction ou l'imitation d'une marque notoirement connue au sens de l'article 6 bis de la convention de Paris pour la protection de la propriété industrielle précitée.
 
 ###### Article L713-6
 
@@ -4289,11 +4285,15 @@ b) Propre à induire en erreur, notamment sur la nature, la qualité ou la prove
 
 ###### Article L714-7
 
-Toute transmission ou modification des droits attachés à une marque enregistrée doit, pour être opposable aux tiers, être inscrite au Registre national des marques.
+Toute transmission ou modification des droits attachés à une marque doit, pour être opposable aux tiers, être inscrite au Registre national des marques.
 
 Toutefois, avant son inscription, un acte est opposable aux tiers qui ont acquis des droits après la date de cet acte mais qui avaient connaissance de celui-ci lors de l'acquisition de ces droits.
 
 Le licencié, partie à un contrat de licence non inscrit sur le Registre national ou international des marques, est également recevable à intervenir dans l'instance en contrefaçon engagée par le propriétaire de la marque afin d'obtenir la réparation du préjudice qui lui est propre.
+
+###### Article L714-8
+
+Les titulaires de marques reproduisant ou imitant l'emblème du troisième protocole additionnel aux conventions de Genève du 12 août 1949 relatif à l'adoption d'un signe distinctif additionnel ou la dénomination de cet emblème peuvent continuer à exploiter leurs droits à condition que ceux-ci aient été acquis avant le 8 décembre 2005 et que leur usage ne puisse apparaître, en temps de conflit armé, comme visant à conférer la protection des conventions de Genève et, le cas échéant, des protocoles additionnels de 1977.
 
 ##### Chapitre V : Marques collectives
 
@@ -4673,7 +4673,7 @@ Les tribunaux de grande instance appelés à connaître des actions et des deman
 
 ## Troisième partie : Application aux territoires d'outre-mer et à Mayotte
 
-### Livre VIII : Application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
+### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
 
 #### Titre unique
 
@@ -4681,40 +4681,40 @@ Les tribunaux de grande instance appelés à connaître des actions et des deman
 
 ###### Article L811-1
 
-Les dispositions du présent code sont applicables à Mayotte à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4 et sous réserve des adaptations prévues aux articles suivants. Sous la même réserve, elles sont applicables en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à L. 422-13 et L. 423-2.
+Les dispositions du présent code sont applicables à Mayotte à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4 et sous réserve des adaptations prévues aux articles suivants. Sous la même réserve, elles sont applicables dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à L. 422-13 et L. 423-2.
 
 ###### Article L811-2
 
-Pour l'application du présent code et des dispositions qu'il rend applicables en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+Pour l'application du présent code et des dispositions qu'il rend applicables dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle- Calédonie et à Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
 - " tribunal de grande instance " et " juges d'instance " par " tribunal de première instance " ;
 - " région " par " territoire " et, en ce qui concerne Mayotte, par " collectivité territoriale " ;
 - " cour d'appel " par " tribunal supérieur d'appel de Mamoudzou " et " commissaire de police " par " officier de police judiciaire " pour ce qui concerne Mayotte ;
 - " tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ;
 - " conseil de prud'hommes " par " tribunal du travail ".
 
-De même, les références à des dispositions législatives non applicables en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie sont remplacées par les références aux dispositions ayant le même objet, résultant des textes applicables localement.
+De même, les références à des dispositions législatives non applicables dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie sont remplacées par les références aux dispositions ayant le même objet, résultant des textes applicables localement.
 
 ###### Article L811-2-1
 
-Pour leur application à Mayotte, en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie, les articles L. 122-3-1 et L. 211-6 sont ainsi rédigés :
+Pour leur application à Mayotte, dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie, les articles L. 122-3-1 et L. 211-6 sont ainsi rédigés :
 
-Art. L. 122-3-1. - Dès lors que la première vente d'un ou des exemplaires matériels d'une oeuvre a été autorisée par l'auteur ou ses ayants droit sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ou sur le territoire de Mayotte, de la Polynésie française, des îles Wallis-et-Futuna, des Terres australes et antarctiques françaises et de la Nouvelle-Calédonie, la vente de ces exemplaires de cette oeuvre ne peut plus être interdite dans la Communauté européenne ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
+Art. L. 122-3-1. - Dès lors que la première vente d'un ou des exemplaires matériels d'une oeuvre a été autorisée par l'auteur ou ses ayants droit sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ou sur le territoire de Mayotte, des îles Wallis et Futuna, des Terres australes et antarctiques françaises et de la Nouvelle-Calédonie, la vente de ces exemplaires de cette oeuvre ne peut plus être interdite dans la Communauté européenne ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
 
-Art. L. 211-6. - Dès lors que la première vente d'un ou des exemplaires matériels d'une fixation protégée par un droit voisin a été autorisée par le titulaire du droit ou ses ayants droit sur le territoire d'un Etat membre de la Communauté européenne ou sur le territoire de Mayotte, de la Polynésie française, des îles Wallis-et-Futuna, des Terres australes et antarctiques françaises et de la Nouvelle-Calédonie, la vente de ces exemplaires de cette fixation ne peut plus être interdite dans la Communauté européenne ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
+Art. L. 211-6. - Dès lors que la première vente d'un ou des exemplaires matériels d'une fixation protégée par un droit voisin a été autorisée par le titulaire du droit ou ses ayants droit sur le territoire d'un Etat membre de la Communauté européenne ou sur le territoire de Mayotte, des îles Wallis et Futuna, des Terres australes et antarctiques françaises et de la Nouvelle-Calédonie, la vente de ces exemplaires de cette fixation ne peut plus être interdite dans la Communauté européenne ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
 
 ###### Article L811-3
 
-Pour son application en Polynésie française, dans les îles de Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
+Pour son application dans les îles de Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, l'article L. 621-1 du présent code est ainsi rédigé :
 
 "Art. L. 621-1 :
 
 "Le fait, par tout directeur ou salarié d'une entreprise où il est employé, de révéler ou de tenter de révéler un secret de fabrique est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
-"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal".
+"Le tribunal peut également prononcer, à titre de peine complémentaire, pour une durée de cinq ans au plus, l'interdiction des droits civiques, civils et de famille prévue par l'article 131-26 du code pénal."
 
 ###### Article L811-4
 
-I. - Pour leur application en Polynésie française, dans les îles Wallis-et-Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, les articles L. 717-1, L. 717-4 et l'article L. 717-7 du présent code sont ainsi rédigés :
+I. - Pour leur application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte, les articles L. 717-1, L. 717-4 et l'article L. 717-7 du présent code sont ainsi rédigés :
 
 "Art. L. 717-1. :
 
