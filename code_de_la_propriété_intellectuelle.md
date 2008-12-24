@@ -4824,7 +4824,15 @@ Le versement des fonds et leur utilisation à des fins d'intérêt général ou 
 
 #### Chapitre II : Droits patrimoniaux
 
-##### Article R122-1
+##### Section 1 : Dispositions générales
+
+###### Article R122-1
+
+Pour l'application des dispositions du d du 3° de l'article L. 122-5, le catalogue d'une vente d'oeuvres d'art graphiques ou plastiques s'entend des exemplaires d'une liste illustrée ou non, diffusée avant une vente aux enchères publiques, décrivant, en vue d'informer les acheteurs potentiels, les oeuvres qui seront dispersées au cours de la vente, ainsi que les conditions de celle-ci, et mis gratuitement ou à prix coûtant à la disposition de toute personne qui en fait la demande à l'officier public ou ministériel procédant à la vente.
+
+##### Section 2 : Droit de suite
+
+###### Article R122-2
 
 Le droit de suite prévu à l'article L. 122-8 est exigible, dans les conditions prévues au présent chapitre, lors de la vente, sous quelque forme que ce soit, d'une oeuvre d'art originale graphique ou plastique autre que la première cession opérée par l'auteur ou par ses ayants droit, dès lors que le vendeur, l'acheteur ou un intermédiaire interviennent dans cette cession dans le cadre de leur activité professionnelle et que l'une au moins des conditions suivantes est remplie :
 
@@ -4832,7 +4840,7 @@ Le droit de suite prévu à l'article L. 122-8 est exigible, dans les conditions
 
 2° La vente y est assujettie à la taxe sur la valeur ajoutée.
 
-##### Article R122-2
+###### Article R122-3
 
 Les oeuvres mentionnées à l'article R. 122-1 sont les oeuvres originales graphiques ou plastiques créées par l'auteur lui-même, telles que les tableaux, les collages, les peintures, les dessins, les gravures, les estampes, les lithographies, les sculptures, les tapisseries, les céramiques, les verreries, les photographies et les créations plastiques sur support audiovisuel ou numérique.
 
@@ -4850,19 +4858,19 @@ e) Les oeuvres photographiques signées, dans la limite de trente exemplaires, q
 
 f) Les créations plastiques sur support audiovisuel ou numérique dans la limite de douze exemplaires.
 
-##### Article R122-3
+###### Article R122-4
 
 Les auteurs non ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ainsi que leurs ayants droit au sens des dispositions de l'article L. 123-7 bénéficient du droit de suite dans les conditions prévues par le présent code si leur législation nationale fait bénéficier de ce droit les auteurs ressortissants des Etats mentionnés ci-dessus ainsi que leurs ayants droit et pour la durée pendant laquelle ils sont admis à exercer ce droit dans leur pays.
 
 Les auteurs non ressortissants des Etats mentionnés à l'alinéa précédent qui, au cours de leur carrière artistique, ont participé à la vie de l'art français et ont eu, pendant au moins cinq années, même non consécutives, leur résidence en France peuvent, sans condition de réciprocité, être admis à bénéficier du droit de suite. Leurs ayants droit au sens des dispositions de l'article L. 123-7 jouissent de la même faculté. Les auteurs intéressés ou leurs ayants droit doivent présenter une demande au ministre chargé de la culture qui statue après avis d'une commission dont la composition et les conditions de fonctionnement sont fixées par un arrêté du ministre chargé de la culture.
 
-##### Article R122-4
+###### Article R122-5
 
 Le prix de vente de chaque oeuvre pris en considération pour la perception du droit de suite est, hors taxes, le prix d'adjudication en cas de vente aux enchères publiques et, pour les autres ventes, le prix de cession perçu par le vendeur.
 
 Le droit de suite n'est pas exigible si le prix de vente de l'oeuvre, tel que défini à l'alinéa précédent, est inférieur à 750 euros.
 
-##### Article R122-5
+###### Article R122-6
 
 Le taux du droit de suite est égal à 4 % du prix de vente tel que défini à l'article R. 122-4 lorsque celui-ci est inférieur ou égal à 50 000 euros.
 
@@ -4880,11 +4888,11 @@ Lorsque le prix de vente est supérieur à 50 000 euros, le droit de suite est f
 
 Le montant total du droit exigible lors de la vente d'une oeuvre ne peut excéder 12 500 euros.
 
-##### Article R122-6
+###### Article R122-7
 
-I. - Le ministre chargé de la culture fixe par arrêté une liste de sociétés de perception et de répartition de droits aptes à informer les bénéficiaires du droit de suite et susceptibles à ce titre d'être avisées des ventes d'oeuvres originales graphiques ou plastiques dans les conditions fixées au II de l'article R. 122-9.
+I.-Le ministre chargé de la culture fixe par arrêté une liste de sociétés de perception et de répartition de droits aptes à informer les bénéficiaires du droit de suite et susceptibles à ce titre d'être avisées des ventes d'oeuvres originales graphiques ou plastiques dans les conditions fixées au II de l'article R. 122-9.
 
-II. - Pour être inscrite sur la liste mentionnée au I du présent article, une société de perception et de répartition de droits doit à l'appui de sa demande :
+II.-Pour être inscrite sur la liste mentionnée au I du présent article, une société de perception et de répartition de droits doit à l'appui de sa demande :
 
 1° Apporter la preuve de la diversité de ses associés et du nombre des ayants droit ;
 
@@ -4894,13 +4902,13 @@ II. - Pour être inscrite sur la liste mentionnée au I du présent article, une
 
 Est radiée de la liste, par arrêté du ministre chargé de la culture, toute société qui en fait la demande ou, sous réserve d'avoir été mise à même de faire valoir ses observations dans un délai de deux mois, toute société qui ne remplit plus les conditions auxquelles est subordonnée l'inscription sur la liste.
 
-III. - Les arrêtés du ministre chargé de la culture mentionnés au I et au II sont publiés au Journal officiel de la République française.
+III.-Les arrêtés du ministre chargé de la culture mentionnés au I et au II sont publiés au Journal officiel de la République française.
 
-##### Article R122-7
+###### Article R122-8
 
 Toute personne susceptible de bénéficier du droit de suite qui souhaite obtenir des sociétés inscrites sur la liste mentionnée au I de l'article R. 122-6 la transmission d'un avis de vente la concernant, dont ces sociétés sont destinataires en application du II de l'article R. 122-9, peut communiquer son adresse et toutes autres informations utiles à ces sociétés. Cette communication doit être renouvelée lors de tout changement d'adresse ou de situation.
 
-##### Article R122-8
+###### Article R122-9
 
 I. - En cas de vente d'une oeuvre originale graphique ou plastique aux enchères publiques, le professionnel du marché de l'art responsable du paiement du droit de suite est, selon le cas, la société de ventes volontaires ou le commissaire-priseur judiciaire.
 
@@ -4912,33 +4920,33 @@ II. - Dans les autres cas, le professionnel du marché de l'art intervenant dans
 
 3° A défaut, l'acheteur, s'il agit dans le cadre de son activité professionnelle.
 
-##### Article R122-9
+###### Article R122-10
 
-I. - Lorsqu'il est saisi d'une demande du bénéficiaire, le professionnel responsable du paiement du droit de suite lui verse le montant de celui-ci dans un délai qui ne peut excéder quatre mois à compter de la date de réception de la demande ou, si cette demande est reçue antérieurement à la vente, à compter de la date de cette vente.
+I.-Lorsqu'il est saisi d'une demande du bénéficiaire, le professionnel responsable du paiement du droit de suite lui verse le montant de celui-ci dans un délai qui ne peut excéder quatre mois à compter de la date de réception de la demande ou, si cette demande est reçue antérieurement à la vente, à compter de la date de cette vente.
 
 Si l'oeuvre est due à la collaboration de plusieurs auteurs, le bénéficiaire en fait la déclaration et précise la répartition du droit de suite décidée entre les auteurs.
 
-II. - S'il n'est saisi d'aucune demande, le professionnel responsable du paiement du droit de suite avise par lettre recommandée avec demande d'avis de réception, au plus tard trois mois après la fin du trimestre civil au cours duquel la vente a eu lieu, l'une des sociétés de perception et de répartition des droits mentionnées à l'article R. 122-6 de la réalisation de la vente en lui indiquant la date de la vente, le nom de l'auteur de l'oeuvre et, le cas échéant, les informations relatives au bénéficiaire du droit de suite dont il dispose.
+II.-S'il n'est saisi d'aucune demande, le professionnel responsable du paiement du droit de suite avise par lettre recommandée avec demande d'avis de réception, au plus tard trois mois après la fin du trimestre civil au cours duquel la vente a eu lieu, l'une des sociétés de perception et de répartition des droits mentionnées à l'article R. 122-6 de la réalisation de la vente en lui indiquant la date de la vente, le nom de l'auteur de l'oeuvre et, le cas échéant, les informations relatives au bénéficiaire du droit de suite dont il dispose.
 
-Lorsque une société de perception et de répartition des droits est avisée d'une vente ouvrant droit à la perception du droit de suite au profit d'un bénéficiaire mentionné à l'article R. 122-7, elle est tenue de l'en informer. Lorsque le bénéficiaire n'est pas identifié, la société de perception et de répartition des droits procède aux diligences utiles pour informer les personnes susceptibles de bénéficier du droit de suite, au besoin en faisant appel aux autres sociétés de perception et de répartition de droits mentionnées à l'article R. 122-6. A défaut d'avoir pu informer le bénéficiaire, elle procède aux mesures de publicité appropriées sous forme électronique ou par tout autre moyen adapté.
+Lorsqu'une société de perception et de répartition des droits est avisée d'une vente ouvrant droit à la perception du droit de suite au profit d'un bénéficiaire mentionné à l'article R. 122-7, elle est tenue de l'en informer. Lorsque le bénéficiaire n'est pas identifié, la société de perception et de répartition des droits procède aux diligences utiles pour informer les personnes susceptibles de bénéficier du droit de suite, au besoin en faisant appel aux autres sociétés de perception et de répartition de droits mentionnées à l'article R. 122-6. A défaut d'avoir pu informer le bénéficiaire, elle procède aux mesures de publicité appropriées sous forme électronique ou par tout autre moyen adapté.
 
-##### Article R122-10
+###### Article R122-11
 
-I. - Pour la liquidation des sommes qui lui sont dues au titre du droit de suite, et pendant un délai de trois ans suivant la vente ouvrant droit à la perception de ce droit, le bénéficiaire peut, en précisant le titre, la description sommaire et le nom de l'auteur de l'oeuvre concernée, obtenir des personnes qui sont intervenues dans cette vente dans le cadre de leur activité professionnelle :
+I.-Pour la liquidation des sommes qui lui sont dues au titre du droit de suite, et pendant un délai de trois ans suivant la vente ouvrant droit à la perception de ce droit, le bénéficiaire peut, en précisant le titre, la description sommaire et le nom de l'auteur de l'oeuvre concernée, obtenir des personnes qui sont intervenues dans cette vente dans le cadre de leur activité professionnelle :
 
 a) Le nom et l'adresse du professionnel responsable du paiement du droit de suite ;
 
 b) La date de la vente de l'oeuvre et son prix.
 
-II. - Le bénéficiaire peut, dans les conditions et pendant le délai prévus au I, obtenir du professionnel responsable du paiement du droit de suite :
+II.-Le bénéficiaire peut, dans les conditions et pendant le délai prévus au I, obtenir du professionnel responsable du paiement du droit de suite :
 
 a) La copie des pièces établissant que le droit de suite a été versé à son bénéficiaire, ainsi que, s'il y a lieu, la copie de la demande du bénéficiaire et de la déclaration d'oeuvre de collaboration, prévues au I de l'article R. 122-9 ;
 
 b) A défaut de ces documents, la copie des pièces justifiant que le professionnel responsable du paiement du droit de suite a exécuté les obligations qui lui incombaient en application des dispositions du premier alinéa du II de l'article R. 122-9.
 
-III. - Le professionnel responsable du paiement du droit de suite doit, en outre, conserver pendant le délai prévu au I le nom et l'adresse du vendeur.
+III.-Le professionnel responsable du paiement du droit de suite doit, en outre, conserver pendant le délai prévu au I le nom et l'adresse du vendeur.
 
-##### Article R122-11
+###### Article R122-12
 
 Est puni de l'amende prévue pour les contraventions de la troisième classe le fait, pour un professionnel responsable du paiement du droit de suite en application de l'article R. 122-8 :
 
@@ -4948,9 +4956,102 @@ Est puni de l'amende prévue pour les contraventions de la troisième classe le 
 
 3° De ne pas communiquer au bénéficiaire du droit de suite les informations prévues au I de l'article R. 122-10.
 
-##### Article R122-12
+##### Section 3 : Exception en faveur de personnes atteintes d'un handicap
 
-Pour l'application des dispositions du d du 3° de l'article L. 122-5, le catalogue d'une vente d'oeuvres d'art graphiques ou plastiques s'entend des exemplaires d'une liste illustrée ou non, diffusée avant une vente aux enchères publiques, décrivant, en vue d'informer les acheteurs potentiels, les oeuvres qui seront dispersées au cours de la vente, ainsi que les conditions de celle-ci, et mis gratuitement ou à prix coûtant à la disposition de toute personne qui en fait la demande à l'officier public ou ministériel procédant à la vente.
+###### Sous-section 1 : Dispositions relatives aux personnes bénéficiaires de l'exception
+
+####### Article R122-13
+
+Les personnes atteintes d'un handicap mentionnées au 7° de l'article L. 122-5 sont celles dont le taux d'incapacité, apprécié en application du guide-barème pour l'évaluation des déficiences et incapacités des personnes handicapées figurant à l'annexe 2-4 du code de l'action sociale et des familles, est égal ou supérieur à 80 % ainsi que celles titulaires d'une pension d'invalidité au titre du 3° de l'article L. 341-4 du code de la sécurité sociale.
+
+####### Article R122-14
+
+Le certificat médical attestant qu'une personne est atteinte d'une incapacité de lire après correction est délivré par un médecin ophtalmologiste autorisé à exercer la profession de médecin dans les conditions prévues aux articles L. 4111-1 et L. 4111-2 du code de la santé publique. Le certificat médical est valable pendant une durée de cinq ans. Il est délivré à titre définitif s'il s'avère que le handicap est irrémédiable.
+
+###### Sous-section 2 : Dispositions relatives au contrôle exercé par l'autorité administrative
+
+####### Article R122-15
+
+La liste des personnes morales et des établissements ouverts au public mentionnés au premier alinéa du 7° de l'article L. 122-5 est arrêtée, en application de ce même alinéa, sur proposition de la commission prévue à l'article R. 122-16, par le ministre chargé de la culture et le ministre chargé des personnes handicapées.
+
+Cette liste indique parmi ces personnes morales et ces établissements ceux qui, en application du troisième alinéa du 7° de l'article L. 122-5, sont habilités à demander que soient mis à leur disposition les fichiers numériques ayant servi à l'édition d'œuvres imprimées.
+
+Elle est publiée au Journal officiel de la République française.
+
+La radiation de la liste ou la privation de la possibilité d'avoir accès aux fichiers numériques est prononcée par arrêté conjoint du ministre chargé de la culture et du ministre chargé des personnes handicapées soit à la demande des personnes morales et des établissements inscrits, soit, sous réserve que ceux-ci aient été à même de présenter leurs observations dans un délai de deux mois à compter de la mise en demeure de régulariser adressée par l'autorité administrative, lorsqu'ils ne remplissent plus les conditions auxquelles est subordonnée l'inscription.
+
+L'arrêté est publié au Journal officiel de la République française.
+
+####### Article R122-16
+
+I.-Il est institué auprès du ministre chargé de la culture et du ministre chargé des personnes handicapées une commission qui comprend dix membres nommés par arrêté conjoint de ces ministres pour une période de quatre ans :
+- cinq membres représentant des organisations nationales représentatives de personnes atteintes d'un handicap et de leurs familles ;
+- cinq membres représentant les titulaires de droits.
+
+II.-Les attributions de cette commission sont les suivantes :
+
+a) Instruire les demandes déposées par les personnes morales et les établissements mentionnés au premier alinéa du 7° de l'article L. 122-5 en vue d'une inscription sur la liste arrêtée dans les conditions définies à l'article R. 122-15 ;
+
+b) Etablir un projet de liste à l'intention du ministre chargé de la culture et du ministre chargé des personnes handicapées ;
+
+c) Veiller à ce que les activités des personnes morales et des établissements inscrits sur la liste s'exercent dans le strict respect des dispositions du 7° de l'article L. 122-5. A cette fin, ces personnes morales et ces établissements lui communiquent un rapport d'activité annuel ainsi que toute information qui lui paraît utile ;
+
+d) Avertir le ministre chargé de la culture et le ministre chargé des personnes handicapées en cas d'inobservation des dispositions du 7° de l'article L. 122-5 par une personne morale ou un établissement inscrit sur la liste.
+
+III.-Le président de la commission est élu par les membres pour une durée d'un an, alternativement parmi les représentants des organisations représentatives de personnes atteintes d'un handicap et parmi les représentants des titulaires de droits.
+
+Les décisions de la commission sont prises à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
+
+Un représentant de l'organisme dépositaire mentionné au troisième alinéa du 7° de l'article L. 122-5 participe aux travaux de la commission avec voix consultative.
+
+La commission peut entendre toute personne qualifiée afin d'éclairer ses travaux.
+
+La commission adopte un règlement intérieur.
+
+Les membres de la commission exercent leurs fonctions à titre gratuit.
+
+Leurs frais de déplacement et de séjour sont remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
+
+Le secrétariat de la commission est assuré conjointement par le ministre chargé de la culture et le ministre chargé des personnes handicapées.
+
+###### Sous-section 3 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception
+
+####### Article R122-17
+
+I.-Pour être inscrit sur la liste prévue à l'article R. 122-15, la personne morale ou l'établissement doit à l'appui de sa demande adressée à la commission par lettre recommandée avec demande d'avis de réception :
+
+1° Donner toute information relative à son organisation, son fonctionnement, ses comptes financiers, ses conditions d'installation et d'équipement ainsi que, le cas échéant, à ses statuts ;
+
+2° Indiquer le nombre et la qualité de ses adhérents ou de ses usagers et justifier que ceux-ci entrent dans la catégorie des personnes mentionnées aux articles R. 122-13 et R. 122-14 ;
+
+3° Apporter la preuve de son activité de conception, de réalisation et de communication de supports au bénéfice de ces personnes en communiquant les éléments suivants :
+
+- la composition de son catalogue d'œuvres disponibles sur des supports répondant à leurs besoins, en distinguant les types d'adaptation ;
+- les moyens humains et matériels disponibles pour assurer la communication et, le cas échéant, la conception et la réalisation des supports ;
+- les conditions d'accès et d'utilisation de ses collections ;
+- un bilan annuel des services rendus et, le cas échéant, des œuvres rendues accessibles permettant d'apprécier l'effectivité de son activité au bénéfice des personnes mentionnées aux articles R. 122-13 et R. 122-14 ;
+
+4° Préciser les moyens utilisés pour contrôler l'usage des œuvres dans le respect des conditions définies au premier alinéa du 7° de l'article L. 122-5.
+
+II.-Pour être inscrit sur la même liste au titre des personnes morales et des établissements habilités à demander l'accès aux fichiers numériques ayant servi à l'édition d'œuvres imprimées, la personne morale ou l'établissement doit en outre à l'appui de sa demande :
+
+1° Donner toute information relative aux conditions de conservation et de sécurisation des fichiers numériques transmis dans un format ouvert par l'organisme dépositaire ;
+
+2° Donner toute information relative aux conditions d'adaptation de ces fichiers aux besoins de lecture des personnes mentionnées aux articles R. 122-13 et R. 122-14 ;
+
+3° Apporter la preuve de la sécurisation de ces fichiers adaptés ou non, en vue de leur transmission ;
+
+4° Apporter la preuve de la sécurisation et de la confidentialité de la transmission de ces fichiers aux personnes mentionnées aux articles R. 122-13 et R. 122-14.
+
+III.-La validité de l'inscription sur la liste est de cinq ans à compter de la date de sa publication au Journal officiel de la République française. Toute nouvelle demande est présentée dans les formes et les conditions prévues au présent article.
+
+IV.-Les personnes morales et les établissements inscrits sur la liste communiquent à la commission toute modification concernant les renseignements qu'ils ont fournis à l'appui de leur demande.
+
+####### Article R122-18
+
+Les personnes morales et les établissements inscrits sur la liste mentionnée à l'article R. 122-15 qui demandent un fichier numérique ayant servi à l'édition d'une œuvre imprimée ne peuvent communiquer le fichier transmis par l'organisme dépositaire qu'aux personnes atteintes d'un handicap au sens des articles R. 122-13 et R. 122-14, pour lesquelles l'accès à ces fichiers conditionne la lecture des ouvrages.
+
+###### Sous-section 4 : Dispositions relatives à l'organisme dépositaire des fichiers numériques ayant servi à l'édition d'œuvres imprimées
 
 #### Chapitre III : Durée de la protection
 
@@ -5148,6 +5249,10 @@ Le nombre des usagers inscrits est précisé chaque année par arrêté dans les
 ### Titre unique
 
 #### Chapitre Ier : Dispositions générales
+
+##### Article R211-1
+
+L'exception prévue au 6° de l'article L. 211-3 s'exerce dans les conditions définies aux articles R. 122-13 à R. 122-16 et aux I, III et IV de l'article R. 122-17.
 
 #### Chapitre II : Droits des artistes-interprètes
 
@@ -6797,6 +6902,10 @@ Est puni de l'amende prévue pour les contraventions de la quatrième classe le 
 Ces dispositions ne s'appliquent pas aux actes qui ne portent pas préjudice aux titulaires de droits et qui sont réalisés à des fins de sécurité informatique ou à des fins de recherche scientifique en cryptographie.
 
 ### Titre IV : Droits des producteurs de bases de données
+
+#### Article R341-1
+
+L'exception prévue au 3° de l'article L. 342-3 s'exerce dans les conditions définies aux articles R. 122-13 à R. 122-21.
 
 ### Chapitre Ier : Champ d'application
 
