@@ -1267,7 +1267,7 @@ Elle adresse au ministre chargé de la culture, à la demande de celui-ci, tout 
 
 Le ministre chargé de la culture ou son représentant peut recueillir, sur pièces et sur place, les renseignements mentionnés au présent article.
 
-Les règles comptables communes aux sociétés de perception et de répartition des droits sont établies dans les conditions fixées par le Comité de la réglementation comptable.
+Les règles comptables communes aux sociétés de perception et de répartition des droits sont établies dans les conditions fixées par l'Autorité des normes comptables.
 
 ###### Article L321-13
 
