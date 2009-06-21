@@ -1241,9 +1241,7 @@ Ce montant tient compte du degré d'utilisation des mesures techniques définies
 
 Les types de support, les taux de rémunération et les modalités de versement de celle-ci sont déterminés par une commission présidée par un représentant de l'Etat et composée, en outre, pour moitié, de personnes désignées par les organisations représentant les bénéficiaires du droit à rémunération, pour un quart, de personnes désignées par les organisations représentant les fabricants ou importateurs des supports mentionnés au premier alinéa du précédent article et, pour un quart, de personnes désignées par les organisations représentant les consommateurs.
 
-Les organisations appelées à désigner les membres de la commission ainsi que le nombre de personnes que chacune est appelée à désigner sont déterminées par arrêté du ministre chargé de la culture.
-
-La commission se détermine à la majorité de ses membres présents. En cas de partage des voix, le président a voix prépondérante. Les comptes rendus des réunions de la commission sont rendus publics, selon des modalités fixées par décret. La commission publie un rapport annuel, transmis au Parlement.
+Les comptes rendus des réunions de la commission sont rendus publics, selon des modalités fixées par décret. La commission publie un rapport annuel, transmis au Parlement.
 
 Les délibérations de la commission sont exécutoires si, dans un délai d'un mois, son président n'a pas demandé une seconde délibération.
 
@@ -5414,25 +5412,21 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 
 #### Chapitre unique
 
-##### Article D311-1
-
-Les comptes rendus des séances de la commission comportent :
-
-- la liste des membres présents ;
-- un relevé synthétique des travaux mentionnant les positions exprimées par les membres, incluant les propositions de rémunérations soumises au vote de la commission et les éléments utilisés pour le calcul desdites rémunérations ;
-- le relevé des délibérations exécutoires.
-
-Les comptes rendus sont approuvés par la commission à la majorité des membres présents. Ils sont publiés sur le site internet du ministère de la culture.
-
 ##### Article R311-1
 
 La commission prévue à l'article L. 311-5 siège soit en formation plénière, soit dans l'une ou l'autre de deux formations spécialisées, la première, dans les phonogrammes, et la seconde, dans les vidéogrammes. Chacune de ces formations est présidée par le président de la commission et comprend, pour moitié, des représentants des bénéficiaires du droit à rémunération, pour un quart, des représentants des fabricants ou des importateurs ou des personnes qui réalisent des acquisitions intracommunautaires de supports et, pour un quart, des représentants des consommateurs.
 
 ##### Article R311-2
 
-Le représentant de l'Etat, président de la commission, est nommé par arrêté du ministre chargé de la culture.
+Le représentant de l'Etat, président de la commission, est nommé par arrêté conjoint des ministres chargés de la culture, de l'industrie et de la consommation, parmi les membres du Conseil d'Etat, de la Cour de cassation ou de la Cour des comptes.
 
-La commission comprend en outre vingt-quatre membres représentant les catégories mentionnées au premier alinéa de l'article L. 311-5 et désignés dans les conditions prévues au deuxième alinéa du même article.
+La commission comprend en outre vingt-quatre membres représentant les catégories mentionnées au premier alinéa de l'article L. 311-5.
+
+Les organisations appelées à désigner les membres de la commission ainsi que le nombre de personnes que chacune est appelée à désigner sont déterminées par arrêté conjoint des ministres chargés de la culture, de l'industrie et de la consommation.
+
+La commission se détermine à la majorité de ses membres présents. En cas de partage des voix, le président a voix prépondérante.
+
+Lorsque le président fait usage de la faculté, prévue à l'article L. 311-5, de demander une seconde délibération, la décision est adoptée à la majorité des deux tiers des suffrages exprimés.
 
 Un suppléant est désigné, dans les mêmes conditions, pour chacun des membres titulaires. Les membres suppléants n'assistent aux séances et ne participent aux délibérations qu'en cas d'absence du représentant titulaire qu'ils suppléent.
 
@@ -5456,6 +5450,8 @@ Lorsque ce quorum n'est pas atteint, la commission est à nouveau convoquée dan
 
 Les membres de la commission sont tenus à l'obligation de discrétion à raison des pièces, documents et informations dont ils ont eu connaissance.
 
+Est déclaré démissionnaire d'office par le président tout membre qui n'a pas participé sans motif valable à trois séances consécutives de la commission.
+
 ##### Article R311-7
 
 Le secrétariat de la commission est assuré par les services du ministre chargé de la culture.
@@ -5465,6 +5461,16 @@ Les séances de la commission ne sont pas publiques. Toutefois, la commission pe
 La commission établit son règlement intérieur.
 
 Les décisions de la commission sont publiées au Journal officiel de la République française à la diligence du ministre chargé de la culture.
+
+##### Article D311-8
+
+Les comptes rendus des séances de la commission comportent :
+
+- la liste des membres présents ;
+- un relevé synthétique des travaux mentionnant les positions exprimées par les membres, incluant les propositions de rémunérations soumises au vote de la commission et les éléments utilisés pour le calcul desdites rémunérations ;
+- le relevé des délibérations exécutoires.
+
+Les comptes rendus sont approuvés par la commission à la majorité des membres présents. Ils sont publiés sur le site internet du ministère de la culture.
 
 ### Titre II : Sociétés de perception et de répartition des droits
 
