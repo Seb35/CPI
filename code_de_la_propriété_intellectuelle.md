@@ -9222,7 +9222,7 @@ modifié.
 - Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le
 décret n° 67-715 du 16 août 1967.
 
-- Fonctionnaires de l'Etat détachés sur des emplois du groupe des écoles des télécommunications en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
+- Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Télécom en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
 
 Agents non titulaires
 
@@ -9233,7 +9233,7 @@ portant dispositions statutaires communes aux agents contractuels des écoles na
 - attachés de recherche régis par le décret n° 71-999 du 7 décembre 1971 ;
 - Personnels enseignants, chercheurs et ingénieurs associés régis par le décret n° 70-663 du 10 juillet 1970 modifié.
 - Agents contractuels chargés de mission de classe exceptionnelle, agents contractuels chargés de mission de classe normale, agents contractuels hors catégorie et agents contractuels de 1re catégorie régis par le décret n° 75-62 du 28 janvier 1975 modifié.
-- Personnels contractuels de droit public du groupe des écoles des télécommunications recrutés en vertu du 2° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
+- Personnels contractuels de droit public du Institut Télécom recrutés en vertu du 2° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 et régis par le décret n° 86-83 du 17 janvier 1986 modifié.
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
 <b>Equipement, transports et logement.</b>
