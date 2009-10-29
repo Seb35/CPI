@@ -1466,6 +1466,10 @@ Les dispositions du présent article s'appliquent sans préjudice des dispositio
 
 L'Autorité de régulation des mesures techniques visée à l'article L. 331-17 veille à ce que les mesures techniques visées à l'article L. 331-5 n'aient pas pour conséquence, du fait de leur incompatibilité mutuelle ou de leur incapacité d'interopérer, d'entraîner dans l'utilisation d'une oeuvre des limitations supplémentaires et indépendantes de celles expressément décidées par le titulaire d'un droit d'auteur sur une oeuvre autre qu'un logiciel ou par le titulaire d'un droit voisin sur une interprétation, un phonogramme, un vidéogramme ou un programme.
 
+####### Article L331-6
+
+Le bénéfice de l'exception pour copie privée et des exceptions mentionnées au 2° de l'article L. 331-31 est garanti par les dispositions des articles L. 331-7 à L. 331-10, L. 331-33 à L. 331-35 et L. 331-37.
+
 ####### Article L331-7
 
 Tout éditeur de logiciel, tout fabricant de système technique et tout exploitant de service peut, en cas de refus d'accès aux informations essentielles à l'interopérabilité, demander à l'Autorité de régulation des mesures techniques de garantir l'interopérabilité des systèmes et des services existants, dans le respect des droits des parties, et d'obtenir du titulaire des droits sur la mesure technique les informations essentielles à cette interopérabilité. A compter de sa saisine, l'autorité dispose d'un délai de deux mois pour rendre sa décision.
@@ -1481,6 +1485,12 @@ L'autorité a le pouvoir d'infliger une sanction pécuniaire applicable soit en 
 Les décisions de l'autorité sont rendues publiques dans le respect des secrets protégés par la loi. Elles sont notifiées aux parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet suspensif.
 
 Le président de l'Autorité de régulation des mesures techniques saisit l'Autorité de la concurrence des abus de position dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir connaissance dans le secteur des mesures techniques. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, dans les conditions prévues à l'article L. 464-1 du code de commerce. Le président de l'autorité peut également le saisir, pour avis, de toute autre question relevant de sa compétence. l'Autorité de la concurrence communique à l'autorité toute saisine entrant dans le champ de compétence de celle-ci et recueille son avis sur les pratiques dont il est saisi dans le secteur des mesures techniques mentionnées à l'article L. 331-5 du présent code.
+
+####### Article L331-7
+
+Les titulaires de droits qui recourent aux mesures techniques de protection définies à l'article L. 331-5 peuvent leur assigner pour objectif de limiter le nombre de copies. Ils prennent cependant les dispositions utiles pour que leur mise en oeuvre ne prive pas les bénéficiaires des exceptions visées au 2° de l'article L. 331-31 de leur exercice effectif. Ils s'efforcent de définir ces mesures en concertation avec les associations agréées de consommateurs et les autres parties intéressées.
+
+Les dispositions du présent article peuvent, dans la mesure où la technique le permet, subordonner le bénéfice effectif de ces exceptions à un accès licite à une oeuvre ou à un phonogramme, à un vidéogramme ou à un programme et veiller à ce qu'elles n'aient pas pour effet de porter atteinte à son exploitation normale ni de causer un préjudice injustifié aux intérêts légitimes du titulaire de droits sur l'oeuvre ou l'objet protégé.
 
 ####### Article L331-8
 
@@ -1895,8 +1905,7 @@ Les exceptions énumérées par le présent article ne peuvent porter atteinte �
 
 Les mesures techniques efficaces au sens de l'article L. 331-5 qui sont propres à empêcher ou à limiter les utilisations d'une base de données que le producteur n'a pas autorisées en application de l'article L. 342-1 bénéficient de la protection prévue à l'article L. 335-4-1.
 
-Les producteurs de bases de données qui recourent aux mesures techniques de protection mentionnées au premier alinéa prennent cependant les dispositions utiles pour que leur mise en oeuvre ne prive pas les bénéficiaires des exceptions définies à l'article L. 342-3 de leur bénéfice effectif, suivant les conditions prévues au 2° de l'article L. 331-39 et aux articles L. 331-7 à L. 331-10,
-L. 331-41 à L. 331-43 et L. 331-45.
+Les producteurs de bases de données qui recourent aux mesures techniques de protection mentionnées au premier alinéa prennent cependant les dispositions utiles pour que leur mise en oeuvre ne prive pas les bénéficiaires des exceptions définies à l'article L. 342-3 de leur bénéfice effectif, suivant les conditions prévues au 2° de l'article L. 331-31 et aux articles L. 331-7 à L. 331-10, L. 331-33 à L. 331-35 et L. 331-37.
 
 Tout différend relatif à la faculté de bénéficier des exceptions définies à l'article L. 342-3 qui implique une mesure technique visée au premier alinéa du présent article est soumis à la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet prévue à l'article L. 331-12.
 
