@@ -1454,7 +1454,7 @@ On entend par mesure technique au sens du premier alinéa toute technologie, dis
 
 Un protocole, un format, une méthode de cryptage, de brouillage ou de transformation ne constitue pas en tant que tel une mesure technique au sens du présent article.
 
-Les mesures techniques ne doivent pas avoir pour effet d'empêcher la mise en oeuvre effective de l'interopérabilité, dans le respect du droit d'auteur. Les fournisseurs de mesures techniques donnent l'accès aux informations essentielles à l'interopérabilité dans les conditions définies aux articles L. 331-6 et L. 331-7.
+Les mesures techniques ne doivent pas avoir pour effet d'empêcher la mise en oeuvre effective de l'interopérabilité, dans le respect du droit d'auteur. Les fournisseurs de mesures techniques donnent l'accès aux informations essentielles à l'interopérabilité dans les conditions définies au 1° de l'article L. 331-31 et à l'article L. 331-32.
 
 Les dispositions du présent chapitre ne remettent pas en cause la protection juridique résultant des articles 79-1 à 79-6 et de l'article 95 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
@@ -1464,27 +1464,7 @@ Les dispositions du présent article s'appliquent sans préjudice des dispositio
 
 ####### Article L331-6
 
-L'Autorité de régulation des mesures techniques visée à l'article L. 331-17 veille à ce que les mesures techniques visées à l'article L. 331-5 n'aient pas pour conséquence, du fait de leur incompatibilité mutuelle ou de leur incapacité d'interopérer, d'entraîner dans l'utilisation d'une oeuvre des limitations supplémentaires et indépendantes de celles expressément décidées par le titulaire d'un droit d'auteur sur une oeuvre autre qu'un logiciel ou par le titulaire d'un droit voisin sur une interprétation, un phonogramme, un vidéogramme ou un programme.
-
-####### Article L331-6
-
 Le bénéfice de l'exception pour copie privée et des exceptions mentionnées au 2° de l'article L. 331-31 est garanti par les dispositions des articles L. 331-7 à L. 331-10, L. 331-33 à L. 331-35 et L. 331-37.
-
-####### Article L331-7
-
-Tout éditeur de logiciel, tout fabricant de système technique et tout exploitant de service peut, en cas de refus d'accès aux informations essentielles à l'interopérabilité, demander à l'Autorité de régulation des mesures techniques de garantir l'interopérabilité des systèmes et des services existants, dans le respect des droits des parties, et d'obtenir du titulaire des droits sur la mesure technique les informations essentielles à cette interopérabilité. A compter de sa saisine, l'autorité dispose d'un délai de deux mois pour rendre sa décision.
-
-On entend par informations essentielles à l'interopérabilité la documentation technique et les interfaces de programmation nécessaires pour permettre à un dispositif technique d'accéder, y compris dans un standard ouvert au sens de l'article 4 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, à une oeuvre ou à un objet protégé par une mesure technique et aux informations sous forme électronique jointes, dans le respect des conditions d'utilisation de l'oeuvre ou de l'objet protégé qui ont été définies à l'origine.
-
-Le titulaire des droits sur la mesure technique ne peut imposer au bénéficiaire de renoncer à la publication du code source et de la documentation technique de son logiciel indépendant et interopérant que s'il apporte la preuve que celle-ci aurait pour effet de porter gravement atteinte à la sécurité et à l'efficacité de ladite mesure technique.
-
-L'autorité peut accepter des engagements proposés par les parties et de nature à mettre un terme aux pratiques contraires à l'interopérabilité. A défaut d'un accord entre les parties et après avoir mis les intéressés à même de présenter leurs observations, elle rend une décision motivée de rejet de la demande ou émet une injonction prescrivant, au besoin sous astreinte, les conditions dans lesquelles le demandeur peut obtenir l'accès aux informations essentielles à l'interopérabilité et les engagements qu'il doit respecter pour garantir l'efficacité et l'intégrité de la mesure technique, ainsi que les conditions d'accès et d'usage du contenu protégé. L'astreinte prononcée par l'autorité est liquidée par cette dernière.
-
-L'autorité a le pouvoir d'infliger une sanction pécuniaire applicable soit en cas d'inexécution de ses injonctions, soit en cas de non-respect des engagements qu'elle a acceptés. Chaque sanction pécuniaire est proportionnée à l'importance du dommage causé aux intéressés, à la situation de l'organisme ou de l'entreprise sanctionné et à l'éventuelle réitération des pratiques contraires à l'interopérabilité. Elle est déterminée individuellement et de façon motivée. Son montant maximum s'élève à 5 % du montant du chiffre d'affaires mondial hors taxes le plus élevé réalisé au cours d'un des exercices clos depuis l'exercice précédant celui au cours duquel les pratiques contraires à l'interopérabilité ont été mises en oeuvre dans le cas d'une entreprise et à 1, 5 million d'euros dans les autres cas.
-
-Les décisions de l'autorité sont rendues publiques dans le respect des secrets protégés par la loi. Elles sont notifiées aux parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet suspensif.
-
-Le président de l'Autorité de régulation des mesures techniques saisit l'Autorité de la concurrence des abus de position dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir connaissance dans le secteur des mesures techniques. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, dans les conditions prévues à l'article L. 464-1 du code de commerce. Le président de l'autorité peut également le saisir, pour avis, de toute autre question relevant de sa compétence. l'Autorité de la concurrence communique à l'autorité toute saisine entrant dans le champ de compétence de celle-ci et recueille son avis sur les pratiques dont il est saisi dans le secteur des mesures techniques mentionnées à l'article L. 331-5 du présent code.
 
 ####### Article L331-7
 
@@ -1494,109 +1474,305 @@ Les dispositions du présent article peuvent, dans la mesure où la technique le
 
 ####### Article L331-8
 
-Le bénéfice de l'exception pour copie privée et des exceptions mentionnées au présent article est garanti par les dispositions du présent article et des articles L. 331-9 à L. 331-16.
-
-L'Autorité de régulation des mesures techniques visée à l'article L. 331-17 veille à ce que la mise en oeuvre des mesures techniques de protection n'ait pas pour effet de priver les bénéficiaires des exceptions définies aux :
-
-- 2°, e du 3° à compter du 1er janvier 2009,7° et 8° de l'article L. 122-5 ;
-- 2°, dernier alinéa du 3° à compter du 1er janvier 2009,6° et 7° de l'article L. 211-3 ;
-- 3° et, à compter du 1er janvier 2009,4° de l'article L. 342-3.
-
-Sous réserve des articles L. 331-9 à L. 331-16, l'autorité détermine les modalités d'exercice des exceptions précitées et fixe notamment le nombre minimal de copies autorisées dans le cadre de l'exception pour copie privée, en fonction du type d'oeuvre ou d'objet protégé, des divers modes de communication au public et des possibilités offertes par les techniques de protection disponibles.
+Les titulaires de droits ne sont cependant pas tenus de prendre les dispositions de l'article L. 331-7 lorsque l'oeuvre ou un autre objet protégé par un droit voisin est mis à disposition du public selon des dispositions contractuelles convenues entre les parties, de manière que chacun puisse y avoir accès de l'endroit et au moment qu'il choisit.
 
 ####### Article L331-9
-
-Les titulaires de droits qui recourent aux mesures techniques de protection définies à l'article L. 331-5 peuvent leur assigner pour objectif de limiter le nombre de copies. Ils prennent cependant les dispositions utiles pour que leur mise en oeuvre ne prive pas les bénéficiaires des exceptions visées à l'article L. 331-8 de leur exercice effectif. Ils s'efforcent de définir ces mesures en concertation avec les associations agréées de consommateurs et les autres parties intéressées.
-
-Les dispositions du présent article peuvent, dans la mesure où la technique le permet, subordonner le bénéfice effectif de ces exceptions à un accès licite à une oeuvre ou à un phonogramme, à un vidéogramme ou à un programme et veiller à ce qu'elles n'aient pas pour effet de porter atteinte à son exploitation normale ni de causer un préjudice injustifié aux intérêts légitimes du titulaire de droits sur l'oeuvre ou l'objet protégé.
-
-####### Article L331-10
-
-Les titulaires de droits ne sont cependant pas tenus de prendre les dispositions de l'article L. 331-9 lorsque l'oeuvre ou un autre objet protégé par un droit voisin est mis à disposition du public selon des dispositions contractuelles convenues entre les parties, de manière que chacun puisse y avoir accès de l'endroit et au moment qu'il choisit.
-
-####### Article L331-11
 
 Les éditeurs et les distributeurs de services de télévision ne peuvent recourir à des mesures techniques qui auraient pour effet de priver le public du bénéfice de l'exception pour copie privée, y compris sur un support et dans un format numérique, dans les conditions mentionnées au 2° de l'article L. 122-5 et au 2° de l'article L. 211-3.
 
 Le Conseil supérieur de l'audiovisuel veille au respect des obligations du premier alinéa dans les conditions définies par les articles 42 et 48-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
-####### Article L331-12
+####### Article L331-10
 
 Les conditions d'accès à la lecture d'une oeuvre, d'un vidéogramme, d'un programme ou d'un phonogramme et les limitations susceptibles d'être apportées au bénéfice de l'exception pour copie privée mentionnée au 2° de l'article L. 122-5 et au 2° de l'article L. 211-3 par la mise en oeuvre d'une mesure technique de protection doivent être portées à la connaissance de l'utilisateur.
 
-####### Article L331-13
+####### Article L331-11
 
-Toute personne bénéficiaire des exceptions mentionnées à l'article L. 331-8 ou toute personne morale agréée qui la représente peut saisir l'Autorité de régulation des mesures techniques de tout différend portant sur les restrictions que les mesures techniques de protection définies à l'article L. 331-5 apportent au bénéfice desdites exceptions.
+Les informations sous forme électronique concernant le régime des droits afférents à une oeuvre, autre qu'un logiciel, une interprétation, un phonogramme, un vidéogramme ou un programme, sont protégées dans les conditions prévues au présent titre, lorsque l'un des éléments d'information, numéros ou codes est joint à la reproduction ou apparaît en relation avec la communication au public de l'oeuvre, de l'interprétation, du phonogramme, du vidéogramme ou du programme qu'il concerne.
 
-####### Article L331-14
+On entend par information sous forme électronique toute information fournie par un titulaire de droits qui permet d'identifier une oeuvre, une interprétation, un phonogramme, un vidéogramme, un programme ou un titulaire de droit, toute information sur les conditions et modalités d'utilisation d'une oeuvre, d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme, ainsi que tout numéro ou code représentant tout ou partie de ces informations.
 
-Les personnes morales et les établissements ouverts au public visés au 7° de l'article L. 122-5 qui réalisent des reproductions ou des représentations d'une oeuvre ou d'un objet protégé adaptées aux personnes handicapées peuvent saisir l'Autorité de régulation des mesures techniques de tout différend portant sur la transmission des textes imprimés sous la forme d'un fichier numérique.
+###### Section 3 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet
 
-####### Article L331-15
+####### Sous-section 1 : Compétences, composition et organisation
 
-Dans le respect des droits des parties, l'Autorité de régulation des mesures techniques favorise ou suscite une solution de conciliation. Lorsqu'elle dresse un procès-verbal de conciliation, celui-ci a force exécutoire ; il fait l'objet d'un dépôt au greffe du tribunal d'instance.
+######## Article L331-12
 
-A défaut de conciliation dans un délai de deux mois à compter de sa saisine, l'autorité, après avoir mis les intéressés à même de présenter leurs observations, rend une décision motivée de rejet de la demande ou émet une injonction prescrivant, au besoin sous astreinte, les mesures propres à assurer le bénéfice effectif de l'exception. L'astreinte prononcée par l'autorité est liquidée par cette dernière.
+La Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet est une autorité publique indépendante. A ce titre, elle est dotée de la personnalité morale.
+
+######## Article L331-13
+
+La Haute Autorité assure :
+
+1° Une mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite des œuvres et des objets auxquels est attaché un droit d'auteur ou un droit voisin sur les réseaux de communications électroniques utilisés pour la fourniture de services de communication au public en ligne ;
+
+2° Une mission de protection de ces œuvres et objets à l'égard des atteintes à ces droits commises sur les réseaux de communications électroniques utilisés pour la fourniture de services de communication au public en ligne ;
+
+3° Une mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés par un droit d'auteur ou par un droit voisin.
+
+Au titre de ces missions, la Haute Autorité peut recommander toute modification législative ou réglementaire. Elle peut être consultée par le Gouvernement sur tout projet de loi ou de décret intéressant la protection des droits de propriété littéraire et artistique. Elle peut également être consultée par le Gouvernement ou par les commissions parlementaires sur toute question relative à ses domaines de compétence.
+
+######## Article L331-14
+
+La Haute Autorité remet chaque année au Gouvernement et au Parlement un rapport rendant compte de son activité, de l'exécution de ses missions et de ses moyens, et du respect de leurs obligations et engagements par les professionnels des différents secteurs concernés. Ce rapport est rendu public.
+
+######## Article L331-15
+
+La Haute Autorité est composée d'un collège et d'une commission de protection des droits. Le président du collège est le président de la Haute Autorité.
+
+Sauf disposition législative contraire, les missions confiées à la Haute Autorité sont exercées par le collège.
+
+Dans l'exercice de leurs attributions, les membres du collège et de la commission de protection des droits ne reçoivent d'instruction d'aucune autorité.
+
+######## Article L331-16
+
+Le collège de la Haute Autorité est composé de neuf membres, dont le président, nommés pour une durée de six ans par décret :
+
+1° Un membre en activité du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
+
+2° Un membre en activité de la Cour de cassation désigné par le premier président de la Cour de cassation ;
+
+3° Un membre en activité de la Cour des comptes désigné par le premier président de la Cour des comptes ;
+
+4° Un membre du Conseil supérieur de la propriété littéraire et artistique désigné par le président du Conseil supérieur de la propriété littéraire et artistique ;
+
+5° Trois personnalités qualifiées, désignées sur proposition conjointe des ministres chargés des communications électroniques, de la consommation et de la culture ;
+
+6° Deux personnalités qualifiées, désignées respectivement par le président de l'Assemblée nationale et par le président du Sénat.
+
+Le président du collège est élu par les membres parmi les personnes mentionnées aux 1°, 2° et 3°.
+
+Pour les membres désignés en application des 1° à 4°, des membres suppléants sont désignés dans les mêmes conditions.
+
+En cas de vacance d'un siège de membre du collège, pour quelque cause que ce soit, il est procédé à la nomination, dans les conditions prévues au présent article, d'un nouveau membre pour la durée du mandat restant à courir.
+
+Le mandat des membres n'est ni révocable, ni renouvelable.
+
+Sauf démission, il ne peut être mis fin aux fonctions d'un membre qu'en cas d'empêchement constaté par le collège dans les conditions qu'il définit.
+
+######## Article L331-17
+
+La commission de protection des droits est chargée de prendre les mesures prévues à l'article L. 331-25 [Dispositions résultant de la décision du Conseil constitutionnel n° 2009-580 DC du 10 juin 2009].
+
+Elle est composée de trois membres, dont le président, nommés pour une durée de six ans par décret :
+
+1° Un membre en activité du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
+
+2° Un membre en activité de la Cour de cassation désigné par le premier président de la Cour de cassation ;
+
+3° Un membre en activité de la Cour des comptes désigné par le premier président de la Cour des comptes.
+
+Des membres suppléants sont nommés dans les mêmes conditions.
+
+En cas de vacance d'un siège de membre de la commission de protection des droits, pour quelque cause que ce soit, il est procédé à la nomination, dans les conditions prévues au présent article, d'un nouveau membre pour la durée du mandat restant à courir.
+
+Le mandat des membres n'est ni révocable, ni renouvelable.
+
+Sauf démission, il ne peut être mis fin aux fonctions d'un membre qu'en cas d'empêchement constaté par la commission dans les conditions qu'elle définit.
+
+Les fonctions de membre du collège et de membre de la commission de protection des droits sont incompatibles.
+
+######## Article L331-18
+
+I. - Les fonctions de membre et de secrétaire général de la Haute Autorité sont incompatibles avec le fait d'exercer ou d'avoir exercé, au cours des trois dernières années :
+
+1° Les fonctions de dirigeant, de salarié ou de conseiller d'une société régie par le titre II du présent livre ;
+
+2° Les fonctions de dirigeant, de salarié ou de conseiller d'une entreprise exerçant une activité de production de phonogrammes ou de vidéogrammes ou d'édition d'œuvres protégées par un droit d'auteur ou des droits voisins ;
+
+3° Les fonctions de dirigeant, de salarié ou de conseiller d'une entreprise de communication audiovisuelle ;
+
+4° Les fonctions de dirigeant, de salarié ou de conseiller d'une entreprise offrant des services de mise à disposition d'œuvres ou d'objets protégés par un droit d'auteur ou des droits voisins ;
+
+5° Les fonctions de dirigeant, de salarié ou de conseiller d'une entreprise dont l'activité est d'offrir un accès à des services de communication au public en ligne.
+
+II. - Après la cessation de leurs fonctions, les membres de la Haute Autorité et son secrétaire général sont soumis aux dispositions de l'article 432-13 du code pénal.
+
+Les membres de la Haute Autorité et son secrétaire général ne peuvent, directement ou indirectement, détenir d'intérêts dans une société ou entreprise mentionnée au I du présent article.
+
+Un décret fixe le modèle de déclaration d'intérêts que chaque membre doit déposer au moment de sa désignation.
+
+Aucun membre de la Haute Autorité ne peut participer à une délibération concernant une entreprise ou une société contrôlée, au sens de l'article L. 233-16 du code de commerce, par une entreprise dans laquelle il a, au cours des trois années précédant la délibération, exercé des fonctions ou détenu un mandat.
+
+######## Article L331-19
+
+La Haute Autorité dispose de services placés sous l'autorité de son président. Un secrétaire général, nommé par ce dernier, est chargé du fonctionnement et de la coordination des services sous l'autorité du président.
+
+Les fonctions de membre de la Haute Autorité et de secrétaire général sont incompatibles.
+
+La Haute Autorité établit son règlement intérieur et fixe les règles de déontologie applicables à ses membres et aux agents des services.
+
+Les rapporteurs chargés de l'instruction de dossiers auprès de la Haute Autorité sont nommés par le président.
+
+La Haute Autorité peut faire appel à des experts. Elle peut également solliciter, en tant que de besoin, l'avis d'autorités administratives, d'organismes extérieurs ou d'associations représentatives des utilisateurs des réseaux de communications électroniques, et elle peut être consultée pour avis par ces mêmes autorités ou organismes.
+
+La Haute Autorité propose, lors de l'élaboration du projet de loi de finances de l'année, les crédits nécessaires à l'accomplissement de ses missions.
+
+Le président présente les comptes de la Haute Autorité au contrôle de la Cour des comptes.
+
+######## Article L331-20
+
+Les décisions du collège et de la commission de protection des droits sont prises à la majorité des voix. Au sein du collège, la voix du président est prépondérante en cas de partage égal des voix.
+
+######## Article L331-21
+
+Pour l'exercice, par la commission de protection des droits, de ses attributions, la Haute Autorité dispose d'agents publics assermentés habilités par le président de la Haute Autorité dans des conditions fixées par un décret en Conseil d'Etat. Cette habilitation ne dispense pas de l'application des dispositions définissant les procédures autorisant l'accès aux secrets protégés par la loi.
+
+Les membres de la commission de protection des droits et les agents mentionnés au premier alinéa reçoivent les saisines adressées à ladite commission dans les conditions prévues à l'article L. 331-24. Ils procèdent à l'examen des faits.
+
+Ils peuvent, pour les nécessités de la procédure, obtenir tous documents, quel qu'en soit le support, y compris les données conservées et traitées par les opérateurs de communications électroniques en application de l'article L. 34-1 du code des postes et des communications électroniques et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.
+
+Ils peuvent également obtenir copie des documents mentionnés à l'alinéa précédent.
+
+Ils peuvent, notamment, obtenir des opérateurs de communications électroniques l'identité, l'adresse postale, l'adresse électronique et les coordonnées téléphoniques de l'abonné dont l'accès à des services de communication au public en ligne a été utilisé à des fins de reproduction, de représentation, de mise à disposition ou de communication au public d'œuvres ou d'objets protégés sans l'autorisation des titulaires des droits prévus aux livres Ier et II lorsqu'elle est requise.
+
+######## Article L331-21-1
+
+Les membres de la commission de protection des droits, ainsi que ses agents habilités et assermentés devant l'autorité judiciaire mentionnés à l'article L. 331-21, peuvent constater les faits susceptibles de constituer des infractions prévues au présent titre lorsqu'elles sont punies de la peine complémentaire de suspension de l'accès à un service de communication au public en ligne mentionnée aux articles L. 335-7 et L. 335-7-1.
+
+Ils peuvent en outre recueillir les observations des personnes concernées. Il est fait mention de ce droit dans la lettre de convocation.
+
+Lorsque les personnes concernées demandent à être entendues, ils les convoquent et les entendent. Toute personne entendue a le droit de se faire assister d'un conseil de son choix.
+
+Une copie du procès-verbal d'audition est remise à la personne concernée.
+
+######## Article L331-22
+
+Les membres et les agents publics de la Haute Autorité sont astreints au secret professionnel pour les faits, actes ou renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions prévues à l'article 413-10 du code pénal et, sous réserve de ce qui est nécessaire à l'établissement des avis, des recommandations et des rapports, à l'article 226-13 du même code.
+
+Dans les conditions prévues par l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité, les décisions d'habilitation des agents mentionnés à l'article L. 331-21 du présent code sont précédées d'enquêtes administratives destinées à vérifier que leur comportement n'est pas incompatible avec l'exercice de leurs fonctions ou missions.
+
+####### Sous-section 2 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques
+
+######## Article L331-23
+
+Au titre de sa mission d'encouragement au développement de l'offre légale, qu'elle soit ou non commerciale, et d'observation de l'utilisation, qu'elle soit licite ou illicite, des œuvres et des objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques, la Haute Autorité publie chaque année des indicateurs dont la liste est fixée par décret. Elle rend compte du développement de l'offre légale dans le rapport mentionné à l'article L. 331-14.
+
+Dans des conditions fixées par décret en Conseil d'Etat, la Haute Autorité attribue aux offres proposées par des personnes dont l'activité est d'offrir un service de communication au public en ligne un label permettant aux usagers de ce service d'identifier clairement le caractère légal de ces offres. Cette labellisation est revue périodiquement.
+
+La Haute Autorité veille à la mise en place, à la mise en valeur et à l'actualisation d'un portail de référencement de ces mêmes offres.
+
+Elle évalue, en outre, les expérimentations conduites dans le domaine des technologies de reconnaissance des contenus et de filtrage par les concepteurs de ces technologies, les titulaires de droits sur les œuvres et objets protégés et les personnes dont l'activité est d'offrir un service de communication au public en ligne. Elle rend compte des principales évolutions constatées en la matière, notamment pour ce qui regarde l'efficacité de telles technologies, dans son rapport annuel prévu à l'article L. 331-14.
+
+Elle identifie et étudie les modalités techniques permettant l'usage illicite des œuvres et des objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques. Dans le cadre du rapport prévu à l'article L. 331-14, elle propose, le cas échéant, des solutions visant à y remédier.
+
+####### Sous-section 3 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin
+
+######## Article L331-24
+
+La commission de protection des droits agit sur saisine d'agents assermentés et agréés dans les conditions définies à l'article L. 331-2 qui sont désignés par :
+- les organismes de défense professionnelle régulièrement constitués ;
+- les sociétés de perception et de répartition des droits ;
+- le Centre national du cinéma et de l'image animée.
+
+La commission de protection des droits peut également agir sur la base d'informations qui lui sont transmises par le procureur de la République.
+
+Elle ne peut être saisie de faits remontant à plus de six mois.
+
+######## Article L331-25
+
+Lorsqu'elle est saisie de faits susceptibles de constituer un manquement à l'obligation définie à l'article L. 336-3, la commission de protection des droits peut envoyer à l'abonné, sous son timbre et pour son compte, par la voie électronique et par l'intermédiaire de la personne dont l'activité est d'offrir un accès à des services de communication au public en ligne ayant conclu un contrat avec l'abonné, une recommandation lui rappelant les dispositions de l'article L. 336-3, lui enjoignant de respecter l'obligation qu'elles définissent et l'avertissant des sanctions encourues en application des articles L. 335-7 et L. 335-7-1. Cette recommandation contient également une information de l'abonné sur l'offre légale de contenus culturels en ligne, sur l'existence de moyens de sécurisation permettant de prévenir les manquements à l'obligation définie à l'article L. 336-3 ainsi que sur les dangers pour le renouvellement de la création artistique et pour l'économie du secteur culturel des pratiques ne respectant pas le droit d'auteur et les droits voisins.
+
+En cas de renouvellement, dans un délai de six mois à compter de l'envoi de la recommandation visée au premier alinéa, de faits susceptibles de constituer un manquement à l'obligation définie à l'article L. 336-3, la commission peut adresser une nouvelle recommandation comportant les mêmes informations que la précédente par la voie électronique dans les conditions prévues au premier alinéa. Elle doit assortir cette recommandation d'une lettre remise contre signature ou de tout autre moyen propre à établir la preuve de la date de présentation de cette recommandation.
+
+Les recommandations adressées sur le fondement du présent article mentionnent la date et l'heure auxquelles les faits susceptibles de constituer un manquement à l'obligation définie à l'article L. 336-3 ont été constatés. En revanche, elles ne divulguent pas le contenu des œuvres ou objets protégés concernés par ce manquement. Elles indiquent les coordonnées téléphoniques, postales et électroniques où leur destinataire peut adresser, s'il le souhaite, des observations à la commission de protection des droits et obtenir, s'il en formule la demande expresse, des précisions sur le contenu des œuvres ou objets protégés concernés par le manquement qui lui est reproché.
+
+######## Article L331-26
+
+Après consultation des concepteurs de moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne, des personnes dont l'activité est d'offrir l'accès à un tel service ainsi que des sociétés régies par le titre II du présent livre et des organismes de défense professionnelle régulièrement constitués, la Haute Autorité rend publiques les spécifications fonctionnelles pertinentes que ces moyens doivent présenter.
+
+Au terme d'une procédure d'évaluation certifiée prenant en compte leur conformité aux spécifications visées au premier alinéa et leur efficacité, la Haute Autorité établit une liste labellisant les moyens de sécurisation. Cette labellisation est périodiquement revue.
+
+Un décret en Conseil d'Etat précise la procédure d'évaluation et de labellisation de ces moyens de sécurisation.
+
+######## Article L331-27
+
+Les personnes dont l'activité est d'offrir un accès à des services de communication au public en ligne font figurer, dans les contrats conclus avec leurs abonnés, la mention claire et lisible des dispositions de l'article L. 336-3 et des mesures qui peuvent être prises par la commission de protection des droits. Elles font également figurer, dans les contrats conclus avec leurs abonnés, les sanctions pénales et civiles encourues en cas de violation des droits d'auteur et des droits voisins et en application de l'article L. 335-7-1.
+
+En outre, les personnes visées au premier alinéa du présent article informent leurs nouveaux abonnés et les personnes reconduisant leur contrat d'abonnement sur l'offre légale de contenus culturels en ligne, sur l'existence de moyens de sécurisation permettant de prévenir les manquements à l'obligation définie à l'article L. 336-3 ainsi que sur les dangers pour le renouvellement de la création artistique et pour l'économie du secteur culturel des pratiques ne respectant pas le droit d'auteur et les droits voisins.
+
+######## Article L331-28
+
+La commission de protection des droits peut conserver les données techniques mises à sa disposition pendant la durée nécessaire à l'exercice des compétences qui lui sont confiées à la présente sous-section.
+
+La personne dont l'activité est d'offrir un accès à des services de communication au public en ligne est tenue d'informer la commission de protection des droits de la date à laquelle elle a débuté la suspension ; la commission procède à l'effacement des données à caractère personnel relatives à l'abonné dès le terme de la période de suspension.
+
+######## Article L331-29
+
+Est autorisée la création, par la Haute Autorité, d'un traitement automatisé de données à caractère personnel portant sur les personnes faisant l'objet d'une procédure dans le cadre de la présente sous-section.
+
+Ce traitement a pour finalité la mise en œuvre, par la commission de protection des droits, des mesures prévues à la présente sous-section, de tous les actes de procédure afférents et des modalités de l'information des organismes de défense professionnelle et des sociétés de perception et de répartition des droits des éventuelles saisines de l'autorité judiciaire ainsi que des notifications prévues au cinquième alinéa de l'article L. 335-7.
+
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les modalités d'application du présent article. Il précise notamment :
+
+- les catégories de données enregistrées et leur durée de conservation ;
+- les destinataires habilités à recevoir communication de ces données, notamment les personnes dont l'activité est d'offrir un accès à des services de communication au public en ligne ;
+- les conditions dans lesquelles les personnes intéressées peuvent exercer, auprès de la Haute Autorité, leur droit d'accès aux données les concernant conformément à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+######## Article L331-30
+
+Un décret en Conseil d'Etat fixe les règles applicables à la procédure et à l'instruction des dossiers devant le collège et la commission de protection des droits de la Haute Autorité.
+
+####### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés par un droit d'auteur ou un droit voisin
+
+######## Article L331-31
+
+Au titre de sa mission de régulation et de veille dans les domaines des mesures techniques de protection et d'identification des oeuvres et des objets protégés par le droit d'auteur ou par les droits voisins, la Haute Autorité exerce les fonctions suivantes :
+
+1° Elle veille à ce que les mesures techniques visées à l'article L. 331-5 n'aient pas pour conséquence, du fait de leur incompatibilité mutuelle ou de leur incapacité d'interopérer, d'entraîner dans l'utilisation d'une oeuvre des limitations supplémentaires et indépendantes de celles expressément décidées par le titulaire d'un droit d'auteur sur une oeuvre autre qu'un logiciel ou par le titulaire d'un droit voisin sur une interprétation, un phonogramme, un vidéogramme ou un programme ;
+
+2° Elle veille à ce que la mise en oeuvre des mesures techniques de protection n'ait pas pour effet de priver les bénéficiaires des exceptions définies aux :
+
+- 2°, e du 3° à compter du 1er janvier 2009, 7° et 8° de l'article L. 122-5 ;
+- 2°, dernier alinéa du 3° à compter du 1er janvier 2009, 6° et 7° de l'article L. 211-3 ;
+- 3° et, à compter du 1er janvier 2009, 4° de l'article L. 342-3 ;
+- et à l'article L. 331-4.
+
+Elle veille également à ce que la mise en œuvre des mesures techniques de protection n'ait pas pour effet de priver les personnes bénéficiaires de l'exception de reproduction à des fins de collecte, de conservation et de consultation sur place mentionnée au 2° de l'article L. 132-4 et aux articles L. 132-5 et L. 132-6 du code du patrimoine.
+
+Sous réserve des articles L. 331-7 à L. 331-10, L. 331-33 à L. 331-35 et L. 331-37 du présent code, la Haute Autorité détermine les modalités d'exercice des exceptions précitées et fixe notamment le nombre minimal de copies autorisées dans le cadre de l'exception pour copie privée, en fonction du type d'oeuvre ou d'objet protégé, des divers modes de communication au public et des possibilités offertes par les techniques de protection disponibles.
+
+######## Article L331-32
+
+Tout éditeur de logiciel, tout fabricant de système technique et tout exploitant de service peut, en cas de refus d'accès aux informations essentielles à l'interopérabilité, demander à la Haute Autorité de garantir l'interopérabilité des systèmes et des services existants, dans le respect des droits des parties, et d'obtenir du titulaire des droits sur la mesure technique les informations essentielles à cette interopérabilité. A compter de sa saisine, la Haute Autorité dispose d'un délai de deux mois pour rendre sa décision.
+
+On entend par informations essentielles à l'interopérabilité la documentation technique et les interfaces de programmation nécessaires pour permettre à un dispositif technique d'accéder, y compris dans un standard ouvert au sens de l'article 4 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, à une oeuvre ou à un objet protégé par une mesure technique et aux informations sous forme électronique jointes, dans le respect des conditions d'utilisation de l'oeuvre ou de l'objet protégé qui ont été définies à l'origine.
+
+Le titulaire des droits sur la mesure technique ne peut imposer au bénéficiaire de renoncer à la publication du code source et de la documentation technique de son logiciel indépendant et interopérant que s'il apporte la preuve que celle-ci aurait pour effet de porter gravement atteinte à la sécurité et à l'efficacité de ladite mesure technique.
+
+La Haute Autorité peut accepter des engagements proposés par les parties et de nature à mettre un terme aux pratiques contraires à l'interopérabilité. A défaut d'un accord entre les parties et après avoir mis les intéressés à même de présenter leurs observations, elle rend une décision motivée de rejet de la demande ou émet une injonction prescrivant, au besoin sous astreinte, les conditions dans lesquelles le demandeur peut obtenir l'accès aux informations essentielles à l'interopérabilité et les engagements qu'il doit respecter pour garantir l'efficacité et l'intégrité de la mesure technique, ainsi que les conditions d'accès et d'usage du contenu protégé. L'astreinte prononcée par la Haute Autorité est liquidée par cette dernière.
+
+La Haute Autorité a le pouvoir d'infliger une sanction pécuniaire applicable soit en cas d'inexécution de ses injonctions, soit en cas de non-respect des engagements qu'elle a acceptés. Chaque sanction pécuniaire est proportionnée à l'importance du dommage causé aux intéressés, à la situation de l'organisme ou de l'entreprise sanctionné et à l'éventuelle réitération des pratiques contraires à l'interopérabilité. Elle est déterminée individuellement et de façon motivée. Son montant maximum s'élève à 5 % du montant du chiffre d'affaires mondial hors taxes le plus élevé réalisé au cours d'un des exercices clos depuis l'exercice précédant celui au cours duquel les pratiques contraires à l'interopérabilité ont été mises en oeuvre dans le cas d'une entreprise et à 1,5 million d'euros dans les autres cas.
+
+Les décisions de la Haute Autorité sont rendues publiques dans le respect des secrets protégés par la loi. Elles sont notifiées aux parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet suspensif.
+
+Le président de la Haute Autorité saisit l'Autorité de la concurrence des abus de position dominante et des pratiques entravant le libre exercice de la concurrence dont il pourrait avoir connaissance dans le secteur des mesures techniques. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, dans les conditions prévues à l'article L. 464-1 du code de commerce. Le président de la Haute Autorité peut également le saisir, pour avis, de toute autre question relevant de sa compétence. L'Autorité de la concurrence communique à la Haute Autorité toute saisine entrant dans le champ de compétence de celle-ci et recueille son avis sur les pratiques dont il est saisi dans le secteur des mesures techniques mentionnées à l'article L. 331-5 du présent code.
+
+######## Article L331-33
+
+Toute personne bénéficiaire des exceptions mentionnées au 2° de l'article L. 331-31 ou toute personne morale agréée qui la représente peut saisir la Haute Autorité de tout différend portant sur les restrictions que les mesures techniques de protection définies à l'article L. 331-5 apportent au bénéfice desdites exceptions.
+
+######## Article L331-34
+
+Les personnes morales et les établissements ouverts au public visés au 7° de l'article L. 122-5 qui réalisent des reproductions ou des représentations d'une oeuvre ou d'un objet protégé adaptées aux personnes handicapées peuvent saisir la Haute Autorité de tout différend portant sur la transmission des textes imprimés sous la forme d'un fichier numérique.
+
+######## Article L331-35
+
+Dans le respect des droits des parties, la Haute Autorité favorise ou suscite une solution de conciliation. Lorsqu'elle dresse un procès-verbal de conciliation, celui-ci a force exécutoire ; il fait l'objet d'un dépôt au greffe du tribunal d'instance.
+
+A défaut de conciliation dans un délai de deux mois à compter de sa saisine, la Haute Autorité, après avoir mis les intéressés à même de présenter leurs observations, rend une décision motivée de rejet de la demande ou émet une injonction prescrivant, au besoin sous astreinte, les mesures propres à assurer le bénéfice effectif de l'exception. L'astreinte prononcée par la Haute Autorité est liquidée par cette dernière.
 
 Ces décisions ainsi que le procès-verbal de conciliation sont rendus publics dans le respect des secrets protégés par la loi. Elles sont notifiées aux parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet suspensif.
 
-####### Article L331-16
+######## Article L331-36
 
-Un décret en Conseil d'Etat précise les conditions d'application de la présente section. Il prévoit les modalités d'information des utilisateurs d'une oeuvre, d'un vidéogramme, d'un programme ou d'un phonogramme mentionnées à l'article L. 331-12.
+La Haute Autorité peut être saisie pour avis par l'une des personnes visées à l'article L. 331-32 de toute question relative à l'interopérabilité des mesures techniques.
 
-####### Article L331-17
+Elle peut également être saisie pour avis, par une personne bénéficiaire de l'une des exceptions mentionnées au 2° de l'article L. 331-31 ou par la personne morale agréée qui la représente, de toute question relative à la mise en œuvre effective de cette exception.
 
-L'Autorité de régulation des mesures techniques est une autorité administrative indépendante. Elle assure une mission générale de veille dans les domaines des mesures techniques de protection et d'identification des oeuvres et des objets protégés par le droit d'auteur ou par les droits voisins.
+######## Article L331-37
 
-Elle rend compte chaque année, dans un rapport remis au Gouvernement et au Parlement, des évolutions les plus marquantes qu'elle a constatées dans ce domaine et de leur impact prévisible sur la diffusion des contenus culturels. Elle peut être consultée par les commissions parlementaires sur les adaptations de l'encadrement législatif que ces évolutions rendraient nécessaires.
-
-Elle rend compte également des orientations qu'elle a fixées sur le fondement de l'article L. 331-8 en matière de périmètre de la copie privée, ainsi que des décisions qu'elle a rendues sur le fondement de l'article L. 331-7.
-
-####### Article L331-18
-
-L'Autorité de régulation des mesures techniques est composée de six membres nommés par décret.
-
-Outre le président de la commission mentionnée à l'article L. 311-5 qui participe aux travaux de la commission avec voix consultative, ses membres sont :
-
-1° Un conseiller d'Etat désigné par le vice-président du Conseil d'Etat ;
-
-2° Un conseiller à la Cour de cassation désigné par le premier président de la Cour de cassation ;
-
-3° Un conseiller maître à la Cour des comptes désigné par le premier président de la Cour des comptes ;
-
-4° Un membre désigné par le président de l'Académie des technologies, en raison de ses compétences en matière de technologies de l'information ;
-
-5° Un membre du Conseil supérieur de la propriété littéraire et artistique désigné par le président du Conseil supérieur de la propriété littéraire et artistique.
-
-La durée du mandat des membres de l'autorité est de six ans. Il n'est ni renouvelable, ni révocable.
-
-En cas de vacance d'un siège de membre de l'autorité, il est procédé à son remplacement pour la durée du mandat restant à courir.
-
-Le président est élu par les membres parmi les personnes mentionnées aux 1°,2° et 3°.
-
-####### Article L331-19
-
-Les fonctions de membre de l'Autorité de régulation des mesures techniques sont incompatibles avec les fonctions de dirigeant ou de salarié ou les qualités d'ancien dirigeant ou d'ancien salarié d'une société régie par le titre II du présent livre ou de toute entreprise exerçant une activité de production de phonogrammes ou de vidéogrammes ou offrant des services de téléchargement d'oeuvres protégées.
-
-Les membres de l'autorité ne peuvent, directement ou indirectement, détenir d'intérêts dans une entreprise exerçant une des activités mentionnées au premier alinéa.
-
-Aucun membre de l'autorité ne peut participer à une délibération concernant une entreprise ou une société contrôlée, au sens de l'article L. 233-16 du code de commerce, par une entreprise dans laquelle il a, au cours des trois années précédant la délibération, exercé des fonctions ou détenu un mandat.
-
-####### Article L331-20
-
-L'Autorité de régulation des mesures techniques dispose de services qui sont placés sous l'autorité de son secrétaire général.
-
-Les rapporteurs chargés de l'instruction des dossiers auprès de l'autorité sont nommés sur proposition du président par arrêté du ministre chargé de la culture.
-
-L'autorité peut faire appel à des experts. Elle propose, lors de l'élaboration du projet de loi de finances de l'année, les crédits nécessaires à l'accomplissement de ses missions. Ceux-ci sont inscrits au budget général de l'Etat.
-
-Le président de l'autorité est ordonnateur des dépenses. Il présente les comptes de l'autorité à la Cour des comptes.
-
-####### Article L331-21
-
-Les décisions de l'Autorité de régulation des mesures techniques sont prises à la majorité des voix. En cas de partage égal des voix, la voix du président est prépondérante.
-
-Un décret en Conseil d'Etat fixe les règles applicables à la procédure et à l'instruction des dossiers.
+Un décret en Conseil d'Etat précise les conditions d'application de la présente sous-section. Il prévoit les modalités d'information des utilisateurs d'une oeuvre, d'un vidéogramme, d'un programme ou d'un phonogramme mentionnées à l'article L. 331-10.
 
 ##### Chapitre II : Saisie-contrefaçon
 
@@ -1792,6 +1968,36 @@ Elle peut ordonner la destruction, aux frais du condamné, ou la remise à la pa
 
 Elle peut également ordonner, aux frais du condamné, l'affichage du jugement ou la diffusion du jugement prononçant la condamnation, dans les conditions prévues à l'article 131-35 du code pénal.
 
+###### Article L335-7
+
+Lorsque l'infraction est commise au moyen d'un service de communication au public en ligne, les personnes coupables des infractions prévues aux articles L. 335-2, L. 335-3 et L. 335-4 peuvent en outre être condamnées à la peine complémentaire de suspension de l'accès à un service de communication au public en ligne pour une durée maximale d'un an, assortie de l'interdiction de souscrire pendant la même période un autre contrat portant sur un service de même nature auprès de tout opérateur.
+
+Lorsque ce service est acheté selon des offres commerciales composites incluant d'autres types de services, tels que services de téléphonie ou de télévision, les décisions de suspension ne s'appliquent pas à ces services.
+
+La suspension de l'accès n'affecte pas, par elle-même, le versement du prix de l'abonnement au fournisseur du service. L'article L. 121-84 du code de la consommation n'est pas applicable au cours de la période de suspension.
+
+Les frais d'une éventuelle résiliation de l'abonnement au cours de la période de suspension sont supportés par l'abonné.
+
+Lorsque la décision est exécutoire, la peine complémentaire prévue au présent article est portée à la connaissance de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet, qui la notifie à la personne dont l'activité est d'offrir un accès à des services de communication au public en ligne afin qu'elle mette en œuvre, dans un délai de quinze jours au plus à compter de la notification, la suspension à l'égard de l'abonné concerné.
+
+Le fait, pour la personne dont l'activité est d'offrir un accès à des services de communication au public en ligne, de ne pas mettre en œuvre la peine de suspension qui lui a été notifiée est puni d'une amende maximale de 5 000 €.
+
+Le 3° de l'article 777 du code de procédure pénale n'est pas applicable à la peine complémentaire prévue par le présent article.
+
+###### Article L335-7-1
+
+Pour les contraventions de la cinquième classe prévues par le présent code, lorsque le règlement le prévoit, la peine complémentaire définie à l'article L. 335-7 peut être prononcée selon les mêmes modalités, en cas de négligence caractérisée, à l'encontre du titulaire de l'accès à un service de communication au public en ligne auquel la commission de protection des droits, en application de l'article L. 331-25, a préalablement adressé, par voie d'une lettre remise contre signature ou de tout autre moyen propre à établir la preuve de la date de présentation, une recommandation l'invitant à mettre en œuvre un moyen de sécurisation de son accès à internet.
+
+La négligence caractérisée s'apprécie sur la base des faits commis au plus tard un an après la présentation de la recommandation mentionnée à l'alinéa précédent.
+
+Dans ce cas, la durée maximale de la suspension est d'un mois.
+
+Le fait pour la personne condamnée à la peine complémentaire prévue par le présent article de ne pas respecter l'interdiction de souscrire un autre contrat d'abonnement à un service de communication au public en ligne pendant la durée de la suspension est puni d'une amende d'un montant maximal de 3 750 €.
+
+###### Article L335-7-2
+
+Pour prononcer la peine de suspension prévue aux articles L. 335-7 et L. 335-7-1 et en déterminer la durée, la juridiction prend en compte les circonstances et la gravité de l'infraction ainsi que la personnalité de son auteur, et notamment l'activité professionnelle ou sociale de celui-ci, ainsi que sa situation socio-économique. La durée de la peine prononcée doit concilier la protection des droits de la propriété intellectuelle et le respect du droit de s'exprimer et de communiquer librement, notamment depuis son domicile.
+
 ###### Article L335-8
 
 Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies aux articles L. 335-2 à L. 335-4-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du même code.
@@ -1839,9 +2045,7 @@ En présence d'une atteinte à un droit d'auteur ou à un droit voisin occasionn
 
 La personne titulaire de l'accès à des services de communication au public en ligne a l'obligation de veiller à ce que cet accès ne fasse pas l'objet d'une utilisation à des fins de reproduction, de représentation, de mise à disposition ou de communication au public d'œuvres ou d'objets protégés par un droit d'auteur ou par un droit voisin sans l'autorisation des titulaires des droits prévus aux livres Ier et II lorsqu'elle est requise.
 
-[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-580 DC du 10 juin 2009.]
-
-Le manquement de la personne titulaire de l'accès à l'obligation définie au premier alinéa n'a pas pour effet d'engager la responsabilité pénale de l'intéressé.
+Le manquement de la personne titulaire de l'accès à l'obligation définie au premier alinéa n'a pas pour effet d'engager la responsabilité pénale de l'intéressé, sous réserve des articles L. 335-7 et L. 335-7-1.
 
 ###### Article L336-4
 
@@ -5882,6 +6086,10 @@ Le ministre chargé de la culture désigne chaque année la société répondant
 
 Les agents désignés par le Centre national de la cinématographie, par les organismes de défense professionnelle visés à l'article L. 331-1 et par les sociétés mentionnées au titre II du présent livre, après avoir été agréés par le ministre chargé de la culture, prêtent serment devant le juge du tribunal d'instance de leur résidence. La formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ".
 
+###### Article D331-1-1
+
+Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière de propriété littéraire et artistique en application de l'article L. 331-1 du code de la propriété intellectuelle sont fixés conformément à l'article D. 211-6-1 du code de l'organisation judiciaire.
+
 ##### Section 2 : Mesures techniques de protection et d'information
 
 ###### Sous-section 1 : Organisation et fonctionnement de l'Autorité de régulation des mesures techniques
@@ -6676,58 +6884,15 @@ Les recettes accessoires que l'Institut national de la propriété industrielle 
 
 ###### Article R411-19
 
-La cour d'appel territorialement compétente pour connaître des recours formés contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle est celle du lieu où demeure la personne qui forme le recours, compte tenu des regroupements opérés au tableau IV bis annexé au code de l'organisation judiciaire, ci-après reproduit :
+La cour d'appel territorialement compétente pour connaître directement des recours formés contre les décisions du directeur général de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle est celle du lieu où demeure la personne qui forme le recours.
 
-Siège et ressort des cours d'appel compétentes pour connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien des titres de propriété industrielle.
+###### Article D411-19-1
 
-<table><tbody>
- <tr>
-  <td><center>Siège</center></td>
-  <td><center>Ressort s'étendant aux limites territoriales des cours d'appel et des tribunaux supérieurs d'appel de</center></td>
- </tr>
- <tr>
-  <td>Aix-en-Provence</td>
-  <td>Aix-en-Provence, Bastia, Nîmes</td>
- </tr>
- <tr>
-  <td>Bordeaux</td>
-  <td>Agen, Bordeaux, Poitiers</td>
- </tr>
- <tr>
-  <td>Colmar</td>
-  <td>Colmar, Metz</td>
- </tr>
- <tr>
-  <td>Douai</td>
-  <td>Amiens, Douai</td>
- </tr>
- <tr>
-  <td>Limoges</td>
-  <td>Bourges, Limoges, Riom</td>
- </tr>
- <tr>
-  <td>Lyon</td>
-  <td>Chambéry, Lyon, Grenoble</td>
- </tr>
- <tr>
-  <td>Nancy</td>
-  <td>Besançon, Dijon, Blois, Nancy</td>
- </tr>
- <tr>
-  <td>Paris</td>
-  <td>Orléans, Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion, Nouméa, Papeete, Mamoudzou et Saint-Pierre-et-Miquelon</td>
- </tr>
- <tr>
-  <td>Rennes</td>
-  <td>Angers, Caen, Rennes</td>
- </tr>
- <tr>
-  <td>Toulouse</td>
-  <td>Pau, Montpellier, Toulouse</td>
- </tr>
-</tbody></table>
+Le siège et le ressort des cours d'appel ayant compétence pour connaître des actions mentionnées à l'article R. 411-19 sont fixés conformément au tableau XVI annexé à l'article D. 311-8 du code de l'organisation judiciaire.
 
-Lorsque cette personne demeure à l'étranger, la cour d'appel de Paris est compétente. Il doit être fait élection de domicile dans le ressort de cette cour.
+Lorsque la personne qui forme le recours demeure à l'étranger, la cour d'appel de Paris est compétente. Il doit être fait élection de domicile dans le ressort de cette cour.
+
+Toutefois, la cour d'appel de Paris est seule compétente pour connaître directement des recours formés contre les décisions du directeur de l'Institut national de la propriété industrielle en matière de délivrance, rejet ou maintien de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs.
 
 ###### Article R411-20
 
@@ -8100,6 +8265,12 @@ Le délai prévu au dernier alinéa de l'article L. 521-4 et imparti au demandeu
 ###### Article R521-5
 
 Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve des actes de contrefaçon allégués. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+
+##### Section 3 : Dispositions communes
+
+###### Article D521-6
+
+Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière de dessins et modèles en application de l'article L. 521-3-1 du code de la propriété intellectuelle sont fixés conformément au tableau VI annexé à l'article D. 211-6-1 du code de l'organisation judiciaire.
 
 #### Chapitre II : Contentieux des dessins et modèles communautaires
 
@@ -10672,7 +10843,7 @@ Ainsi qu'il est dit à l'article D. 211-5 du code de l'organisation judiciaire, 
 
 ##### Article D631-2
 
-Ainsi qu'il est dit à l'article D. 211-6 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs en application des articles L. 611-2, L. 615-17 et L. 622-7 du code de la propriété intellectuelle sont fixés conformément au tableau VI annexé au code de l'organisation judiciaire.
+Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière de brevets d'invention, de certificats d'utilité, de certificats complémentaires de protection et de topographies de produits semi-conducteurs en application des articles L. 611-2, L. 615-17 et L. 622-7 du code de la propriété intellectuelle sont fixés conformément à l'article D. 211-6 du code de l'organisation judiciaire.
 
 ## Livre VII : Marques de fabrique, de commerce ou de service et autres signes distinctifs
 
@@ -11186,6 +11357,12 @@ IV.-L'administration des douanes conserve les échantillons qui lui sont attribu
 
 Les échantillons détenus par le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation ou le représentant de l'un d'entre eux sont restitués, le cas échéant, au détenteur ou au propriétaire de la marchandise ou à un représentant de l'un d'entre eux, sauf destruction des échantillons résultant de l'analyse prévue par l'article L. 716-8-3.
 
+##### Section 4 : Dispositions communes
+
+###### Article D716-12
+
+Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière de marques en application de l'article L. 716-3 du code de la propriété intellectuelle sont fixés conformément au tableau VI annexé à l'article D. 211-6-1 du code de l'organisation judiciaire.
+
 #### Chapitre VII : Marque internationale et marque communautaire
 
 ##### Section 1 : Marque internationale
@@ -11335,6 +11512,12 @@ Le délai prévu au dernier alinéa de l'article L. 722-4 et imparti au demandeu
 ###### Article R722-5
 
 Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve des actes portant prétendument atteinte à une indication géographique. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
+
+##### Section 3 : Dispositions communes
+
+###### Article D722-6
+
+Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière d'indications géographiques en application de l'article L. 722-8 du code de la propriété intellectuelle sont fixés conformément au tableau VI annexé à l'article D. 211-6-1 du code de l'organisation judiciaire.
 
 ## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises
 
