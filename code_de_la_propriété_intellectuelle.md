@@ -5334,6 +5334,28 @@ Les personnes morales et les établissements inscrits sur la liste mentionnée �
 
 ###### Sous-section 4 : Dispositions relatives à l'organisme dépositaire des fichiers numériques ayant servi à l'édition d'œuvres imprimées
 
+####### Article R122-19
+
+L'organisme dépositaire mentionné au troisième alinéa du 7° de l'article L. 122-5 doit remplir les conditions suivantes :
+
+a) Exercer une activité d'organisation et de mise à disposition du public de ressources documentaires ;
+
+b) Disposer d'une infrastructure permettant le développement, d'une part, des moyens nécessaires à la mise à disposition des fichiers numériques ayant servi à l'édition d'œuvres imprimées, d'autre part, des techniques de sécurisation, de stockage et de communication de ces fichiers ;
+
+c) Ne pas avoir pour objet social ou statutaire la défense des droits des personnes atteintes d'un handicap ou du droit de la propriété intellectuelle.
+
+####### Article R122-20
+
+L'éditeur transmet à l'organisme dépositaire le fichier numérique ayant servi à l'édition d'une œuvre imprimée dans les deux mois de la demande qui lui en est faite par celui-ci.
+
+####### Article R122-21
+
+L'organisme dépositaire rend compte chaque année dans un rapport au ministre chargé de la culture et au ministre chargé des personnes handicapées des conditions de dépôt et de mise à disposition des fichiers numériques ayant servi à l'édition d'œuvres imprimées.
+
+####### Article D122-22
+
+L'organisme dépositaire mentionné au troisième alinéa du 7° de l'article L. 122-5 est la Bibliothèque nationale de France.
+
 #### Chapitre III : Durée de la protection
 
 ### Titre III : Exploitation des droits
