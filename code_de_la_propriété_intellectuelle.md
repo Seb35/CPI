@@ -978,7 +978,7 @@ La rémunération au titre du prêt en bibliothèque est répartie dans les cond
 
 1° Une première part est répartie à parts égales entre les auteurs et leurs éditeurs à raison du nombre d'exemplaires des livres achetés chaque année, pour leurs bibliothèques accueillant du public pour le prêt, par les personnes morales mentionnées au troisième alinéa (2°) de l'article 3 de la loi n° 81-766 du 10 août 1981 précitée, déterminé sur la base des informations que ces personnes et leurs fournisseurs communiquent à la ou aux sociétés mentionnées à l'article L. 133-2 ;
 
-2° Une seconde part, qui ne peut excéder la moitié du total, est affectée à la prise en charge d'une fraction des cotisations dues au titre de la retraite complémentaire par les personnes visées au second alinéa de l'article L. 382-12 du code de la sécurité sociale.
+2° Une seconde part, qui ne peut excéder la moitié du total, est affectée à la prise en charge d'une fraction des cotisations dues au titre de la retraite complémentaire par les personnes visées aux troisième et quatrième alinéas de l'article L. 382-12 du code de la sécurité sociale.
 
 ### Livre II : Les droits voisins du droit d'auteur
 
@@ -6106,411 +6106,346 @@ Le ministre chargé de la culture désigne chaque année la société répondant
 
 ###### Article R331-1
 
-Les agents désignés par le Centre national de la cinématographie, par les organismes de défense professionnelle visés à l'article L. 331-1 et par les sociétés mentionnées au titre II du présent livre, après avoir été agréés par le ministre chargé de la culture, prêtent serment devant le juge du tribunal d'instance de leur résidence. La formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ".
+I.-L'agrément mentionné à l'article L. 331-2 est délivré, de manière individuelle, par le ministre chargé de la culture pour une durée de cinq ans renouvelable.
+
+Pour délivrer l'agrément, le ministre vérifie que l'agent est ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen et qu'il présente les capacités et les garanties requises au regard des fonctions pour lesquelles l'agrément est sollicité. Il tient compte notamment de son niveau de formation et de son expérience professionnelle.
+
+L'agrément ne peut être accordé en cas de condamnation pour crime ou en cas de condamnation à une peine correctionnelle pour des faits incompatibles avec les fonctions à exercer. Le ministre chargé de la culture s'assure du respect de cette condition en demandant communication du bulletin n° 2 du casier judiciaire de l'agent au casier judiciaire national automatisé par un moyen de télécommunication sécurisé ou de son équivalent pour les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
+
+II.-La demande présentée par le Centre national du cinéma et de l'image animée, un organisme de défense professionnelle visé à l'article L. 331-1 ou une société mentionnée au titre II du présent livre en vue d'obtenir l'agrément de l'un de ses agents comprend :
+
+1° Un extrait d'acte de naissance avec filiation pour les ressortissants français ou un document équivalent pour les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
+
+2° L'indication des fonctions confiées à l'agent et une copie des documents attestant de son niveau de formation et de son expérience professionnelle, notamment dans le recueil d'éléments probants.
+
+III.-La demande de renouvellement de l'agrément est présentée au plus tard trois mois avant l'expiration de l'agrément.
+
+La demande de renouvellement comporte uniquement l'indication des fonctions exercées par l'agent.
+
+IV.-Après avoir été agréés par le ministre chargé de la culture, les agents prêtent serment devant le juge d'instance de leur résidence. La formule de serment est la suivante : "Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice".
+
+Ces agents demeurent liés par les termes de leur serment tout au long de l'exercice de leurs fonctions, sans être tenus de prêter à nouveau serment à chaque renouvellement de leur agrément.
+
+V.-Le Centre national du cinéma et de l'image animée, les organismes de défense professionnelle visés à l'article L. 331-1 et les sociétés mentionnées au titre II du présent livre informent le ministre chargé de la culture dans les meilleurs délais dès lors que l'agent au profit duquel ils ont sollicité un agrément n'exerce plus les fonctions à raison desquelles il a été agréé ou qu'il cesse d'être employé par eux.
+
+VI.-Le ministre chargé de la culture peut, par décision motivée, mettre fin à l'agrément dès lors que son titulaire n'exerce plus les fonctions à raison desquelles il a été habilité ou ne remplit plus les conditions définies au I du présent article.
+
+La personne intéressée est préalablement informée des motifs et de la nature de la mesure envisagée et mise à même de présenter des observations. En cas d'urgence, le ministre chargé de la culture peut suspendre l'agrément pour une durée maximale de six mois.
 
 ###### Article D331-1-1
 
 Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière de propriété littéraire et artistique en application de l'article L. 331-1 du code de la propriété intellectuelle sont fixés conformément à l'article D. 211-6-1 du code de l'organisation judiciaire.
 
-##### Section 2 : Mesures techniques de protection et d'information
+##### Section 2 : Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet
 
-###### Sous-section 1 : Organisation et fonctionnement de l'Autorité de régulation des mesures techniques
+###### Sous-section 1 : Organisation de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet
 
-####### Article R331-3
+####### Paragraphe 1 : Le collège de la Haute Autorité
 
-Les membres de l'Autorité sont convoqués par son président. La convocation est de droit à la demande du tiers des membres de l'Autorité. La convocation précise l'ordre du jour.
+######## Article R331-2
 
-L'Autorité ne peut valablement délibérer que si au moins trois de ses membres en exercice, avec voix délibérative, participent à la séance.
+I.-Les membres du collège de la Haute Autorité sont convoqués par son président qui fixe l'ordre du jour. La convocation est de droit à la demande de la moitié des membres du collège.
 
-Les séances de l'Autorité ne sont pas publiques.
+II.-Le collège ne peut valablement délibérer que si au moins cinq de ses membres sont présents.
 
-L'Autorité peut entendre toute personne dont l'audition lui paraît susceptible de contribuer à son information.
+Lorsque, en application du dernier alinéa de l'article L. 331-18, un membre ne participe pas à une délibération, il est réputé présent au titre du quorum.
 
-####### Article R331-4
+III.-Les décisions du collège sont prises à la majorité des voix. La voix du président est prépondérante en cas de partage égal des voix.
 
-L'Autorité établit son règlement intérieur, qui précise notamment les conditions de son fonctionnement et les règles de déontologie ainsi que de procédure applicables devant elle.
+######## Article R331-3
 
-####### Article R331-9
+Les séances du collège de la Haute Autorité ne sont pas publiques.
 
-I. - L'Autorité fixe les règles de déontologie applicables à ses membres et rapporteurs, aux experts et à toute personne lui apportant son concours.
+Le collège peut entendre toute personne dont l'audition lui paraît susceptible de contribuer à son information.
 
-II. - Les personnes mentionnées au I sont tenues au secret professionnel. Elles ne peuvent traiter une question dans laquelle elles ont un intérêt direct ou indirect. En cas de manquement à ces dispositions, l'Autorité statuant à la majorité de ses membres peut mettre fin à leur collaboration.
+######## Article R331-4
 
-III. - Les personnes mentionnées au I adressent au président de l'Autorité, à l'occasion de leur nomination ou de leur entrée en fonctions, une déclaration mentionnant leurs liens, directs ou indirects, avec toute société régie par le titre II du livre III du présent code ou toute entreprise exerçant une activité de production de phonogrammes ou de vidéogrammes, offrant des services de téléchargement ou tout titulaire de droits sur une mesure technique de protection et d'information. Cette déclaration doit être actualisée à leur initiative dès qu'une modification intervient concernant la nature ou l'étendue de ces liens, ou que de nouveaux liens sont noués.
+I.-Le collège délibère sur toutes les questions relatives à la Haute Autorité, autres que celles qui relèvent de la commission de protection des droits.
 
-IV. - Lorsqu'un membre n'a pas assisté, sans motif valable, à cinq réunions consécutives du collège, l'Autorité peut, après que l'intéressé ait été préalablement invité à présenter ses observations, prononcer sa démission d'office. Le président en informe l'autorité qui a proposé la nomination de ce membre.
+Il délibère notamment sur :
 
-####### Article R331-6
+1° L'élection de son président ;
 
-Le secrétaire général est désigné par l'Autorité, sur proposition de son président. Il prépare les délibérations de l'Autorité, met en oeuvre ses décisions et lui rend compte de l'exécution de celles-ci.
+2° Les conditions générales de recrutement, de gestion et de rémunération du personnel et les modalités de création et de fonctionnement des instances représentatives du personnel ;
 
-Le président peut déléguer sa signature au secrétaire général pour signer tous actes relatifs au fonctionnement de l'Autorité.
+3° Les crédits nécessaires à l'accomplissement des missions de la Haute Autorité qui sont proposés par celle-ci lors de l'élaboration du projet de loi de finances de l'année ;
 
-Des régies de recettes et d'avances peuvent être instituées conformément aux dispositions du décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+4° Le budget annuel et, le cas échéant, ses modifications en cours d'année ainsi que le programme d'activités qui lui est associé ;
 
-####### Article R331-5
+5° Le règlement intérieur de la Haute Autorité ;
 
-Le président de l'Autorité est suppléé, en cas d'absence ou d'empêchement, par un membre qu'il désigne parmi les personnes mentionnées aux 1°, 2° et 3° de l'article L. 331-18.
+6° Les règles de déontologie applicables à ses membres, aux agents des services et à toute personne lui apportant son concours ;
 
-Le président de l'Autorité est remplacé, en cas de vacance, jusqu'à la nouvelle élection, par l'un des membres dans l'ordre prévu à l'article L. 331-18.
+7° Le règlement comptable et financier ;
 
-####### Article R331-7
+8° Les conditions générales de passation des contrats et marchés ;
 
-Les rapporteurs sont nommés parmi les agents publics de catégorie A ou assimilés, en activité ou ayant fait valoir leurs droits à la retraite, et les personnes pouvant justifier d'une expérience d'au moins cinq ans dans le domaine du droit de la propriété intellectuelle ou dans celui des mesures techniques et titulaires d'un des diplômes permettant d'accéder à un corps de catégorie A.
+9° Le compte financier et l'affectation des résultats ;
 
-Peuvent également être nommés rapporteurs les magistrats de l'ordre judiciaire détachés ou mis à disposition de l'Autorité en application des dispositions de l'article R. 331-8.
+10° Les actions en justice et les transactions d'un montant supérieur à un seuil qu'il fixe, sur proposition du président ;
 
-####### Article R331-8
+11° La publication des indicateurs mentionnés au premier alinéa de l'article L. 331-23 ;
 
-Des fonctionnaires et des magistrats de l'ordre judiciaire peuvent être détachés ou mis à disposition auprès de l'Autorité dans les conditions prévues par leur statut.
+12° L'attribution du label mentionné au deuxième alinéa de l'article L. 331-23 ;
 
-Le président de l'Autorité peut également faire appel, avec l'accord des ministres intéressés, aux services des ministères chargés de la culture, de la communication, de l'économie, des finances et de l'industrie, ainsi que du Centre national de la cinématographie, dont le concours est nécessaire à l'accomplissement de ses missions.
+13° Les procédures applicables en matière d'interopérabilité des mesures techniques mentionnées à l'article L. 331-32 ;
 
-####### Article R331-10
+14° Les procédures applicables en matière d'exceptions au droit d'auteur et aux droits voisins mentionnées à l'article L. 331-35 ;
 
-Le président de l'Autorité est rémunéré sous la forme d'indemnités forfaitaires mensuelles.
+15° Les saisines pour avis en matière d'interopérabilité des mesures techniques et d'exceptions au droit d'auteur et aux droits voisins mentionnées à l'article L. 331-36 ;
 
-Les membres de l'Autorité sont rémunérés sous la forme d'une indemnité forfaitaire par séance.
+16° Les conditions générales de consultation d'experts ;
 
-Les rapporteurs et les personnes apportant leur concours à l'Autorité sont rémunérés sous la forme de vacations, dont le nombre est fixé par le président de l'Autorité, pour chaque dossier, en fonction du temps nécessaire à son instruction.
+17° Les recommandations de modification législative ou réglementaire mentionnées au dernier alinéa de l'article L. 331-13 ;
 
-Le montant et les modalités d'attribution de ces indemnités ainsi que le montant unitaire des vacations sont fixés par arrêté conjoint des ministres chargés de la culture, du budget et de la fonction publique.
+18° Les consultations du Gouvernement ou des commissions parlementaires mentionnées au dernier alinéa de l'article L. 331-13 ;
 
-Les membres, les rapporteurs et les personnes apportant leur concours à l'Autorité peuvent prétendre au remboursement des frais de déplacement et de séjour que nécessite l'accomplissement de leurs missions, dans les conditions applicables aux personnels civils de l'Etat.
+19° Le rapport mentionné à l'article L. 331-14 ;
 
-####### Article R331-11
+20° Les demandes d'avis aux autorités administratives, aux organismes extérieurs ou aux associations représentatives des utilisateurs des réseaux de communications électroniques mentionnées à l'article L. 331-19 et les consultations pour avis par ces mêmes autorités ou organismes ;
 
-Lorsque l'Autorité est consultée par les commissions parlementaires, en application de l'article L. 331-17, sur les adaptations de l'encadrement législatif que nécessitent les évolutions dans le domaine des mesures techniques, son avis est rendu public.
+21° La publication des spécifications fonctionnelles pertinentes et l'établissement de la liste labellisant les moyens de sécurisation mentionnés à l'article L. 331-26.
 
-Le rapport de l'Autorité au Gouvernement et au Parlement, prévu à l'article L. 331-17, relatif aux évolutions constatées dans le domaine des mesures techniques et à leur impact prévisible sur la diffusion des contenus culturels, est également rendu public. Il comprend notamment les éléments de compte rendu mentionnés au troisième alinéa de cet article, s'agissant, d'une part, des décisions prises par l'Autorité, sur le fondement de l'article L. 331-7, en matière d'interopérabilité, d'autre part, des orientations qu'elle a fixées, dans le cadre des articles L. 331-8 à L. 331-16, pour ce qui regarde le périmètre et les modalités d'exercice de l'exception pour copie privée.
+II.-Les délibérations mentionnées aux 2° à 6° et 16° à 21° du I sont prises après avis de la commission de protection des droits.
 
-####### Article D331-9-1
+######## Article D331-5
+
+Les membres du collège de la Haute Autorité perçoivent une indemnité forfaitaire pour chaque séance plénière du collège, dans la limite d'un plafond annuel.
+
+Le montant de ces indemnités ainsi que le plafond annuel sont fixés par un arrêté conjoint des ministres chargés de la culture, du budget et de la fonction publique.
+
+####### Paragraphe 2 : La commission de protection des droits
+
+######## Article R331-6
+
+La commission de protection des droits est convoquée par son président qui fixe l'ordre du jour.
+
+La commission de protection des droits ne peut valablement délibérer que si au moins deux de ses membres sont présents.
+
+######## Article R331-7
+
+Les séances de la commission de protection des droits ne sont pas publiques.
+
+######## Article D331-8
+
+Les membres de la commission de protection des droits perçoivent une indemnité forfaitaire dont le montant annuel est fixé par arrêté conjoint des ministres chargés de la culture, du budget et de la fonction publique.
+
+####### Paragraphe 3 : Le président et le secrétaire général de la Haute Autorité
+
+######## Article R331-9
+
+Le président de la Haute Autorité nomme aux emplois. Il a autorité sur l'ensemble des personnels des services. Il fixe l'organisation des services après avis du collège. Il signe tous actes relatifs à l'activité de la Haute Autorité, sous réserve des compétences de la commission de protection des droits.
+
+Il représente la Haute Autorité en justice.
+
+Il peut transiger dans les conditions fixées par le 10° de l'article R. 331-4 et par les articles 2044 à 2058 du code civil.
+
+######## Article R331-10
+
+Dans le cadre des règles générales fixées par le collège de la Haute Autorité, le président a qualité pour :
+
+1° Liquider et ordonnancer les recettes et les dépenses ;
+
+2° Passer au nom de celles-ci tous contrats et marchés ;
+
+3° Recruter le personnel et fixer ses rémunérations et indemnités ;
+
+4° Tenir la comptabilité des engagements.
+
+La compétence mentionnée au 3° s'exerce après avis de la commission de protection des droits pour les agents dont dispose cette commission.
+
+######## Article R331-11
+
+Pour l'exercice des pouvoirs mentionnés ci-dessus, le président peut déléguer sa signature au secrétaire général.
+
+######## Article R331-12
+
+Le président est suppléé, en cas d'absence ou d'empêchement, par un membre qu'il désigne parmi les personnes mentionnées aux 1°, 2° et 3° de l'article L. 331-16.
+
+Le président est remplacé, en cas de vacance, jusqu'à la nouvelle élection, par l'un des membres dans l'ordre prévu à l'article L. 331-16.
+
+######## Article D331-13
+
+Le président perçoit une indemnité forfaitaire dont le montant annuel est fixé par arrêté conjoint des ministres chargés de la culture, du budget et de la fonction publique.
+
+######## Article R331-14
+
+Sous l'autorité du président, le secrétaire général est chargé du fonctionnement et de la coordination des services. A ce titre, et dans le cadre des règles générales fixées par le collège, le secrétaire général a qualité pour gérer le personnel. Dans les matières relevant de sa compétence, le secrétaire général peut déléguer sa signature dans les limites qu'il détermine et désigner les agents habilités à le représenter.
+
+Le secrétaire général peut, par délégation du président, tenir la comptabilité des engagements de dépenses dans les conditions définies par le règlement comptable et financier.
+
+Le secrétaire général désigne les experts mentionnés à l'article L. 331-19 après avoir recueilli l'avis de la commission de protection des droits lorsque ceux-ci lui apportent leur concours.
+
+####### Paragraphe 4 : Dispositions relatives au personnel
+
+######## Article R331-15
+
+Des fonctionnaires et des magistrats de l'ordre judiciaire peuvent être détachés ou mis à disposition auprès de la Haute Autorité dans les conditions prévues par leur statut.
+
+La Haute Autorité peut recruter des agents non titulaires de droit public par contrat à durée déterminée ou indéterminée, employés à temps complet ou à temps incomplet.
+
+Les agents contractuels de droit public recrutés par la Haute Autorité sont soumis aux dispositions du décret du 17 janvier 1986 relatif aux dispositions générales applicables aux agents non titulaires de l'Etat pris pour l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, à l'exception de l'article 1-2.
+
+Le président de la Haute Autorité peut également faire appel, avec l'accord des ministres intéressés, aux services des ministères chargés de la culture, de la communication, de l'économie, des finances et de l'industrie, ainsi que du Centre national du cinéma et de l'image animée, dont le concours est nécessaire à l'accomplissement de ses missions.
+
+######## Article R331-16
+
+L'habilitation mentionnée à l'article L. 331-21 est délivrée, de manière individuelle, par le président de la Haute Autorité aux agents publics des services de la Haute Autorité pour une durée de cinq ans renouvelable.
+
+Pour délivrer l'habilitation, le président de la Haute Autorité vérifie que l'agent présente les capacités et les garanties requises au regard des missions confiées à la commission de protection des droits. Il tient compte notamment de son niveau de formation ou de son expérience.
+
+######## Article R331-17
+
+Nul agent ne peut être habilité :
+- s'il a fait l'objet d'une condamnation à une peine correctionnelle ou criminelle inscrite au bulletin n° 2 du casier judiciaire, ou dans un document équivalent lorsqu'il s'agit d'un ressortissant de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
+- s'il résulte de l'enquête administrative prévue au deuxième alinéa de l'article L. 331-22 que son comportement est incompatible avec l'exercice de ses fonctions ou missions.
+
+######## Article R331-18
+
+Il est mis fin à l'habilitation lorsque son titulaire n'exerce plus les fonctions à raison desquelles il a été habilité.
+
+Il est également mis fin à l'habilitation lorsque les conditions définies aux articles R. 331-16 et R. 331-17 cessent d'être remplies. La personne intéressée est préalablement informée des motifs et de la nature de la mesure envisagée et mise à même de présenter des observations. En cas d'urgence, le président de la Haute Autorité peut suspendre l'habilitation pour une durée maximale de six mois.
+
+######## Article R331-19
+
+Les agents habilités dans les conditions définies aux articles R. 331-17 et R. 331-18 prêtent serment devant le juge d'instance de leur résidence. La formule de serment est la suivante : " Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ".
+
+Le greffier du tribunal d'instance porte mention de l'accomplissement de cette prestation de serment, de sa date et de son lieu sur la décision d'habilitation.
+
+####### Paragraphe 5 : Dispositions financières et comptables
+
+######## Article R331-20
+
+L'exercice budgétaire et comptable débute le 1er janvier et s'achève le 31 décembre.
+
+Le budget comporte la prévision des recettes attendues et des dépenses nécessitées par l'exercice des missions confiées à la Haute Autorité. Il peut être modifié en cours d'année. Les crédits inscrits au budget sont limitatifs et appréciés au regard des dépenses de fonctionnement hors dépenses de personnel, des dépenses d'investissement et des dépenses de personnel. En cas de dégradation prévisible du résultat, le collège délibère dans les meilleurs délais sur une décision modificative du budget permettant le retour à l'équilibre.
+
+Les délibérations du collège relatives au budget et à ses modifications sont adressées aux ministres chargés de la culture et du budget.
+
+######## Article R331-21
+
+L'agent comptable de la Haute Autorité est nommé par arrêté conjoint des ministres chargés de la culture et du budget.
+
+L'agent comptable est responsable personnellement et pécuniairement dans les conditions de l'article 60 de la loi n° 63-156 du 23 février 1963 portant loi de finances pour 1963 et du décret n° 2008-228 du 5 mars 2008 relatif à la constatation et à l'apurement des débets des comptables publics et assimilés. Il est chargé de la tenue des comptabilités de la Haute Autorité, du recouvrement des droits, contributions et de toutes autres recettes, du paiement des dépenses et du maniement des fonds et des mouvements de comptes de disponibilités.
+
+Avec l'accord du président du collège, l'agent comptable peut confier sous son contrôle la comptabilité analytique et la comptabilité matière aux services de la Haute Autorité.
+
+L'agent comptable peut nommer des mandataires qui sont agréés par le président du collège.
+
+######## Article R331-22
+
+Les comptes de la Haute Autorité sont établis selon les règles du plan comptable général. Celui-ci peut faire l'objet d'adaptations proposées par le président du collège après avis du collège et approuvées par le ministre chargé du budget.
+
+Les taux d'amortissement et de dépréciation ainsi que les modalités de tenue des inventaires sont fixés par le règlement comptable et financier.
+
+L'agent comptable établit un compte financier au terme de chaque exercice. Le compte financier comprend le compte de résultat, le bilan, l'annexe, la balance générale des comptes à la clôture de l'exercice, le tableau de rapprochement des prévisions et des réalisations effectives et, le cas échéant, la balance des comptes spéciaux.
+
+Le compte financier de la Haute Autorité est préparé par l'agent comptable et soumis par le président du collège au collège qui entend l'agent comptable. Le compte financier est arrêté par le collège. Il est transmis à la Cour des comptes par le président du collège de la Haute Autorité, accompagné des délibérations du collège relatives au budget, à ses modifications et au compte financier, et de tous les autres documents demandés par les ministres ou par la cour, dans les quatre mois qui suivent la clôture de l'exercice.
+
+Le rapport mentionné à l'article L. 331-14 fait une présentation du compte financier et reproduit le compte de résultat et le bilan.
+
+######## Article R331-23
+
+L'agent comptable est tenu de faire diligence pour assurer le recouvrement de toutes les ressources de la Haute Autorité. Les recettes sont recouvrées par l'agent comptable soit spontanément, soit en exécution des instructions du président du collège. L'agent comptable adresse aux débiteurs les factures correspondantes et reçoit leurs règlements. Tous les droits acquis au cours d'un exercice doivent être pris en compte au titre de cet exercice.
+
+######## Article R331-24
+
+Lorsque les créances de la Haute Autorité n'ont pu être recouvrées à l'amiable, les poursuites sont conduites conformément aux usages du commerce ou peuvent faire l'objet d'états rendus exécutoires par le président du collège. Les états exécutoires peuvent être notifiés aux débiteurs par lettre recommandée avec accusé de réception. Leur recouvrement est poursuivi jusqu'à opposition devant la juridiction compétente.
+
+######## Article R331-25
+
+L'agent comptable procède aux poursuites. Celles-ci peuvent, à tout moment, être suspendues sur ordre écrit du président du collège si la créance est l'objet d'un litige. Le président du collège suspend également les poursuites si, en accord avec l'agent comptable, il estime que la créance est irrécouvrable ou que l'octroi d'un délai par l'agent comptable est conforme à l'intérêt de la Haute Autorité.
+
+######## Article R331-26
+
+Le président du collège peut décider, après l'avis conforme de l'agent comptable :
+
+1° En cas de gêne des débiteurs, d'accorder une remise gracieuse des créances de la Haute Autorité ;
+
+2° La remise totale ou partielle des majorations de retard ou des pénalités appliquées sur demande justifiée des débiteurs ;
+
+3° Une admission en non-valeur des créances de la Haute Autorité, en cas d'insolvabilité des débiteurs ou lorsque les créances ne sont pas recouvrables.
+
+Le collège fixe le montant au-delà duquel l'une des remises mentionnées au 1° ou au 2° est soumise à son approbation.
+
+Lorsque la remise gracieuse, totale ou partielle, concerne une dette de l'agent comptable, l'avis prévu par l'article 9 du décret n° 2008-228 du 5 mars 2008 relatif à la constatation et à l'apurement des débets des comptables publics et assimilés est rendu par le collège.
+
+######## Article R331-27
+
+Toutes les dépenses doivent être liquidées et ordonnancées au cours de l'exercice auquel elles se rattachent. Les dépenses de la Haute Autorité sont réglées par l'agent comptable sur l'ordre donné par le président du collège ou après avoir été acceptées par ce dernier. Les ordres de dépenses sont appuyés des pièces justificatives nécessaires, et notamment des factures, mémoires, marchés, baux ou conventions. L'acceptation de la dépense revêt la forme soit d'une mention datée et signée apposée sur le mémoire, la facture ou toute autre pièce en tenant lieu, soit d'un certificat séparé d'exécution de service, l'une ou l'autre précisant que le règlement peut être valablement opéré pour la somme indiquée.
+
+L'agent comptable peut payer sans ordonnancement préalable certaines catégories de dépenses dans les conditions prévues par le règlement comptable et financier.
+
+######## Article D331-28
+
+La liste des pièces justificatives de recettes et de dépenses est préparée par l'agent comptable et proposée par le président du collège à l'agrément du ministre chargé du budget. En cas de perte, destruction ou vol des justifications remises à l'agent comptable, le ministre chargé du budget peut autoriser ce dernier à pourvoir à leur remplacement. Les pièces justificatives sont conservées dans les archives de l'agent comptable pendant dix ans au moins à partir de la date de clôture de l'exercice auquel elles se rapportent.
+
+######## Article R331-29
+
+L'agent comptable est tenu d'exercer :
+
+1° En matière de recettes, le contrôle :
+
+- de l'autorisation de percevoir les recettes ;
+- de la mise en recouvrement des créances et de la régularité des réductions et des annulations des ordres de recettes, dans la limite des éléments dont il dispose ;
+
+2° En matière de dépenses, le contrôle :
+
+- de la qualité de l'ordonnateur ou de son délégué ;
+- de la disponibilité des crédits ;
+- de l'exacte imputation des dépenses aux chapitres qu'elles concernent selon leur nature ou leur objet ;
+- de la validité de la créance dans les conditions prévues au 4° ;
+- du caractère libératoire du règlement ;
+
+3° En matière de patrimoine, le contrôle :
+
+- de la conservation des droits, privilèges et hypothèques ;
+- de la conservation des biens dont il tient la comptabilité matière ;
+
+4° En ce qui concerne la validité de la créance, le contrôle :
+
+- de la justification du service fait et de l'exactitude des calculs de liquidation ;
+- de l'application des règles de prescription et de déchéance.
+
+Lorsqu'il constate, à l'occasion des contrôles qu'il réalise, des irrégularités ou des inexactitudes dans les certifications délivrées par le président du collège, l'agent comptable suspend le paiement des dépenses. Il en informe le président.
+
+Lorsque l'agent comptable a suspendu le paiement des dépenses, le président du collège peut, par écrit et sous sa responsabilité, requérir l'agent comptable de payer. Celui-ci défère à la réquisition et rend compte au ministre chargé du budget, qui transmet l'ordre de réquisition à la Cour des comptes.
+
+Par dérogation aux dispositions du précédent alinéa, l'agent comptable doit refuser de déférer à l'ordre de réquisition lorsque la suspension du paiement est motivée par :
+
+1° L'absence de justification du service fait ;
+
+2° Le caractère non libératoire du règlement ;
+
+3° Le manque de fonds disponibles.
+
+Dans ce cas, l'agent comptable rend immédiatement compte au ministre chargé du budget.
+
+######## Article R331-30
+
+Des régies de recettes et de dépenses peuvent être créées auprès de la Haute Autorité par décision du président du collège sur avis conforme de l'agent comptable dans les conditions fixées par le décret n° 92-681 du 20 juillet 1992 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics et le règlement comptable et financier.
+
+######## Article R331-31
+
+Les fonds de l'agence sont déposés et placés dans les conditions prévues par les articles 174 et 175 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement général sur la comptabilité publique.
+
+######## Article R331-32
+
+Les comptes de l'agent comptable de la Haute Autorité sont jugés directement par la Cour des comptes. Le contrôle de la gestion de l'agent comptable est également assuré par le receveur général des finances.
+
+####### Paragraphe 6 : Dispositions diverses
+
+######## Article D331-33
+
+Les frais occasionnés par les déplacements et les séjours des personnels et des membres de la Haute Autorité sont remboursés dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat.
+
+Les délibérations prévues au 8° de l'article 2 ainsi qu'aux articles 3 et 7 du décret du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat sont prises par le collège de la Haute Autorité.
+
+######## Article D331-34
 
 La déclaration d'intérêts mentionnée à l'article L. 331-18 est établie conformément au modèle figurant en annexe au présent article.
 
 Les déclarations sont actualisées chaque année et, en tout état de cause, dès qu'un fait nouveau intervient dans la situation professionnelle ou personnelle des déclarants.
-
-####### Article Annexe art. D331-9-1
-
-En application de l'article L. 331-18 du code de la propriété intellectuelle, les fonctions de membres et de secrétaire général de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet sont incompatibles avec le fait d'exercer ou d'avoir exercé, au cours des trois dernières années, une fonction de dirigeant, de salarié ou de conseiller :
-- d'une société de perception et de répartition des droits ;
-- d'une entreprise exerçant une activité de production de phonogrammes ou de vidéogrammes ou d'édition d'œuvres protégées par un droit d'auteur ou des droits voisins ;
-- d'une entreprise de communication audiovisuelle ;
-- d'une entreprise offrant des services de mise à disposition d'œuvres ou d'objets protégés par un droit d'auteur ou des droits voisins ;
-- d'une entreprise dont l'activité est d'offrir un accès à des services de communication au public en ligne.
-
-Les membres et le secrétaire général de la haute autorité ne peuvent par ailleurs détenir d'intérêts dans l'une de ces sociétés ou entreprises. Ils ne peuvent participer à une délibération concernant l'une de ces sociétés ou entreprises dans laquelle ils auraient un intérêt indirect.
-
-Les membres et le secrétaire général de la haute autorité adressent, au moment de leur désignation, une déclaration mentionnant les intérêts qu'ils détiennent dans l'une des sociétés ou entreprises susmentionnées, conforme au présent modèle.
-
-La présente déclaration d'intérêts a pour objectif la prévention des conflits d'intérêts au sein de la Haute Autorité pour la diffusion des œuvres et la protection des droits sur internet.
-
-<center>
-
-<strong>Déclaration d'intérêts</strong></center>
-
-Je soussigné (e)..........
-
-Reconnais avoir pris connaissance de l'obligation de déclarer la détention, directe ou indirecte, d'intérêts dans une société ou une entreprise mentionnée dans le préambule.
-
-<center>
-
-<em>Renseignements administratifs</em></center>
-
-1. Activité professionnelle principale (précisez les organismes employeurs au sein desquels vous exercez ou avez exercé au cours des trois dernières années) :
-
-2. Adresse professionnelle actuelle :
-
-<center>
-
-<em>Intérêts</em></center>
-
-1. Participation (s) financière (s) :
-
-Indiquez ici tout intérêt financier dans le capital d'une société ou d'une entreprise mentionnée dans le préambule : valeurs mobilières cotées ou non, qu'il s'agisse d'actions, d'obligations ou d'autres avoirs financiers en fonds propres ; doivent également être déclarés les intérêts dans une société ou une entreprise concernée, une de ses filiales ou une société ou une entreprise dont elle détient une partie du capital dans la limite de votre connaissance immédiate et attendue.
-
-Société, entreprise.......................................... Nature de la participation financière..................................
-
-2. Activité (s) donnant lieu à une rémunération personnelle :
-
-2. 1. Liens durables ou permanents :
-
-Indiquez ici si vous êtes propriétaire, dirigeant, associé, employé ou si vous êtes membre d'un organe décisionnel d'une société ou d'une entreprise mentionnée dans le préambule.
-
-Société, entreprise....................................... Nature du lien durable........................................................
-
-ou permanent
-
-2. 2. Interventions ponctuelles :
-
-Indiquez ici, notamment, les activités de conseil (consultations ponctuelles, participations à des groupes de travail, activités d'audit...) auprès d'une société ou d'une entreprise mentionnée dans le préambule et la participation en qualité d'intervenant à des congrès, conférences, colloques, réunions publiques diverses et actions de formation organisés ou soutenus financièrement par une société ou une entreprise mentionnée dans le préambule.
-
-Les rémunération indirectes doivent également être mentionnées, telles que la prise en charge par une société ou une entreprise de frais personnels (frais de déplacement ou d'hébergement notamment).
-
-Société, entreprise......................................... Nature de l'activité............................................................
-
-3. Activité (s) donnant lieu à un versement au budget d'une institution dont dépend le déclarant ou dont il est responsable :
-
-Indiquez ici les activités réalisées par vous-même ou par une personne dépendant de vous, financées par une société ou une entreprise mentionnée dans le préambule et donnant lieu à un versement à une institution dans laquelle vous travaillez (organisme de recherche...) où dans laquelle vous exercez une responsabilité (fondation, association...).
-
-Société, entreprise........................................ Nature de l'activité.............................................................
-
-4. Liens de parenté :
-
-Indiquez ici si l'un de vos parents proches (conjoint, ascendants ou descendants jusqu'au second degré et collatéraux immédiats y compris leurs conjoints) est employé par une société ou une entreprise mentionnée dans le préambule. Le nom des membres de la famille n'a pas à être mentionné.
-
-Société, entreprise.......................................... Lien de parenté..............................................................
-
-5. Autres (à votre initiative) :
-
-Indiquez ici les intérêts qui pourraient être considérés comme portant atteinte à votre impartialité ou que vous considérez devoir être portés à la connaissance de la haute autorité.
-
-Je m'engage à actualiser chaque année la présente déclaration. En cas de modification des liens ou activités ci-dessus ou du fait de l'acquisition d'intérêts supplémentaires devant être portés à la connaissance de la haute autorité, je m'engage à en informer celle-ci et à procéder immédiatement à une nouvelle déclaration d'intérêts
-
-Fait à.......................................................... le............................... signature...............................
-
-###### Sous-section 2 : Règles générales de procédure applicables devant l'Autorité
-
-####### Article R331-12
-
-La saisine de l'Autorité fait l'objet d'une lettre recommandée avec demande d'avis de réception ou, selon des modalités fixées par l'Autorité, d'une transmission par voie électronique. Elle comporte au minimum :
-
-- le nom et l'adresse du demandeur, ainsi que, le cas échéant, ses statuts et le mandat donné à son représentant ou à son conseil ;
-- les pièces justifiant que le demandeur relève de l'une des catégories de personnes autorisées à saisir l'Autorité en vertu des dispositions de la présente section ou des articles L. 331-7, L. 331-13 ou L. 331-14 ;
-- l'objet de la saisine, qui doit être motivée, et les pièces sur lesquelles se fonde celle-ci ;
-- le nom et, si le demandeur la connaît, l'adresse des parties que le demandeur met en cause.
-
-Lorsque l'Autorité est saisie en application des dispositions de l'article L. 331-7, le demandeur doit en outre préciser la nature et le contenu du projet dont la réalisation nécessite l'accès aux informations essentielles à l'interopérabilité qu'il sollicite, et justifier qu'il a demandé et s'est vu refuser cet accès, soit par le titulaire des droits sur la mesure technique, soit par le fournisseur, l'éditeur ou la personne procédant à l'importation ou au transfert des informations en cause depuis un Etat membre de la Communauté européenne. Est assimilé à un refus le fait de ne pas proposer cet accès à des conditions et dans un délai raisonnables.
-
-Si la saisine n'est pas accompagnée de ces éléments, une demande de régularisation est adressée au demandeur ou à son représentant mandaté, qui doivent y répondre et apporter les compléments dans un délai d'un mois.
-
-Le délai de deux mois mentionné aux articles L. 331-7 et L. 331-15 court à compter de la réception du dossier complet par l'Autorité.
-
-La production de mémoires, observations ou pièces justificatives effectuées par une partie devant l'Autorité sous la signature et sous le timbre d'un avocat emporte élection de domicile.
-
-####### Article R331-13
-
-Sont regardées comme des personnes morales représentant les bénéficiaires des exceptions mentionnées à l'article L. 331-8, agréées pour saisir l'Autorité, en application de l'article L. 331-13, de tout différend portant sur les restrictions que les mesures techniques de protection apportent au bénéfice de ces exceptions :
-
-1° Les associations de défense des consommateurs agréées en application des dispositions de l'article L. 411-1 du code de la consommation ;
-
-2° Les associations agréées à cet effet par le ministre chargé de la culture.
-
-####### Article R331-14
-
-L'agrément mentionné au 2° de l'article R. 331-13 est accordé pour une durée de cinq années aux associations qui remplissent les conditions suivantes à la date de la demande d'agrément :
-
-a) Justifier d'au moins trois années d'existence à compter de leur déclaration ;
-
-b) Justifier, pendant la période mentionnée à l'alinéa précédent, d'une activité effective et publique en vue de la défense des intérêts des bénéficiaires d'au moins l'une des exceptions mentionnées à l'article L. 331-8 ; cette activité est appréciée notamment en fonction de la réalisation et de la diffusion de publications et d'informations ;
-
-c) Réunir au moins cinquante membres cotisant individuellement, cette condition pouvant ne pas être exigée des associations se livrant à des activités de recherche et d'analyse de caractère scientifique ; lorsque l'association a une structure fédérale ou confédérale, il est tenu compte du nombre total de cotisants des associations la constituant.
-
-L'agrément est renouvelable dans les conditions de délivrance de l'agrément initial.
-
-Les demandes d'agrément et de renouvellement sont adressées au ministre chargé de la culture. La composition du dossier et les modalités d'instruction sont fixées par arrêté de ce ministre. Lorsque le dossier remis à l'administration est complet, il en est délivré récépissé dans les conditions prévues par le décret n° 2001-492 du 6 juin 2001. La décision d'agrément ou de refus est notifiée dans un délai de deux mois à compter de la délivrance du récépissé. Les décisions de refus doivent être motivées.
-
-####### Article R331-15
-
-I. - L'Autorité peut rejeter pour irrecevabilité une demande dont elle a été saisie lorsque :
-
-1° L'objet de la demande ne relève pas de sa compétence ;
-
-2° La demande n'est pas conforme aux prescriptions de l'article R. 331-12, après l'expiration du délai d'un mois suivant l'invitation à régulariser qui a été adressée au demandeur ;
-
-3° L'auteur de la saisine ne justifie pas d'une qualité ou d'un intérêt à agir.
-
-II. - L'Autorité peut statuer sans instruction sur les saisines entachées d'une irrecevabilité manifeste.
-
-####### Article R331-16
-
-Le président peut, d'office ou à la demande des parties, procéder à la jonction de l'instruction de plusieurs affaires. A l'issue de leur instruction, l'Autorité peut se prononcer par une décision commune. Le président peut également procéder à la disjonction de l'instruction d'une saisine en plusieurs affaires.
-
-####### Article R331-17
-
-L'instruction de l'affaire s'effectue dans des conditions qui garantissent le respect du principe du caractère contradictoire de la procédure. Le président désigne le rapporteur. Celui-ci procède à toutes diligences utiles.
-
-La partie mise en cause est entendue à sa demande ou si le rapporteur l'estime utile. Le rapporteur peut également entendre toute autre personne dont l'audition lui paraît utile, notamment lorsqu'il est saisi d'une demande en ce sens par un tiers. Dans tous les cas, il établit un procès-verbal qui est versé au dossier.
-
-Le rapporteur peut verser au dossier les observations et pièces produites par des tiers. Il peut solliciter auprès des parties des pièces complémentaires et proposer de recourir à des expertises dans les conditions fixées à l'article R. 331-19.
-
-####### Article R331-18
-
-I. - Lorsqu'une partie se prévaut d'un secret protégé par la loi, elle signale par lettre, à l'occasion de leur communication à l'Autorité, les informations, documents ou parties de documents regardés par elle comme mettant en jeu un secret protégé par la loi et demande, pour des motifs qu'elle précise pour chacun d'entre eux, leur classement en annexe confidentielle. Elle fournit séparément une version non confidentielle de ces documents ainsi qu'un résumé des éléments dont elle demande le classement. Le cas échéant, elle désigne les entreprises à l'égard desquelles le secret serait susceptible de s'appliquer.
-
-Lorsque les informations, documents ou parties de documents susceptibles de mettre en jeu un secret protégé par la loi sont communiqués à l'Autorité par une autre personne que celle qui est susceptible de se prévaloir de ce secret et que celle-ci n'a pas formé de demande de classement, le rapporteur l'invite à présenter, si elle le souhaite, dans un délai qu'il fixe, une demande de classement en annexe confidentielle conformément aux prescriptions de l'alinéa précédent.
-
-II. - Les informations, documents ou parties de documents pour lesquels une demande de classement n'a pas été présentée sont réputés ne pas mettre en jeu un secret protégé par la loi, notamment le secret des affaires, dont les parties pourraient se prévaloir.
-
-Le président de l'Autorité donne acte à la personne concernée du classement en annexe confidentielle des informations, documents ou partie de documents regardés par elle comme mettant en jeu un secret protégé par la loi. Les pièces considérées sont retirées du dossier ou certaines de leurs mentions sont occultées. La version non confidentielle des documents et leur résumé sont versés au dossier.
-
-Le président de l'Autorité peut refuser le classement en tout ou en partie si la demande n'a pas été présentée conformément aux dispositions du premier alinéa du présent article, ou l'a été au-delà des délais impartis en vertu du deuxième alinéa, ou si elle est manifestement infondée. La pièce est alors restituée à la partie qui l'a produite.
-
-III. - Lorsque le rapporteur considère qu'une pièce classée en annexe confidentielle est nécessaire à la procédure, il en informe par lettre recommandée avec accusé de réception la personne qui en a demandé le classement. Si cette personne s'oppose, dans le délai qui lui a été imparti par le rapporteur, à ce que la pièce soit utilisée dans la procédure, elle saisit le président de l'Autorité. Si celui-ci donne suite à son opposition, la pièce est restituée à la partie qui l'a produite. Dans le cas contraire, il autorise l'utilisation de la pièce par le rapporteur et sa communication aux parties pour lesquelles la pièce est nécessaire à l'exercice de leurs droits. Les parties concernées ne peuvent utiliser cette pièce, qui demeure couverte par le secret protégé par la loi, que dans le cadre de la procédure devant l'Autorité et des voies de recours éventuelles contre les décisions de celle-ci.
-
-Lorsqu'une partie considère qu'une pièce classée en annexe confidentielle est nécessaire à l'exercice de ses droits, elle peut en demander la communication ou la consultation en présentant une requête motivée au rapporteur. Le rapporteur informe la personne qui a demandé le classement de cette pièce par lettre recommandée avec accusé de réception. Si cette dernière s'oppose, dans le délai qui lui a été imparti par le rapporteur, à ce que la pièce soit communiquée à la partie qui en fait la demande, elle saisit le président de l'Autorité. Si celui-ci donne suite à son opposition, la pièce est restituée à la partie qui l'a produite. Dans le cas contraire, il autorise la communication ou la consultation de la pièce à la partie qui en a fait la demande ainsi que, le cas échéant, aux autres parties pour lesquelles la pièce est nécessaire à l'exercice de leurs droits. Les parties concernées ne peuvent utiliser cette pièce, qui demeure couverte par le secret protégé par la loi, que dans le cadre de la procédure devant l'Autorité et des voies de recours éventuelles contre les décisions de celle-ci.
-
-IV. - Les décisions prises par le président de l'Autorité en application des dispositions du présent article ne peuvent être contestées qu'à l'occasion du recours dirigé contre les décisions de l'Autorité rendues en application des articles R. 331-22 à R. 331-24 et R. 331-27.
-
-####### Article R331-19
-
-Les experts mentionnés à l'article L. 331-20 sont désignés par le président de l'Autorité sur proposition du rapporteur chargé de l'instruction de l'affaire. La décision du président définit l'objet de l'expertise, fixe le délai de sa réalisation et évalue les honoraires prévisibles correspondants.
-
-Les honoraires et frais d'expertise sont à la charge de la partie qui en a fait la demande ou à celle de l'Autorité, dans le cas où l'expertise est ordonnée d'office par le président sur proposition du rapporteur. Toutefois, l'Autorité peut, dans sa décision sur le fond, faire peser tout ou partie de la charge définitive de l'expertise sur certaines parties dans les conditions prévues à l'article R. 331-28.
-
-Lorsqu'une expertise est demandée par une partie et acceptée par le président, le montant d'une provision égale aux honoraires prévus par l'expert est consigné sur demande du président. Si plusieurs parties doivent procéder à une telle consignation, le président indique dans quelle proportion chacune doit consigner.
-
-Le rapport d'expertise est remis au rapporteur chargé de l'instruction de l'affaire, qui le verse au dossier.
-
-###### Article R331-2
-
-Les décisions prises par l'Autorité en application des règles de procédure prévues aux sous-sections 2, 3 et 4 de la présente section ne peuvent porter atteinte à l'exploitation normale d'une oeuvre ou d'un objet protégé par un droit de propriété intellectuelle, ni causer un préjudice injustifié aux intérêts légitimes des titulaires de droits de propriété intellectuelle.
-
-###### Sous-section 3 : Procédure applicable en matière d'interopérabilité des mesures techniques
-
-####### Article R331-20
-
-Lorsque le rapporteur constate que les engagements proposés par chacune des parties recueillent l'accord de l'ensemble de celles-ci et qu'ils sont de nature à mettre un terme aux pratiques contraires à l'interopérabilité au sens des dispositions de l'article L. 331-7, il établit un projet de procès-verbal signé par les parties en cause, constatant ces engagements et fixant un délai pour leur exécution. Ce procès-verbal devient définitif après accord de l'Autorité, qui peut entendre les parties ou toute autre personne avant de statuer si elle le juge utile.
-
-Les engagements mentionnés à l'alinéa précédent peuvent être modifiés avec l'accord de l'Autorité selon la procédure prévue à cet alinéa.
-
-####### Article R331-21
-
-I.-A défaut d'accord des parties et de l'Autorité constaté dans les conditions fixées par l'article R. 331-20, le rapport du rapporteur est notifié aux parties, qui disposent d'un délai de quinze jours pour prendre connaissance et copie du dossier auprès des services de l'Autorité et pour transmettre à celle-ci leurs observations écrites.
-
-Lorsque les circonstances le justifient, le président de l'Autorité peut, par une décision non susceptible de recours, accorder un délai supplémentaire, qui ne peut excéder un mois, pour la consultation du dossier et la production des observations des parties.
-
-Les parties sont informées de la date à laquelle l'Autorité statuera sur la saisine au moins dix jours avant la séance. La personne mise en cause est entendue à sa demande ou à celle du président de l'Autorité. Elle doit pouvoir prendre la parole en dernier.
-
-L'Autorité peut également entendre le demandeur ou toute personne dont l'audition lui paraît utile.
-
-Les personnes entendues peuvent être assistées d'un conseil.
-
-Le rapporteur qui a instruit une affaire peut présenter des observations orales lors de la séance au cours de laquelle elle est examinée.L'Autorité statue hors de sa présence.
-
-Lorsqu'elle estime que l'instruction est incomplète, l'Autorité peut décider de renvoyer l'affaire en tout ou partie à l'instruction. Cette décision n'est pas susceptible de recours.
-
-II.-L'Autorité peut, si elle le juge utile, demander à son président de saisir pour avis l'Autorité de la concurrence selon les modalités fixées au dernier alinéa de l'article L. 331-7 et décider de surseoir à statuer, dans l'attente de cet avis, sur la demande dont elle a été saisie.
-
-####### Article R331-22
-
-I. - Au terme de la procédure prévue à l'article R. 331-21, l'Autorité peut, par une décision motivée, soit rejeter la demande dont elle a été saisie, soit enjoindre au titulaire des droits sur la mesure technique de prendre les mesures propres à assurer l'accès du demandeur aux informations essentielles à l'interopérabilité.
-
-Lorsqu'elle prononce une injonction, l'Autorité définit les conditions d'accès à ces informations, notamment :
-
-1° La durée de cet accès et son champ d'application ;
-
-2° L'indemnité que le demandeur doit verser au titulaire des droits sur la mesure technique, lorsque celui-ci présente une demande justifiée à cette fin. L'injonction prend effet au plus tôt à la date de versement de l'indemnité à celui-ci ou à la date de consignation de cette somme selon des modalités fixées par l'Autorité. Le montant de cette indemnité tient compte notamment de la valeur économique des informations communiquées au demandeur.
-
-L'Autorité précise en outre les engagements que le demandeur doit respecter pour garantir, d'une part, l'efficacité et l'intégrité de la mesure technique, et, d'autre part, les conditions d'utilisation du contenu protégé et les modalités d'accès à celui-ci. Ces engagements peuvent comporter l'obligation de faire vérifier par un expert désigné par l'Autorité que l'efficacité et l'intégrité de la mesure technique sont respectées. Ces engagements portent également sur les conditions de publication du code source et de la documentation technique en application des dispositions du troisième alinéa de l'article L. 331-7, lorsque le demandeur déclare à l'Autorité vouloir publier ces éléments.
-
-II. - L'Autorité peut assortir cette injonction d'une astreinte dont elle fixe le montant et la date d'effet. Lorsque l'Autorité constate, à compter de cette date, d'office ou sur la saisine de toute partie intéressée, que les mesures qu'elle avait prescrites n'ont pas été prises, elle procède à la liquidation de l'astreinte. Celle-ci est provisoire ou définitive. Elle doit être considérée comme provisoire, à moins que l'Autorité n'ait précisé son caractère définitif. L'Autorité peut modérer ou supprimer l'astreinte provisoire, même en cas d'inexécution constatée.
-
-####### Article R331-23
-
-Lorsque aucun recours devant la cour d'appel de Paris n'a été formé dans le délai prévu au premier alinéa de l'article R. 331-28 ou lorsque ce recours a été rejeté par une décision juridictionnelle devenue définitive, l'Autorité peut, à la demande de toute partie intéressée, modifier ou mettre fin à son injonction si des éléments nouveaux le justifient ou si le demandeur renonce à donner suite à sa demande d'accès aux informations en litige. L'Autorité statue, au terme de la procédure prévue aux articles R. 331-12 à R. 331-19 et R. 331-21, selon les modalités fixées à l'article R. 331-22.
-
-####### Article R331-24
-
-En cas de non-respect des engagements acceptés par l'Autorité suivant la procédure fixée à l'article R. 331-20 ou en cas d'inexécution de l'injonction prononcée en application des dispositions des articles R. 331-22 et R. 331-23, le demandeur mentionné à ces articles peut saisir l'Autorité afin que celle-ci prononce à l'encontre du titulaire des droits sur la mesure technique la sanction pécuniaire prévue à l'article L. 331-7.
-
-Cette sanction pécuniaire peut également être prononcée, à la demande du titulaire des droits sur la mesure technique, à l'encontre du demandeur si celui-ci ne respecte pas soit les engagements qu'il a pris et qui ont été acceptés par l'Autorité suivant la procédure fixée à l'article R. 331-20, soit les engagements qui lui ont été imposés par l'Autorité en application des dispositions du I de l'article R. 331-22.
-
-L'Autorité statue au terme de la procédure prévue aux articles R. 331-12 à R. 331-19 et R. 331-21.
-
-####### Article R331-25
-
-Le rapporteur peut demander au titulaire des droits sur la mesure technique ou, dans le cas prévu au deuxième alinéa de l'article R. 331-24, au demandeur, de lui communiquer, dans un délai de dix jours, les montants de chiffres d'affaires nécessaires au calcul du plafond d'une éventuelle sanction. Si la partie concernée s'abstient de lui communiquer ces informations ou s'il conteste l'exactitude de celles-ci, le rapporteur indique dans son rapport son évaluation des chiffres d'affaires en cause et les éléments sur lesquels il fonde celle-ci.
-
-###### Sous-section 4 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins
-
-####### Article R331-26
-
-Lorsque le rapporteur constate qu'une conciliation des parties est possible en application des dispositions du premier alinéa de l'article L. 331-15, il établit un projet de procès-verbal signé par les parties en cause, constatant la conciliation, précisant les mesures à prendre pour mettre fin à la situation litigieuse et fixant un délai pour l'exécution de ces mesures. Ce procès-verbal de conciliation devient définitif et exécutoire après accord de l'Autorité, qui peut entendre les parties avant de statuer si elle le juge utile.
-
-Le procès-verbal est déposé immédiatement au secrétariat-greffe du ou des tribunaux d'instance dans le ressort duquel ou desquels les parties au litige ont leur domicile ou siège social.
-
-Toute conciliation réalisée ultérieurement est constatée par procès-verbal établi et déposé dans les mêmes conditions.
-
-####### Article R331-27
-
-En cas d'échec de la conciliation, l'Autorité peut, par une décision motivée prise au terme de la procédure fixée par le I de l'article R. 331-21, soit rejeter la demande dont elle a été saisie, soit enjoindre à la personne mise en cause de prendre les mesures propres à assurer le bénéfice effectif de l'exception au droit d'auteur ou aux droits voisins. Elle détermine alors les modalités d'exercice de cette exception et fixe notamment, le cas échéant, le nombre minimal de copies autorisées dans le cadre de l'exception pour copie privée, en fonction du type d'oeuvre ou d'objet protégé, des divers modes de communication au public et des possibilités offertes par les techniques de protection disponibles.
-
-L'Autorité peut assortir cette injonction d'une astreinte selon les modalités prévues au II de l'article R. 331-22.
-
-###### Sous-section 5 : Voies de recours contre les décisions de l'Autorité de régulation des mesures techniques
-
-####### Article R331-28
-
-Les décisions de l' Autorité mentionnées aux articles R. 331- 22 à R. 331- 24 et R. 331- 27 sont notifiées par lettre recommandée avec demande d' avis de réception aux parties, qui peuvent, dans le délai d' un mois, introduire un recours en annulation ou en réformation devant la cour d' appel de Paris. Les augmentations de délais prévues à l' article 643 du code de procédure civile ne s' appliquent pas à ce recours.
-
-La lettre de notification doit indiquer le délai de recours ainsi que les modalités selon lesquelles celui- ci peut être exercé. Elle comporte en annexe les noms, qualités et adresses des parties auxquelles la décision de l' Autorité a été notifiée. Les délais de recours ne sont pas opposables à l' auteur de celui- ci lorsque la lettre de notification ne comporte pas les indications prévues au présent alinéa.
-
-Ces décisions ainsi que les procès- verbaux mentionnés aux articles R. 331- 20 et R. 331- 26 sont rendus publics par tous moyens et, en tout état de cause, s' agissant des décisions, au Bulletin officiel du ministère de la culture et de la communication. L' Autorité peut prévoir une publication limitée pour tenir compte de l' intérêt légitime des parties à ce que leurs secrets protégés par la loi ne soient pas divulgués. Une copie de ces documents est adressée au ministre chargé de la culture et, pour ce qui concerne les litiges relatifs à l' interopérabilité des mesures techniques, au ministre chargé de la propriété industrielle.
-
-L' Autorité peut mettre tout ou partie des frais de procédure à la charge du demandeur dont la demande est rejetée ou à celle de la personne mise en cause lorsqu' une injonction ou une sanction pécuniaire est prononcée à son encontre. Ces frais incluent, le cas échéant, le coût de l' expertise mentionnée à l' article R. 331- 19 et celui de la publication de la décision.
-
-Les sanctions pécuniaires et les astreintes sont recouvrées comme les créances de l' Etat étrangères à l' impôt et au domaine.
-
-####### Article R331-29
-
-Par dérogation aux dispositions du titre VI du livre II du code de procédure civile, les recours exercés devant la cour d'appel de Paris contre les décisions de l'Autorité sont formés, instruits et jugés conformément aux dispositions de la présente sous-section.
-
-L'Autorité n'est pas partie à l'instance.
-
-####### Article R331-30
-
-Les recours prévus à l'article R. 331-28 sont formés par une déclaration écrite en triple exemplaire déposée contre récépissé au greffe de la cour d'appel de Paris contenant, à peine de nullité :
-
-1° Si le demandeur est une personne physique, ses nom, prénoms, profession et domicile ; si le demandeur est une personne morale, sa dénomination, sa forme, son siège social et l'organe qui la représente ;
-
-2° L'objet du recours.
-
-Lorsque la déclaration ne contient pas l'exposé des moyens invoqués, le demandeur doit, à peine d'irrecevabilité prononcée d'office, déposer cet exposé au greffe dans les deux mois qui suivent la notification de la décision de l'Autorité.
-
-La déclaration de recours mentionne la liste des pièces et documents justificatifs produits. Les pièces et documents mentionnés dans la déclaration sont remis au greffe de la cour d'appel en même temps que la déclaration. Le demandeur au recours joint à la déclaration une copie de la décision attaquée.
-
-Lorsque le demandeur au recours n'est pas représenté, il doit informer sans délai le greffe de la cour de tout changement de domicile.
-
-####### Article R331-31
-
-Dans les cinq jours qui suivent le dépôt de sa déclaration, l'auteur du recours doit, à peine d'irrecevabilité de ce dernier prononcée d'office, en adresser, par lettre recommandée avec demande d'avis de réception, une copie aux parties auxquelles la décision de l'Autorité a été notifiée, ainsi qu'il ressort de la lettre de notification prévue au deuxième alinéa de l'article R. 331-28.
-
-Dès l'enregistrement du recours, le greffe de la cour d'appel notifie une copie de la déclaration mentionnée à l'article R. 331-30 et des pièces qui y sont jointes au président de l'Autorité, ainsi qu'au ministre chargé de la culture et, pour ce qui concerne les litiges relatifs à l'interopérabilité des mesures techniques, au ministre chargé de la propriété industrielle.
-
-Le président de l'Autorité transmet au greffe de la cour le dossier de l'affaire qui comporte le rapport, les mémoires et pièces transmis par les parties et tous les documents versés au dossier durant l'instruction.
-
-####### Article R331-32
-
-Un recours incident peut être formé alors même que son auteur serait forclos pour exercer un recours à titre principal. Toutefois, dans ce dernier cas, le recours incident ne sera pas recevable s'il est formé plus d'un mois après la réception de la lettre recommandée de l'auteur du recours formé à titre principal, prévue au premier alinéa de l'article R. 331-31, ou si le recours principal n'est pas lui-même recevable.
-
-Le recours incident est formé selon les modalités prévues à l'article R. 331-30. Il est dénoncé, dans les conditions prévues au premier alinéa de l'article R. 331-31, à l'auteur du recours à titre principal.
-
-####### Article R331-33
-
-Lorsque le recours risque d'affecter les droits ou les charges d'autres personnes qui étaient parties en cause devant l'Autorité, ces personnes peuvent se joindre à l'instance devant la cour d'appel par déclaration écrite et motivée déposée au greffe dans les conditions prévues à l'article R. 331-30, dans le délai d'un mois après la réception de la lettre recommandée de l'auteur du recours formé à titre principal, prévue au premier alinéa de l'article R. 331-31. Elle est notifiée à l'auteur du recours formé à titre principal.
-
-A tout moment, le premier président ou son délégué ou la cour peut mettre d'office en cause ces mêmes personnes. Le greffe notifie la décision de mise en cause par lettre recommandée avec demande d'avis de réception.
-
-####### Article R331-34
-
-Le premier président de la cour d'appel ou son délégué fixe les délais dans lesquels les parties à l'instance doivent se communiquer leurs observations écrites et en déposer copie au greffe de la cour. Il fixe également la date des débats.
-
-Le greffe notifie ces délais aux parties et les convoque à l'audience par lettre recommandée avec demande d'avis de réception.
-
-####### Article R331-36
-
-Devant la cour d' appel ou son premier président, la représentation et l' assistance des parties s' exercent dans les conditions prévues par l' article 931 du code de procédure civile.
-
-####### Article R331-37
-
-Les décisions de la cour d'appel de Paris ou de son premier président sont notifiées par lettre recommandée avec demande d'avis de réception par le greffe de la cour aux parties à l'instance.
-
-Elles sont portées à la connaissance du président de l'Autorité, du ministre chargé de la culture et, pour ce qui concerne les litiges relatifs à l'interopérabilité des mesures techniques, au ministre chargé de la propriété industrielle, par lettre simple à l'initiative du greffe.
-
-####### Article R331-35
-
-Les notifications entre parties ont lieu par lettre recommandée avec demande d'avis de réception ou par notification directe entre les avocats ou les avoués des parties. Les pièces de procédure doivent être déposées au greffe en triple exemplaire.
 
 #### Chapitre II : Saisie-contrefaçon
 
