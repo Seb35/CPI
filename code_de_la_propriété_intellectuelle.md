@@ -6447,6 +6447,83 @@ La déclaration d'intérêts mentionnée à l'article L. 331-18 est établie con
 
 Les déclarations sont actualisées chaque année et, en tout état de cause, dès qu'un fait nouveau intervient dans la situation professionnelle ou personnelle des déclarants.
 
+###### Sous-section 2 : Mission de protection des œuvres et objets auxquels est attaché un droit d'auteur ou un droit voisin
+
+####### Article R331-35
+
+Pour être recevables, les saisines adressées à la commission de protection des droits de la Haute Autorité par les organismes de défense professionnelle régulièrement constitués, les sociétés de perception et de répartition des droits et le Centre national du cinéma et de l'image animée dans les conditions prévues à l'article L. 331-24 doivent comporter :
+
+1° Les données à caractère personnel et les informations mentionnées au 1° de l'annexe du décret n° 2010-236 du 5 mars 2010 relatif au traitement automatisé de données à caractère personnel autorisé par l'article L. 331-29 du code de la propriété intellectuelle dénommé " Système de gestion des mesures pour la protection des œuvres sur internet " ;
+
+2° Une déclaration sur l'honneur selon laquelle l'auteur de la saisine a qualité pour agir au nom du titulaire de droits sur l'œuvre ou l'objet protégé concerné par les faits.
+
+Dès réception de la saisine, la commission de protection des droits en accuse réception par voie électronique.
+
+####### Article R331-36
+
+Les procès-verbaux dressés par les agents assermentés et agréés mentionnés à l'article L. 331-24 peuvent être établis sous la forme électronique. Dans ce cas, il est fait usage d'une signature électronique sécurisée dans les conditions prévues par l'article 1316-4 du code civil et le décret n° 2001-272 du 30 mars 2001 pris pour l'application de l'article 1316-4 du code civil et relatif à la signature électronique.
+
+####### Article R331-37
+
+Les opérateurs de communications électroniques mentionnés à l'article L. 34-1 du code des postes et des communications électroniques et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique sont tenus de communiquer les données à caractère personnel et les informations mentionnées au 2° de l'annexe du décret n° 2010-236 du 5 mars 2010 dans un délai de huit jours suivant la transmission par la commission de protection des droits des données techniques nécessaires à l'identification de l'abonné dont l'accès à des services de communication au public en ligne a été utilisé à des fins de reproduction, de représentation, de mise à disposition ou de communication au public d'œuvres ou d'objets protégés sans l'autorisation des titulaires des droits prévus aux livres Ier et II lorsqu'elle est requise.
+
+Ces opérateurs et prestataires sont également tenus de fournir les documents et les copies des documents mentionnés aux troisième et quatrième alinéas de l'article L. 331-21 dans un délai de quinze jours suivant la demande qui leur en est faite par la commission de protection des droits.
+
+####### Article R331-38
+
+Est puni de l'amende prévue pour les contraventions de cinquième classe le fait de contrevenir aux dispositions de l'article R. 331-37.
+
+La récidive des contraventions prévues au présent article est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
+
+####### Article R331-39
+
+Toute demande ou toute observation adressée à la commission de protection des droits par le destinataire d'une recommandation visée au premier ou au deuxième alinéa de l'article L. 331-25 n'est instruite que si elle comporte le numéro de dossier figurant dans cette recommandation.
+
+Il est accusé réception de la demande ou de l'observation par la commission de protection des droits.
+
+####### Article R331-40
+
+Lorsque, dans le délai d'un an suivant la présentation de la recommandation mentionnée au premier alinéa de l'article L. 335-7-1, la commission de protection des droits est saisie de nouveaux faits susceptibles de constituer une négligence caractérisée définie à l'article R. 335-5, elle informe l'abonné, par lettre remise contre signature, que ces faits sont susceptibles de poursuite. Cette lettre invite l'intéressé à présenter ses observations dans un délai de quinze jours. Elle précise qu'il peut, dans le même délai, solliciter une audition en application de l'article L. 331-21-1 et qu'il a droit de se faire assister par un conseil. Elle l'invite également à préciser ses charges de famille et ses ressources.
+
+La commission peut de sa propre initiative convoquer l'intéressé aux fins d'audition. La lettre de convocation précise qu'il a droit de se faire assister par un conseil.
+
+####### Article R331-41
+
+Il est dressé procès-verbal de l'audition de l'intéressé par un membre de la commission de protection des droits ou par un agent habilité et assermenté en application de l'article R. 331-16.
+
+Le procès-verbal est signé par l'intéressé et par son conseil, par la personne procédant à l'audition ainsi que par celle qui l'a rédigé. Si la personne entendue ou son conseil ne veut pas signer le procès-verbal, mention en est portée sur celui-ci.
+
+Une copie du procès-verbal est remise à l'intéressé.
+
+####### Article R331-42
+
+La commission de protection des droits constate par une délibération prise à la majorité d'au moins deux voix que les faits sont susceptibles de constituer l'infraction prévue à l'article R. 335-5 ou les infractions prévues aux articles L. 335-2, L. 335-3 et L. 335-4.
+
+Toutefois, lorsque seuls deux membres de la commission sont présents et en cas de partage des voix, l'examen de la procédure est renvoyé à la première séance plénière de la commission.
+
+####### Article R331-43
+
+La délibération de la commission constatant que les faits sont susceptibles de constituer une infraction, à laquelle sont joints, selon les cas, un procès-verbal récapitulatif de l'ensemble des faits et procédure ainsi que toutes pièces utiles, est transmise au procureur de la République près le tribunal de grande instance compétent.
+
+La commission de protection des droits avise les auteurs des saisines qui lui ont été adressées dans les conditions prévues à l'article L. 331-24 de la transmission de la procédure au procureur de la République.
+
+####### Article R331-44
+
+Le procureur de la République informe la commission de protection des droits des suites données à la procédure transmise.
+
+####### Article R331-45
+
+La commission de protection des droits est rendue destinataire des décisions exécutoires comportant une peine de suspension de l'accès à un service de communication en ligne prononcée en application des articles L. 335-7, L. 335-7-1 et
+R. 335-5.
+
+####### Article R331-46
+
+La commission de protection des droits informe par lettre remise contre signature la personne dont l'activité est d'offrir un accès à des services de communication au public en ligne de la peine de suspension prononcée à l'encontre de son abonné.
+
+En application de l'article L. 331-28, la personne dont l'activité est d'offrir un accès à des services de communication au public en ligne informe, par lettre remise contre signature, la commission de protection des droits de la date à laquelle la période de suspension a débuté. La commission de protection des droits informe le casier judiciaire automatisé de l'exécution de la mesure.
+
+Faute pour la personne dont l'activité est d'offrir un accès à des services de communication au public en ligne de mettre en œuvre la peine de suspension qui lui a été notifiée, la commission de protection des droits délibère, dans les conditions de majorité définies à l'article R. 331-42, aux fins d'informer le procureur de la République des faits susceptibles de constituer le délit visé au sixième alinéa de l'article L. 335-7.
+
 #### Chapitre II : Saisie-contrefaçon
 
 ##### Article R332-1
