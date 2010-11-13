@@ -6497,6 +6497,18 @@ Les fonds de l'agence sont déposés et placés dans les conditions prévues par
 
 Les comptes de l'agent comptable de la Haute Autorité sont jugés directement par la Cour des comptes. Le contrôle de la gestion de l'agent comptable est également assuré par le receveur général des finances.
 
+######## Article R331-32-1
+
+Les rapporteurs et les personnes apportant leur concours à la Haute Autorité sont rémunérés sous la forme de vacations, dont le nombre est fixé par le président de la Haute Autorité, pour chaque dossier, en fonction du temps nécessaire à son instruction.
+
+Le montant et les modalités d'attribution de ces indemnités ainsi que le montant unitaire des vacations sont fixés par arrêté conjoint des ministres chargés de la culture, du budget et de la fonction publique.
+
+Les membres, les rapporteurs et les personnes apportant leur concours à la Haute Autorité peuvent prétendre au remboursement des frais de déplacement et de séjour que nécessite l'accomplissement de leurs missions, dans les conditions applicables aux personnels civils de l'Etat.
+
+######## Article R331-32-2
+
+Les experts mentionnés à l'article L. 331-19 sont désignés par le président de la Haute Autorité sur proposition du rapporteur chargé de l'instruction de l'affaire. La décision du président définit l'objet de l'expertise, fixe le délai de sa réalisation et évalue les honoraires prévisibles correspondants.
+
 ####### Paragraphe 6 : Dispositions diverses
 
 ######## Article D331-33
@@ -6589,6 +6601,337 @@ La commission de protection des droits informe par lettre remise contre signatur
 En application de l'article L. 331-28, la personne dont l'activité est d'offrir un accès à des services de communication au public en ligne informe, par lettre remise contre signature, la commission de protection des droits de la date à laquelle la période de suspension a débuté. La commission de protection des droits informe le casier judiciaire automatisé de l'exécution de la mesure.
 
 Faute pour la personne dont l'activité est d'offrir un accès à des services de communication au public en ligne de mettre en œuvre la peine de suspension qui lui a été notifiée, la commission de protection des droits délibère, dans les conditions de majorité définies à l'article R. 331-42, aux fins d'informer le procureur de la République des faits susceptibles de constituer le délit visé au sixième alinéa de l'article L. 335-7.
+
+###### Sous-section 3 : Mission d'encouragement au développement de l'offre légale et d'observation de l'utilisation licite et illicite d'œuvres et d'objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques
+
+####### Article R331-47
+
+Le dossier de la demande de labellisation présentée en application du deuxième alinéa de l'article L. 331-23 par la personne dont l'activité est d'offrir un service de communication au public en ligne comprend :
+
+1° S'il s'agit d'une personne physique, ses nom, prénom, adresse et coordonnées téléphoniques et, si elle est assujettie aux formalités d'inscription au registre du commerce et des sociétés ou au répertoire des métiers, le numéro de son inscription ;
+
+2° S'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, les coordonnées téléphoniques de la personne physique à contacter, et, s'il s'agit d'une entreprise assujettie aux formalités d'inscription au registre du commerce et des sociétés ou au répertoire des métiers, le numéro de son inscription et l'adresse de son siège social ;
+
+3° Le nom, la dénomination ou la raison sociale et l'adresse de son fournisseur d'hébergement ;
+
+4° La liste des œuvres composant l'offre sur laquelle porte la demande de labellisation ;
+
+5° L'indication des conditions d'accès à la lecture et de reproduction de ces œuvres et objets protégés ;
+
+6° Le cas échéant, l'adresse URL du service de communication au public en ligne depuis lequel est proposée l'offre, ou le moyen d'y accéder ;
+
+7° Une déclaration sur l'honneur selon laquelle l'ensemble des œuvres composant l'offre est et sera proposée avec l'autorisation des titulaires des droits prévus aux livres Ier et II, lorsqu'elle est requise ;
+
+8° L'engagement de répondre aux éventuelles demandes d'informations nécessaires à la vérification par la Haute Autorité de l'exactitude des indications fournies dans le dossier de la demande de labellisation.
+
+La demande et le dossier sont rédigés en langue française.
+
+La demande n'est recevable que si le dossier est complet. Toutefois, une irrecevabilité ne peut être opposée par la Haute Autorité qu'après que l'auteur de la demande de labellisation a été invité à compléter sa demande dans un délai de quinze jours.
+
+####### Article R331-48
+
+La demande de labellisation est adressée par lettre recommandée avec demande d'avis de réception à la Haute Autorité. Après vérification de sa recevabilité, celle-ci la publie sur son site internet avec son numéro d'enregistrement et les éléments du dossier mentionnés aux 1° à 7° de l'article R. 331-47.
+
+####### Article R331-49
+
+Le titulaire d'un droit prévu aux livres Ier et II sur l'une des œuvres figurant dans l'offre dispose d'un délai de quatre semaines à compter de la publication de la demande pour présenter une objection fondée sur la méconnaissance de ce droit.
+
+Cette objection n'est recevable que si elle remplit en outre les conditions suivantes :
+
+1° Etre présentée par écrit avec référence au numéro d'enregistrement de la demande ;
+
+2° Préciser les œuvres concernées par l'objection, et les éléments invoqués à l'appui de celle-ci.
+
+####### Article R331-50
+
+Toute objection recevable est communiquée sans délai par la Haute Autorité à l'auteur de la demande de labellisation, avec l'indication d'un délai, qui ne peut excéder deux mois, imparti pour parvenir à un accord avec l'auteur de l'objection permettant la levée de celle-ci ou au retrait de l'œuvre concernée. Ce délai suspend le délai mentionné à l'article R. 331-52.
+
+####### Article R331-51
+
+La Haute Autorité se prononce compte tenu de l'existence d'objections formulées dans les conditions prévues à l'article R. 331-49 et qui n'auraient pas été suivies de l'accord mentionné à l'article R. 331-50 ou du retrait par l'auteur de la demande de labellisation de l'œuvre concernée par l'objection.
+
+Elle statue au plus tôt, en l'absence d'objection, au terme du délai mentionné à l'article R. 331-49, et, en présence d'une objection, au terme du délai fixé en application de l'article R. 331-50.
+
+####### Article R331-52
+
+La décision de la Haute Autorité accordant le label est notifiée au demandeur et publiée sur le site internet de celle-ci. Le label est matérialisé par un signe distinctif apposé de manière lisible sur le site internet diffusant les œuvres constitutives de l'offre légale et désignant les œuvres couvertes par le label.
+
+Le silence gardé pendant plus de quatre mois par la Haute Autorité sur une demande de labellisation vaut décision de rejet.
+
+####### Article R331-53
+
+Le label est attribué pour une durée de un an à compter de la date de sa publication sur le site internet de la Haute Autorité. La demande de renouvellement, accompagnée d'un dossier qui comprend tout élément nouveau par rapport à celui de la précédente demande, est présentée au plus tard trois mois avant le terme de la labellisation. Cette demande est instruite selon la même procédure que la demande initiale.
+
+####### Article R331-54
+
+Le label peut être retiré par la Haute Autorité en cas de méconnaissance des engagements pris en application du 7° de l'article R. 331-47.
+
+Le retrait ne peut intervenir qu'après que le bénéficiaire du label a été mis à même de faire valoir ses observations.
+
+###### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés
+
+####### Article R331-55
+
+Le rapport de la Haute Autorité au Gouvernement et au Parlement, prévu à l'article L. 331-14, rend notamment compte des orientations qu'elle a fixées, en application du dernier alinéa de l'article L. 331-31, pour ce qui regarde les modalités d'exercice et le périmètre de l'exception pour copie privée et des décisions prises par elle, sur le fondement de l'article L. 331-32 en matière d'interopérabilité, de l'article L. 331-33 en matière d'exceptions et de l'article L. 331-34 en matière de transmission des textes imprimés sous la forme d'un fichier numérique.
+
+####### Paragraphe 1 : Règles générales de procédure
+
+######## Article R331-56
+
+I.-La saisine de la Haute Autorité fait l'objet d'une lettre recommandée avec demande d'avis de réception ou, selon des modalités fixées par la Haute Autorité, d'une transmission par voie électronique. Elle comporte :
+- le nom et l'adresse du demandeur, ainsi que, le cas échéant, ses statuts et le mandat donné à son représentant ou à son conseil ;
+- les pièces justifiant que le demandeur relève de l'une des catégories de personnes autorisées à saisir la Haute Autorité en vertu des dispositions de la présente sous-section ou des articles L. 331-32 à L. 331-34 et L. 331-36 ;
+- l'objet de la saisine, qui doit être motivée, et les pièces sur lesquelles se fonde celle-ci.
+
+II.-Lorsque la Haute Autorité est saisie en application des articles L. 331-32 à L. 331-34, le demandeur doit en outre préciser le nom et, si le demandeur la connaît, l'adresse des parties que le demandeur met en cause.
+
+III.-Lorsque la Haute Autorité est saisie en application des dispositions de l'article L. 331-32, le demandeur doit en outre préciser la nature et le contenu du projet dont la réalisation nécessite l'accès aux informations essentielles à l'interopérabilité qu'il sollicite, et justifier qu'il a demandé et s'est vu refuser cet accès soit par le titulaire des droits sur la mesure technique, soit par le fournisseur, l'éditeur ou la personne procédant à l'importation ou au transfert des informations ou de la mesure technique en cause depuis un Etat membre de l'Union européenne. Est assimilé à un refus le fait de ne pas proposer cet accès à des conditions et dans un délai raisonnables.
+
+IV.-Lorsque la Haute Autorité est saisie en application des dispositions de l'article L. 331-33, le demandeur doit en outre justifier qu'il a demandé au titulaire des droits qui recourt à la mesure technique de protection de prendre les mesures propres à permettre l'exercice effectif d'une exception au droit d'auteur et aux droits voisins mentionnée à l'article L. 331-31. Est assimilé à un refus le fait de ne pas proposer la mise en œuvre de telles mesures dans un délai raisonnable.
+
+V.-Lorsque la Haute Autorité est saisie en application des dispositions de l'article L. 331-34, le demandeur doit en outre justifier qu'il est inscrit sur la liste mentionnée au II de l'article R. 122-17 et qu'il a demandé et s'est vu refuser la transmission du fichier numérique d'une œuvre imprimée par l'organisme dépositaire mentionné à l'article D. 122-22.
+
+Si la saisine n'est pas accompagnée de ces éléments, une demande de régularisation est adressée au demandeur ou à son représentant mandaté, qui doivent y répondre et apporter les compléments dans un délai d'un mois.
+
+Le délai de deux mois mentionné aux articles L. 331-32 et L. 331-35 court à compter de la réception du dossier complet par la Haute Autorité.
+
+La production de mémoires, observations ou pièces justificatives effectuées par une partie devant la Haute Autorité sous la signature et sous le timbre d'un avocat emporte élection de domicile.
+
+######## Article R331-57
+
+I.-L'agrément mentionné à l'article L. 331-33 et au second alinéa de l'article L. 331-36 est accordé par le ministre de la culture pour une durée de cinq années aux associations qui remplissent les conditions suivantes à la date de la demande d'agrément :
+
+1° Justifier d'au moins trois années d'existence à compter de leur déclaration ;
+
+2° Justifier, pendant la période mentionnée à l'alinéa précédent, d'une activité effective et publique en vue de la défense des intérêts des bénéficiaires d'au moins l'une des exceptions mentionnées au 2° de l'article L. 331-31 ; cette activité est appréciée notamment en fonction de la réalisation et de la diffusion de publications et d'informations ;
+
+3° Réunir au moins cinquante membres cotisant individuellement, cette condition pouvant ne pas être exigée des associations se livrant à des activités de recherche et d'analyse de caractère scientifique ; lorsque l'association a une structure fédérale ou confédérale, il est tenu compte du nombre total de cotisants des associations la constituant.
+
+L'agrément est renouvelable dans les conditions de délivrance de l'agrément initial.
+
+Les demandes d'agrément et de renouvellement sont adressées au ministre chargé de la culture. La composition du dossier et les modalités d'instruction sont fixées par arrêté de ce ministre. Lorsque le dossier remis à l'administration est complet, il en est délivré récépissé dans les conditions prévues par le décret n° 2001-492 du 6 juin 2001. La décision d'agrément ou de refus est notifiée dans un délai de deux mois à compter de la délivrance du récépissé. Les décisions de refus doivent être motivées.
+
+II.-Les personnes morales agréées dans les conditions prévues au I du présent article peuvent saisir la Haute Autorité dans l'intérêt collectif d'une ou plusieurs catégories de bénéficiaires des exceptions mentionnées au 2° de l'article L. 331-31. Elles peuvent également intervenir sur mandat d'une ou plusieurs personnes physiques ou morales identifiées. La saisine n'est recevable que si elle comporte mention de la ou des catégories de bénéficiaires représentés ou si les mandats accordés par des personnes physiques ou morales lui sont joints.
+
+######## Article R331-58
+
+Les associations de défense des consommateurs titulaires de l'agrément prévu par l'article L. 411-1 du code de la consommation ne sont pas tenues de justifier de l'agrément prévu à l'article R. 331-57 pour saisir la Haute Autorité en application de l'article L. 331-33 et du second alinéa de l'article L. 331-36, dès lors que cette saisine est effectuée dans les conditions prévues aux articles L. 421-1 et suivants et L. 422-1 du code de la consommation.
+
+######## Article R331-59
+
+I.-La Haute Autorité peut rejeter pour irrecevabilité une demande dont elle a été saisie lorsque :
+
+1° L'objet de la demande ne relève pas de sa compétence ;
+
+2° La demande n'est pas conforme aux prescriptions de l'article R. 331-56, après l'expiration du délai d'un mois suivant l'invitation à régulariser qui a été adressée au demandeur ;
+
+3° L'auteur de la saisine ne justifie pas d'une qualité ou d'un intérêt à agir.
+
+II.-La Haute Autorité peut statuer sans instruction sur les saisines entachées d'une irrecevabilité manifeste.
+
+######## Article R331-60
+
+Lorsque la Haute Autorité est saisie en application des articles L. 331-32 à L. 331-34, le président peut, d'office ou à la demande des parties, procéder à la jonction de l'instruction de plusieurs affaires. A l'issue de leur instruction, la Haute Autorité peut se prononcer par une décision commune. Le président peut également procéder à la disjonction de l'instruction d'une saisine en plusieurs affaires.
+
+######## Article R331-61
+
+Les rapporteurs chargés de l'instruction de dossiers auprès de la Haute Autorité sont nommés par le président de la Haute Autorité parmi les agents publics de catégorie A ou assimilés, en activité ou ayant fait valoir leurs droits à la retraite, et les personnes pouvant justifier d'une expérience d'au moins cinq ans dans le domaine du droit de la propriété intellectuelle ou dans celui des mesures techniques et titulaires d'un des diplômes permettant d'accéder à un corps de catégorie A.
+
+Peuvent également être nommés rapporteurs les magistrats de l'ordre judiciaire détachés ou mis à disposition de la Haute Autorité en application des dispositions de l'article R. 331-15.
+
+######## Article R331-62
+
+Lorsque la Haute Autorité est saisie en application des articles L. 331-32 à L. 331-34, l'instruction de l'affaire s'effectue dans des conditions qui garantissent le respect du principe du caractère contradictoire de la procédure. Le président désigne le rapporteur. Celui-ci procède à toutes diligences utiles.
+
+La partie mise en cause est entendue à sa demande ou si le rapporteur l'estime utile. Le rapporteur peut également entendre toute autre personne dont l'audition lui paraît utile, notamment lorsqu'il est saisi d'une demande en ce sens par un tiers. Dans tous les cas, il établit un procès-verbal qui est versé au dossier.
+
+Le rapporteur peut verser au dossier les observations et pièces produites par des tiers. Il peut solliciter auprès des parties des pièces complémentaires et proposer de recourir à des expertises dans les conditions fixées à l'article R. 331-63.
+
+######## Article R331-63
+
+Lorsqu'il est fait application de l'article R. 331-32-2, les honoraires et frais d'expertise sont à la charge de la partie qui en a fait la demande ou à celle de la Haute Autorité, dans le cas où l'expertise est ordonnée d'office par le président sur proposition du rapporteur. Toutefois, la Haute Autorité peut, dans sa décision sur le fond, faire peser tout ou partie de la charge définitive de l'expertise sur certaines parties dans les conditions prévues à l'article R. 331-75.
+
+Lorsqu'une expertise est demandée par une partie et acceptée par le président, le montant d'une provision égale aux honoraires prévus par l'expert est consigné sur demande du président. Si plusieurs parties doivent procéder à une telle consignation, le président indique dans quelle proportion chacune doit consigner.
+
+Le rapport d'expertise est remis au rapporteur chargé de l'instruction de l'affaire, qui le verse au dossier.
+
+######## Article R331-64
+
+Les décisions prises par la Haute Autorité en application des règles de procédure prévues aux paragraphes 2, 3 et 4 de la présente sous-section ne peuvent porter atteinte à l'exploitation normale d'une œuvre ou d'un objet protégé par un droit de propriété intellectuelle, ni causer un préjudice injustifié aux intérêts légitimes des titulaires de droits de propriété intellectuelle.
+
+####### Paragraphe 2 : Procédure applicable en matière d'interopérabilité des mesures techniques
+
+######## Article R331-65
+
+I.-Lorsqu'une partie se prévaut d'un secret protégé par la loi, elle signale par lettre, à l'occasion de leur communication à la Haute Autorité, les informations, documents ou parties de documents regardés par elle comme mettant en jeu un secret protégé par la loi et demande, pour des motifs qu'elle précise pour chacun d'entre eux, leur classement en annexe confidentielle. Elle fournit séparément une version non confidentielle de ces documents ainsi qu'un résumé des éléments dont elle demande le classement. Le cas échéant, elle désigne les entreprises à l'égard desquelles le secret serait susceptible de s'appliquer.
+
+Lorsque les informations, documents ou parties de documents susceptibles de mettre en jeu un secret protégé par la loi sont communiqués à la Haute Autorité par une autre personne que celle qui est susceptible de se prévaloir de ce secret et que celle-ci n'a pas formé de demande de classement, le rapporteur l'invite à présenter, si elle le souhaite, dans un délai qu'il fixe, une demande de classement en annexe confidentielle conformément aux prescriptions de l'alinéa précédent.
+
+II.-Les informations, documents ou parties de documents pour lesquels une demande de classement n'a pas été présentée sont réputés ne pas mettre en jeu un secret protégé par la loi, notamment le secret des affaires, dont les parties pourraient se prévaloir.
+
+Le président de la Haute Autorité donne acte à la personne concernée du classement en annexe confidentielle des informations, documents ou partie de documents regardés par elle comme mettant en jeu un secret protégé par la loi. Les pièces considérées sont retirées du dossier ou certaines de leurs mentions sont occultées. La version non confidentielle des documents et leur résumé sont versés au dossier.
+
+Le président de la Haute Autorité peut refuser le classement en tout ou en partie si la demande n'a pas été présentée conformément aux dispositions du premier alinéa du présent article, ou l'a été au-delà des délais impartis en vertu du deuxième alinéa, ou si elle est manifestement infondée. La pièce est alors restituée à la partie qui l'a produite.
+
+III.-Lorsque le rapporteur considère qu'une pièce classée en annexe confidentielle est nécessaire à la procédure, il en informe par lettre recommandée avec accusé de réception la personne qui en a demandé le classement. Si cette personne s'oppose, dans le délai qui lui a été imparti par le rapporteur, à ce que la pièce soit utilisée dans la procédure, elle saisit le président de la Haute Autorité. Si celui-ci donne suite à son opposition, la pièce est restituée à la partie qui l'a produite. Dans le cas contraire, il autorise l'utilisation de la pièce par le rapporteur et sa communication aux parties pour lesquelles la pièce est nécessaire à l'exercice de leurs droits. Les parties concernées ne peuvent utiliser cette pièce, qui demeure couverte par le secret protégé par la loi, que dans le cadre de la procédure devant la Haute Autorité et des voies de recours éventuelles contre les décisions de celle-ci.
+
+Lorsqu'une partie considère qu'une pièce classée en annexe confidentielle est nécessaire à l'exercice de ses droits, elle peut en demander la communication ou la consultation en présentant une requête motivée au rapporteur. Le rapporteur informe la personne qui a demandé le classement de cette pièce par lettre recommandée avec accusé de réception. Si cette dernière s'oppose, dans le délai qui lui a été imparti par le rapporteur, à ce que la pièce soit communiquée à la partie qui en fait la demande, elle saisit le président de la Haute Autorité. Si celui-ci donne suite à son opposition, la pièce est restituée à la partie qui l'a produite. Dans le cas contraire, il autorise la communication ou la consultation de la pièce à la partie qui en a fait la demande ainsi que, le cas échéant, aux autres parties pour lesquelles la pièce est nécessaire à l'exercice de leurs droits. Les parties concernées ne peuvent utiliser cette pièce, qui demeure couverte par le secret protégé par la loi, que dans le cadre de la procédure devant la Haute Autorité et des voies de recours éventuelles contre les décisions de celle-ci.
+
+IV.-Les décisions prises par le président de la Haute Autorité en application des dispositions du présent article ne peuvent être contestées qu'à l'occasion du recours dirigé contre les décisions de la Haute Autorité rendues en application des articles R. 331-68 à R. 331-70.
+
+######## Article R331-66
+
+Lorsque le rapporteur constate que les engagements proposés par chacune des parties recueillent l'accord de l'ensemble de celles-ci et qu'ils sont de nature à mettre un terme aux pratiques contraires à l'interopérabilité au sens des dispositions de l'article L. 331-32, il établit un projet de procès-verbal signé par les parties en cause, constatant ces engagements et fixant un délai pour leur exécution. Ce procès-verbal devient définitif après accord de la Haute Autorité, qui peut entendre les parties ou toute autre personne avant de statuer si elle le juge utile.
+
+Les engagements mentionnés à l'alinéa précédent peuvent être modifiés avec l'accord de la Haute Autorité selon la procédure prévue à cet alinéa.
+
+######## Article R331-67
+
+I.-A défaut d'accord des parties et de la Haute Autorité constaté dans les conditions fixées par l'article R. 331-66, le rapport du rapporteur est notifié aux parties, qui disposent d'un délai de quinze jours pour prendre connaissance et copie du dossier auprès des services de la Haute Autorité et pour transmettre à celle-ci leurs observations écrites.
+
+Lorsque les circonstances le justifient, le président de la Haute Autorité peut, par une décision non susceptible de recours, accorder un délai supplémentaire, qui ne peut excéder un mois, pour la consultation du dossier et la production des observations des parties.
+
+Les parties sont informées de la date à laquelle la Haute Autorité statuera sur la saisine au moins dix jours avant la séance. La personne mise en cause est entendue à sa demande ou à celle du président de la Haute Autorité. Elle doit pouvoir prendre la parole en dernier.
+
+La Haute Autorité peut également entendre le demandeur ou toute personne dont l'audition lui paraît utile.
+
+Les personnes entendues peuvent être assistées d'un conseil.
+
+Le rapporteur qui a instruit une affaire peut présenter des observations orales lors de la séance au cours de laquelle elle est examinée. La Haute Autorité statue hors de sa présence.
+
+Lorsqu'elle estime que l'instruction est incomplète, la Haute Autorité peut décider de renvoyer l'affaire en tout ou partie à l'instruction. Cette décision n'est pas susceptible de recours.
+
+II.-La Haute Autorité peut, si elle le juge utile, demander à son président de saisir pour avis l'Autorité de la concurrence selon les modalités fixées au dernier alinéa de l'article L. 331-32 et décider de surseoir à statuer, dans l'attente de cet avis, sur la demande dont elle a été saisie.
+
+######## Article R331-68
+
+I.-Au terme de la procédure prévue à l'article R. 331-67, la Haute Autorité peut, par une décision motivée, soit rejeter la demande dont elle a été saisie, soit enjoindre au titulaire des droits sur la mesure technique de prendre les mesures propres à assurer l'accès du demandeur aux informations essentielles à l'interopérabilité.
+
+Lorsqu'elle prononce une injonction, la Haute Autorité définit les conditions d'accès à ces informations, notamment :
+
+1° La durée de cet accès et son champ d'application ;
+
+2° L'indemnité que le demandeur doit verser au titulaire des droits sur la mesure technique, lorsque celui-ci présente une demande justifiée à cette fin. L'injonction prend effet au plus tôt à la date de versement de l'indemnité à celui-ci ou à la date de consignation de cette somme selon des modalités fixées par la Haute Autorité. Le montant de cette indemnité tient compte notamment de la valeur économique des informations communiquées au demandeur.
+
+La Haute Autorité précise en outre les engagements que le demandeur doit respecter pour garantir, d'une part, l'efficacité et l'intégrité de la mesure technique, et, d'autre part, les conditions d'utilisation du contenu protégé et les modalités d'accès à celui-ci. Ces engagements peuvent comporter l'obligation de faire vérifier par un expert désigné par la Haute Autorité que l'efficacité et l'intégrité de la mesure technique sont respectées. Ces engagements portent également sur les conditions de publication du code source et de la documentation technique en application des dispositions du troisième alinéa de l'article L. 331-32, lorsque le demandeur déclare à la Haute Autorité vouloir publier ces éléments.
+
+II.-La Haute Autorité peut assortir cette injonction d'une astreinte dont elle fixe le montant et la date d'effet. Lorsque la Haute Autorité constate, à compter de cette date, d'office ou sur la saisine de toute partie intéressée que les mesures qu'elle avait prescrites n'ont pas été prises, elle procède à la liquidation de l'astreinte. Celle-ci est provisoire ou définitive. Elle doit être considérée comme provisoire, à moins que la Haute Autorité n'ait précisé son caractère définitif. La Haute Autorité peut modérer ou supprimer l'astreinte provisoire, même en cas d'inexécution constatée.
+
+######## Article R331-69
+
+Lorsque aucun recours devant la cour d'appel de Paris n'a été formé dans le délai prévu au premier alinéa de l'article R. 331-75 ou lorsque ce recours a été rejeté par une décision juridictionnelle devenue définitive, la Haute Autorité peut, à la demande de toute partie intéressée, modifier ou mettre fin à son injonction si des éléments nouveaux le justifient ou si le demandeur renonce à donner suite à sa demande d'accès aux informations en litige. La Haute Autorité statue, au terme de la procédure prévue aux articles R. 331-56 à R. 331-65 et R. 331-67, selon les modalités fixées à l'article R. 331-68.
+
+######## Article R331-70
+
+En cas de non-respect des engagements acceptés par la Haute Autorité suivant la procédure fixée à l'article R. 331-66 ou en cas d'inexécution de l'injonction prononcée en application des dispositions des articles R. 331-68 et R. 331-69, le demandeur mentionné à ces articles peut saisir la Haute Autorité afin que celle-ci prononce à l'encontre du titulaire des droits sur la mesure technique la sanction pécuniaire prévue à l'article L. 331-32.
+
+Cette sanction pécuniaire peut également être prononcée, à la demande du titulaire des droits sur la mesure technique, à l'encontre du demandeur si celui-ci ne respecte pas soit les engagements qu'il a pris et qui ont été acceptés par la Haute Autorité suivant la procédure fixée à l'article R. 331-66, soit les engagements qui lui ont été imposés par la Haute Autorité en application des dispositions du I de l'article R. 331-68.
+
+La Haute Autorité statue au terme de la procédure prévue aux articles R. 331-56 à R. 331-65 et R. 331-67.
+
+######## Article R331-71
+
+Le rapporteur peut demander au titulaire des droits sur la mesure technique ou, dans le cas prévu au deuxième alinéa de l'article R. 331-70, au demandeur, de lui communiquer, dans un délai de dix jours, les montants de chiffres d'affaires nécessaires au calcul du plafond d'une éventuelle sanction. Si la partie concernée s'abstient de lui communiquer ces informations ou s'il conteste l'exactitude de celles-ci, le rapporteur indique dans son rapport son évaluation des chiffres d'affaires en cause et les éléments sur lesquels il fonde celle-ci.
+
+####### Paragraphe 3 : Procédure applicable en matière d'exceptions au droit d'auteur et aux droits voisins et de transmission des fichiers numériques ayant servi à l'édition d'œuvres imprimées
+
+######## Article R331-72
+
+Lorsque le rapporteur constate qu'une conciliation des parties est possible en application des dispositions du premier alinéa de l'article L. 331-35 et dans le respect de l'article R. 331-65, il établit un projet de procès-verbal signé par les parties en cause, constatant la conciliation, précisant les mesures à prendre pour mettre fin à la situation litigieuse et fixant un délai pour l'exécution de ces mesures. Ce procès-verbal de conciliation devient définitif et exécutoire après accord de la Haute Autorité, qui peut entendre les parties avant de statuer si elle le juge utile.
+
+Le procès-verbal est déposé immédiatement au secrétariat-greffe du ou des tribunaux d'instance dans le ressort duquel ou desquels les parties au litige ont leur domicile ou siège social.
+
+Toute conciliation réalisée ultérieurement est constatée par procès-verbal établi et déposé dans les mêmes conditions.
+
+######## Article R331-73
+
+En cas d'échec de la conciliation, la Haute Autorité peut, par une décision motivée prise au terme de la procédure fixée par le I de l'article R. 331-67, soit rejeter la demande dont elle a été saisie, soit enjoindre à la personne mise en cause de prendre les mesures propres à assurer le bénéfice effectif de l'exception au droit d'auteur ou aux droits voisins ou la transmission du fichier numérique ayant servi à l'édition d'une œuvre imprimée.
+
+Lorsqu'elle prononce une injonction visant à garantir le bénéfice effectif d'une exception au droit d'auteur ou aux droits voisins, la Haute Autorité détermine les modalités d'exercice de cette exception et fixe notamment, le cas échéant, le nombre minimal de copies autorisées dans le cadre de l'exception pour copie privée, en fonction du type d'œuvre ou d'objet protégé, des divers modes de communication au public et des possibilités offertes par les techniques de protection disponibles.
+
+La Haute Autorité peut également préciser les engagements que le demandeur doit respecter pour assurer le maintien des conditions d'utilisation du contenu protégé et les modalités d'accès à celui-ci et, le cas échéant, l'efficacité et l'intégrité de la mesure technique mise en œuvre.
+
+La Haute Autorité peut assortir ses injonctions d'une astreinte selon les modalités prévues au II de l'article R. 331-68.
+
+####### Paragraphe 4 : Procédure applicable aux saisines pour avis en matière d'interopérabilité et d'exceptions au droit d'auteur et aux droits voisins
+
+######## Article R331-74
+
+Les avis rendus en application de l'article L. 331-36 peuvent être publiés par la Haute Autorité.
+
+####### Paragraphe 5 : Voies de recours contre les décisions de la Haute Autorité
+
+######## Article R331-75
+
+Les décisions de la Haute Autorité mentionnées aux articles R. 331-68 à R. 331-70 et R. 331-73 sont notifiées par lettre recommandée avec demande d'avis de réception aux parties, qui peuvent, dans le délai d'un mois, introduire un recours en annulation ou en réformation devant la cour d'appel de Paris. Les augmentations de délais prévues à l'article 643 du code de procédure civile ne s'appliquent pas à ce recours.
+
+La lettre de notification doit indiquer le délai de recours ainsi que les modalités selon lesquelles celui-ci peut être exercé. Elle comporte en annexe les noms, qualités et adresses des parties auxquelles la décision de la Haute Autorité a été notifiée. Les délais de recours ne sont pas opposables à l'auteur de celui-ci lorsque la lettre de notification ne comporte pas les indications prévues au présent alinéa.
+
+Ces décisions ainsi que les procès-verbaux mentionnés aux articles R. 331-66 et R. 331-72 sont rendus publics par tous moyens et, en tout état de cause, s'agissant des décisions, au Bulletin officiel du ministère de la culture et de la communication. La Haute Autorité peut prévoir une publication limitée pour tenir compte de l'intérêt légitime des parties à ce que leurs secrets protégés par la loi ne soient pas divulgués. Une copie de ces documents est adressée au ministre chargé de la culture et, pour ce qui concerne les litiges relatifs à l'interopérabilité des mesures techniques, au ministre chargé de la propriété industrielle.
+
+La Haute Autorité peut mettre tout ou partie des frais de procédure à la charge du demandeur dont la demande est rejetée ou à celle de la personne mise en cause lorsqu'une injonction ou une sanction pécuniaire est prononcée à son encontre. Ces frais incluent, le cas échéant, le coût de l'expertise mentionnée à l'article R. 331-63 et celui de la publication de la décision.
+
+Les sanctions pécuniaires et les astreintes sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+
+######## Article R331-76
+
+Par dérogation aux dispositions du titre VI du livre II du code de procédure civile, les recours exercés devant la cour d'appel de Paris contre les décisions de la Haute Autorité sont formés, instruits et jugés conformément aux dispositions de la présente sous-section.
+
+La Haute Autorité n'est pas partie à l'instance.
+
+######## Article R331-77
+
+Les recours prévus à l'article R. 331-75 sont formés par une déclaration écrite en triple exemplaire déposée contre récépissé au greffe de la cour d'appel de Paris contenant, à peine de nullité :
+
+1° Si le demandeur est une personne physique, ses nom, prénoms, profession et domicile ; si le demandeur est une personne morale, sa dénomination, sa forme, son siège social et l'organe qui la représente ;
+
+2° L'objet du recours.
+
+Lorsque la déclaration ne contient pas l'exposé des moyens invoqués, le demandeur doit, à peine de caducité, déposer cet exposé au greffe dans les deux mois qui suivent la notification de la décision de la Haute Autorité.
+
+La déclaration de recours mentionne la liste des pièces et documents justificatifs produits. Les pièces et documents mentionnés dans la déclaration sont remis au greffe de la cour d'appel en même temps que la déclaration. Le demandeur au recours joint à la déclaration une copie de la décision attaquée.
+
+Lorsque le demandeur au recours n'est pas représenté, il doit informer sans délai le greffe de la cour de tout changement de domicile.
+
+######## Article R331-78
+
+Dans les cinq jours qui suivent le dépôt de sa déclaration, l'auteur du recours doit, à peine de caducité de ce dernier prononcée d'office, en adresser, par lettre recommandée avec demande d'avis de réception, une copie aux parties auxquelles la décision de la Haute Autorité a été notifiée, ainsi qu'il ressort de la lettre de notification prévue au deuxième alinéa de l'article R. 331-75.
+
+Dès l'enregistrement du recours, le greffe de la cour d'appel notifie une copie de la déclaration mentionnée à l'article R. 331-77 et des pièces qui y sont jointes au président de la Haute Autorité, ainsi qu'au ministre chargé de la culture et, pour ce qui concerne les litiges relatifs à l'interopérabilité des mesures techniques, au ministre chargé de la propriété industrielle.
+
+Le président de la Haute Autorité transmet au greffe de la cour le dossier de l'affaire qui comporte le rapport, les mémoires et pièces transmis par les parties et tous les documents versés au dossier durant l'instruction.
+
+######## Article R331-79
+
+Un recours incident peut être formé alors même que son auteur serait forclos pour exercer un recours à titre principal. Toutefois, dans ce dernier cas, le recours incident ne sera pas recevable s'il est formé plus d'un mois après la réception de la lettre recommandée de l'auteur du recours formé à titre principal, prévue au premier alinéa de l'article R. 331-78 ou si le recours principal n'est pas lui-même recevable.
+
+Le recours incident est formé selon les modalités prévues à l'article R. 331-77. Il est dénoncé, dans les conditions prévues au premier alinéa de l'article R. 331-78, à l'auteur du recours à titre principal.
+
+######## Article R331-80
+
+Lorsque le recours risque d'affecter les droits ou les charges d'autres personnes qui étaient parties en cause devant la Haute Autorité, ces personnes peuvent se joindre à l'instance devant la cour d'appel par déclaration écrite et motivée déposée au greffe dans les conditions prévues à l'article R. 331-77 dans le délai d'un mois après la réception de la lettre recommandée de l'auteur du recours formé à titre principal, prévue au premier alinéa de l'article R. 331-78. Elle est notifiée à l'auteur du recours formé à titre principal.
+
+A tout moment, le premier président ou son délégué ou la cour peut mettre d'office en cause ces mêmes personnes. Le greffe notifie la décision de mise en cause par lettre recommandée avec demande d'avis de réception.
+
+######## Article R331-81
+
+Le premier président de la cour d'appel ou son délégué fixe les délais dans lesquels les parties à l'instance doivent se communiquer leurs observations écrites et en déposer copie au greffe de la cour. Il fixe également la date des débats.
+
+Le greffe notifie ces délais aux parties et les convoque à l'audience par lettre recommandée avec demande d'avis de réception.
+
+######## Article R331-82
+
+Les notifications entre parties ont lieu par lettre recommandée avec demande d'avis de réception ou par notification directe entre les avocats ou les avoués des parties. Les pièces de procédure doivent être déposées au greffe en triple exemplaire.
+
+######## Article R331-83
+
+Devant la cour d'appel ou son premier président, la représentation et l'assistance des parties s'exercent dans les conditions prévues par l'article 931 du code de procédure civile.
+
+######## Article R331-84
+
+Les décisions de la cour d'appel de Paris ou de son premier président sont notifiées par lettre recommandée avec demande d'avis de réception par le greffe de la cour aux parties à l'instance.
+
+Elles sont portées à la connaissance du président de la Haute Autorité, du ministre chargé de la culture et, pour ce qui concerne les litiges relatifs à l'interopérabilité des mesures techniques, au ministre chargé de la propriété industrielle, par lettre simple à l'initiative du greffe.
 
 #### Chapitre II : Saisie-contrefaçon
 
