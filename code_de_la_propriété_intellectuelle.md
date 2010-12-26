@@ -6933,6 +6933,94 @@ Les décisions de la cour d'appel de Paris ou de son premier président sont not
 
 Elles sont portées à la connaissance du président de la Haute Autorité, du ministre chargé de la culture et, pour ce qui concerne les litiges relatifs à l'interopérabilité des mesures techniques, au ministre chargé de la propriété industrielle, par lettre simple à l'initiative du greffe.
 
+###### Sous-section 5 : Evaluation et labellisation des moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne
+
+####### Article R331-85
+
+L'évaluation prévue à l'article L. 331-26 est effectuée à la demande de l'éditeur d'un moyen de sécurisation destiné à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne.
+
+Le demandeur choisit, pour procéder à cette évaluation, un ou plusieurs centres d'évaluation, agréés dans le domaine de ces moyens de sécurisation conformément à la procédure fixée par le chapitre II du décret n° 2002-535 du 18 avril 2002 modifié relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des technologies de l'information.
+
+####### Article R331-86
+
+I. ― Le demandeur adresse au centre qu'il a choisi un dossier qui comporte :
+
+a) La description du moyen de sécurisation à évaluer ;
+
+b) Les dispositions prévues pour conférer sa pleine efficacité à ce moyen de sécurisation ;
+
+c) L'ensemble des éléments permettant d'apprécier la conformité du moyen de sécurisation aux spécifications fonctionnelles rendues publiques par la Haute Autorité en application du premier alinéa de l'article L. 331-26.
+
+II. ― Il définit avec le centre :
+
+a) Les conditions de protection de la confidentialité des informations qui seront traitées dans le cadre de l'évaluation ;
+
+b) Le coût et les modalités de paiement de l'évaluation ;
+
+c) Le programme de travail et les délais prévus pour l'évaluation.
+
+####### Article R331-87
+
+Le demandeur est tenu de mettre à la disposition du centre d'évaluation tous les éléments nécessaires au bon accomplissement de ses travaux.
+
+Le demandeur peut décider à tout moment de mettre fin à une évaluation. Il est décidé entre les parties du dédommagement éventuellement dû au centre d'évaluation.
+
+####### Article R331-88
+
+Au terme de ses travaux, le centre d'évaluation remet un rapport d'évaluation au demandeur.
+
+Ce rapport, qui contient des informations couvertes par le secret industriel et commercial, revêt un caractère confidentiel.
+
+####### Article R331-89
+
+Pour obtenir le label prévu à l'article L. 331-26, l'éditeur d'un moyen de sécurisation :
+
+1° Adresse la demande de labellisation à la Haute Autorité par lettre recommandée avec demande d'avis de réception.
+
+Cette demande comporte :
+
+a) Si le demandeur est une personne physique, ses nom, prénom, adresse et coordonnées téléphoniques et, s'il est assujetti aux formalités d'inscription au registre du commerce et des sociétés ou au répertoire des métiers, le numéro de son inscription ;
+
+b) Si le demandeur est une personne morale, sa dénomination ou sa raison sociale, les coordonnées téléphoniques de la personne physique à contacter et, s'il s'agit d'une entreprise assujettie aux formalités d'inscription au registre du commerce et des sociétés ou au répertoire des métiers, le numéro de son inscription et l'adresse de son siège social ;
+
+2° Demande au centre ayant procédé à l'évaluation d'adresser à la Haute Autorité un exemplaire de son rapport.
+
+####### Article R331-90
+
+Est déclarée irrecevable toute demande qui ne comporte pas les informations et le rapport mentionnés à l'article R. 331-89.
+
+Toutefois, cette irrecevabilité ne peut être opposée par la Haute Autorité qu'après que l'auteur de la demande a été invité à compléter sa demande.
+
+####### Article R331-91
+
+La Haute Autorité délivre le label au moyen de sécurisation lorsqu'elle estime établi, au vu du rapport d'évaluation, que ce moyen est efficace et conforme aux spécifications fonctionnelles qu'elle a rendu publiques en application du premier alinéa de l'article L. 331-26.
+
+La décision de la Haute Autorité d'attribution ou de refus du label est notifiée au demandeur.
+
+Le silence gardé pendant plus de quatre mois par la Haute Autorité sur une demande de labellisation vaut décision de rejet.
+
+####### Article R331-92
+
+Le label prend effet à compter de la date de notification de la décision de la Haute Autorité au demandeur.
+
+####### Article R331-93
+
+Lorsque la Haute Autorité modifie les spécifications fonctionnelles que les moyens de sécurisation doivent présenter en application du premier alinéa de l'article L. 331-26, elle peut demander à l'éditeur d'un moyen de sécurisation labellisé de faire procéder à une nouvelle évaluation.
+
+####### Article R331-94
+
+Le label peut être retiré par la Haute Autorité lorsque le moyen de sécurisation :
+
+a) Cesse de remplir tout ou partie des conditions au vu desquelles il a été délivré ;
+
+b) Ne répond pas aux nouvelles spécifications fonctionnelles.
+
+Le retrait ne peut intervenir qu'après que le bénéficiaire du label a été mis à même de faire valoir ses observations.
+
+####### Article R331-95
+
+La Haute Autorité met à disposition du public la liste tenue à jour des moyens de sécurisation labellisés en application du second alinéa de l'article L. 331-26.
+
 #### Chapitre II : Saisie-contrefaçon
 
 ##### Article R332-1
