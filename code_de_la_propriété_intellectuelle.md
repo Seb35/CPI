@@ -2185,7 +2185,7 @@ La juridiction peut ordonner la destruction aux frais du condamné ou la remise 
 
 En cas de récidive des infractions définies à l'article L. 343-4 ou si le délinquant est ou a été lié à la partie lésée par convention, les peines encourues sont portées au double.
 
-Les coupables peuvent, en outre, être privés pour un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
+Les coupables peuvent, en outre, être privés pour un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie territoriales et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
 
 ## Deuxième partie : La propriété industrielle
 
@@ -2707,7 +2707,7 @@ La juridiction peut ordonner la destruction aux frais du condamné ou la remise 
 
 En cas de récidive des infractions aux droits garantis par le présent livre, ou si le délinquant est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
 
-Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
+Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie territoriales et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
 
 ###### Article L521-14
 
@@ -3831,7 +3831,7 @@ Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atte
 
 En cas de récidive des infractions définies à l'article L. 615-14, ou si le délinquant est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
 
-Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
+Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie territoriales et les chambres de métiers, ainsi que pour les conseils de prud'hommes.
 
 ####### Article L615-14-2
 
@@ -4788,7 +4788,7 @@ La juridiction peut ordonner la destruction aux frais du condamné ou la remise 
 
 En cas de récidive des infractions définies aux articles L. 716-9 à L. 716-11, ou si le délinquant est ou a été lié par convention avec la partie lésée, les peines encourues sont portées au double.
 
-Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie et les chambres de métiers ainsi que pour les conseils de prud'hommes.
+Les coupables peuvent, en outre, être privés pendant un temps qui n'excédera pas cinq ans du droit d'élection et d'éligibilité pour les tribunaux de commerce, les chambres de commerce et d'industrie territoriales et les chambres de métiers ainsi que pour les conseils de prud'hommes.
 
 ###### Article L716-13
 
@@ -7153,7 +7153,7 @@ L'Institut national de la propriété industrielle a notamment pour attributions
 
 8° L'application des accords internationaux et la mise en œuvre d'actions de coopération en matière de propriété industrielle, et notamment les relations administratives avec l'Organisation mondiale de la propriété intellectuelle et l'Organisation européenne des brevets ;
 
-9° La tenue du Registre national du commerce et des sociétés et du Répertoire central des métiers ;
+9° La tenue du Registre national du commerce et des sociétés ;
 
 10° La conservation du dépôt des actes constitutifs et modificatifs de sociétés déposés dans les greffes des tribunaux de commerce et des tribunaux civils en tenant lieu ;
 
@@ -9146,17 +9146,14 @@ Corps de fonctionnaires :
 
 - Corps des ingénieurs des mines régis par le décret n° 88-507 du 29 avril 1988 modifié.
 - Ingénieurs de l'industrie et des mines régis par le décret n° 88-507 du 29 avril 1988 modifié.
-- Professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007 .
+- Professeurs, maîtres-assistants et assistants des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines régis par le décret n° 2007-468 du 28 mars 2007.
 - Techniciens de laboratoire affectés dans les écoles nationales supérieures des mines et dans les écoles nationales supérieures des techniques industrielles et des mines et régis par le décret n° 96-273 du 26 mars 1996 modifié.
 - Ingénieurs du corps interministériel des ingénieurs des télécommunications régis par le décret n° 67-715 du 16 août 1967.
-- Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Télécom en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996 .
+- Fonctionnaires de l'Etat détachés sur des emplois de l'Institut Télécom en vertu du 1° de l'article 36 du décret n° 96-1177 du 27 décembre 1996.
 
 Agents non titulaires
 
-- chercheurs et ingénieurs régis par le
-décret n° 2000-677 du 18 juillet 2000
-portant dispositions statutaires communes aux agents contractuels des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
-
+- chercheurs et ingénieurs régis par le décret n° 2000-677 du 18 juillet 2000 portant dispositions statutaires communes aux agents contractuels des écoles nationales supérieures des mines et des écoles nationales supérieures des techniques industrielles et des mines placées sous la tutelle du ministre chargé de l'industrie ;
 - attachés de recherche régis par le décret n° 71-999 du 7 décembre 1971 ;
 - Personnels enseignants, chercheurs et ingénieurs associés régis par le décret n° 70-663 du 10 juillet 1970 modifié.
 - Agents contractuels chargés de mission de classe exceptionnelle, agents contractuels chargés de mission de classe normale, agents contractuels hors catégorie et agents contractuels de 1re catégorie régis par le décret n° 75-62 du 28 janvier 1975 modifié.
@@ -9168,35 +9165,22 @@ portant dispositions statutaires communes aux agents contractuels des écoles na
 Corps de fonctionnaires :
 
 - ingénieurs des ponts, des eaux et des forêts régis par le décret n° 59-358 du 20 février 1959 modifié ;
-- chargés de recherche et directeurs de recherche régis par le
-décret n° 94-943 du 28 octobre 1994 ;
-
+- chargés de recherche et directeurs de recherche régis par le décret n° 94-943 du 28 octobre 1994 ;
 - ingénieurs des travaux publics de l'Etat régis par le décret n° 71-345 du 5 mai 1971 modifié ;
 - ingénieurs géographes régis par le décret n° 65-793 du 16 septembre 1965, modifié par le décret n° 90-160 du 16 février 1990 ;
 - ingénieurs des travaux géographiques et cartographiques de l'Etat régis par le décret n° 73-264 du 6 mars 1973 modifié ;
-- ingénieurs de l'aviation civile régis par le
-décret n° 71-234 du 30 mars 1971
-modifié ;
-
-- ingénieurs des études et de l'exploitation de l'aviation civile régis par le
-décret n° 71-907 du 8 novembre 1971
-modifié ;
-
+- ingénieurs de l'aviation civile régis par le décret n° 71-234 du 30 mars 1971 modifié ;
+- ingénieurs des études et de l'exploitation de l'aviation civile régis par le décret n° 71-907 du 8 novembre 1971 modifié ;
 - ingénieurs du contrôle de la navigation aérienne régis par le décret n° 90-998 du 8 novembre 1990 modifié ;
-- ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le
-décret n° 91-56 du 16 janvier 1991
-, modifié par le décret n° 94-278 du 11 avril 1994 ;
-
+- ingénieurs électroniciens des systèmes de la sécurité aérienne régis par le décret n° 91-56 du 16 janvier 1991, modifié par le décret n° 94-278 du 11 avril 1994 ;
 - ingénieurs de la météorologie régis par le décret n° 63-1376 du 24 décembre 1963 modifié ;
-- ingénieurs des travaux de la météorologie régis par le
-décret n° 65-184 du 5 mars 1965
-modifié.
+- ingénieurs des travaux de la météorologie régis par le décret n° 65-184 du 5 mars 1965 modifié.
 
 Agents non titulaires :
 
 - personnels non titulaires du niveau de la catégorie A régis par les dispositions suivantes :
 - décision du 18 mars 1992 du ministre d'Etat, ministre de la fonction publique et de la modernisation de l'administration, du ministre de l'équipement, du logement, des transports et de l'espace et du ministre délégué au budget ;
-- règlement du 14 mai 1973 régissant les personnels non titulaires du laboratoire central des ponts et chaussées et des centres d'études techniques de l'équipement ;
+- règlement du 14 mai 1973 régissant les personnels non titulaires du institut français des sciences et technologies des transports, de l'aménagement et des réseaux et des centres d'études techniques de l'équipement ;
 - règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non titulaires employés au service d'études techniques des routes et autoroutes ;
 - arrêté du 10 juillet 1968 relatif aux conditions de recrutement et de rémunération des personnels contractuels techniques et administratifs du ministère de l'équipement et du logement chargés d'études de haut niveau au service des affaires économiques et internationales et au service d'études techniques des routes et autoroutes, modifié par l'arrêté du 27 mars 1973 relatif au même objet ;
 - décret n° 46-1507 du 18 juin 1946 fixant le statut des auxiliaires recrutés sur contrat par le ministère des travaux publics et des transports pour le service des ponts et chaussées, modifié par les décrets n° 68-313 du 1er avril 1968 et n° 75-1355 du 18 décembre 1975 relatifs au même objet ;
@@ -9208,54 +9192,23 @@ Agents non titulaires :
 
 Corps de fonctionnaires civils et militaires :
 
-- ingénieurs de l'armement régis par le
-décret n° 82-1067 du 15 décembre 1982
-modifié ;
-
-- ingénieurs militaires des essences régis par le
-décret n° 76-802 du 19 août 1976
-modifié ;
-
-- praticiens des armées régis par le
-décret n° 2004-534 du 14 juin 2004
-;
-
-- ingénieurs des études et techniques régis par le
-décret n° 79-1135 du 27 décembre 1979
-modifié ;
-
-- ingénieurs d'études et de fabrications du ministère de la défense régis par le
-décret n° 89-750 du 18 octobre 1989
-modifié ;
-
-- techniciens supérieurs d'études et de fabrications du ministère de la défense régis par le
-décret n° 89-749 du 18 octobre 1989
-modifié ;
-
-- techniciens du ministère de la défense régis par le
-décret n° 98-203 du 20 mars 1998
-modifié.
+- ingénieurs de l'armement régis par le décret n° 82-1067 du 15 décembre 1982 modifié ;
+- ingénieurs militaires des essences régis par le décret n° 76-802 du 19 août 1976 modifié ;
+- praticiens des armées régis par le décret n° 2004-534 du 14 juin 2004 ;
+- ingénieurs des études et techniques régis par le décret n° 79-1135 du 27 décembre 1979 modifié ;
+- ingénieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-750 du 18 octobre 1989 modifié ;
+- techniciens supérieurs d'études et de fabrications du ministère de la défense régis par le décret n° 89-749 du 18 octobre 1989 modifié ;
+- techniciens du ministère de la défense régis par le décret n° 98-203 du 20 mars 1998 modifié.
 
 Agents non titulaires :
 
-- agents non titulaires de catégorie spéciale, hors catégorie et de catégorie A, régis par le
-décret n° 49-1378 du 3 octobre 1949
-modifié ;
-
+- agents non titulaires de catégorie spéciale, hors catégorie et de catégorie A, régis par le décret n° 49-1378 du 3 octobre 1949 modifié ;
 - professeurs à occupation principale de l'Ecole nationale supérieure de l'aéronautique régis par le décret n° 67-962 du 23 octobre 1967 ;
 - personnels scientifiques des laboratoires et centres de recherche de l'Ecole polytechnique régis par le décret n° 73-311 du 14 mars 1973 modifié ;
 - ingénieurs et spécialistes des laboratoires et centres de recherche de l'Ecole polytechnique régis par le décret n° 73-312 du 14 mars 1973 modifié ;
-- agents non titulaires ingénieurs régis par le
-décret n° 88-541 du 4 mai 1988
-relatif à certains agents sur contrat des services à caractère industriel ou commercial du ministère de la défense ;
-
-- personnels enseignants de l'Ecole polytechnique régis par le
-décret n° 2000-497 du 5 juin 2000 ;
-
-- personnels contractuels scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique régis par le
-décret n° 2003-1006 du 21 octobre 2003
-;
-
+- agents non titulaires ingénieurs régis par le décret n° 88-541 du 4 mai 1988 relatif à certains agents sur contrat des services à caractère industriel ou commercial du ministère de la défense ;
+- personnels enseignants de l'Ecole polytechnique régis par le décret n° 2000-497 du 5 juin 2000 ;
+- personnels contractuels scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique régis par le décret n° 2003-1006 du 21 octobre 2003 ;
 - autres agents recrutés par les établissements publics participant au service public de l'enseignement supérieur en application des articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat pour effectuer des travaux de recherche dans le cadre de la préparation d'une thèse de doctorat au sens de l'article L. 612-7 du code de l'éducation ou après l'obtention d'un tel doctorat.
 
 ###### Sous-section 3 : Désignation de l'inventeur et revendication de propriété.
