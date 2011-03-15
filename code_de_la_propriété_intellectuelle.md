@@ -2679,7 +2679,7 @@ Les officiers de police judiciaire peuvent procéder, dès la constatation des i
 
 ###### Article L521-10
 
-Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de trois ans d'emprisonnement et de 300 000 euros d'amende. Lorsque le délit a été commis en bande organisée ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de trois ans d'emprisonnement et de 300 000 euros d'amende. Lorsque le délit a été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 En outre, la juridiction peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
 
@@ -3823,9 +3823,9 @@ Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atte
 
 ####### Article L615-14
 
-1. Sont punies de trois ans d'emprisonnement et de 300 000 euros d'amende les atteintes portées sciemment aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6. Lorsque le délit a été commis en bande organisée ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+1. Sont punies de trois ans d'emprisonnement et de 300 000 euros d'amende les atteintes portées sciemment aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6. Lorsque le délit a été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
-2. Alinéa perimé.
+2. Alinéa périmé.
 
 ####### Article L615-14-1
 
@@ -4265,7 +4265,7 @@ Les tribunaux de grande instance compétents, dont le nombre ne pourra être inf
 
 ####### Article L623-32
 
-Toute atteinte portée sciemment aux droits du titulaire d'un certificat d'obtention végétale, tels qu'ils sont définis à l'article L. 623-4, constitue un délit puni d'une amende de 10 000 euros. Lorsqu'il a été rendu contre le prévenu dans les cinq années antérieures une condamnation pour le même délit ou en cas de commission du délit en bande organisée, un emprisonnement de six mois peut, en outre, être prononcé.
+Toute atteinte portée sciemment aux droits du titulaire d'un certificat d'obtention végétale, tels qu'ils sont définis à l'article L. 623-4, constitue un délit puni d'une amende de 10 000 euros. Lorsqu'il a été rendu contre le prévenu dans les cinq années antérieures une condamnation pour le même délit ou en cas de commission du délit en bande organisée ou sur un réseau de communication au public en ligne, un emprisonnement de six mois peut, en outre, être prononcé.
 
 ####### Article L623-32-1
 
@@ -4738,7 +4738,7 @@ b) De produire industriellement des marchandises présentées sous une marque co
 
 c) De donner des instructions ou des ordres pour la commission des actes visés aux a et b.
 
-Lorsque les délits prévus au présent article ont été commis en bande organisée ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus au présent article ont été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 ###### Article L716-10
 
@@ -4748,13 +4748,13 @@ a) De détenir sans motif légitime, d'importer ou d'exporter des marchandises p
 
 b) D'offrir à la vente ou de vendre des marchandises présentées sous une marque contrefaisante ;
 
-c) De reproduire, d'imiter, d'utiliser, d'apposer, de supprimer, de modifier une marque, une marque collective ou une marque collective de certification en violation des droits conférés par son enregistrement et des interdictions qui découlent de celui-ci.L'infraction, prévue dans les conditions prévues au présent c, n'est pas constituée lorsqu'un logiciel d'aide à la prescription permet, si le prescripteur le décide, de prescrire en dénomination commune internationale, selon les règles de bonne pratique prévues à l'article L. 161-38 du code de la sécurité sociale ;
+c) De reproduire, d'imiter, d'utiliser, d'apposer, de supprimer, de modifier une marque, une marque collective ou une marque collective de certification en violation des droits conférés par son enregistrement et des interdictions qui découlent de celui-ci. L'infraction, prévue dans les conditions prévues au présent c, n'est pas constituée lorsqu'un logiciel d'aide à la prescription permet, si le prescripteur le décide, de prescrire en dénomination commune internationale, selon les règles de bonne pratique prévues à l'article L. 161-38 du code de la sécurité sociale ;
 
 d) De sciemment livrer un produit ou fournir un service autre que celui qui lui est demandé sous une marque enregistrée.
 
 L'infraction, dans les conditions prévues au d, n'est pas constituée en cas d'exercice par un pharmacien de la faculté de substitution prévue à l'article L. 5125-23 du code de la santé publique.
 
-Lorsque les délits prévus aux a à d ont été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus aux a à d ont été commis en bande organisée ou sur un réseau de communication au public en ligne, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
 
 ###### Article L716-11
 
