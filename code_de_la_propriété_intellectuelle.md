@@ -6666,6 +6666,10 @@ Le label peut être retiré par la Haute Autorité en cas de méconnaissance des
 
 Le retrait ne peut intervenir qu'après que le bénéficiaire du label a été mis à même de faire valoir ses observations.
 
+####### Article D331-54-1
+
+La liste des indicateurs, mentionnés à l'article L. 331-23, du développement de l'offre légale, qu'elle soit ou non commerciale, et d'observation de l'utilisation, qu'elle soit licite ou illicite, des œuvres et des objets protégés par un droit d'auteur ou par un droit voisin sur les réseaux de communications électroniques figure en annexe au présent article.
+
 ###### Sous-section 4 : Mission de régulation et de veille dans le domaine des mesures techniques de protection et d'identification des œuvres et des objets protégés
 
 ####### Article R331-55
