@@ -11294,52 +11294,84 @@ Toute personne qui, à l'occasion de tous actes de cession, de concession ou de 
 
 Ainsi qu'il est dit à l'article D. 211-5 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière d'obtentions végétales en application de l'article L. 623-31 du code de la propriété intellectuelle sont fixés conformément au tableau V annexé au code de l'organisation judiciaire, ci-après reproduit :
 
-<center>Siège et ressort des tribunaux compétents pour connaître des actions en matière d'obtentions végétales</center>
+<center><b>Siège et ressort des tribunaux de grande instance compétents pour connaître des actions
+
+en matière d'obtentions végétales (annexe de l'article D. 211-5)</b></center>
 
 <table><tbody>
  <tr>
-  <td><center>Tribunaux de grande instance</center></td>
-  <td><center>Compétence territoriale</center><center>s'étendant aux départements compris dans le ressort des cours d'appel de</center></td>
+  <td><center><b>SIÈGE</b></center></td>
+  <td><center><b>RESSORT</b></center></td>
  </tr>
  <tr>
-  <td>Marseille</td>
-  <td>Aix : Aix-en-Provence,Bastia, Nîmes</td>
+  <td colspan="2"><center><b>Cour d'appel d'Aix-en-Provence</b></center></td>
  </tr>
  <tr>
-  <td>Bordeaux</td>
-  <td>Bordeaux : Agen, Bordeaux, Poitiers</td>
+  <td><center>Marseille</center></td>
+  <td>Ressort des cours d'appel d'Aix-en-Provence, Bastia et Nîmes.</td>
  </tr>
  <tr>
-  <td>Strasbourg</td>
-  <td>Colmar : Colmar, Metz</td>
+  <td colspan="2"><center><b>Cour d'appel de Bordeaux</b></center></td>
  </tr>
  <tr>
-  <td>Lille</td>
-  <td>Douai : Amiens, Douai</td>
+  <td><center>Bordeaux</center></td>
+  <td>Ressort des cours d'appel d'Agen, Bordeaux et Poitiers.</td>
  </tr>
  <tr>
-  <td>Limoges</td>
-  <td>Limoges : Bourges,Limoges, Riom</td>
+  <td colspan="2"><center><b>Cour d'appel de Colmar</b></center></td>
  </tr>
  <tr>
-  <td>Lyon</td>
-  <td>Lyon : Chambéry,Lyon, Grenoble</td>
+  <td><center>Strasbourg</center></td>
+  <td>Ressort des cours d'appel de Colmar et Metz.</td>
  </tr>
  <tr>
-  <td>Nancy</td>
-  <td>Nancy : Besançon,Dijon, Nancy</td>
+  <td colspan="2"><center><b>Cour d'appel de Douai</b></center></td>
  </tr>
  <tr>
-  <td>Paris</td>
-  <td>Paris : Orléans,Paris, Reims, Rouen, Versailles, Basse-Terre, Fort-de-France, Saint-Denis-de-la-Réunion,Nouméa, Papeete, Mamoudzou et Saint-Pierre-et-Miquelon</td>
+  <td><center>Lille</center></td>
+  <td>Ressort des cours d'appel d'Amiens et Douai.</td>
  </tr>
  <tr>
-  <td>Rennes</td>
-  <td>Rennes : Angers, Caen,Rennes</td>
+  <td colspan="2"><center><b>Cour d'appel de Limoges</b></center></td>
  </tr>
  <tr>
-  <td>Toulouse</td>
-  <td>Toulouse : Pau, Montpellier, Toulouse</td>
+  <td><center>Limoges</center></td>
+  <td>Ressort des cours d'appel de Bourges, Limoges et Riom.</td>
+ </tr>
+ <tr>
+  <td colspan="2"><center><b>Cour d'appel de Lyon</b></center></td>
+ </tr>
+ <tr>
+  <td><center>Lyon</center></td>
+  <td>Ressort des cours d'appel de Chambéry, Grenoble et Lyon.</td>
+ </tr>
+ <tr>
+  <td colspan="2"><center><b>Cour d'appel de Nancy</b></center></td>
+ </tr>
+ <tr>
+  <td><center>Nancy</center></td>
+  <td>Ressort des cours d'appel de Besançon, Dijon et Nancy.</td>
+ </tr>
+ <tr>
+  <td colspan="2"><center><b>Cour d'appel de Paris</b></center></td>
+ </tr>
+ <tr>
+  <td><center>Paris</center></td>
+  <td>Ressort des cours d'appel de Basse-Terre, Cayenne, Fort-de-France, Nouméa, Orléans, Papeete, Paris, Reims, Rouen, Saint-Denis et Versailles, et du tribunal supérieur d'appel de Saint-Pierre.</td>
+ </tr>
+ <tr>
+  <td colspan="2"><center><b>Cour d'appel de Rennes</b></center></td>
+ </tr>
+ <tr>
+  <td><center>Rennes</center></td>
+  <td>Ressort des cours d'appel d'Angers, Caen et Rennes.</td>
+ </tr>
+ <tr>
+  <td colspan="2"><center><b>Cour d'appel de Toulouse</b></center></td>
+ </tr>
+ <tr>
+  <td><center>Toulouse</center></td>
+  <td>Ressort des cours d'appel de Montpellier, Pau et Toulouse.</td>
  </tr>
 </tbody></table>
 
