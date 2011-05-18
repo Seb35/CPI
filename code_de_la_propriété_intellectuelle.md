@@ -835,20 +835,6 @@ La durée de l'accord est comprise entre un et cinq ans.
 
 Ses stipulations peuvent être rendues obligatoires pour l'ensemble des intéressés par décret.
 
-####### Article L132-32
-
-A défaut d'accord conclu soit avant le 4 avril 1986, soit à la date d'expiration du précédent accord, les bases des rémunérations visées au deuxième alinéa de l'article L. 132-31 sont déterminées par une commission présidée par un magistrat de l'ordre judiciaire désigné par le premier président de la Cour de cassation et composée, en outre, d'un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat, d'une personnalité qualifiée désignée par le ministre chargé de la culture et, en nombre égal, d'une part, de membres désignés par les organisations représentatives des auteurs et, d'autre part, de membres désignés par les organisations représentatives des producteurs en publicité.
-
-####### Article L132-33
-
-Les organisations appelées à désigner les membres de la commission ainsi que le nombre de personnes que chacune est appelée à désigner sont déterminés par arrêté du ministre chargé de la culture.
-
-La commission se détermine à la majorité de ses membres présents. En cas de partage des voix, le président a voix prépondérante.
-
-Les délibérations de la commission sont exécutoires si, dans un délai d'un mois, son président n'a pas demandé une seconde délibération.
-
-Les décisions de la commission sont publiées au Journal officiel de la République française.
-
 ###### Section 5 : Contrat de nantissement du droit d'exploitation des logiciels
 
 ####### Article L132-34
@@ -877,7 +863,7 @@ Est également assimilée à la publication dans le titre de presse la diffusion
 
 ####### Article L132-36
 
-Sous réserve des dispositions de l'article L. 121-8, la convention liant un journaliste professionnel ou assimilé au sens des articles L. 7111-3 et suivants du code du travail, qui contribue, de manière permanente ou occasionnelle, à l'élaboration d'un titre de presse, et l'employeur emporte, sauf stipulation contraire, cession à titre exclusif à l'employeur des droits d'exploitation des œuvres du journaliste réalisées dans le cadre de ce titre, qu'elles soient ou non publiées.
+Par dérogation à l'article L. 131-1 et sous réserve des dispositions de l'article L. 121-8, la convention liant un journaliste professionnel ou assimilé au sens des articles L. 7111-3 et suivants du code du travail, qui contribue, de manière permanente ou occasionnelle, à l'élaboration d'un titre de presse, et l'employeur emporte, sauf stipulation contraire, cession à titre exclusif à l'employeur des droits d'exploitation des œuvres du journaliste réalisées dans le cadre de ce titre, qu'elles soient ou non publiées.
 
 ####### Article L132-37
 
@@ -887,7 +873,7 @@ Cette période est déterminée en prenant notamment en considération la pério
 
 ####### Article L132-38
 
-L'exploitation de l'œuvre dans le titre de presse, au-delà de la période prévue à l'article L. 132-37, est rémunérée, sous forme de droits d'auteur ou de salaire, dans des conditions déterminées par l'accord d'entreprise ou, à défaut, par tout autre accord collectif.
+L'exploitation de l'œuvre dans le titre de presse, au-delà de la période prévue à l'article L. 132-37, est rémunérée, à titre de rémunération complémentaire sous forme de droits d'auteur ou de salaire, dans des conditions déterminées par l'accord d'entreprise ou, à défaut, par tout autre accord collectif.
 
 ####### Article L132-39
 
@@ -895,7 +881,7 @@ Lorsque la société éditrice ou la société qui la contrôle, au sens de l'ar
 
 L'exploitation de l'œuvre du journaliste au sein de la famille cohérente de presse doit comporter des mentions qui permettent une identification dudit journaliste et, si l'accord le prévoit, du titre de presse dans lequel l'œuvre a été initialement publiée.
 
-Ces exploitations hors du titre de presse tel que défini à l'article L. 132-35 du présent code donnent lieu à rémunération, sous forme de droits d'auteur ou de salaire, dans des conditions déterminées par l'accord d'entreprise mentionné au premier alinéa du présent article.
+Ces exploitations hors du titre de presse tel que défini à l'article L. 132-35 du présent code donnent lieu à rémunération complémentaire, sous forme de droits d'auteur ou de salaire, dans des conditions déterminées par l'accord d'entreprise mentionné au premier alinéa du présent article.
 
 ####### Article L132-40
 
@@ -925,6 +911,12 @@ Le représentant de l'Etat est nommé parmi les membres de la Cour de cassation,
 
 A défaut de conclusion d'un accord d'entreprise dans un délai de six mois à compter de la publication de la loi n° 2009-669 du 12 juin 2009 favorisant la diffusion et la protection de la création sur internet, et en l'absence de tout autre accord collectif applicable, l'une des parties à la négociation de l'accord d'entreprise peut saisir la commission aux fins de déterminer les modes et bases de la rémunération due en contrepartie des droits d'exploitation. La demande peut également porter sur l'identification des titres composant une famille cohérente de presse au sein du groupe, en application de l'article L. 132-39.
 
+En l'absence d'engagement de négociation, sont considérés comme des parties à la négociation de l'accord d'entreprise l'employeur et le délégué syndical. En l'absence de délégué syndical, peuvent saisir la commission :
+
+- les institutions représentatives du personnel ;
+- à défaut, tout salarié mandaté par une organisation syndicale de journalistes professionnels au sens de l'article L. 7111-3 du code du travail ;
+- à défaut, tout journaliste professionnel au sens du même article L. 7111-3 collaborant de manière régulière à l'entreprise de presse.
+
 Pour les accords d'entreprise conclus pour une durée déterminée qui arrivent à échéance ou pour ceux qui sont dénoncés par l'une des parties, la commission peut être saisie dans les mêmes conditions et sur les mêmes questions qu'au précédent alinéa, à défaut de la conclusion d'un nouvel accord d'entreprise dans les six mois suivant la date d'expiration de l'accord à durée déterminée ou à défaut de la conclusion d'un accord de substitution dans les délais prévus à l'article L. 2261-10 du code du travail à la suite de la dénonciation du précédent accord.
 
 La commission recherche avec les parties une solution de compromis afin de parvenir à un accord. Elle s'appuie, à cet effet, sur les accords existants pertinents au regard de la forme de presse considérée. Elle rend sa décision dans un délai de deux mois à compter de sa saisine.
@@ -933,7 +925,7 @@ La commission se détermine à la majorité de ses membres présents. En cas de 
 
 Les décisions de la commission sont exécutoires si, dans un délai d'un mois, son président n'a pas demandé une seconde délibération. Elles sont notifiées aux parties et au ministre chargé de la communication, qui en assure la publicité.
 
-L'intervention de la décision de la commission ne fait pas obstacle à ce que s'engage dans les entreprises de presse concernées une nouvelle négociation collective.L'accord collectif issu de cette négociation se substitue à la décision de la commission, après son dépôt par la partie la plus diligente auprès de l'autorité administrative, conformément à l'article L. 2231-6 du code du travail.
+L'intervention de la décision de la commission ne fait pas obstacle à ce que s'engage dans les entreprises de presse concernées une nouvelle négociation collective. L'accord collectif issu de cette négociation se substitue à la décision de la commission, après son dépôt par la partie la plus diligente auprès de l'autorité administrative, conformément à l'article L. 2231-6 du code du travail.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article et notamment la composition, les modalités de saisine et de fonctionnement de la commission ainsi que les voies de recours juridictionnel contre ses décisions.
 
@@ -1392,13 +1384,13 @@ Les actions en paiement des droits perçus par ces sociétés civiles se prescri
 
 ####### Article L331-1
 
-Toutes les contestations relatives à l'application des dispositions de la première partie du présent code qui relèvent des juridictions de l'ordre judiciaire sont exclusivement portées devant les tribunaux de grande instance, sans préjudice du droit pour la partie lésée de se pourvoir devant la juridiction répressive dans les termes du droit commun.
+Les actions civiles et les demandes relatives à la propriété littéraire et artistique, y compris lorsqu'elles portent également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par voie réglementaire.
 
 Les organismes de défense professionnelle régulièrement constitués ont qualité pour ester en justice pour la défense des intérêts dont ils ont statutairement la charge.
 
-Le bénéficiaire valablement investi à titre exclusif, conformément aux dispositions du livre II, d'un droit exclusif d'exploitation appartenant à un producteur de phonogrammes ou de vidéogrammes peut, sauf stipulation contraire du contrat de licence, exercer l'action en justice au titre de ce droit.L'exercice de l'action est notifié au producteur.
+Le bénéficiaire valablement investi à titre exclusif, conformément aux dispositions du livre II, d'un droit exclusif d'exploitation appartenant à un producteur de phonogrammes ou de vidéogrammes peut, sauf stipulation contraire du contrat de licence, exercer l'action en justice au titre de ce droit. L'exercice de l'action est notifié au producteur.
 
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de propriété littéraire et artistique, y compris lorsque ces actions et demandes portent à la fois sur une question de propriété littéraire et artistique et sur une question connexe de concurrence déloyale, sont déterminés par voie réglementaire.
+Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059 et 2060 du code civil.
 
 ####### Article L331-1-1
 
@@ -2619,9 +2611,9 @@ L'action civile en contrefaçon se prescrit par trois ans à compter des faits q
 
 ###### Article L521-3-1
 
-Les actions civiles et les demandes relatives aux dessins et modèles sont exclusivement portées devant les tribunaux de grande instance, y compris lorsqu'elles portent à la fois sur une question de dessins et modèles et sur une question connexe de concurrence déloyale.
+Les actions civiles et les demandes relatives aux dessins et modèles, y compris lorsqu'elles portent également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par voie réglementaire.
 
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de dessins et modèles sont déterminés par voie réglementaire.
+Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059 et 2060 du code civil.
 
 ###### Article L521-4
 
@@ -3863,13 +3855,11 @@ Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atte
 
 ####### Article L615-17
 
-L'ensemble du contentieux né du présent titre est attribué aux tribunaux de grande instance et aux cours d'appel auxquelles ils sont rattachés, à l'exception des recours formés contre les décrets, arrêtés et autres décisions de nature administrative du ministre chargé de la propriété industrielle, qui relèvent de la juridiction administrative.
-
-Les tribunaux de grande instance appelés à connaître des actions en matière de brevets sont déterminés par voie réglementaire.
+Les actions civiles et les demandes relatives aux brevets d'invention, y compris lorsqu'elles portent également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par voie réglementaire, à l'exception des recours formés contre les actes administratifs du ministre chargé de la propriété industrielle qui relèvent de la juridiction administrative.
 
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059 et 2060 du code civil.
 
-Les tribunaux de grande instance ci-dessus visés, ainsi que les cours d'appel auxquelles ils sont rattachés, sont seuls compétents pour constater que le brevet français cesse de produire ses effets, en totalité ou en partie, dans les conditions prévues à l'article L. 614-13.
+Les tribunaux de grande instance mentionnés au premier alinéa du présent article sont seuls compétents pour constater que le brevet français cesse de produire ses effets, en totalité ou en partie, dans les conditions prévues à l'article L. 614-13 du présent code.
 
 ####### Article L615-18
 
@@ -4257,11 +4247,11 @@ Une telle exploitation fait encourir de plein droit à ses auteurs la responsabi
 
 ####### Article L623-31
 
-L'ensemble du contentieux né du présent chapitre est attribué aux tribunaux de grande instance et aux cours d'appel auxquelles ils sont rattachés, à l'exception des recours formés contre les décrets et les arrêtés et décisions ministérielles qui relèvent de la juridiction administrative.
+Les actions civiles et les demandes relatives aux obtentions végétales, y compris lorsqu'elles portent également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, dont le nombre ne peut être inférieur à dix, à l'exception des recours formés contre les actes administratifs ministériels, qui relèvent de la juridiction administrative.
 
 La cour d'appel de Paris connaît directement des recours formés contre les décisions du comité de la protection des obtentions végétales prises en application du présent chapitre.
 
-Les tribunaux de grande instance compétents, dont le nombre ne pourra être inférieur à dix, et le ressort dans lequel ces juridictions exercent les attributions qui leur sont ainsi dévolues, sont déterminés par voie réglementaire.
+Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059 et 2060 du code civil.
 
 ####### Article L623-32
 
@@ -4619,9 +4609,7 @@ Cependant, pourront être constatés et poursuivis les faits postérieurs à la 
 
 ###### Article L716-3
 
-Les actions civiles et les demandes relatives aux marques sont exclusivement portées devant les tribunaux de grande instance, y compris lorsqu'elles portent à la fois sur une question de marques et sur une question connexe de concurrence déloyale.
-
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière de marques sont déterminés par voie réglementaire.
+Les actions civiles et les demandes relatives aux marques, y compris lorsqu'elles portent également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par voie réglementaire.
 
 ###### Article L716-4
 
@@ -4943,9 +4931,9 @@ Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais de
 
 ####### Article L722-8
 
-Les actions civiles et les demandes relatives aux indications géographiques sont exclusivement portées devant les tribunaux de grande instance, y compris lorsqu'elles portent à la fois sur une question d'indications géographiques et sur une question connexe de concurrence déloyale.
+Les actions civiles et les demandes relatives aux indications géographiques, y compris lorsqu'elles portent également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, déterminés par voie réglementaire.
 
-Les tribunaux de grande instance appelés à connaître des actions et des demandes en matière d'indications géographiques sont déterminés par voie réglementaire.
+Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059 et 2060 du code civil.
 
 ## Troisième partie : Application aux territoires d'outre-mer et à Mayotte
 
