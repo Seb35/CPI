@@ -5362,44 +5362,6 @@ L'organisme dépositaire mentionné au troisième alinéa du 7° de l'article L.
 
 ##### Section 4 : Contrat de commande pour la publicité
 
-###### Article R132-1
-
-La commission prévue à l'article L. 132-32 siège soit en formation plénière, soit en formations spécialisées dans un ou plusieurs modes de publicité. Chacune de ces formations est présidée par le président de la commission et comprend un nombre égal de représentants des auteurs en publicité et de représentants des producteurs en publicité.
-
-###### Article R132-2
-
-La commission comprend douze représentants des organisations d'auteurs en publicité et douze représentants des organisations de producteurs en publicité, désignés dans les conditions prévues à l'article L. 132-33, alinéa 1.
-
-Un suppléant est désigné, dans les mêmes conditions, pour chacun des représentants titulaires des organisations d'auteurs en publicité et de producteurs en publicité. Les membres suppléants de la commission n'assistent aux séances et ne participent aux délibérations qu'en cas d'absence du représentant titulaire qu'ils suppléent.
-
-###### Article R132-3
-
-Le président et les membres de la commission sont désignés pour trois ans. Il est pourvu aux vacances survenant en cours de mandat par une désignation faite pour la durée du mandat restant à courir.
-
-###### Article R132-4
-
-La commission et ses formations spécialisées se réunissent sur convocation du président et sur l'ordre du jour qu'il a fixé.
-
-La convocation est de droit lorsqu'elle est demandée, sur un ordre du jour déterminé, soit par le ministre chargé de la culture, soit par un tiers des membres de la commission.
-
-###### Article R132-5
-
-La commission et ses formations spécialisées ne délibèrent valablement que si les trois quarts de leurs membres sont présents ou régulièrement suppléés. Lorsque ce quorum n'est pas atteint, la commission est à nouveau convoquée dans le délai de huit jours ; elle peut alors délibérer quel que soit le nombre des membres présents.
-
-###### Article R132-6
-
-Les membres de la commission sont tenus à l'obligation de discrétion à raison des pièces, documents et informations dont ils ont eu connaissance.
-
-###### Article R132-7
-
-Le secrétariat de la commission est assuré par les services du ministre chargé de la culture.
-
-Les séances de la commission ne sont pas publiques. Toutefois, la commission peut entendre toute personne dont l'audition lui paraît utile.
-
-La commission établit son règlement intérieur.
-
-Les décisions de la commission sont publiées au Journal officiel de la République française à la diligence du ministre chargé de la culture.
-
 ##### Section 5 : Nantissement du droit d'exploitation des logiciels
 
 ###### Article R132-8
