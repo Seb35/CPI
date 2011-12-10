@@ -2227,11 +2227,17 @@ Il en est de même des décisions acceptant une opposition présentée en vertu 
 
 Elles sont notifiées au demandeur dans les formes et délais prévus par voie réglementaire.
 
-##### Chapitre II : Le comité de protection des obtentions végétales
+##### Chapitre II : L'instance nationale des obtentions végétales
 
 ###### Article L412-1
 
-Le comité de la protection des obtentions végétales, placé auprès du ministre de l'agriculture, est présidé par un représentant de l'Etat et composé de personnalités, tant du secteur public que du secteur privé, qualifiées par leurs connaissances théoriques ou pratiques des problèmes de génétique, de botanique et d'agronomie. Ce comité délivre le certificat mentionné à l'article L. 623-4.
+Un groupement d'intérêt public comprenant notamment l'Etat et l'Institut national de la recherche agronomique assure les fonctions d'instance nationale des obtentions végétales. A ce titre, il est chargé :
+
+1° D'appliquer les lois et règlements en matière de protection des obtentions végétales et, notamment, de délivrer le certificat mentionné à l'article L. 623-4 ;
+
+2° D'apporter son appui à l'Etat pour l'élaboration de la réglementation nationale et des accords internationaux relatifs aux variétés végétales.
+
+Le responsable au sein du groupement d'intérêt public des missions relevant de l'instance nationale des obtentions végétales est nommé par le ministre chargé de l'agriculture. Il prend les décisions prévues au présent code à l'occasion de la délivrance, du rejet ou du maintien des certificats d'obtention végétale. Il exerce ses fonctions indépendamment de toute autorité hiérarchique ou de tutelle.
 
 #### Titre II : Qualification en propriété industrielle
 
@@ -3979,53 +3985,97 @@ L. 615-5, L. 615-5-2, L. 615-7, L. 615-7-1, L. 615-8, L. 615-10 et L. 615-17 son
 
 ####### Article L623-1
 
-Pour l'application du présent chapitre est appelée "obtention végétale" la variété nouvelle, créée ou découverte :
+Pour l'application du présent chapitre, constitue une " variété " un ensemble végétal d'un taxon botanique du rang le plus bas connu qui peut être :
 
-1° Qui se différencie des variétés analogues déjà connues par un caractère important, précis et peu fluctuant, ou par plusieurs caractères dont la combinaison est de nature à lui donner la qualité de variété nouvelle ;
+1° Défini par l'expression des caractères résultant d'un certain génotype ou d'une certaine combinaison de génotypes ;
 
-2° Qui est homogène pour l'ensemble de ses caractères ;
+2° Distingué de tout autre ensemble végétal par l'expression d'au moins un desdits caractères ;
 
-3° Qui demeure stable, c'est-à-dire identique à sa définition initiale à la fin de chaque cycle de multiplication.
+3° Considéré comme une entité eu égard à son aptitude à être reproduit conforme.
 
 ####### Article L623-2
 
-Les obtentions végétales d'un genre ou d'une espèce bénéficiant du régime de protection institué par les dispositions du présent chapitre ne sont pas brevetables.
+Pour l'application du présent chapitre, est appelée "obtention végétale" la variété nouvelle créée qui :
+
+1° Se distingue nettement de toute autre variété dont l'existence, à la date du dépôt de la demande, est notoirement connue ;
+
+2° Est homogène, c'est-à-dire suffisamment uniforme dans ses caractères pertinents, sous réserve de la variation prévisible compte tenu des particularités de sa reproduction sexuée ou de sa multiplication végétative ;
+
+3° Demeure stable, c'est-à-dire identique à sa définition initiale à la suite de ses reproductions ou multiplications successives ou, en cas de cycle particulier de reproduction ou de multiplication, à la fin de chaque cycle.
 
 ####### Article L623-3
 
-Toute obtention végétale répondant aux conditions de l'article L. 623-1 est définie par une dénomination à laquelle correspondent une description et un exemplaire témoin conservé dans une collection.
+Toute obtention végétale répondant aux conditions de l'article L. 623-2 est définie par une dénomination à laquelle correspondent une description et un exemplaire témoin conservé dans une collection.
 
 ####### Article L623-4
 
-Toute obtention végétale peut faire l'objet d'un titre appelé "certificat d'obtention végétale", qui confère à son titulaire un droit exclusif à produire, à introduire sur le territoire où le présent chapitre est applicable, à vendre ou à offrir en vente tout ou partie de la plante, ou tous éléments de reproduction ou de multiplication végétale de la variété considérée et des variétés qui en sont issues par hybridation lorsque leur reproduction exige l'emploi répété de la variété initiale.
+I.-Toute obtention végétale peut faire l'objet d'un titre appelé " certificat d'obtention végétale " qui confère à son titulaire un droit exclusif de produire, reproduire, conditionner aux fins de la reproduction ou de la multiplication, offrir à la vente, vendre ou commercialiser sous toute autre forme, exporter, importer ou détenir à l'une de ces fins du matériel de reproduction ou de multiplication de la variété protégée.
 
-Des décrets en Conseil d'Etat rendent progressivement applicables les dispositions de l'alinéa précédent aux différentes espèces végétales en fonction de l'évolution des connaissances scientifiques et des moyens de contrôle. Ces mêmes décrets déterminent pour chacune des espèces végétales les éléments de la plante sur lesquels porte le droit de l'obtenteur.
+II.-Lorsque les produits mentionnés aux 1° et 2° du présent II ont été obtenus par l'utilisation non autorisée de matériel de reproduction ou de multiplication de la variété protégée, le droit exclusif s'étend, à moins que l'obtenteur ait raisonnablement pu exercer son droit sur les produits en question :
+
+1° Au produit de la récolte, y compris aux plantes entières et aux parties de plantes ;
+
+2° Aux produits fabriqués directement à partir d'un produit de récolte de la variété protégée.
+
+III.-Le droit exclusif du titulaire s'étend :
+
+1° Aux variétés qui ne se distinguent pas nettement de la variété protégée au sens de l'article L. 623-2 ;
+
+2° Aux variétés dont la production nécessite l'emploi répété de la variété protégée ;
+
+3° Aux variétés essentiellement dérivées de la variété protégée au sens du même article L. 623-2, lorsque cette variété n'est pas elle-même une variété essentiellement dérivée.
+
+IV.-Constitue une variété essentiellement dérivée d'une autre variété, dite " variété initiale ", une variété qui :
+
+1° Est principalement dérivée de la variété initiale ou d'une variété qui est elle-même principalement dérivée de la variété initiale ;
+
+2° Se distingue nettement de la variété initiale au sens dudit article L. 623-2 ;
+
+3° Sauf en ce qui concerne les différences résultant de la dérivation, est conforme à la variété initiale dans l'expression des caractères essentiels résultant du génotype ou de la combinaison de génotypes de la variété initiale.
+
+####### Article L623-4-1
+
+I.-Le droit du titulaire ne s'étend pas :
+
+1° Aux actes accomplis à titre privé à des fins non professionnelles ou non commerciales ;
+
+2° Aux actes accomplis à titre expérimental ;
+
+3° Aux actes accomplis aux fins de la création d'une nouvelle variété ni aux actes visés au I de l'article L. 623-4 portant sur cette nouvelle variété, à moins que les III et IV de ce même article ne soient applicables.
+
+II.-Le droit du titulaire ne s'étend pas aux actes concernant sa variété ou une variété essentiellement dérivée de sa variété, ou une variété qui ne s'en distingue pas nettement, lorsque du matériel de cette variété ou du matériel dérivé de celui-ci a été vendu ou commercialisé sous quelque forme que ce soit par le titulaire ou avec son consentement.
+
+Toutefois, le droit du titulaire subsiste lorsque ces actes :
+
+1° Impliquent une nouvelle reproduction ou multiplication de la variété en cause ;
+
+2° Impliquent une exportation vers un pays n'appliquant aucune protection de la propriété intellectuelle aux variétés appartenant à la même espèce végétale de matériel de la variété permettant de la reproduire, sauf si le matériel exporté est destiné, en tant que tel, à la consommation humaine ou animale.
 
 ####### Article L623-5
 
-N'est pas réputée nouvelle l'obtention qui, en France ou à l'étranger, et antérieurement à la date du dépôt de la demande, a reçu une publicité suffisante pour être exploitée, ou qui se trouve décrite dans une demande de certificat ou dans un certificat français non encore publié ou dans une demande déposée à l'étranger et bénéficiant de la priorité prévue à l'article L. 623-6.
+I. - Lorsque du matériel de reproduction ou de multiplication végétative ou un produit de récolte a été vendu ou remis à des tiers sous quelque forme que ce soit par l'obtenteur ou avec son consentement, aux fins de l'exploitation de la variété, depuis plus de douze mois sur le territoire français ou sur le territoire de l'Espace économique européen, la variété n'est pas réputée nouvelle.
 
-Toutefois, ne constitue en aucun cas une divulgation de nature à détruire la nouveauté de la variété soit son utilisation par l'obtenteur dans ses essais ou expérimentations, soit son inscription à un catalogue ou à un registre officiel d'un Etat partie à la Convention de Paris du 2 décembre 1961 pour la protection des obtentions végétales, soit sa présentation dans une exposition officielle ou officiellement reconnue au sens de la convention concernant les expositions internationales, signée à Paris le 22 novembre 1928 et modifiée le 10 mai 1948.
+Lorsque cette vente par l'obtenteur ou avec son consentement ou cette remise à des tiers a eu lieu sur un autre territoire, aux fins d'exploitation de la variété, depuis plus de quatre ans avant la date du dépôt de la demande de certificat d'obtention végétale, ou dans le cas des arbres et de la vigne depuis plus de six ans avant ladite date, la variété n'est pas réputée nouvelle.
 
-N'est pas davantage de nature à détruire la nouveauté de la variété la divulgation qui constitue un abus caractérisé à l'égard de l'obtenteur.
+II. - Ne sont pas considérées comme une remise à des tiers au sens du I la remise à des fins réglementaires de matériel de la variété à un organisme officiel ou officiellement habilité, la remise à des tiers aux fins d'expérimentation ou de présentation dans une exposition officiellement reconnue, sous réserve, dans ces deux derniers cas, que l'obtenteur ait expressément stipulé l'interdiction d'exploiter commercialement la variété dont le matériel a été remis.
 
 ####### Article L623-6
 
-Toute personne ayant la nationalité de l'un des Etats partie à la Convention de Paris du 2 décembre 1961 ou ayant son domicile ou établissement dans l'un de ces Etats peut demander un certificat d'obtention pour les variétés appartenant aux genres ou espèces figurant sur la liste annexée à cette convention ou sur une liste complémentaire établie en application des dispositions de celle-ci.
+Un certificat d'obtention végétale peut être demandé par toute personne ressortissant d'un Etat partie à la convention internationale pour la protection des obtentions végétales ainsi que par toute personne ressortissant d'un Etat membre de la Communauté européenne ou ayant son domicile, siège ou établissement dans l'un de ces Etats.
 
-Elle peut, lors du dépôt en France d'une demande de certificat d'obtention, revendiquer le bénéfice de la priorité de la première demande déposée antérieurement pour la même variété dans l'un desdits Etats par elle-même ou par son auteur, à condition que le dépôt effectué en France ne soit pas postérieur de plus de douze mois à celui de la première demande.
+La personne demandant un certificat d'obtention peut, lors du dépôt en France de cette demande, revendiquer le bénéfice de la priorité de la première demande déposée antérieurement pour la même variété dans l'un desdits Etats par elle-même ou par son auteur, à condition que le dépôt effectué en France ne soit pas postérieur de plus de douze mois à celui de la première demande.
 
-Ne sont pas opposables à la validité des certificats d'obtention dont la demande a été déposée dans les conditions prévues au précédent alinéa les faits survenus dans le délai de priorité tels qu'un autre dépôt, la publication de l'objet de la demande ou l'exploitation de la variété en cause.
+La nouveauté, au sens de l'article L. 623-5, d'une variété dont la demande bénéficie de la priorité telle que définie au deuxième alinéa du présent article s'apprécie à la date du dépôt de la demande prioritaire.
 
-En dehors des cas prévus au premier alinéa, tout étranger peut bénéficier de la protection instituée par le présent chapitre, à condition que les Français bénéficient, pour les genres et espèces considérés, de la réciprocité de protection de la part de l'Etat dont il a la nationalité ou dans lequel il a son domicile ou son établissement.
+En dehors des cas prévus au premier alinéa, tout étranger peut bénéficier de la protection instituée par le présent chapitre à condition que les Français bénéficient de la réciprocité de protection de la part de l'Etat dont il a la nationalité ou dans lequel il a son domicile, siège ou établissement.
 
 ####### Article L623-7
 
-Le certificat délivré par le comité de la protection des obtentions végétales mentionné à l'article L. 412-1 prend effet à la date de la demande. Toute décision de rejet d'une demande doit être motivée.
+Le certificat délivré par l'organisme mentionné à l'article L. 412-1 prend effet à la date de la demande. Toute décision de rejet d'une demande doit être motivée.
 
 ####### Article L623-8
 
-Le ministre chargé de la défense est habilité à prendre connaissance auprès du comité de la protection des obtentions végétales, à titre confidentiel, des demandes de certificat.
+Le ministre chargé de la défense est habilité à prendre connaissance auprès de l'organisme mentionné à l'article L. 412-1, à titre confidentiel, des demandes de certificat.
 
 ####### Article L623-9
 
@@ -4047,9 +4097,9 @@ Le titulaire du certificat doit apporter la preuve que le préjudice qu'il subit
 
 ####### Article L623-12
 
-Le certificat n'est délivré que s'il résulte d'un examen préalable que la variété faisant l'objet de la demande de protection constitue une obtention végétale conformément à l'article L. 623-1.
+Le certificat n'est délivré que s'il résulte d'un examen préalable que la variété faisant l'objet de la demande de protection constitue une obtention végétale conformément à l'article L. 623-2.
 
-Toutefois, le comité peut tenir pour suffisant l'examen préalable effectué dans un autre pays partie à la convention de Paris du 2 décembre 1961.
+Toutefois, l'organisme mentionné à l'article L. 412-1 peut tenir pour suffisant l'examen préalable effectué dans un autre Etat partie à la convention internationale pour la protection des obtentions végétales. Ce même organisme peut prendre en compte l'examen réalisé par l'obtenteur ou son ayant cause.
 
 Ce comité peut faire appel à des experts étrangers.
 
@@ -4061,11 +4111,11 @@ Pour les arbres forestiers, fruitiers ou d'ornement, pour la vigne ainsi que pou
 
 ####### Article L623-14
 
-Les actes portant soit délivrance du certificat, soit transmission de propriété, soit concession de droit d'exploitation ou de gage, relatifs à un certificat d'obtention, ne sont opposables aux tiers que s'ils ont été régulièrement publiés dans les conditions prévues par un décret en Conseil d'Etat.
+Les demandes de certificats d'obtention végétale, les actes portant délivrance du certificat ainsi que tous actes transmettant ou modifiant les droits attachés à une demande de certificat ou à un certificat ne sont opposables aux tiers que s'ils ont été régulièrement publiés dans des conditions prévues par décret en Conseil d'Etat.
 
 ####### Article L623-15
 
-Le certificat désigne l'obtention par une dénomination permettant, sans confusion ni équivoque, son identification dans tous les Etats parties à la convention de Paris du 2 décembre 1961.
+Le certificat désigne l'obtention par une dénomination permettant, sans confusion ni équivoque, son identification dans tous les Etats parties à la convention internationale pour la protection des obtentions végétales.
 
 L'obtenteur est tenu de conserver en permanence une collection végétative de l'obtention protégée.
 
@@ -4075,7 +4125,7 @@ Le certificat est opposable aux tiers dès sa publication.
 
 La dénomination portée sur le certificat devient obligatoire dès la publication de celui-ci pour toute transaction commerciale même après l'expiration de la durée du certificat.
 
-La dénomination conférée à ladite variété ne peut faire l'objet d'un dépôt au titre de marque de fabrique ou de commerce dans un Etat partie à la convention de Paris du 2 décembre 1961. Un tel dépôt peut toutefois être effectué à titre conservatoire, sans faire obstacle à la délivrance du certificat d'obtention, à condition que la preuve de la renonciation aux effets de ce dépôt dans les Etats parties à la convention soit produite préalablement à la délivrance dudit certificat.
+La dénomination conférée à ladite variété ne peut faire l'objet d'un dépôt au titre de marque de fabrique ou de commerce dans un Etat partie à la convention internationale pour la protection des obtentions végétales. Un tel dépôt peut toutefois être effectué à titre conservatoire, sans faire obstacle à la délivrance du certificat d'obtention, à condition que la preuve de la renonciation aux effets de ce dépôt dans les Etats parties à la convention soit produite préalablement à la délivrance dudit certificat.
 
 Les prescriptions de l'alinéa ci-dessus ne font pas obstacle à ce que, pour une même obtention, il soit ajouté à la dénomination de la variété en cause une marque de fabrique ou de commerce.
 
@@ -4087,7 +4137,7 @@ Une redevance est versée annuellement pendant toute la durée de validité du c
 
 Le barème de ces redevances est fixé par voie réglementaire.
 
-Le produit de ces redevances est porté en recettes à une section spéciale du budget de l'Institut national de la recherche agronomique.
+Le produit de ces redevances est porté en recettes au groupement d'intérêt public mentionné à l'article L. 412-1.
 
 ###### Section 2 : Droits et obligations attachés aux certificats d'obtention végétale
 
@@ -4107,7 +4157,7 @@ A défaut d'accord amiable, le montant des redevances est fixé par l'autorité 
 
 ####### Article L623-19
 
-Si le titulaire d'une licence d'office ne satisfait pas aux conditions requises, le ministre de l'agriculture peut, après avis du comité de la protection des obtentions végétales, en prononcer la déchéance.
+Si le titulaire d'une licence d'office ne satisfait pas aux conditions requises, le ministre de l'agriculture peut, après avis de l'organisme mentionné à l'article L. 412-1, en prononcer la déchéance.
 
 ####### Article L623-20
 
@@ -4143,33 +4193,91 @@ Lorsqu'une telle licence est accordée, le titulaire du droit d'obtention obtien
 
 Si le titulaire d'une licence ne satisfait pas aux conditions auxquelles cette licence a été accordée, le titulaire du certificat d'obtention végétale et, le cas échéant, les autres licenciés peuvent obtenir du tribunal le retrait de cette licence.
 
+####### Article L623-22-3
+
+Toute personne de droit public ou de droit privé peut obtenir une licence obligatoire dans les conditions prévues au présent article et à l'article L. 623-22-4.
+
+La demande de licence obligatoire est formée auprès du tribunal de grande instance du lieu de situation du titulaire du droit. Elle doit être accompagnée de la justification que :
+
+1° Le demandeur n'a pu obtenir une licence dans un délai d'un an à dater de sa demande auprès du titulaire du certificat ;
+
+2° Qu'il est en état d'exploiter la variété de manière sérieuse et effective ;
+
+3° Que la licence est d'intérêt public eu égard, notamment, à l'insuffisance notoire d'approvisionnement du marché agricole concerné par cette variété.
+
+La demande de licence obligatoire peut être présentée, dans les conditions fixées aux deuxième à cinquième alinéas du présent article, par le titulaire du certificat délivré pour une variété essentiellement dérivée d'une variété protégée qui n'a pas pu obtenir du titulaire du certificat de la variété initiale les autorisations nécessaires à l'exploitation de sa propre variété.
+
+Le titulaire du certificat protégeant la variété initiale peut obtenir, dans les mêmes conditions, une licence du certificat protégeant la variété essentiellement dérivée. La licence obligatoire est non exclusive. Le tribunal détermine notamment sa durée, son champ d'application et le montant des redevances auxquelles elle donne lieu.
+
+Ces conditions peuvent être modifiées par le tribunal à la requête du titulaire ou du licencié.
+
+Si le titulaire d'une licence obligatoire ne satisfait pas aux conditions auxquelles cette licence a été accordée, le titulaire du certificat d'obtention et, le cas échéant, les autres licenciés peuvent obtenir du tribunal le retrait de cette licence.
+
+####### Article L623-22-4
+
+Les droits attachés à une licence obligatoire ne peuvent être ni cédés, ni transmis, si ce n'est avec l'entreprise ou la partie de l'entreprise à laquelle ils sont rattachés.
+
+Cette cession ou transmission est, à peine de nullité, soumise à l'autorisation du tribunal.
+
 ####### Article L623-23
 
 Est déchu de son droit tout titulaire d'un certificat d'obtention végétale :
 
-1° Qui n'est pas en mesure de présenter à tout moment à l'administration les éléments de reproduction ou de multiplication végétative, tels que graines, boutures, greffons, rhizomes, tubercules, permettant de reproduire la variété protégée avec les caractères morphologiques et physiologiques tels qu'ils ont été définis dans le certificat d'obtention ;
+1° Qui n'est pas en mesure de présenter à tout moment à l'administration les éléments de reproduction ou de multiplication végétative permettant de reproduire la variété protégée avec les caractères morphologiques et physiologiques tels qu'ils ont été définis dans le certificat d'obtention ;
 
 2° Qui refuse de se soumettre aux inspections faites en vue de vérifier les mesures qu'il a prises pour la conservation de la variété ;
 
 3° Qui n'a pas acquitté dans le délai prescrit la redevance annuelle visée au deuxième alinéa de l'article L. 623-16.
 
-La déchéance est constatée par le comité de la protection des obtentions végétales. Lorsqu'elle est constatée au titre du 3° ci-dessus, le titulaire du certificat peut, dans les six mois qui suivent le terme du délai prévu, présenter un recours en vue d'être restauré dans ses droits s'il justifie d'une excuse légitime pour le défaut de paiement des redevances. Ce recours ne peut cependant porter atteinte aux droits acquis, le cas échéant, par les tiers. La décision définitive constatant la déchéance est publiée.
+La déchéance est constatée par l'organisme mentionné à l'article L. 412-1. Lorsqu'elle est constatée au titre du 3° ci-dessus, le titulaire du certificat peut, dans les six mois qui suivent le terme du délai prévu, présenter un recours en vue d'être restauré dans ses droits s'il justifie d'une excuse légitime pour le défaut de paiement des redevances. Ce recours ne peut cependant porter atteinte aux droits acquis, le cas échéant, par les tiers. La décision définitive constatant la déchéance est publiée.
+
+####### Article L623-23-1
+
+Le certificat d'obtention végétale est déclaré nul, par décision de justice, s'il est avéré :
+
+1° Soit qu'il a été attribué à une personne qui n'y avait pas droit, à moins qu'il ne soit transféré à la personne qui y a droit ;
+
+2° Soit qu'à la date à laquelle il a été délivré la variété ne satisfaisait pas aux conditions mentionnées à l'article L. 623-2.
 
 ####### Article L623-24
 
 Les dispositions des articles L. 613-8 et L. 613-29 à L. 613-32 sont applicables aux demandes de certificats d'obtention végétale et aux certificats d'obtention.
 
-Il en est de même des articles L. 613-9, L. 613-21 et L. 613-24, le comité de la protection des obtentions végétales étant substitué à l'Institut national de la propriété industrielle.
+Il en est de même des articles L. 613-9, L. 613-21 et L. 613-24, l'organisme mentionné à l'article L. 412-1 étant substitué à l'Institut national de la propriété industrielle.
+
+L'article L. 611-7 est également applicable aux certificats d'obtention végétale, les inventions y étant entendues comme les obtentions, les brevets comme les certificats d'obtention végétale et la commission de conciliation comme celle instituée par un décret spécifique au domaine particulier des obtentions végétales.
+
+###### Section 2 bis : Semences de ferme
+
+####### Article L623-24-1
+
+Par dérogation à l'article L. 623-4, pour les espèces énumérées par le règlement (CE) n° 2100/94 du Conseil du 27 juillet 1994 instituant un régime de protection communautaire des obtentions végétales ainsi que pour d'autres espèces qui peuvent être énumérées par décret en Conseil d'Etat, les agriculteurs ont le droit d'utiliser sur leur propre exploitation, sans l'autorisation de l'obtenteur, à des fins de reproduction ou de multiplication, le produit de la récolte qu'ils ont obtenu par la mise en culture d'une variété protégée.
+
+####### Article L623-24-2
+
+Sauf en ce qui concerne les petits agriculteurs au sens du règlement (CE) n° 2100/94 du Conseil du 27 juillet 1994 précité, l'agriculteur doit une indemnité aux titulaires des certificats d'obtention végétale dont il utilise les variétés.
+
+####### Article L623-24-3
+
+Lorsqu'il n'existe pas de contrat entre le titulaire du certificat d'obtention végétale et l'agriculteur concerné ou entre un ou plusieurs titulaires de certificats d'obtention végétale et un groupe d'agriculteurs concernés, ou d'accord interprofessionnel conclu dans les conditions prévues au chapitre II du titre III du livre VI du code rural et de la pêche maritime, les conditions d'application de la dérogation définie à l'article L. 623-24-1 du présent code, y compris les modalités de fixation du montant de l'indemnité visée à l'article L. 623-24-2, dont le montant est sensiblement inférieur au montant perçu pour la production sous licence de matériel de multiplication de la même variété, sont établies par le décret en Conseil d'Etat prévu à l'article L. 623-24-1.
+
+####### Article L623-24-4
+
+Lorsque les agriculteurs ont recours à des prestataires de services pour trier leurs semences, ces opérations de triage doivent être faites dans des conditions permettant de garantir la traçabilité des produits issus de variétés faisant l'objet de certificat d'obtention végétale.
+
+En cas de non-respect de ces conditions, les semences sont réputées commercialisées et regardées comme une contrefaçon au sens de l'article L. 623-25.
+
+####### Article L623-24-5
+
+Le non-respect par les agriculteurs des conditions d'application de la dérogation définie à l'article L. 623-24-1 leur fait perdre le bénéfice des dispositions de la présente section.
 
 ###### Section 3 : Actions en justice
 
 ####### Article L623-25
 
-Toute atteinte portée aux droits du titulaire d'un certificat d'obtention végétale tels qu'ils sont définis à l'article L. 623-4 constitue une contrefaçon engageant la responsabilité civile de son auteur.
+Sous réserve des dispositions de l'article L. 623-24-1, toute atteinte volontaire portée aux droits du titulaire d'un certificat d'obtention végétale tels qu'ils sont définis à l'article L. 623-4 constitue une contrefaçon qui engage la responsabilité civile de son auteur. Au sens du présent article, sont également considérées comme une atteinte au droit du titulaire d'un certificat d'obtention végétale les utilisations incorrectes ou abusives de la dénomination de la variété qui fait l'objet d'un certificat d'obtention.
 
-Sous réserve des dispositions de l'article L. 623-4, ne constitue pas une atteinte aux droits du titulaire d'un certificat d'obtention l'utilisation de la variété protégée comme source de variation initiale en vue d'obtenir une variété nouvelle.
-
-Le titulaire d'une licence d'office visée aux articles L. 623-17 et L. 623-20 et, sauf stipulation contraire, le bénéficiaire d'un droit exclusif d'exploitation, peuvent exercer l'action en responsabilité prévue au premier alinéa ci-dessus si, après une mise en demeure, le titulaire du certificat n'exerce pas cette action.
+Le titulaire d'une licence d'office visée aux articles L. 623-17 et L. 623-20, le titulaire d'une licence obligatoire visée à l'article L. 623-22-3 et, sauf stipulation contraire, le bénéficiaire d'un droit exclusif d'exploitation peuvent exercer l'action prévue au premier alinéa du présent article si, après mise en demeure, le titulaire du certificat n'exerce pas cette action.
 
 Le titulaire du certificat est recevable à intervenir à l'instance engagée par le licencié conformément à l'alinéa précédent.
 
@@ -4253,7 +4361,7 @@ Une telle exploitation fait encourir de plein droit à ses auteurs la responsabi
 
 Les actions civiles et les demandes relatives aux obtentions végétales, y compris lorsqu'elles portent également sur une question connexe de concurrence déloyale, sont exclusivement portées devant des tribunaux de grande instance, dont le nombre ne peut être inférieur à dix, à l'exception des recours formés contre les actes administratifs ministériels, qui relèvent de la juridiction administrative.
 
-La cour d'appel de Paris connaît directement des recours formés contre les décisions du comité de la protection des obtentions végétales prises en application du présent chapitre.
+La cour d'appel de Paris connaît directement des recours formés contre les décisions de l'organisme mentionné à l'article L. 412-1 prises en application du présent chapitre.
 
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059 et 2060 du code civil.
 
