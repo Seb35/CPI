@@ -11376,9 +11376,9 @@ Toute personne qui, à l'occasion de tous actes de cession, de concession ou de 
 
 Ainsi qu'il est dit à l'article D. 211-5 du code de l'organisation judiciaire, le siège et le ressort des tribunaux de grande instance appelés à connaître des actions en matière d'obtentions végétales en application de l'article L. 623-31 du code de la propriété intellectuelle sont fixés conformément au tableau V annexé au code de l'organisation judiciaire, ci-après reproduit :
 
-<center><b>Siège et ressort des tribunaux de grande instance compétents pour connaître des actions
+<center>Siège et ressort des tribunaux de grande instance compétents pour connaître des actions
 
-en matière d'obtentions végétales (annexe de l'article D. 211-5)</b></center>
+en matière d'obtentions végétales (annexe de l'article D. 211-5)</center>
 
 <table><tbody>
  <tr>
