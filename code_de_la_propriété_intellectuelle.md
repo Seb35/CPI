@@ -909,6 +909,10 @@ Les conditions dans lesquelles le second alinéa de l'article L. 121-8 s'appliqu
 
 Les droits d'auteur mentionnés aux articles L. 132-38 et suivants n'ont pas le caractère de salaire. Ils sont déterminés conformément aux articles L. 131-4 et L. 132-6.
 
+####### Article L132-42-1
+
+Par dérogation à l'article L. 2232-24 du code du travail, dans les entreprises non assujetties à l'obligation d'organiser les élections prévues au livre III de la deuxième partie du même code, les accords mentionnés aux articles L. 132-37 à L. 132-41, L. 132-43 et L. 132-44 du présent code peuvent être négociés et conclus, dans les conditions prévues aux articles L. 2232-25 et L. 2232-26 du code du travail, par un ou plusieurs journalistes professionnels au sens des articles L. 7111-3 à L. 7111-5 du même code collaborant de manière régulière à l'entreprise de presse et mandatés par une ou plusieurs organisations syndicales de journalistes professionnels représentatives mentionnées à l'article L. 132-44 du présent code. Ces accords sont approuvés à la majorité des suffrages exprimés par les seuls journalistes professionnels au sens des articles L. 7111-3 à L. 7111-5 du code du travail collaborant de manière régulière à l'entreprise de presse, dans les conditions prévues à l'article L. 2232-27 du même code.
+
 ####### Article L132-43
 
 Les accords collectifs peuvent prévoir de confier la gestion des droits mentionnés aux articles L. 132-38 et suivants à une ou des sociétés de perception et de répartition de droits mentionnées aux articles L. 321-1 et suivants.
@@ -918,6 +922,8 @@ Les accords collectifs peuvent prévoir de confier la gestion des droits mention
 Il est créé une commission, présidée par un représentant de l'Etat, et composée, en outre, pour moitié de représentants des organisations professionnelles de presse représentatives et pour moitié de représentants des organisations syndicales de journalistes professionnels représentatives.
 
 Le représentant de l'Etat est nommé parmi les membres de la Cour de cassation, du Conseil d'Etat ou de la Cour des comptes, par arrêté du ministre chargé de la communication.
+
+Par dérogation au dernier alinéa de l'article L. 2232-21 et à l'article L. 2232-22 du code du travail, la commission se prononce, en lieu et place de la commission paritaire de branche, sur la validité des accords relatifs aux droits d'auteur des journalistes conclus dans les conditions prévues à l'article L. 2232-21 du même code, dans les deux mois qui suivent leur transmission ; à défaut, les accords sont réputés avoir été validés. La commission contrôle que ces accords collectifs n'enfreignent pas les dispositions législatives, réglementaires ou conventionnelles applicables.
 
 A défaut de conclusion d'un accord d'entreprise dans un délai de six mois à compter de la publication de la loi n° 2009-669 du 12 juin 2009 favorisant la diffusion et la protection de la création sur internet, et en l'absence de tout autre accord collectif applicable, l'une des parties à la négociation de l'accord d'entreprise peut saisir la commission aux fins de déterminer les modes et bases de la rémunération due en contrepartie des droits d'exploitation. La demande peut également porter sur l'identification des titres composant une famille cohérente de presse au sein du groupe, en application de l'article L. 132-39.
 
