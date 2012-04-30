@@ -10010,7 +10010,7 @@ Les arrêtés du ministre chargé de la propriété industrielle prévus aux art
 
 5° Le directeur général des entreprises ou son représentant ;
 
-6° Le directeur général de l'Agence française de sécurité sanitaire des produits de santé ou son représentant ;
+6° Le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé ou son représentant ;
 
 7° Deux médecins ou leurs suppléants désignés pour trois ans renouvelables par le ministre chargé de la santé, sur proposition de l'Académie nationale de médecine ;
 
@@ -10138,7 +10138,7 @@ Le titulaire de la licence obligatoire d'exploitation peut demander au ministre 
 
 ####### Article R613-25-4
 
-Les modalités de l'identification des produits fabriqués sous licence obligatoire en application de l'article 10-5 du règlement (CE) n° 816 / 2006 sont établies par une décision du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+Les modalités de l'identification des produits fabriqués sous licence obligatoire en application de l'article 10-5 du règlement (CE) n° 816/2006 sont établies par une décision du directeur général de l'Agence nationale de sécurité du médicament et des produits de santé.
 
 ###### Sous-section 4 : Licences d'office dans l'intérêt du développement économique
 
