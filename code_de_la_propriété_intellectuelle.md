@@ -7017,7 +7017,7 @@ Le greffe notifie ces délais aux parties et les convoque à l'audience par lett
 
 ######## Article R331-82
 
-Les notifications entre parties ont lieu par lettre recommandée avec demande d'avis de réception ou par notification directe entre les avocats ou les avoués des parties. Les pièces de procédure doivent être déposées au greffe en triple exemplaire.
+Les notifications entre parties ont lieu par lettre recommandée avec demande d'avis de réception ou par notification directe entre les avocats des parties. Les pièces de procédure doivent être déposées au greffe en triple exemplaire.
 
 ######## Article R331-83
 
@@ -7579,7 +7579,7 @@ Lorsque le recours contre une décision du directeur général de l'Institut nat
 
 ###### Article R411-25
 
-Le déclarant peut, devant la cour d'appel, se faire assister par un avocat ou représenter par un avoué.
+Le déclarant peut, devant la cour d'appel, se faire assister ou représenter par un avocat.
 
 ###### Article R411-26
 
@@ -7688,7 +7688,7 @@ Le délai de recours prévu à l'article précédent court à compter de la date
 
 ###### Article R412-17
 
-Le recours est formé par requête adressée au premier président de la cour d'appel de Paris par le demandeur en personne ou par un avoué exerçant près la cour d'appel ou par un avocat régulièrement inscrit à un barreau.
+Le recours est formé par requête adressée au premier président de la cour d'appel de Paris par le demandeur en personne ou par un avocat régulièrement inscrit à un barreau.
 
 Si le demandeur ne comparaît pas en personne, il peut être représenté ou assisté comme il est dit au premier alinéa du présent article.
 
