@@ -1842,11 +1842,11 @@ A défaut d'assignation ou de citation dans un délai fixé par voie réglementa
 
 En outre, les commissaires de police sont tenus, à la demande de tout titulaire de droits sur un logiciel ou sur une base de données, d'opérer une saisie-description du logiciel ou de la base de données contrefaisants, saisie-description qui peut se concrétiser par une copie.
 
-##### Chapitre III : Saisie-arrêt
+##### Chapitre III : Saisies des produits d'exploitation
 
 ###### Article L333-1
 
-Lorsque les produits d'exploitation revenant à l'auteur d'une oeuvre de l'esprit ont fait l'objet d'une saisie-arrêt, le président du tribunal de grande instance peut ordonner le versement à l'auteur, à titre alimentaire, d'une certaine somme ou d'une quotité déterminée des sommes saisies.
+Lorsque les produits d'exploitation revenant à l'auteur d'une oeuvre de l'esprit ont fait l'objet d'une saisie, le président du tribunal de grande instance peut ordonner le versement à l'auteur, à titre alimentaire, d'une certaine somme ou d'une quotité déterminée des sommes saisies.
 
 ###### Article L333-2
 
@@ -1858,7 +1858,7 @@ La proportion insaisissable de ces sommes ne pourra, en aucun cas, être inféri
 
 ###### Article L333-4
 
-Les dispositions du présent chapitre ne font pas obstacle aux saisies-arrêts pratiquées en vertu des dispositions du code civil relatives aux créances d'aliments.
+Les dispositions du présent chapitre ne font pas obstacle aux saisies pratiquées en vue du recouvrement des créances d'aliments prévues par les dispositions du code civil.
 
 ##### Chapitre IV : Droit de suite
 
@@ -7135,7 +7135,7 @@ Le délai prévu à l'article L. 332-3 et imparti au demandeur pour se pourvoir 
 
 Le délai prévu au troisième alinéa de l'article L. 332-4 et imparti au demandeur pour se pourvoir au fond est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
 
-#### Chapitre III : Saisie-arrêt
+#### Chapitre III : Saisie des produits d'exploitation
 
 #### Chapitre IV : Droit de suite
 
