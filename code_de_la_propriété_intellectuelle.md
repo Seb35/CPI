@@ -8525,7 +8525,7 @@ L'appartenance à la société en participation, avec la dénomination de celle-
 
 ####### Article R422-51-1
 
-Des conseils en propriété industrielle peuvent, dans les conditions prévues par l'article 31-1 de la loi n° 90-1258 du 31 décembre 1990, constituer une société de participations financières de profession libérale de conseils en propriété industrielle.
+Des conseils en propriété industrielle peuvent constituer, dans les conditions prévues à l'article 31-1 de la loi n° 90-1258 du 31 décembre 1990, une ou plusieurs sociétés de participations financières de la profession libérale de conseil en propriété industrielle ayant pour objet la détention de parts ou d'actions de sociétés d'exercice libéral constituées pour l'exercice de leur profession ou de groupements de droit étranger ayant pour objet l'exercice de cette même profession.
 
 Peuvent également être associés, à l'exclusion de toute autre personne :
 
@@ -8533,17 +8533,21 @@ Peuvent également être associés, à l'exclusion de toute autre personne :
 
 2° Les ayants droit des personnes physiques mentionnées aux premier et troisième alinéas ci-dessus, pendant un délai de cinq ans suivant le décès de celles-ci ;
 
-3° Les personnes exerçant une profession libérale, soumise à un statut législatif ou réglementaire ou dont le titre est protégé, intervenant dans l'obtention, le maintien, l'exploitation ou la défense des droits de propriété industrielle.
+3° Les personnes exerçant une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, autre que les professions libérales de santé ou les professions libérales juridiques ou judiciaires ;
+
+4° Des ressortissants des Etats membres de l'Union européenne, des autres Etats parties à l'accord sur l'Espace économique européen ou de la Confédération suisse, qui exercent en qualité de professionnel libéral, dans l'un de ces Etats membres ou parties ou dans la Confédération suisse, une activité soumise à un statut législatif ou réglementaire ou subordonnée à la possession d'une qualification nationale ou internationale reconnue et dont l'exercice constitue l'objet social de l'une des sociétés ou de l'un des groupements faisant l'objet d'une prise de participation.
+
+Ces sociétés sont régies par les dispositions du livre II du code de commerce, sous réserve des dispositions du présent chapitre.
 
 ####### Article R422-51-2
 
-La société est constituée sous la condition suspensive de son inscription sur la liste des conseils en propriété industrielle prévue par l'article L. 422-1, dans une section spéciale.
+La société est inscrite sur la liste des conseils en propriété industrielle prévue par l'article L. 422-1, dans une section spécifique aux sociétés de participations financières de profession libérale.
 
 ####### Article R422-51-3
 
-La demande d'inscription d'une société de participations financières de profession libérale de conseils en propriété industrielle est adressée collectivement par les associés, qui désignent un mandataire commun, au directeur général de l'Institut national de la propriété industrielle par lettre recommandée avec demande d'avis de réception, ou remise contre récépissé.
+La déclaration d'une société de participations financières de profession libérale de conseils en propriété industrielle est adressée collectivement par les associés, qui désignent un mandataire commun, au directeur général de l'Institut national de la propriété industrielle par lettre recommandée avec demande d'avis de réception, ou remise contre récépissé.
 
-Cette demande est accompagnée, à peine d'irrecevabilité, des pièces suivantes :
+Cette déclaration est accompagnée, à peine d'irrecevabilité, des pièces suivantes :
 
 1° Un exemplaire des statuts de la société ;
 
@@ -8551,27 +8555,17 @@ Cette demande est accompagnée, à peine d'irrecevabilité, des pièces suivante
 
 3° La liste des associés avec, selon le cas, l'indication de leur profession ou de leur qualité au regard de l'article R. 422-51-1, suivie, pour chacun, de la mention de la part du capital qu'il détient dans la société dont l'inscription est demandée.
 
-La demande est, le cas échéant, accompagnée d'une note d'information désignant la ou les sociétés d'exercice libéral de conseil en propriété industrielle dont les parts sociales ou actions seront détenues par la société de participations financières et précisant la répartition du capital qui résultera de ces participations pour chacune d'entre elles.
-
-####### Article R422-51-4
-
-Le directeur général de l'Institut national de la propriété industrielle statue sur la demande d'inscription après avis de la Compagnie nationale des conseils en propriété industrielle.
-
-L'avis est réputé donné si la compagnie ne l'a pas formulé dans un délai d'un mois à compter de sa saisine.
-
-L'inscription de la société ne peut être refusée que si la situation déclarée en application de l'article R. 422-51-3 n'est pas conforme aux dispositions législatives et réglementaires en vigueur.
-
-Le refus d'inscription est motivé et notifié au mandataire commun.
+La déclaration est, le cas échéant, accompagnée d'une note d'information désignant la ou les sociétés d'exercice libéral de conseil en propriété industrielle dont les parts sociales ou actions seront détenues par la société de participations financières et précisant la répartition du capital qui résultera de ces participations pour chacune d'entre elles.
 
 ####### Article R422-51-5
 
-Les sociétés de participations financières de profession libérale de conseil en propriété industrielle issues d'une fusion ou d'une scission sont soumises aux dispositions des articles R. 422-51-2 à R. 422-51-4.
+Les sociétés de participations financières de profession libérale de conseil en propriété industrielle issues d'une fusion ou d'une scission sont soumises aux dispositions des articles R. 422-51-2 à R. 422-51-3.
 
 ####### Article R422-51-6
 
-A la diligence du directeur de l'Institut national de la propriété industrielle, une ampliation de la décision d'inscription de la société est adressée au greffe du tribunal où a été déposée la demande d'immatriculation au registre du commerce et des sociétés. Au reçu de cette ampliation, le greffier procède à l'immatriculation et en informe le directeur général de l'Institut national de la propriété industrielle.
+A la diligence du directeur de l'Institut national de la propriété industrielle, une ampliation de la déclaration d'inscription de la société est adressée au greffe du tribunal où a été déposée la demande d'immatriculation au registre du commerce et des sociétés. Au reçu de cette ampliation, le greffier procède à l'immatriculation et en informe le directeur général de l'Institut national de la propriété industrielle.
 
-La société est dispensée de procéder aux formalités de publicité prévues à l'article 281 du décret n° 67-236 du 23 mars 1967 modifié sur les sociétés commerciales.
+La société est dispensée de procéder aux formalités de publicité prévues à l'article R. 210-16 du code de commerce.
 
 ####### Article R422-51-7
 
@@ -8581,17 +8575,15 @@ La société de participations financières de profession libérale de conseil e
 
 Si ce changement a pour effet de rendre la situation déclarée de la société non conforme aux dispositions législatives et réglementaires en vigueur, la société est mise en demeure par le directeur général de l'institut de régulariser sa situation dans le délai indiqué par cette mise en demeure.
 
-Si, à l'expiration de ce délai, la société n'a pas régularisé sa situation, le directeur général de l'institut prononce sa radiation par une décision motivée qui est notifiée à la société.
-
-Le recours formé contre une décision de radiation a un caractère suspensif.
+Si, à l'expiration de ce délai, la société n'a pas régularisé sa situation, le directeur général de l'Institut saisit, à l'encontre des associés, la chambre de discipline prévue à l'article L. 422-10.
 
 ####### Article R422-51-9
 
-A la diligence du directeur général de l'Institut national de la propriété industrielle, une expédition de la décision définitive prononçant la radiation de la société de la liste des conseils en propriété industrielle est notifiée au greffier chargé de la tenue du registre du commerce et des sociétés auquel la société est immatriculée.
+Chaque société de participations financières de la profession libérale de conseil en propriété industrielle fait l'objet, par le directeur général de l'Institut national de la propriété industrielle, dès son inscription puis ensuite au moins une fois tous les quatre ans, d'un contrôle portant sur le respect des dispositions législatives et réglementaires qui lui sont applicables.
 
-####### Article R422-51-10
+Au cours de chaque contrôle, l'avis de la Compagnie nationale des conseils en propriété industrielle est demandé. L'avis est réputé donné si la compagnie ne l'a pas formulé dans le délai d'un mois à compter de sa saisine.
 
-La radiation de la société de participations financières de profession libérale de conseil en propriété industrielle de la liste des conseils en propriété industrielle emporte sa dissolution.
+En cas de non-respect des dispositions législatives et réglementaires en vigueur, il est fait application de la procédure prévue à l'article R. 422-51-8.
 
 ####### Article R422-51-11
 
