@@ -9558,7 +9558,7 @@ Agents non titulaires :
 
 - personnels non titulaires du niveau de la catégorie A régis par les dispositions suivantes :
 - décision du 18 mars 1992 du ministre d'Etat, ministre de la fonction publique et de la modernisation de l'administration, du ministre de l'équipement, du logement, des transports et de l'espace et du ministre délégué au budget ;
-- règlement du 14 mai 1973 régissant les personnels non titulaires du institut français des sciences et technologies des transports, de l'aménagement et des réseaux et des centres d'études techniques de l'équipement ;
+- règlement du 14 mai 1973 régissant les personnels non titulaires du institut français des sciences et technologies des transports, de l'aménagement et des réseaux et des centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 - règlement intérieur du 30 octobre 1969 modifié relatif aux personnels non titulaires employés au service d'études techniques des routes et autoroutes ;
 - arrêté du 10 juillet 1968 relatif aux conditions de recrutement et de rémunération des personnels contractuels techniques et administratifs du ministère de l'équipement et du logement chargés d'études de haut niveau au service des affaires économiques et internationales et au service d'études techniques des routes et autoroutes, modifié par l'arrêté du 27 mars 1973 relatif au même objet ;
 - décret n° 46-1507 du 18 juin 1946 fixant le statut des auxiliaires recrutés sur contrat par le ministère des travaux publics et des transports pour le service des ponts et chaussées, modifié par les décrets n° 68-313 du 1er avril 1968 et n° 75-1355 du 18 décembre 1975 relatifs au même objet ;
