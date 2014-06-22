@@ -8339,7 +8339,7 @@ Il peut déléguer sa signature, notamment en matière de passation de marchés,
 
 ###### Article R411-3
 
-Le conseil d'administration est composé de douze membres :
+Le conseil d'administration est composé de quatorze membres :
 
 1° Une personnalité issue du monde économique et membre du Conseil supérieur de la propriété industrielle, président, nommée par arrêté du ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ;
 
@@ -8347,13 +8347,13 @@ Le conseil d'administration est composé de douze membres :
 
 3° Le directeur du budget au ministère de l'économie et des finances ou son représentant ;
 
-4° Deux représentants du ministre chargé de la propriété industrielle, dont le directeur des affaires juridiques ou son représentant ;
+4° Deux représentants du ministre chargé de la propriété industrielle, dont le directeur des affaires juridiques ou son représentant, et un représentant du ministre chargé de la recherche ;
 
-5° Le directeur général de l'Agence nationale de valorisation de la recherche ;
+5° Le directeur général de la société anonyme BPI-Groupe ou son représentant ;
 
 6° Le président de la Compagnie nationale des conseils en propriété industrielle et un représentant des praticiens de la propriété industrielle en entreprise nommé par arrêté du ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ;
 
-7° Deux représentants des milieux industriels intéressés à la protection de la propriété industrielle nommés par arrêté du ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ;
+7° Trois représentants des milieux industriels intéressés à la protection de la propriété industrielle nommés par arrêté du ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ;
 
 8° Deux représentants du personnel en fonctions dans l'établissement, élus dans des conditions fixées par arrêté du ministre chargé de la propriété industrielle.
 
