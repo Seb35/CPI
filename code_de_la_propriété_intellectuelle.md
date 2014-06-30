@@ -9526,13 +9526,21 @@ Un arrêté ministériel détermine les conditions d'envoi, de gardiennage et de
 
 ##### Article R512-1
 
-Tout dépôt de dessin ou modèle peut être fait personnellement par le déposant ou par un mandataire ayant son domicile, son siège ou un établissement dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen. Il en est accusé réception.
+La demande d'enregistrement de dessin ou modèle est déposée au siège de l'Institut national de la propriété industrielle ou y est envoyée par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur général. La date de dépôt est celle de la réception de la demande au siège de l'institut.
 
-Il peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande d'avis de réception ou d'un message par tout mode de télétransmission défini par décision de son directeur général. Dans ce cas, la date de dépôt est celle de la réception à l'institut.
+Le directeur général de l'institut peut imposer un dépôt sous forme électronique lorsque cette modalité est de nature à faciliter l'examen et la publication de la demande.
+
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
+
+Le présent article est également applicable aux déclarations de prorogation prévues à l'article R. 513-1.
 
 ##### Article R512-2
 
-Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de la Communauté européenne ou dans un Etat partie à l'accord sur l'Espace économique européen doivent, dans un délai qui leur est imparti par l'institut, constituer un mandataire satisfaisant aux conditions prévues à l'article R. 512-1.
+Le dépôt peut être effectué personnellement par le demandeur ou par un mandataire ayant son domicile, son siège ou son établissement dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen.
+
+Le mandataire constitué pour le dépôt d'une demande d'enregistrement de dessin ou modèle et tout acte subséquent relatif à la procédure d'enregistrement, à l'exception du simple paiement des redevances et des déclarations de prorogation, doit appartenir à l'une des catégories de représentants mentionnées aux articles L. 422-4 et L. 422-5.
+
+Les personnes n'ayant pas leur domicile ou leur siège dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen doivent, dans le délai qui leur est imparti par l'institut, constituer un mandataire satisfaisant aux conditions prévues aux alinéas précédents.
 
 En cas de pluralité de déposants, un mandataire commun satisfaisant aux mêmes conditions doit être constitué.
 
@@ -9544,7 +9552,7 @@ Lorsqu'un même dépôt porte sur plusieurs dessins ou modèles, les produits da
 
 Le dépôt comprend :
 
-1° Une demande d'enregistrement établie dans les conditions prévues par l'arrêté mentionné à l'article R. 514-5 et précisant notamment :
+1° Une demande d'enregistrement établie dans les conditions prévues par la décision mentionnée à l'article R. 514-5 et précisant notamment :
 
 a) L'identification du déposant ;
 
@@ -9558,7 +9566,7 @@ e) La désignation usuelle du produit dans lequel le dessin ou modèle est desti
 
 f) Le cas échéant, l'indication que la publication du dépôt doit être différée, que le droit de priorité attaché à un précédent dépôt étranger est revendiqué ou qu'un certificat de garantie a été délivré en application de la loi du 13 avril 1908 ;
 
-2° Une reproduction graphique ou photographique des dessins et modèles présentée dans les conditions prévues par l'arrêté mentionné au 1°. Chaque reproduction doit porter sur un seul objet et ne représenter que celui-ci, à l'exclusion de tout autre objet, accessoire, personne ou animal. Les textes explicatifs, légendes, ou toute autre indication ne faisant pas partie intégrante du dessin ou modèle ne sont pas admis sur ou à côté des reproductions. Les reproductions peuvent être accompagnées d'une brève description, établie exclusivement à des fins documentaires. Son contenu définitif est, si nécessaire, mis en forme par l'Institut national de la propriété industrielle ;
+2° Une reproduction graphique ou photographique des dessins et modèles présentée dans les conditions prévues par la décision mentionnée au 1°. Chaque reproduction doit porter sur un seul objet et ne représenter que celui-ci, à l'exclusion de tout autre objet, accessoire, personne ou animal. Les textes explicatifs, légendes, ou toute autre indication ne faisant pas partie intégrante du dessin ou modèle ne sont pas admis sur ou à côté des reproductions. Les reproductions peuvent être accompagnées d'une brève description, établie exclusivement à des fins documentaires. Son contenu définitif est, si nécessaire, mis en forme par l'Institut national de la propriété industrielle ;
 
 3° La justification du paiement des redevances prescrites ;
 
@@ -9740,7 +9748,7 @@ Toute personne intéressée peut obtenir de l'institut :
 
 ##### Article R513-1
 
-La prorogation d'un enregistrement de dessin ou modèle prévue à l'article L. 513-1 résulte d'une déclaration de son titulaire établie dans les conditions fixées par l'arrêté mentionné à l'article R. 514-5. Il peut être précisé que la prorogation ne vaut que pour certains dessins ou modèles.
+La prorogation d'un enregistrement de dessin ou modèle prévue à l'article L. 513-1 résulte d'une déclaration de son titulaire établie dans les conditions fixées par la décision mentionnée à l'article R. 514-5. Il peut être précisé que la prorogation ne vaut que pour certains dessins ou modèles.
 
 La première prorogation peut toutefois être demandée lors du dépôt.
 
@@ -9814,7 +9822,7 @@ Si l'adresse du destinataire est inconnue, la notification est faite par publica
 
 ###### Article R514-5
 
-Les modalités de présentation du dépôt et le contenu du dossier sont précisés par arrêté du ministre chargé de la propriété industrielle, notamment en ce qui concerne :
+Les modalités de présentation du dépôt et le contenu du dossier sont précisés par décision du directeur général de l'Institut national de la propriété industrielle, notamment en ce qui concerne :
 
 1° La demande d'enregistrement et les spécifications matérielles auxquelles doit répondre la reproduction graphique ou photographique prévue à l'article R. 512-3 ;
 
@@ -9823,6 +9831,14 @@ Les modalités de présentation du dépôt et le contenu du dossier sont précis
 3° La demande d'inscription au Registre national des dessins et modèles prévue aux articles R. 512-15 et R. 512-17 ;
 
 4° Les modalités des dépôts simplifiés prévus à l'article L. 512-2.
+
+###### Article R514-5-1
+
+Toute correspondance ou toute pièce relatives à une procédure devant l'Institut national de la propriété industrielle prévue par le présent livre sont déposées au siège de l'institut ou y sont envoyées par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur général. Leur date de dépôt est celle de la réception au siège de l'institut.
+
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique lorsque cette modalité est de nature à faciliter l'examen et la publication de ces pièces.
+
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
 
 ##### Section 2 : Dispositions transitoires
 
@@ -10318,11 +10334,11 @@ A compter du jour où une personne a apporté la justification qu'elle a intent�
 
 ###### Article R612-1
 
-La demande de brevet est déposée à l'Institut national de la propriété industrielle.
+La demande de brevet est déposée au siège de l'Institut national de la propriété industrielle ou y est envoyée par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur général. La date de dépôt est celle de la réception de la demande au siège de l'institut.
 
-Le dépôt peut également résulter d'un envoi à l'Institut national de la propriété industrielle soit sous pli postal recommandé avec demande d'avis de réception, soit par un message utilisant tout mode de télétransmission, selon les modalités fixées par le directeur général de l'institut pour garantir notamment la sécurité de l'envoi. Dans ces cas, la date de la remise des pièces est celle de leur réception à l'Institut national de la propriété industrielle.
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique lorsque cette modalité est de nature à faciliter l'examen et la publication de la demande.
 
-Le directeur de l'Institut national de la propriété industrielle peut exiger un dépôt sous forme électronique lorsqu'une telle modalité est de nature à faciliter l'examen et la publication de la demande de brevet.
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
 
 ###### Article R612-2
 
@@ -10368,7 +10384,7 @@ Un récépissé constatant la date de la remise des pièces est délivré au dem
 
 ###### Article R612-7
 
-Dans les quinze jours qui suivent la remise ou l'arrivée des pièces à l'Institut national de la propriété industrielle à Paris, celui-ci attribue à la demande de brevet un numéro d'enregistrement national et le notifie sans délai au demandeur. Est déclaré irrecevable toute correspondance ou tout dépôt de pièces ultérieur qui ne rappelle pas ce numéro ou qui ne porte pas la signature du demandeur ou de son mandataire.
+Dans les quinze jours qui suivent la remise ou l'arrivée des pièces à l'Institut national de la propriété industrielle, celui-ci attribue à la demande de brevet un numéro d'enregistrement national et le notifie sans délai au demandeur. Est déclaré irrecevable toute correspondance ou tout dépôt de pièces ultérieur qui ne rappelle pas ce numéro ou qui ne porte pas la signature du demandeur ou de son mandataire.
 
 ###### Article R612-8
 
@@ -11438,15 +11454,7 @@ Le montant de l'amende infligée en cas de fausse déclaration est de dix fois l
 
 ###### Article R614-1
 
-Les centres régionaux de l'Institut national de la propriété industrielle auprès desquels peuvent être déposées des demandes de brevet européen sont désignés par arrêté du ministre chargé de la propriété industrielle.
-
-###### Article R614-2
-
-Lorsque le dépôt est fait dans un centre régional, les pièces de la demande, accompagnées d'un double du récépissé visé à la règle 24, paragraphe 2, du règlement d'exécution de la convention sur le brevet européen, sont transmises au siège de l'Institut national de la propriété industrielle.
-
-###### Article R614-3
-
-Le dépôt d'une demande de brevet européen peut être effectué par voie postale ou par tout mode de télétransmission dans les conditions prévues aux deuxième et troisième alinéas de l'article R. 612-1.
+La demande de brevet européen peut être déposée au siège de l'Institut national de la propriété industrielle ou y être envoyée par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur général. La date de dépôt est celle de la réception de la demande au siège de l'institut.
 
 ###### Article R614-4
 
@@ -11530,13 +11538,11 @@ Les dispositions des articles R. 411-19 à R. 411-26 et R. 618-1 à R. 618-3 son
 
 ###### Article R614-21
 
-Une demande internationale peut être déposée auprès de l'Institut national de la propriété industrielle soit à son siège, soit dans ses centres régionaux désignés par arrêté du ministre chargé de la propriété industrielle. Sous réserve de l'obligation prévue à l'article L. 614-18, elle peut également être déposée auprès de l'Office européen des brevets, agissant en qualité d'office récepteur.
+La demande internationale peut être déposée au siège de l'Institut national de la propriété industrielle ou y être envoyée par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur général. La date de dépôt est celle de la réception de la demande au siège de l'institut.
 
-###### Article R614-22
+Le dépôt peut être effectué par le déposant personnellement ou par un mandataire. Les dispositions de l'article R. 612-2 sont applicables.
 
-Le dépôt d'une demande internationale peut être effectué par voie postale ou par tout mode de télétransmission dans les conditions prévues aux deuxième et troisième alinéas de l'article R. 612-1.
-
-Le dépôt peut être fait par le déposant personnellement ou par un mandataire ; les dispositions du premier et du second alinéa de l'article R. 612-2 sont applicables.
+Sous réserve de l'obligation prévue à l'article L. 614-18, la demande internationale peut également être déposée auprès de l'Office européen des brevets, agissant en qualité d'office récepteur.
 
 ###### Article R614-23
 
@@ -11549,8 +11555,6 @@ S'il n'est pas satisfait aux dispositions du précédent alinéa, les exemplaire
 ###### Article R614-24
 
 Un récépissé, indiquant au moins le numéro attribué à la demande internationale, la nature et le nombre des pièces de la demande, ainsi que de leur réception, est délivré au déposant.
-
-Lorsque le dépôt est fait dans un centre régional, les pièces de la demande, accompagnées d'un double du récépissé, sont transmises sans délai au siège de l'Institut national de la propriété industrielle.
 
 ###### Article R614-25
 
@@ -11862,7 +11866,15 @@ Les délais impartis par l'Institut national de la propriété industrielle conf
 
 ###### Article R618-5
 
-Les modalités d'application des articles R. 612-1 à R. 612-25 et R. 613-53 à R. 613-59 sont fixées par arrêté du ministre chargé de la propriété industrielle.
+Les modalités d'application des articles R. 612-1 à R. 612-25 et R. 613-53 à R. 613-59 sont fixées par décision du directeur général de l'Institut national de la propriété industrielle.
+
+###### Article R618-6
+
+Toute correspondance ou toute pièce relatives à une procédure devant l'Institut national de la propriété industrielle prévue par le présent livre sont déposées au siège de l'institut ou y sont envoyées par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur général. Leur date de dépôt est celle de la réception au siège de l'institut.
+
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique lorsque cette modalité est de nature à faciliter l'examen et la publication de ces pièces.
+
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
 
 ### Titre II : Protection des connaissances techniques
 
@@ -11872,7 +11884,11 @@ Les modalités d'application des articles R. 612-1 à R. 612-25 et R. 613-53 à 
 
 ##### Article R622-1
 
-Le dépôt des topographies de produits semi-conducteurs, prévu par les articles L. 622-1 à L. 622-7, est effectué à l'Institut national de la propriété industrielle.
+Les topographies de produits semi-conducteurs sont déposées à l'Institut national de la propriété industrielle ou y sont envoyées par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur général. Leur date de dépôt est celle de la réception au siège de l'institut.
+
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique lorsque cette modalité est de nature à faciliter l'examen et la publication des topographies de produits semi-conducteurs.
+
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
 
 ##### Article R622-2
 
@@ -12444,9 +12460,13 @@ Le siège et le ressort des tribunaux de grande instance ayant compétence exclu
 
 ##### Article R712-1
 
-La demande d'enregistrement de marque est déposée à l'Institut national de la propriété industrielle. Il en est accusé réception.
+La demande d'enregistrement de marque est déposée au siège de l'Institut national de la propriété industrielle ou y est envoyée par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur général. La date de dépôt est celle de la réception de la demande au siège de l'institut.
 
-Le dépôt peut résulter de l'envoi à l'Institut national de la propriété industrielle d'un pli postal recommandé avec demande d'avis de réception, ou d'un message par tout mode de télétransmission défini par décision de son directeur général. Dans ce cas, la date de dépôt est celle de la réception à l'institut. Le présent article s'applique aux déclarations de renouvellement prévues à l'article R. 712-24.
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique lorsque cette modalité est de nature à faciliter l'examen et la publication de la demande.
+
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
+
+Le présent article est également applicable aux déclarations de renouvellement prévues à l'article R. 712-24.
 
 ##### Article R712-2
 
@@ -12464,7 +12484,7 @@ Sauf lorsqu'il a la qualité de conseil en propriété industrielle ou d'avocat,
 
 Le dépôt comprend :
 
-1° La demande d'enregistrement de la marque établie dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26 et précisant notamment :
+1° La demande d'enregistrement de la marque établie dans les conditions prévues par la décision mentionnée à l'article R. 712-26 et précisant notamment :
 
 a) L'identification du déposant ;
 
@@ -12566,7 +12586,7 @@ L'opposition à enregistrement formée par le propriétaire d'une marque antéri
 
 ##### Article R712-14
 
-L'opposition est présentée par écrit dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26.
+L'opposition est présentée par écrit dans les conditions prévues par la décision mentionnée à l'article R. 712-26.
 
 Elle précise :
 
@@ -12582,7 +12602,7 @@ Elle précise :
 
 ##### Article R712-15
 
-Est déclarée irrecevable toute opposition soit formée hors délai, soit présentée par une personne qui n'avait pas qualité, soit non conforme aux conditions prévues aux articles R. 712-13 et R. 712-14 et à l'arrêté mentionné à l'article R. 712-26.
+Est déclarée irrecevable toute opposition soit formée hors délai, soit présentée par une personne qui n'avait pas qualité, soit non conforme aux conditions prévues aux articles R. 712-13 et R. 712-14 et par la décision mentionnée à l'article R. 712-26.
 
 ##### Article R712-16
 
@@ -12654,7 +12674,7 @@ La date à laquelle une marque est réputée enregistrée, notamment pour l'appl
 
 ##### Article R712-24
 
-L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par déclaration du propriétaire de la marque, établie dans les conditions prévues à l'arrêté mentionné à l'article R. 712-26. Il peut être précisé que le renouvellement ne vaut que pour certains produits ou services désignés dans l'acte d'enregistrement.
+L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par déclaration du propriétaire de la marque, établie dans les conditions prévues par la décision mentionnée à l'article R. 712-26. Il peut être précisé que le renouvellement ne vaut que pour certains produits ou services désignés dans l'acte d'enregistrement.
 
 Le renouvellement prend effet le jour suivant la date d'expiration de l'enregistrement.
 
@@ -12678,7 +12698,7 @@ Les renouvellements ultérieurs de la marque renouvelée et du nouveau dépôt s
 
 ##### Article R712-26
 
-Les conditions de présentation de la demande et le contenu du dossier sont précisés par arrêté du ministre chargé de la propriété industrielle, notamment en ce qui concerne :
+Les conditions de présentation de la demande et le contenu du dossier sont précisés par décision du directeur général de l'Institut national de la propriété industrielle, notamment en ce qui concerne :
 
 1° La demande d'enregistrement prévue à l'article R. 712-3 ;
 
@@ -12998,7 +13018,7 @@ Les actes relatifs aux enregistrements internationaux qui produisent effet en Fr
 
 ###### Article R717-8
 
-Toute demande d'enregistrement international ou d'inscription postérieure à cet enregistrement soumise, en vertu de l'arrangement de Madrid du 14 avril 1891 et du Protocole de Madrid du 27 juin 1989, au visa de l'Institut national de la propriété industrielle pour transmission au bureau international, doit être présentée dans les conditions fixées à l'arrêté mentionné à l'article R. 712-26.
+Toute demande d'enregistrement international ou d'inscription postérieure à cet enregistrement soumise, en vertu de l'arrangement de Madrid du 14 avril 1891 et du Protocole de Madrid du 27 juin 1989, au visa de l'Institut national de la propriété industrielle pour transmission au bureau international, doit être présentée dans les conditions fixées par la décision mentionnée à l'article R. 712-26.
 
 Les dispositions de l'article R. 712-11 sont applicables à toute demande ne répondant pas aux conditions prévues à l'alinéa précédent. La date de saisine de l'Institut national de la propriété industrielle est celle à laquelle la demande a, le cas échéant, été régularisée.
 
@@ -13067,6 +13087,14 @@ Les notifications prévues par le présent titre sont faites par lettre recomman
 L'envoi recommandé peut être remplacé par la remise de la lettre au destinataire, contre récépissé, dans les locaux de l'Institut national de la propriété industrielle ou par un message sous forme électronique selon les modalités fixées par le directeur général de l'institut pour garantir notamment la sécurité de l'envoi.
 
 Si l'adresse du destinataire est inconnue, la notification est faite par publication d'un avis au Bulletin officiel de la propriété industrielle.
+
+###### Article R718-5
+
+Toute correspondance ou toute pièce relatives à une procédure devant l'Institut national de la propriété industrielle prévue par le présent titre sont déposées au siège de l'institut ou y sont envoyées par pli postal ou par tout mode de télétransmission dans les conditions définies par décision de son directeur général. Leur date de dépôt est celle de la réception au siège de l'institut.
+
+Le directeur général de l'Institut national de la propriété industrielle peut imposer un dépôt sous forme électronique lorsque cette modalité est de nature à faciliter l'examen et la publication de ces pièces.
+
+L'institut apporte une assistance aux déposants par tout moyen approprié, précisé par décision de son directeur général.
 
 ### Titre II : Indications géographiques
 
