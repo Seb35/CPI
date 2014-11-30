@@ -615,6 +615,278 @@ Le contrat mentionne la faculté pour le producteur de recourir aux mesures tech
 
 ###### Section 1 : Contrat d'édition
 
+####### Sous-section 1 : Dispositions générales
+
+######## Article L132-1
+
+Le contrat d'édition est le contrat par lequel l'auteur d'une oeuvre de l'esprit ou ses ayants droit cèdent à des conditions déterminées à une personne appelée éditeur le droit de fabriquer ou de faire fabriquer en nombre des exemplaires de l'oeuvre ou de la réaliser ou faire réaliser sous une forme numérique, à charge pour elle d'en assurer la publication et la diffusion.
+
+######## Article L132-2
+
+Ne constitue pas un contrat d'édition, au sens de l'article L. 132-1, le contrat dit à compte d'auteur.
+
+Par un tel contrat, l'auteur ou ses ayants droit versent à l'éditeur une rémunération convenue, à charge par ce dernier de fabriquer en nombre, dans la forme et suivant les modes d'expression déterminés au contrat, des exemplaires de l'oeuvre ou de la réaliser ou faire réaliser sous une forme numérique et d'en assurer la publication et la diffusion.
+
+Ce contrat constitue un louage d'ouvrage régi par la convention, les usages et les dispositions des articles 1787 et suivants du code civil.
+
+######## Article L132-3
+
+Ne constitue pas un contrat d'édition, au sens de l'article L. 132-1, le contrat dit de compte à demi.
+
+Par un tel contrat, l'auteur ou ses ayants droit chargent un éditeur de fabriquer, à ses frais et en nombre, des exemplaires de l'oeuvre ou de la réaliser ou faire réaliser sous une forme numérique, dans la forme et suivant les modes d'expression déterminés au contrat, et d'en assurer la publication et la diffusion, moyennant l'engagement réciproquement contracté de partager les bénéfices et les pertes d'exploitation, dans la proportion prévue.
+
+Ce contrat constitue une société en participation. Il est régi, sous réserve des dispositions prévues aux articles 1871 et suivants du code civil, par la convention et les usages.
+
+######## Article L132-4
+
+Est licite la stipulation par laquelle l'auteur s'engage à accorder un droit de préférence à un éditeur pour l'édition de ses oeuvres futures de genres nettement déterminés.
+
+Ce droit est limité pour chaque genre à cinq ouvrages nouveaux à compter du jour de la signature du contrat d'édition conclu pour la première oeuvre ou à la production de l'auteur réalisée dans un délai de cinq années à compter du même jour.
+
+L'éditeur doit exercer le droit qui lui est reconnu en faisant connaître par écrit sa décision à l'auteur, dans le délai de trois mois à dater du jour de la remise par celui-ci de chaque manuscrit définitif.
+
+Lorsque l'éditeur bénéficiant du droit de préférence aura refusé successivement deux ouvrages nouveaux présentés par l'auteur dans le genre déterminé au contrat, l'auteur pourra reprendre immédiatement et de plein droit sa liberté quant aux oeuvres futures qu'il produira dans ce genre.
+
+Il devra toutefois, au cas où il aurait reçu ses oeuvres futures des avances du premier éditeur, effectuer préalablement le remboursement de celles-ci.
+
+######## Article L132-5
+
+Le contrat peut prévoir soit une rémunération proportionnelle aux produits d'exploitation, soit, dans les cas prévus aux articles L. 131-4 et L. 132-6, une rémunération forfaitaire.
+
+######## Article L132-6
+
+En ce qui concerne l'édition de librairie, la rémunération de l'auteur peut faire l'objet d'une rémunération forfaitaire pour la première édition, avec l'accord formellement exprimé de l'auteur, dans les cas suivants :
+
+1° Ouvrages scientifiques ou techniques ;
+
+2° Anthologies et encyclopédies ;
+
+3° Préfaces, annotations, introductions, présentations ;
+
+4° Illustrations d'un ouvrage ;
+
+5° Editions de luxe à tirage limité ;
+
+6° Livres de prières ;
+
+7° A la demande du traducteur pour les traductions ;
+
+8° Editions populaires à bon marché ;
+
+9° Albums bon marché pour enfants.
+
+Peuvent également faire l'objet d'une rémunération forfaitaire les cessions de droits à ou par une personne ou une entreprise établie à l'étranger.
+
+En ce qui concerne les oeuvres de l'esprit publiées dans les journaux et recueils périodiques de tout ordre et par les agences de presse, la rémunération de l'auteur, lié à l'entreprise d'information par un contrat de louage d'ouvrage ou de services, peut également être fixée forfaitairement.
+
+######## Article L132-7
+
+Le consentement personnel et donné par écrit de l'auteur est obligatoire.
+
+Sans préjudice des dispositions qui régissent les contrats passés par les mineurs et les majeurs en curatelle, le consentement est même exigé lorsqu'il s'agit d'un auteur légalement incapable, sauf si celui-ci est dans l'impossibilité physique de donner son consentement.
+
+Les dispositions de l'alinéa précédent ne sont pas applicables lorsque le contrat d'édition est souscrit par les ayants droit de l'auteur.
+
+######## Article L132-8
+
+L'auteur doit garantir à l'éditeur l'exercice paisible et, sauf convention contraire, exclusif du droit cédé.
+
+Il est tenu de faire respecter ce droit et de le défendre contre toutes atteintes qui lui seraient portées.
+
+######## Article L132-9
+
+L'auteur doit mettre l'éditeur en mesure de fabriquer et de diffuser les exemplaires de l'oeuvre ou de réaliser l'œuvre sous une forme numérique.
+
+Il doit remettre à l'éditeur, dans le délai prévu au contrat, l'objet de l'édition en une forme qui permette la fabrication ou la réalisation de l'œuvre sous une forme numérique.
+
+Sauf convention contraire ou impossibilités d'ordre technique, l'objet de l'édition fournie par l'auteur reste la propriété de celui-ci. L'éditeur en est responsable pendant le délai d'un an après l'achèvement de la fabrication ou de la réalisation sous une forme numérique.
+
+######## Article L132-10
+
+Le contrat d'édition doit indiquer le nombre minimum d'exemplaires constituant le premier tirage. Toutefois, cette obligation ne s'applique pas aux contrats prévoyant un minimum de droits d'auteur garantis par l'éditeur.
+
+######## Article L132-11
+
+L'éditeur est tenu d'effectuer ou de faire effectuer la fabrication ou la réalisation sous une forme numérique selon les conditions, dans la forme et suivant les modes d'expression prévus au contrat.
+
+Il ne peut, sans autorisation écrite de l'auteur, apporter à l'oeuvre aucune modification.
+
+Il doit, sauf convention contraire, faire figurer sur chacun des exemplaires ou sur l'œuvre réalisée sous une forme numérique le nom, le pseudonyme ou la marque de l'auteur.
+
+A défaut de convention spéciale, l'éditeur doit réaliser l'édition dans un délai fixé par les usages de la profession.
+
+En cas de contrat à durée déterminée, les droits du cessionnaire s'éteignent de plein droit à l'expiration du délai sans qu'il soit besoin de mise en demeure.
+
+L'éditeur pourra toutefois procéder, pendant trois ans après cette expiration, à l'écoulement, au prix normal, des exemplaires restant en stock, à moins que l'auteur ne préfère acheter ces exemplaires moyennant un prix qui sera fixé à dire d'experts à défaut d'accord amiable, sans que cette faculté reconnue au premier éditeur interdise à l'auteur de faire procéder à une nouvelle édition dans un délai de trente mois.
+
+######## Article L132-12
+
+L'éditeur est tenu d'assurer à l'oeuvre une exploitation permanente et suivie et une diffusion commerciale, conformément aux usages de la profession.
+
+######## Article L132-13
+
+L'éditeur est tenu de rendre compte.
+
+L'auteur pourra, à défaut de modalités spéciales prévues au contrat, exiger au moins une fois l'an la production par l'éditeur d'un état mentionnant le nombre d'exemplaires fabriqués en cours d'exercice et précisant la date et l'importance des tirages et le nombre des exemplaires en stock.
+
+Sauf usage ou conventions contraires, cet état mentionnera également le nombre des exemplaires vendus par l'éditeur, celui des exemplaires inutilisables ou détruits par cas fortuit ou force majeure, ainsi que le montant des redevances dues ou versées à l'auteur.
+
+######## Article L132-14
+
+L'éditeur est tenu de fournir à l'auteur toutes justifications propres à établir l'exactitude de ses comptes.
+
+Faute par l'éditeur de fournir les justifications nécessaires, il y sera contraint par le juge.
+
+######## Article L132-15
+
+La procédure de sauvegarde ou de redressement judiciaire de l'éditeur n'entraîne pas la résiliation du contrat.
+
+Lorsque l'activité est poursuivie en application des articles L. 621-22 et suivants du code de commerce, toutes les obligations de l'éditeur à l'égard de l'auteur doivent être respectées.
+
+En cas de cession de l'entreprise d'édition en application des articles L. 621-83 et suivants du code de commerce précité, l'acquéreur est tenu des obligations du cédant.
+
+Lorsque l'activité de l'entreprise a cessé depuis plus de trois mois ou lorsque la liquidation judiciaire est prononcée, l'auteur peut demander la résiliation du contrat.
+
+Le liquidateur ne peut procéder à la vente en solde des exemplaires fabriqués ni à leur réalisation dans les conditions prévues aux articles L. 622-17 et L. 622-18 du code de commerce précité que quinze jours après avoir averti l'auteur de son intention, par lettre recommandée avec demande d'accusé de réception.
+
+L'auteur possède, sur tout ou partie des exemplaires, un droit de préemption. A défaut d'accord, le prix de rachat sera fixé à dire d'expert.
+
+######## Article L132-16
+
+L'éditeur ne peut transmettre, à titre gratuit ou onéreux, ou par voie d'apport en société, le bénéfice du contrat d'édition à des tiers, indépendamment de son fonds de commerce, sans avoir préalablement obtenu l'autorisation de l'auteur.
+
+En cas d'aliénation du fonds de commerce, si celle-ci est de nature à compromettre gravement les intérêts matériels ou moraux de l'auteur, celui-ci est fondé à obtenir réparation même par voie de résiliation du contrat.
+
+Lorsque le fonds de commerce d'édition était exploité en société ou dépendait d'une indivision, l'attribution du fonds à l'un des ex-associés ou à l'un des co-indivisaires en conséquence de la liquidation ou du partage ne sera, en aucun cas, considérée comme une cession.
+
+######## Article L132-17
+
+Le contrat d'édition prend fin, sans préjudice des cas prévus par le droit commun, par les articles précédents de la présente sous-section ou par les articles de la sous-section 2, lorsque :
+
+1° L'éditeur procède à la destruction totale des exemplaires ;
+
+2° L'éditeur, sur mise en demeure de l'auteur lui impartissant un délai convenable, n'a pas procédé à la publication de l'œuvre ou, en cas d'épuisement, à sa réédition. Dans ce cas, la résiliation a lieu de plein droit. L'édition est considérée comme épuisée si deux demandes de livraison d'exemplaires adressées à l'éditeur ne sont pas satisfaites dans les trois mois.
+
+En cas de mort de l'auteur, si l'oeuvre est inachevée, le contrat est résolu en ce qui concerne la partie de l'oeuvre non terminée, sauf accord entre l'éditeur et les ayants droit de l'auteur.
+
+####### Sous-section 2 : Dispositions particulières applicables à l'édition d'un livre
+
+######## Paragraphe 1 : Dispositions communes à l'édition d'un livre sous une forme imprimée et sous une forme numérique
+
+######### Article L132-17-1
+
+Lorsque le contrat d'édition a pour objet l'édition d'un livre à la fois sous une forme imprimée et sous une forme numérique, les conditions relatives à la cession des droits d'exploitation sous une forme numérique sont déterminées dans une partie distincte du contrat, à peine de nullité de la cession de ces droits.
+
+######### Article L132-17-2
+
+I.-L'éditeur est tenu d'assurer une exploitation permanente et suivie du livre édité sous une forme imprimée ou sous une forme numérique.
+
+II.-La cession des droits d'exploitation sous une forme imprimée est résiliée de plein droit lorsque, après une mise en demeure de l'auteur adressée par lettre recommandée avec demande d'avis de réception, l'éditeur ne satisfait pas dans un délai de six mois à compter de cette réception aux obligations qui lui incombent à ce titre.
+
+Cette résiliation n'a pas d'effet sur la partie distincte du contrat d'édition relative à la cession des droits d'exploitation du livre sous une forme numérique.
+
+III.-La cession des droits d'exploitation sous une forme numérique est résiliée de plein droit lorsque, après une mise en demeure de l'auteur adressée par lettre recommandée avec demande d'avis de réception, l'éditeur ne satisfait pas dans un délai de six mois à compter de cette réception, aux obligations qui lui incombent à ce titre.
+
+Cette résiliation n'a d'effet que sur la partie distincte du contrat d'édition relative à la cession des droits d'exploitation du livre sous une forme numérique.
+
+IV.-Les résiliations prévues aux II et III sont sans effet sur les contrats d'adaptation audiovisuelle prévus à l'article L. 131-3.
+
+######### Article L132-17-3
+
+I. - L'éditeur est tenu pour chaque livre de rendre compte à l'auteur du calcul de sa rémunération de façon explicite et transparente.
+
+A cette fin, l'éditeur adresse à l'auteur, ou met à sa disposition par un procédé de communication électronique, un état des comptes mentionnant :
+
+1° Lorsque le livre est édité sous une forme imprimée, le nombre d'exemplaires fabriqués en cours d'exercice, le nombre des exemplaires en stock en début et en fin d'exercice, le nombre des exemplaires vendus par l'éditeur, le nombre des exemplaires hors droits et détruits au cours de l'exercice ;
+
+2° Lorsque le livre est édité sous une forme numérique, les revenus issus de la vente à l'unité et de chacun des autres modes d'exploitation du livre ;
+
+3° Dans tous les cas, la liste des cessions de droits réalisées au cours de l'exercice, le montant des redevances correspondantes dues ou versées à l'auteur ainsi que les assiettes et les taux des différentes rémunérations prévues au contrat d'édition.
+
+Une partie spécifique de cet état des comptes est consacrée à l'exploitation du livre sous une forme numérique.
+
+La reddition des comptes est effectuée au moins une fois par an, à la date prévue au contrat ou, en l'absence de date, au plus tard six mois après l'arrêté des comptes.
+
+II. - Si l'éditeur n'a pas satisfait à son obligation de reddition des comptes selon les modalités et dans les délais prévus au I, l'auteur dispose d'un délai de six mois pour mettre en demeure l'éditeur d'y procéder.
+
+Lorsque cette mise en demeure n'est pas suivie d'effet dans un délai de trois mois, le contrat est résilié de plein droit.
+
+III. - Lorsque l'éditeur n'a satisfait, durant deux exercices successifs, à son obligation de reddition des comptes que sur mise en demeure de l'auteur, le contrat est résilié de plein droit dans les six mois qui suivent la seconde mise en demeure.
+
+IV. - L'éditeur reste tenu, même en l'absence de mise en demeure par l'auteur, de respecter ses obligations légales et contractuelles de reddition des comptes.
+
+######### Article L132-17-4
+
+I.-Le contrat d'édition prend fin à l'initiative de l'auteur ou de l'éditeur, si, pendant deux années consécutives au-delà d'un délai de quatre ans après la publication de l'œuvre, les états de comptes ne font apparaître de droits versés, ou crédités en compensation d'un à-valoir, au titre d'aucune des opérations suivantes :
+
+1° Vente à l'unité du livre dans son intégralité sous une forme imprimée, à l'exception de la vente issue de systèmes de distribution réservés à des abonnés ou à des adhérents ;
+
+2° Vente ou de l'accès payant à l'unité du livre dans son intégralité sous une forme numérique ;
+
+3° Consultation numérique payante du livre disponible dans son intégralité, pour les secteurs éditoriaux reposant essentiellement sur ce modèle de mise à disposition ;
+
+4° Traductions intégrales du livre sous une forme imprimée ou sous une forme numérique.
+
+La résiliation est notifiée à l'autre partie par lettre recommandée avec demande d'avis de réception dans un délai de douze mois suivant la date limite d'envoi de l'état des comptes par l'éditeur ou de sa mise à disposition de l'auteur par un procédé de communication électronique.
+
+Le délai de préavis applicable à la résiliation est de trois mois. A l'expiration du délai de préavis, le contrat est résilié de plein droit.
+
+II.-Les dispositions du I ne sont pas applicables à certaines modalités d'exploitation d'un livre précisées par l'accord rendu obligatoire mentionné à l'article L. 132-17-8.
+
+######## Paragraphe 2 : Dispositions particulières à l'édition d'un livre sous une forme numérique
+
+######### Article L132-17-5
+
+L'éditeur réalise l'édition d'un livre sous une forme numérique dans les conditions fixées par l'accord rendu obligatoire mentionné à l'article L. 132-17-8.
+
+Lorsque l'éditeur n'a pas procédé à cette réalisation, la cession des droits d'exploitation sous une forme numérique est résiliée de plein droit.
+
+######### Article L132-17-6
+
+Le contrat d'édition garantit à l'auteur une rémunération juste et équitable sur l'ensemble des recettes provenant de la commercialisation et de la diffusion d'un livre édité sous une forme numérique.
+
+En cas de vente à l'unité, la participation proportionnelle aux recettes au profit de l'auteur est calculée en fonction du prix de vente au public hors taxes.
+
+Dans les cas où le modèle économique mis en œuvre par l'éditeur pour l'exploitation de l'édition sous une forme numérique repose en tout ou partie sur la publicité ou sur toutes autres recettes liées indirectement au livre, une rémunération est due à l'auteur à ce titre.
+
+Dans les cas prévus de recours à un forfait, ce dernier ne saurait être versé à l'auteur en contrepartie de la cession de l'ensemble de ses droits d'exploitation sous une forme numérique et pour tous les modes d'exploitation numérique du livre. Dans les cas de contributions à caractère accessoire ou non essentiel mentionnés au 4° de l'article L. 131-4, une telle cession est possible.
+
+Le forfait ne peut être justifié que pour une opération déterminée et toute nouvelle opération permettant le recours à un forfait s'accompagne de sa renégociation.
+
+######### Article L132-17-7
+
+Le contrat d'édition comporte une clause de réexamen des conditions économiques de la cession des droits d'exploitation du livre sous une forme numérique.
+
+######## Paragraphe 3 : Accord entre organisations professionnelles
+
+######### Article L132-17-8
+
+I.-Lorsque les organisations professionnelles représentatives des auteurs et des éditeurs du secteur du livre concluent un accord portant sur toutes les dispositions mentionnées au II, cet accord peut être rendu obligatoire à l'ensemble des auteurs et des éditeurs de ce secteur par arrêté du ministre chargé de la culture.
+
+II.-L'accord mentionné au I fixe les modalités d'application des dispositions :
+
+1° Relatives aux conditions de cession des droits d'exploitation de l'édition numérique d'un livre ;
+
+2° Du deuxième alinéa de l'article L. 132-11 lorsqu'elles s'appliquent à l'édition d'un livre sous une forme numérique ;
+
+3° De l'article L. 132-17-2 relatives à l'exploitation permanente et suivie d'un livre édité sous une forme imprimée et sous une forme numérique ;
+
+4° De l'article L. 132-17-3 relatives à la reddition des comptes afin de préciser la forme de cette reddition, les délais de paiement des droits, les règles applicables à leur versement à l'auteur ainsi que les modalités d'information de celui-ci ;
+
+5° Du II de l'article L. 132-17-4 relatives aux dérogations à certaines modalités de résiliation du contrat d'édition d'un livre ;
+
+6° De l'article L. 132-17-5 relatives à la réalisation de l'édition d'un livre sous une forme numérique ;
+
+7° De l'article L. 132-17-6 relatives au calcul de la rémunération de l'auteur provenant de la commercialisation et de la diffusion d'un livre édité sous une forme numérique, en l'absence de prix de vente à l'unité ;
+
+8° De l'article L. 132-17-7 relatives au réexamen des conditions économiques de la cession des droits d'exploitation d'un livre sous forme numérique, notamment la périodicité de ce réexamen, son objet et son régime ainsi que les modalités de règlement des différends.
+
+III.-En l'absence d'un accord rendu obligatoire en vertu du I, les modalités d'application mentionnées au II sont fixées par décret en Conseil d'Etat.
+
+Lorsqu'un accord est conclu après l'édiction de ce décret, les dispositions de celui-ci cessent de produire leurs effets à la date de l'entrée en vigueur de l'arrêté rendant obligatoire l'accord à l'ensemble des auteurs et des éditeurs du secteur du livre.
+
+Le ministre chargé de la culture peut mettre fin au caractère obligatoire de l'accord pour l'ensemble des auteurs et des éditeurs du secteur du livre, en raison d'un changement dans les circonstances de fait ou de droit ou pour un motif d'intérêt général.
+
 ###### Section 2 : Contrat de représentation
 
 ####### Article L132-18
