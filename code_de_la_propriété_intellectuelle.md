@@ -12521,6 +12521,16 @@ Des arrêtés du ministre chargé de l'agriculture pris après avis du responsab
 
 Toute personne qui, à l'occasion de tous actes de cession, de concession ou de commercialisation d'une variété bénéficiant d'un certificat d'obtention végétale, désire user de la faculté qui lui est offerte par l'article L. 623-15 d'adjoindre à la dénomination variétale une marque de commerce ou de fabrique, que cette marque lui soit propre ou qu'elle lui soit concédée, doit prendre les précautions nécessaires notamment dans la correspondance, dans la publicité, dans l'établissement des catalogues commerciaux, sur les emballages ou étiquettes, afin que cette dénomination soit suffisamment apparente dans son contexte pour qu'aucune confusion ne soit susceptible de s'établir dans l'esprit de l'acheteur sur l'identité de la variété.
 
+###### Article D623-58-1
+
+La composition et le fonctionnement de la commission paritaire de conciliation spécifique au domaine des obtentions végétales sont régis par les articles R. 615-6 à R. 615-8, R. 615-10 à R. 615-31, sous réserve des adaptations suivantes :
+
+1° Les mots : " directeur général de l'Institut national de la propriété industrielle " sont remplacés par les mots : " responsable de l'instance nationale des obtentions végétales " et les mots : " Institut national de la propriété industrielle " sont remplacés par les mots : " instance nationale des obtentions végétales " ;
+
+2° Les arrêtés mentionnés aux articles R. 615-6 et R. 615-10 sont pris conjointement par le ministre de la justice et le ministre chargé de l'agriculture.
+
+La commission paritaire de conciliation se réunit au siège de l'instance nationale des obtentions végétales.
+
 ##### Section 2 bis : Semences de ferme
 
 ###### Article R623-59
