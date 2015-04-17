@@ -8427,30 +8427,6 @@ Le délai prévu au troisième alinéa de l'article L. 332-4 et imparti au deman
 
 #### Chapitre V : Dispositions pénales
 
-##### Article R335-1
-
-I.-La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 335-10 comporte :
-
-1° Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
-
-2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
-
-3° La qualité du demandeur au regard des droits qu'il invoque, attestée par tous moyens ;
-
-4° Tous éléments permettant d'identifier l'oeuvre ou la prestation contrefaites ;
-
-5° La description des marchandises arguées de contrefaçon dont la retenue est demandée ;
-
-6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont légalement ni fabriquées, ni mises en libre pratique non plus que commercialisées dans un autre Etat membre de la Communauté européenne.
-
-II.-La demande mentionnée au I peut être présentée à l'autorité administrative compétente préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
-
-##### Article R*335-1-1
-
-L'autorité administrative compétente mentionnée aux I et II de l'article R. 335-1 est le ministre chargé des douanes.
-
 ##### Article R335-2
 
 Toute publicité ou notice d'utilisation relative à un moyen permettant la suppression ou la neutralisation de tout dispositif technique protégeant un logiciel, qui ne comporte pas la mention en caractères apparents que l'utilisation illicite de ces moyens est passible des sanctions prévues en cas de contrefaçon, est punie des peines prévues pour les contraventions de la troisième classe.
@@ -8488,6 +8464,158 @@ II.-Les dispositions du I ne sont applicables que lorsque se trouvent réunies l
 1° En application de l'article L. 331-25 et dans les formes prévues par cet article, le titulaire de l'accès s'est vu recommander par la commission de protection des droits de mettre en œuvre un moyen de sécurisation de son accès permettant de prévenir le renouvellement d'une utilisation de celui-ci à des fins de reproduction, de représentation ou de mise à disposition ou de communication au public d'œuvres ou d'objets protégés par un droit d'auteur ou par un droit voisin sans l'autorisation des titulaires des droits prévus aux livres Ier et II lorsqu'elle est requise ;
 
 2° Dans l'année suivant la présentation de cette recommandation, cet accès est à nouveau utilisé aux fins mentionnées au 1° du présent II.
+
+#### Chapitre V bis : La retenue
+
+##### Article R335-6
+
+I.-La demande écrite sollicitant l'intervention de la douane, qu'elle soit préalable ou présentée après que le demandeur a été informé du placement de la marchandise en retenue, comporte :
+
+1° Les prénom et nom ou la raison sociale et les coordonnées du demandeur ;
+
+2° Le statut du demandeur au regard du ou des droits de propriété intellectuelle pour lesquels l'intervention de la douane est demandée ;
+
+3° Les documents justificatifs permettant au service douanier compétent de s'assurer que le demandeur est habilité à présenter la demande ;
+
+4° Le cas échéant, les coordonnées du représentant du demandeur ainsi que les documents justifiant la représentation ;
+
+5° La liste du ou des droits dont la protection est demandée ;
+
+6° Les données spécifiques et techniques sur les marchandises authentiques, telles que les marquages, les codes-barres ou images ;
+
+7° Les informations nécessaires pour permettre aux autorités douanières de reconnaître facilement les marchandises authentiques ;
+
+8° Toutes informations utiles au service pour évaluer le risque de violation du ou des droits protégés, telles que la liste des distributeurs autorisés, le ou les pays de fabrication ainsi que la valeur des marchandises authentiques ;
+
+9° L'engagement du demandeur de respecter les obligations découlant de la demande d'intervention.
+
+II.-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
+
+##### Article R335-7
+
+I.-Le ministre chargé des douanes accepte ou rejette la demande écrite dans un délai de trente jours ouvrables à compter de sa réception.
+
+II.-Lorsque la demande est incomplète, le demandeur est invité à fournir les informations manquantes dans un délai suspensif de dix jours ouvrables.
+
+III.-La décision du ministre est valable pendant une durée qui ne peut excéder un an à compter du lendemain de l'acceptation de la demande.
+
+IV.-La demande est renouvelable sur demande expresse de l'intéressé.
+
+##### Article R335-8
+
+Lorsque la demande écrite est présentée après que le demandeur a été informé du placement de la marchandise en retenue, le ministre chargé des douanes l'accepte ou la rejette dans un délai de deux jours ouvrables à compter de sa réception.
+
+Si la demande ne contient pas les données spécifiques et techniques sur les marchandises authentiques, les informations nécessaires pour permettre aux autorités douanières de reconnaître facilement les marchandises authentiques et les informations utiles au service pour évaluer le risque de violation du ou des droits protégés, il n'y est fait droit que pour la retenue en cours des marchandises, sauf si ces informations sont communiquées dans un délai de dix jours ouvrables à compter de la notification de la retenue.
+
+##### Article R335-9
+
+Le ministre chargé des douanes peut suspendre ou abroger la décision faisant droit à la demande écrite ou refuser de faire droit à la demande de renouvellement qui lui est présentée. Il en informe le demandeur, qui dispose d'un délai pour présenter ses observations. Ce délai, fixé par le ministre chargé des douanes, ne peut être inférieur à quinze jours. La décision n'est notifiée à l'intéressé qu'après l'expiration de ce délai.
+
+##### Article R335-10
+
+Le directeur régional des douanes territorialement compétent se prononce sur la demande de prorogation du délai de dix jours de la retenue.
+
+##### Article R335-11
+
+Le ministre chargé des douanes prononce les décisions relevant des articles 9, 12 et 16 du règlement (UE) n° 608/2013 du Parlement européen et du Conseil du 12 juin 2013.
+
+##### Article R335-12
+
+A défaut de réponse de l'autorité compétente dans les délais prévus au présent chapitre, les demandes concernées sont considérées comme rejetées.
+
+##### Article R335-13
+
+Les garanties destinées à l'indemnisation éventuelle du détenteur des marchandises, au cas où la contrefaçon ne serait pas ultérieurement reconnue, qui peuvent être exigées du titulaire du droit d'auteur ou du droit voisin, lequel s'est pourvu par la voie civile ou correctionnelle, sont fixées par l'autorité judiciaire.
+
+##### Article R335-14
+
+La définition des denrées périssables est précisée par arrêté du ministre chargé des douanes.
+
+##### Article R335-15
+
+Les frais liés à la mesure de retenue ou aux mesures conservatoires prononcées par la juridiction civile mis à la charge du titulaire du droit d'auteur ou du droit voisin en application du présent code ainsi que de l'article 29 du règlement (UE) n° 608/2013 du Parlement européen et du Conseil du 12 juin 2013 comprennent les dépenses de stockage, de manutention, de transport et de destruction des marchandises.
+
+Les modalités de calcul des frais visés à l'alinéa précédent sont déterminées par un arrêté du ministre chargé des douanes.
+
+##### Article R335-16
+
+I.-Lorsque l'administration des douanes décide de procéder à un prélèvement d'échantillon, trois exemplaires sont prélevés par les agents des douanes. L'un est remis au titulaire du droit d'auteur ou du droit voisin ou à son représentant, l'autre est remis au détenteur ou au déclarant ou au représentant de l'un d'entre eux et le dernier est conservé par l'administration des douanes. Les trois échantillons doivent être, autant que possible, identiques.
+
+Le prélèvement est réalisé en présence soit du détenteur de la marchandise, soit du déclarant ou d'un représentant de l'un d'entre eux. Le titulaire du droit d'auteur ou du droit voisin ou son représentant peut également être présent. Ils sont informés de l'heure, du lieu du prélèvement d'échantillons et de la faculté dont ils disposent d'être présents.
+
+En cas d'absence du détenteur de la marchandise ou du déclarant ou du représentant de l'un d'entre eux, un témoin n'appartenant pas à l'administration des douanes est requis par deux agents des douanes pour assister au prélèvement.
+
+Lorsque le titulaire du droit d'auteur ou du droit voisin ou son représentant n'est pas présent, l'échantillon qui lui est destiné peut, sur sa demande expresse et à ses frais, lui être envoyé ou être envoyé à son représentant. Lorsque le détenteur de la marchandise ou le déclarant ou le représentant de l'un d'eux n'est pas présent, l'échantillon qui lui est destiné est conservé par l'administration.
+
+Lorsqu'une marchandise ou un objet, en raison de son poids, de ses dimensions, de sa valeur, de sa nature ou de la trop faible quantité de produit, ne peut faire l'objet d'un prélèvement de trois échantillons, la marchandise ou l'objet est prélevé dans sa totalité et constitue un seul et unique échantillon, qui est remis au titulaire du droit d'auteur ou du droit voisin ou à son représentant.
+
+II.-Tout échantillon prélevé est mis sous scellé. Chacun doit retenir une étiquette d'identification portant les mentions suivantes :
+
+1° Les nom, prénom ou raison sociale et adresse du détenteur de la marchandise ou du déclarant ;
+
+2° Le cas échéant, les nom, prénom et adresse du témoin requis ;
+
+3° Les nom, prénom ou raison sociale et adresse du titulaire du droit d'auteur ou du droit voisin ou de son représentant auquel l'échantillon est remis ou envoyé ;
+
+4° La dénomination de la marchandise ;
+
+5° La date, l'heure et le lieu du prélèvement ;
+
+6° Le numéro d'ordre de chaque échantillon ;
+
+7° Les nom, prénom et qualité de l'agent ayant effectué le prélèvement ainsi que sa signature.
+
+III.-Tout prélèvement donne lieu à la rédaction d'un procès-verbal de constat au sens de l'article 334 du code des douanes. Le procès-verbal comporte, outre les mentions prévues par ce code, les mentions suivantes :
+
+1° La date, l'heure et le lieu du prélèvement ;
+
+2° Les nom, prénom ou raison sociale et adresse de toutes les personnes ayant assisté au prélèvement ;
+
+3° Le cas échéant, la mention de l'absence du titulaire du droit d'auteur ou du droit voisin ou de son représentant et de l'information qui lui a été faite de l'heure et du lieu du prélèvement d'échantillons et de la faculté dont il disposait d'être présent ;
+
+4° Le cas échéant, mention du défaut ou du refus de la présence du détenteur de la marchandise, du déclarant ou du représentant de l'un d'entre eux ;
+
+5° Un exposé succinct des circonstances dans lesquelles le prélèvement a été effectué ;
+
+6° L'identification du ou des échantillons ainsi que leur remise à leur destinataire ;
+
+7° Le cas échéant, l'envoi de l'échantillon au titulaire du droit d'auteur ou du droit voisin ou à son représentant, aux seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou pénale.
+
+Les personnes présentes lors du prélèvement peuvent faire insérer au procès-verbal de constat toutes les déclarations qu'elles jugent utiles. Elles sont invitées à le signer. En cas de refus, mention en est portée sur le procès-verbal de constat.
+
+Une copie du procès-verbal de constat est remise à chaque personne présente lors du prélèvement.
+
+IV.-En cas d'action en justice du titulaire du droit d'auteur ou du droit voisin, l'administration des douanes conserve les échantillons qui lui sont attribués jusqu'au règlement de l'affaire. En fonction du résultat de l'action civile ou pénale engagée par le titulaire du droit d'auteur ou du droit voisin, ils sont restitués soit à ce dernier soit à leur détenteur ou au déclarant ou à un représentant de l'un d'entre eux.
+
+Sauf si les circonstances ne le permettent pas, le titulaire du droit d'auteur ou du droit voisin restitue aux autorités douanières les échantillons qui lui ont été attribués, dès la fin de l'analyse, et au plus tard à la fin de leur retenue.
+
+V.-Lorsque la procédure de retenue est mise en œuvre s'agissant de marchandises transportées en petits envois, le présent article n'est pas applicable.
+
+##### Article R335-17
+
+Lors de la notification de la retenue, le détenteur des marchandises est invité à informer le propriétaire de la possibilité qui lui est offerte de s'opposer à la destruction de ces marchandises.
+
+Le titulaire de droit est informé que la retenue et, le cas échéant, la destruction des marchandises s'effectue sous sa responsabilité.
+
+##### Article R335-18
+
+Lorsqu'elles sont destinées à être détruites avec le consentement du titulaire du droit d'auteur ou du droit voisin et le consentement du détenteur des marchandises, qu'elles soient ou non transportées en petits envois, les marchandises restent retenues jusqu'à leur destruction.
+
+La destruction des marchandises est réalisée sous la responsabilité du titulaire du droit d'auteur ou du droit voisin.
+
+La destruction des marchandises est constatée par deux agents des douanes par procès-verbal de constat au sens de l'article 334 du code des douanes. Le détenteur ou le déclarant et le titulaire du droit d'auteur ou du droit voisin sont informés de la faculté dont ils disposent d'être présents. Le procès-verbal comporte, outre les mentions prévues par ce code, les mentions suivantes :
+
+1° La date, l'heure et le lieu de la destruction ;
+
+2° Les nom, prénom ou raison sociale et adresse de toutes les personnes ayant assisté à la destruction ;
+
+3° Le type de marchandises et leur quantité ;
+
+4° La ou les références du procès-verbal de placement en retenue ;
+
+5° La date de l'accord exprès ou tacite du déclarant ou du détenteur des marchandises.
+
+Une copie de ce procès-verbal est remise au déclarant, au détenteur des marchandises et au titulaire du droit d'auteur ou du droit voisin, s'ils sont présents lors de la destruction. Une copie leur est remise sur leur demande s'ils sont absents.
 
 ### Titre IV : Droits des producteurs de bases de données
 
@@ -10142,91 +10270,7 @@ Les actions et demandes en matière de dessins ou modèles communautaires prévu
 
 ##### Article R523-1
 
-I.-La demande de retenue prévue à l'article L. 521-14 comporte :
-
-1° Les nom et prénom ou la dénomination sociale du demandeur, son domicile ou son siège social ;
-
-2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
-
-3° La qualité du demandeur au regard des droits qu'il invoque ;
-
-4° La preuve de l'enregistrement ou du dépôt auprès de l'organisme compétent du ou des dessins et modèles dont la protection est demandée ;
-
-5° La description des marchandises authentiques ainsi que celle des marchandises arguées de contrefaçon dont la retenue est demandée ;
-
-6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont pas dans la situation décrite aux derniers alinéas de l'article L. 521-14.
-
-La demande est adressée au ministre chargé des douanes. Elle peut être présentée avant même l'entrée des marchandises arguées de contrefaçon sur le territoire français. La décision d'acceptation de la demande a une durée de validité d'un an renouvelable sur demande de l'intéressé.
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
-
-##### Article R523-2
-
-Le ministre chargé des douanes est l'autorité compétente pour se prononcer sur la demande de retenue mentionnée à l'article L. 521-16, sur sa prorogation et sa suspension dans les conditions prévues aux articles 8 et 12 du règlement (CE) n° 1383 / 2003 du Conseil du 22 juillet 2003.
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
-
-##### Article R523-3
-
-Les garanties qui peuvent être exigées du demandeur en application du quatrième alinéa de l'article L. 521-14 en vue d'indemniser, le cas échéant, le détenteur des marchandises sont fixées par l'autorité judiciaire.
-
-##### Article R523-4
-
-Les frais mis à la charge du propriétaire du dessin ou modèle en application du cinquième alinéa de l'article L. 521-14 et du II de l'article L. 521-16 comprennent les dépenses de stockage et de manutention lorsque les marchandises retenues sont entreposées à titre onéreux dans des lieux ou locaux n'appartenant pas à l'administration des douanes.
-
-Les frais sont calculés en fonction d'un barème et exigibles selon une périodicité qui sont déterminés par un arrêté du ministre chargé des douanes. Les frais sont recouvrés par le comptable des douanes selon les mêmes règles et sous les mêmes garanties et privilèges qu'en matière de douanes.
-
-##### Article R523-5
-
-La demande d'informations prévue au sixième alinéa de l'article L. 521-14, sixième alinéa et au II de l'article L. 521-16 est adressée au directeur régional des douanes territorialement compétent selon des modalités fixées par arrêté du ministre chargé des douanes.
-
-##### Article R523-6
-
-I.-Tout prélèvement d'échantillons est effectué, en application de l'article L. 521-17, par les agents des douanes ayant au moins le grade de contrôleur. Deux échantillons sont remis au propriétaire du dessin ou modèle déposé ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'eux. Deux autres échantillons sont conservés par l'administration des douanes. Les quatre échantillons doivent être, autant que possible, identiques.
-
-Le prélèvement est réalisé en présence soit du propriétaire de la marchandise, soit du détenteur de celle-ci ou d'un représentant de l'un d'eux. Le propriétaire du dessin ou modèle déposé ou le bénéficiaire du droit exclusif d'exploitation ou le représentant de l'un d'eux est également présent.
-
-En cas d'absence du propriétaire ou du détenteur de la marchandise ou d'un représentant de l'un d'eux, un témoin n'appartenant pas à l'administration des douanes est requis par deux agents des douanes ayant au moins le grade de contrôleur, pour assister au prélèvement.
-
-Si le propriétaire du dessin ou modèle déposé ou le bénéficiaire du droit exclusif d'exploitation a demandé un prélèvement et n'est ni présent ni représenté après avoir été convoqué, aucun prélèvement n'est réalisé.
-
-Lorsqu'une marchandise ou un objet, en raison de son poids, de ses dimensions, de sa valeur, de sa nature ou de la trop faible quantité de produit, ne peut, sans inconvénient, faire l'objet d'un prélèvement de quatre échantillons, la marchandise ou l'objet est prélevé dans sa totalité et constitue un seul et unique échantillon qui est remis au propriétaire du dessin ou modèle déposé ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'eux.
-
-II.-Tout échantillon prélevé est mis sous scellés. Ceux-ci doivent retenir une étiquette d'identification portant les mentions suivantes :
-
-a) Les nom, prénom ou raison sociale et adresse du propriétaire ou du détenteur de la marchandise ;
-
-b) Le cas échéant, les nom, prénoms et adresse du témoin requis ;
-
-c) Les nom, prénoms ou raison sociale et adresse du propriétaire du dessin ou modèle déposé ou du bénéficiaire du droit exclusif d'exploitation ou du représentant de l'un d'eux auquel l'échantillon ou les échantillons sont remis ;
-
-d) La dénomination exacte de la marchandise ;
-
-e) La date, l'heure et le lieu du prélèvement ;
-
-f) Le numéro d'ordre de chaque échantillon ;
-
-g) Les nom, prénom et qualité de l'agent ayant effectué le prélèvement ainsi que sa signature.
-
-III.-Tout prélèvement donne lieu à la rédaction d'un procès-verbal de constat au sens de l'article 334 du code des douanes. Le procès-verbal comporte, outre les mentions prévues par ce code, les mentions suivantes :
-
-a) La date, l'heure et le lieu du prélèvement ;
-
-b) Les nom, prénom ou raison sociale et adresse de toutes les personnes ayant assisté au prélèvement ;
-
-c) Le cas échéant, mention du défaut ou du refus de la présence du propriétaire ou du détenteur de la marchandise ou du représentant de l'un d'eux ;
-
-d) Un exposé succinct des circonstances dans lesquelles le prélèvement a été effectué ;
-
-e) L'identification exacte du ou des échantillons ainsi que la remise de l'échantillon ou de deux d'entre eux au propriétaire du dessin ou modèle déposé ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'entre eux, aux seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou pénale.
-
-Les personnes présentes lors du prélèvement peuvent faire insérer au procès-verbal de constat toutes les déclarations qu'elles jugent utiles. Elles sont invitées à le signer. En cas de refus, mention en est portée sur le procès-verbal de constat.
-
-Une copie du procès-verbal de constat est remise à chaque personne présente lors du prélèvement.
-
-IV.-L'administration des douanes conserve les échantillons qui lui sont attribués jusqu'au règlement de l'affaire. En fonction du résultat de l'action civile ou pénale engagée par le propriétaire du dessin ou modèle déposé ou le bénéficiaire du droit exclusif d'exploitation, ils sont restitués soit à ces derniers, soit à leur détenteur ou à leur propriétaire ou à un représentant de l'un d'entre eux.
-
-Les échantillons détenus par le propriétaire du dessin ou modèle déposé ou le bénéficiaire du droit exclusif d'exploitation ou le représentant de l'un d'entre eux sont restitués, le cas échéant, au détenteur ou au propriétaire de la marchandise ou à un représentant de l'un d'entre eux, sauf destruction des échantillons résultant de l'analyse prévue par l'article L. 521-17.
+Le chapitre V bis du titre III du livre III est applicable à la retenue par l'administration des douanes des marchandises susceptibles de porter atteinte aux dessins et modèles, telle que prévue au chapitre Ier bis du titre II du livre V.
 
 ## Livre VI : Protection des inventions et des connaissances techniques
 
@@ -11810,6 +11854,20 @@ Les dispositions des articles R. 411-19 à R. 411-26 et R. 618-3 s'appliquent au
 
 Les modalités d'application des articles R. 614-21 à R. 614-24 sont fixées, en tant que de besoin, par arrêté du ministre chargé de la propriété industrielle.
 
+#### Chapitre IV bis : La retenue
+
+##### Article R614-36
+
+Sous réserve des dispositions prévues à l'article R. 614-37, le chapitre V bis du titre III du livre III est applicable à la retenue par l'administration des douanes des marchandises susceptibles de porter atteinte aux brevets d'invention, telle que prévue au chapitre IV bis du titre Ier du livre VI.
+
+##### Article R614-37
+
+Lorsque l'administration des douanes décide de procéder à un prélèvement d'échantillon, deux exemplaires sont prélevés par les agents des douanes. L'un est remis au propriétaire de la marchandise ou à son détenteur ou au représentant de l'un d'entre eux et l'autre est conservé par l'administration des douanes.
+
+Le propriétaire du brevet ou du certificat complémentaire de protection ou la personne habilitée à exploiter l'invention brevetée ou objet du certificat complémentaire de protection n'assiste pas au prélèvement d'échantillons et aucun échantillon ne lui est remis.
+
+Lorsqu'une marchandise ou un objet, en raison de son poids, de ses dimensions, de sa valeur, de sa nature ou de la trop faible quantité de produit ne peut faire l'objet d'un prélèvement de deux échantillons, la marchandise ou l'objet est prélevé dans sa totalité et constitue un seul et unique échantillon, qui est conservé par l'administration des douanes.
+
 #### Chapitre V : Actions en justice
 
 ##### Section 1 : Mesures provisoires et conservatoires
@@ -12151,6 +12209,10 @@ A défaut de demande de restitution ou de conservation, les pièces du dépôt p
 ##### Article R622-8
 
 La constatation de réciprocité prévue pour l'application de l'article L. 622-2 est prononcée par arrêté conjoint du ministre chargé des affaires étrangères et du ministre chargé de la propriété industrielle.
+
+##### Article R622-9
+
+Le chapitre IV bis du titre Ier du présent livre est applicable au présent chapitre.
 
 #### Chapitre III : Obtentions végétales
 
@@ -12622,6 +12684,12 @@ a) Lens culinaris - Lentille ;
 b) Phaseolus vulgaris - Haricot.
 
 II.-Sauf en ce qui concerne les petits agriculteurs au sens de l'article L. 623-24-2, l'entrée en vigueur du I est subordonnée à la conclusion des contrats ou accords mentionnés à l'article L. 623-24-3 ou à défaut à l'entrée en vigueur du décret d'application mentionné au même article déterminant les modalités de fixation du montant de l'indemnité prévue à l'article L. 623-24-2.
+
+##### Section 3 : La retenue
+
+###### Article R623-60
+
+Le chapitre IV bis du titre Ier du présent livre est applicable au présent chapitre.
 
 ### Titre III : Tribunaux compétents en matière d'actions relatives aux inventions et aux connaissances techniques
 
@@ -13146,91 +13214,7 @@ Le président du tribunal peut ordonner, au vu du procès-verbal de saisie, tout
 
 ###### Article R716-6
 
-La demande de retenue prévue à l'article L. 716-8 comporte :
-
-1° Les nom et prénom ou la dénomination sociale du demandeur, son domicile ou son siège social ;
-
-2° Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
-
-3° La qualité du demandeur au regard des droits qu'il invoque ;
-
-4° La désignation et le numéro d'enregistrement de la ou des marques dont la protection est demandée ;
-
-5° La description des marchandises authentiques ainsi que celle des marchandises arguées de contrefaçon dont la retenue est demandée ;
-
-6° L'ensemble des documents et informations permettant d'attester que les marchandises arguées de contrefaçon ne sont pas dans la situation décrite aux derniers alinéas de l'article L. 716-8.
-
-La demande est adressée au ministre chargé des douanes. Elle peut être présentée avant même l'entrée des marchandises arguées de contrefaçon sur le territoire français. La décision d'acceptation de la demande a une durée de validité d'un an renouvelable sur demande de l'intéressé.
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
-
-###### Article R716-7
-
-Le ministre chargé des douanes est l'autorité compétente pour se prononcer sur la demande de retenue mentionnée à l'article L. 716-8-2, sur sa prorogation et sa suspension dans les conditions prévues aux articles 8 et 12 du règlement (CE) n° 1383 / 2003 du Conseil du 22 juillet 2003.
-
-Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé des douanes.
-
-###### Article R716-8
-
-Les garanties qui peuvent être exigées du demandeur en application du quatrième alinéa de l'article L. 716-8 en vue d'indemniser, le cas échéant, le détenteur des marchandises sont fixées par l'autorité judiciaire.
-
-###### Article R716-9
-
-Les frais mis à la charge du propriétaire de la marque enregistrée en application du cinquième alinéa de l'article L. 716-8 et du II de l'article L. 716-8-2 comprennent les dépenses de stockage et de manutention lorsque les marchandises retenues sont entreposées à titre onéreux dans des lieux ou locaux n'appartenant pas à l'administration des douanes.
-
-Les frais sont calculés en fonction d'un barème et exigibles selon une périodicité qui sont déterminés par un arrêté du ministre chargé des douanes. Les frais sont recouvrés par le comptable des douanes selon les mêmes règles et sous les mêmes garanties et privilèges qu'en matière de douanes.
-
-###### Article R716-10
-
-La demande d'information prévue au sixième alinéa de l'article L. 716-8 et au II de l'article L. 716-8-2 est adressée au directeur régional des douanes territorialement compétent selon des modalités fixées par arrêté du ministre chargé des douanes.
-
-###### Article R716-11
-
-I.-Le prélèvement d'échantillons est effectué, en application de l'article L. 716-8-3, par les agents des douanes ayant au moins le grade de contrôleur. Deux échantillons sont remis au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'entre eux. Deux autres échantillons sont conservés par l'administration des douanes. Les quatre échantillons doivent être, autant que possible, identiques.
-
-Le prélèvement est réalisé en présence soit du propriétaire de la marchandise, soit du détenteur de celle-ci ou d'un représentant de l'un d'entre eux. Le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation ou le représentant de l'un d'entre eux est également présent.
-
-En cas d'absence du propriétaire ou du détenteur de la marchandise ou d'un représentant de l'un d'entre eux, un témoin n'appartenant pas à l'administration des douanes est requis par deux agents des douanes ayant au moins le grade de contrôleur pour assister au prélèvement.
-
-Si le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation ou le représentant de l'un d'entre eux n'est pas présent, aucun prélèvement n'est réalisé.
-
-Lorsqu'une marchandise ou un objet, en raison de son poids, de ses dimensions, de sa valeur, de sa nature ou de la trop faible quantité de produit, ne peut, sans inconvénient, faire l'objet d'un prélèvement de quatre échantillons, la marchandise ou l'objet est prélevé dans sa totalité et constitue un seul et unique échantillon qui est remis au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'eux.
-
-II.-Tout échantillon prélevé est mis sous scellés. Ceux-ci doivent retenir une étiquette d'identification portant les mentions suivantes :
-
-a) Les nom, prénom ou raison sociale et adresse du propriétaire ou du détenteur de la marchandise ;
-
-b) Le cas échéant, les nom, prénoms et adresse du témoin requis ;
-
-c) Les nom, prénom ou raison sociale et adresse du propriétaire de la marque enregistrée ou du bénéficiaire du droit exclusif d'exploitation ou du représentant de l'un d'entre eux auquel l'échantillon ou les échantillons sont remis ;
-
-d) La dénomination exacte de la marchandise ;
-
-e) La date, l'heure et le lieu du prélèvement ;
-
-f) Le numéro d'ordre de chaque échantillon ;
-
-g) Les nom, prénoms et qualité de l'agent ayant effectué le prélèvement ainsi que sa signature.
-
-III.-Tout prélèvement donne lieu à la rédaction d'un procès-verbal de constat au sens de l'article 334 du code des douanes. Le procès-verbal comporte, outre les mentions prévues par ce code, les mentions suivantes :
-
-a) La date, l'heure et le lieu du prélèvement ;
-
-b) Les noms, prénoms ou raison sociale et adresse de toutes les personnes ayant assisté au prélèvement ;
-
-c) Le cas échéant, mention du défaut ou du refus de la présence du propriétaire, du détenteur de la marchandise ou du représentant de l'un d'entre eux ;
-
-d) Un exposé succinct des circonstances dans lesquelles le prélèvement a été effectué ;
-
-e) L'identification exacte du ou des échantillons ainsi que la remise de l'échantillon ou de deux d'entre eux au propriétaire de la marque enregistrée ou au bénéficiaire du droit exclusif d'exploitation ou au représentant de l'un d'entre eux, aux seules fins d'analyse et en vue de faciliter les actions qu'il peut être amené à engager par la voie civile ou pénale.
-
-Les personnes présentes lors du prélèvement peuvent faire insérer au procès-verbal de constat toutes les déclarations qu'elles jugent utiles. Elles sont invitées à le signer. En cas de refus, mention en est portée sur le procès-verbal de constat.
-
-Une copie du procès-verbal de constat est remise à chaque personne présente lors du prélèvement.
-
-IV.-L'administration des douanes conserve les échantillons qui lui sont attribués jusqu'au règlement de l'affaire. En fonction du résultat de l'action civile ou pénale engagée par le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation, ils sont restitués soit à ces derniers soit à leur détenteur ou à leur propriétaire ou à un représentant de l'un d'entre eux.
-
-Les échantillons détenus par le propriétaire de la marque enregistrée ou le bénéficiaire du droit exclusif d'exploitation ou le représentant de l'un d'entre eux sont restitués, le cas échéant, au détenteur ou au propriétaire de la marchandise ou à un représentant de l'un d'entre eux, sauf destruction des échantillons résultant de l'analyse prévue par l'article L. 716-8-3.
+Le chapitre V bis du titre III du livre III est applicable à la retenue par l'administration des douanes des marchandises susceptibles de porter atteinte à une marque, telle que prévue au chapitre VI bis du titre Ier du livre VII.
 
 ##### Section 4 : Dispositions communes
 
@@ -13368,13 +13352,11 @@ L'institut apporte une assistance aux déposants par tout moyen approprié, pré
 
 #### Chapitre II : Contentieux
 
-##### Section 1 : Mesures provisoires et conservatoires
+##### Section 1 : Actions civiles
 
 ###### Article R722-1
 
 Le délai prévu au dernier alinéa de l'article L. 722-3 et imparti au demandeur pour se pourvoir au fond par la voie civile ou pénale, ou déposer une plainte auprès du procureur de la République, est de vingt jours ouvrables ou de trente et un jours civils si ce délai est plus long, à compter de la date de l'ordonnance.
-
-##### Section 2 : Mesures probatoires
 
 ###### Article R722-2
 
@@ -13396,11 +13378,15 @@ Le délai prévu au dernier alinéa de l'article L. 722-4 et imparti au demandeu
 
 Le président du tribunal de grande instance peut ordonner, au vu du procès-verbal de saisie, toute mesure pour compléter la preuve des actes portant prétendument atteinte à une indication géographique. A la demande de la partie saisie agissant sans délai et justifiant d'un intérêt légitime, il peut également prendre toute mesure pour préserver la confidentialité de certains éléments.
 
-##### Section 3 : Dispositions communes
-
 ###### Article D722-6
 
 Le siège et le ressort des tribunaux de grande instance ayant compétence exclusive pour connaître des actions en matière d'indications géographiques en application de l'article L. 722-8 du code de la propriété intellectuelle sont fixés conformément au tableau VI annexé à l'article D. 211-6-1 du code de l'organisation judiciaire.
+
+##### Section 2 : La retenue
+
+###### Article R722-7
+
+Le chapitre V bis du titre III du livre III est applicable à la retenue par l'administration des douanes des marchandises susceptibles de porter atteinte à une indication géographique, telle que prévue à la section II du chapitre II du titre II du livre VII.
 
 ## Livre VIII : Dispositions particulières à Mayotte, aux îles Wallis et Futuna, à la Nouvelle-Calédonie et aux Terres australes et antarctiques françaises
 
