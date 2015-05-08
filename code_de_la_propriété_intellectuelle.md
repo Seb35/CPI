@@ -10148,6 +10148,14 @@ Une déclaration de retrait ne peut viser qu'un seul dépôt. Le retrait peut ê
 
 La déclaration indique s'il a été ou non concédé des droits d'exploitation ou de gage. Dans l'affirmative, elle doit être accompagnée du consentement écrit du bénéficiaire de ce droit ou du créancier gagiste.
 
+##### Article R512-9-2
+
+Il est statué sur la demande d'enregistrement dans un délai de six mois. Ce délai est interrompu par la notification prévue aux premier et troisième alinéas de l'article R. 512-9 jusqu'à la levée de l'objection, ou par l'ajournement de la publication prévu à l'article R. 512-10, jusqu'à la renonciation à l'ajournement.
+
+##### Article R*512-9-3
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 512-9-2, la demande est réputée rejetée.
+
 ##### Article R512-10
 
 Tout dépôt reconnu conforme est publié au Bulletin officiel de la propriété industrielle, sauf si le déposant a demandé lors du dépôt l'ajournement de cette publication à trois ans. L'ajournement de la publication ne peut porter que sur l'ensemble du dépôt. La publication n'intervient qu'au terme du délai de trois ans.
@@ -10283,6 +10291,14 @@ La déclaration doit à peine d'irrecevabilité :
 Si la déclaration ne satisfait pas à ces conditions, il est fait application de la procédure prévue à l'article R. 512-9.
 
 L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis en mesure de présenter des observations.
+
+##### Article R513-1-1
+
+Il est statué sur la déclaration de prorogation dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, jusqu'à la levée de l'objection prévue à l'article R. 512-9.
+
+##### Article R*513-1-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 513-1-1, la déclaration de prorogation est réputée rejetée.
 
 ##### Article R513-2
 
@@ -11679,6 +11695,14 @@ Si, lorsque la limitation est demandée, les revendications modifiées ne consti
 
 Les renonciations et limitations sont inscrites au Registre national des brevets. Un avis d'inscription est adressé à l'auteur de la renonciation ou de la limitation.
 
+###### Article R613-45-1
+
+Il est statué sur la requête en renonciation ou en limitation prévue à l'article R. 613-45 dans un délai de douze mois. Ce délai est interrompu, le cas échéant, jusqu'à la levée de l'objection prévue au neuvième alinéa du même article.
+
+###### Article R*613-45-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 613-45-1, la demande est réputée rejetée.
+
 ###### Article R613-46
 
 La redevance annuelle pour le maintien en vigueur des demandes de brevet ou des brevets, prévue à l'article L. 612-19, est due pour chaque année de la durée des brevets. La redevance de dépôt couvre la première annuité. Le paiement des annuités vient à échéance le dernier jour du mois de la date anniversaire du dépôt de la demande. Il n'est pas accepté s'il est fait plus d'une année avant l'échéance de la redevance annuelle.
@@ -11704,7 +11728,11 @@ L'absence d'avertissement n'engage pas la responsabilité de l'Institut national
 
 La requête prévue à l'article L. 613-22, tendant à la constatation de la déchéance des droits attachés à une demande de brevet ou à un brevet, est présentée par écrit.
 
-Il y est statué par décision motivée. La décision est notifiée au requérant.
+Il y est statué par décision motivée dans un délai de six mois. La décision est notifiée au requérant.
+
+###### Article R*613-49-1
+
+A défaut de décision expresse dans le délai mentionné au deuxième alinéa de l'article R. 613-49, la demande est réputée rejetée.
 
 ###### Article R613-50
 
@@ -13160,6 +13188,14 @@ La date à laquelle une marque est réputée enregistrée, notamment pour l'appl
 
 3° Pour les marques internationales ayant fait l'objet d'une notification d'irrégularité fondée sur le 2° de l'article R. 712-11 ou d'une opposition, celle, le cas échéant, de l'inscription au Registre international des marques de la levée totale ou partielle du refus.
 
+##### Article R712-23-1
+
+Il est statué sur la demande d'enregistrement de marque dans un délai de six mois à compter de la demande. Ce délai est interrompu, le cas échéant, jusqu'à la décision statuant sur la demande d'opposition prévue à l'article L. 712-4 ou jusqu'à la régularisation de la demande prévue à l'article R. 712-11.
+
+##### Article R*712-23-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 712-23-1, la demande est réputée rejetée.
+
 ##### Article R712-24
 
 L'enregistrement peut être renouvelé pour une nouvelle période de dix ans par déclaration du propriétaire de la marque, établie dans les conditions prévues par la décision mentionnée à l'article R. 712-26. Il peut être précisé que le renouvellement ne vaut que pour certains produits ou services désignés dans l'acte d'enregistrement.
@@ -13177,6 +13213,14 @@ Toutefois, la déclaration peut encore être présentée ou la redevance acquitt
 Si la déclaration ne satisfait pas à ces conditions, il est fait application de la procédure prévue au 1° de l'article R. 712-11.
 
 L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis en mesure de présenter des observations.
+
+##### Article R712-24-1
+
+Il est statué sur la déclaration de renouvellement dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, jusqu'à la régularisation de la demande prévue à l'article R. 712-11.
+
+##### Article R*712-24-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 712-24-1, la déclaration de renouvellement est réputée rejetée.
 
 ##### Article R712-25
 
