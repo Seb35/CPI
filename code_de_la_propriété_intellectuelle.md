@@ -8861,7 +8861,7 @@ Il peut déléguer sa signature, notamment en matière de passation de marchés,
 
 Le conseil d'administration est composé de quatorze membres :
 
-1° Une personnalité issue du monde économique et membre du Conseil supérieur de la propriété industrielle, président, nommée par arrêté du ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ;
+1° Une personnalité issue du monde économique, président, nommée par arrêté du ministre chargé de la propriété industrielle pour une période de trois ans renouvelable une fois ;
 
 2° Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ;
 
@@ -8880,6 +8880,8 @@ Le conseil d'administration est composé de quatorze membres :
 Le président est assisté d'un vice-président nommé dans les mêmes conditions que lui et choisi parmi les membres du conseil d'administration.
 
 Les fonctions de membre du conseil d'administration ne sont pas rémunérées. Elles ouvrent droit aux indemnités de déplacement et de séjour prévues par le décret n° 2006-781 du 3 juillet 2006.
+
+En cas de vacance par décès, démission ou pour toute autre cause, de l'un des membres du conseil d'administration nommé par arrêté du ministre chargé de la propriété industrielle, il est pourvu à son remplacement pour la durée restant à courir de son mandat.
 
 Le directeur général, le contrôleur budgétaire et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative.
 
@@ -9204,52 +9206,6 @@ Le greffier adresse une expédition de l'arrêt rendu au responsable des mission
 Cet arrêt est inscrit d'office au Registre national des certificats d'obtention végétale prévu à l'article R. 623-38.
 
 L'arrêt de la cour d'appel est exécuté dans les deux mois de sa notification.
-
-#### Chapitre III : Le Conseil supérieur de la propriété industrielle
-
-##### Article R413-1
-
-Il est institué auprès du ministre chargé de la propriété industrielle un Conseil supérieur de la propriété industrielle. Ce conseil a un rôle consultatif. Il donne son avis sur les questions qui lui sont soumises par le ministre. Il se réunit au moins deux fois par an.
-
-##### Article R413-2
-
-Le Conseil supérieur de la propriété industrielle est composé comme suit :
-
-1° Un représentant du ministre chargé de la propriété industrielle désigné par lui ;
-
-Un représentant du ministre des affaires étrangères désigné par lui ;
-
-Un représentant du ministre de la justice désigné par lui ;
-
-Un représentant du ministre chargé de la recherche désigné par lui ;
-
-Le directeur général de l'Institut national de la propriété industrielle ;
-
-2° Deux professeurs d'université ;
-
-Quatre personnalités représentant les intérêts du commerce et de l'industrie ;
-
-Deux personnalités représentant le monde de la recherche et de la technologie ;
-
-Trois personnalités représentant les praticiens de la propriété industrielle dont le président de la Compagnie nationale des conseils en propriété industrielle et un avocat ;
-
-Deux représentants des inventeurs indépendants ;
-
-Trois personnalités compétentes en matière de propriété industrielle.
-
-Les membres du conseil nommés au titre du 2° le sont pour une durée de trois ans par arrêté du ministre chargé de la propriété industrielle, à l'exception du président de la Compagnie nationale des conseils en propriété industrielle.
-
-##### Article R413-3
-
-Le ministre chargé de la propriété industrielle préside le conseil supérieur et désigne un vice-président parmi ses membres.
-
-##### Article R413-4
-
-Le conseil peut constituer en son sein des commissions temporaires pour l'examen de questions particulières. Il associe à ses travaux les représentants des ministères sur les sujets relevant de leurs attributions et peut solliciter le concours de personnalités compétentes.
-
-##### Article R413-5
-
-Le secrétariat du conseil est assuré par l'Institut national de la propriété industrielle.
 
 ### Titre II : Qualification en propriété industrielle
 
