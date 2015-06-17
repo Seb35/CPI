@@ -13220,6 +13220,28 @@ Les demandes divisionnaires bénéficient de la date de dépôt et, le cas éch�
 
 En cas de division d'une demande d'enregistrement conformément à l'article R. 712-27, chaque demande divisionnaire doit être conforme aux dispositions de l'article R. 712-3.
 
+##### Article D712-29
+
+Pour bénéficier du droit d'alerte gratuit prévu par l'article L. 712-2-1, les collectivités territoriales et les établissements publics mentionnés à l'article L. 712-2-1 adressent à l'Institut national de la propriété industrielle une demande par voie électronique selon les modalités fixées par décision du directeur général de l'institut.
+
+Cette demande comprend :
+
+1° La dénomination ou le nom de pays pour lequel l'alerte est demandée ;
+
+2° L'adresse électronique à laquelle l'alerte doit être envoyée ;
+
+3° L'identification de la collectivité ou de l'établissement demandeur ainsi que son numéro d'identification Siren.
+
+La demande donne lieu à la délivrance d'un récépissé par voie électronique. La date d'enregistrement de la demande d'alerte est celle du récépissé.
+
+##### Article D712-30
+
+L'alerte est adressée par l'Institut national de la propriété industrielle par voie électronique dans les cinq jours ouvrables suivant la publication du dépôt d'une demande d'enregistrement de la marque, contenant la dénomination de la collectivité ou le nom de pays concerné, au Bulletin officiel de la propriété industrielle.
+
+Lorsque le dépôt de marque est effectué en application du règlement (CE) n° 207/2009 du Conseil du 26 février 2009 sur la marque communautaire ou de l'arrangement de Madrid concernant l'enregistrement international des marques du 14 avril 1891 modifié et de son protocole du 27 juin 1989 modifié, l'institut adresse l'alerte par voie électronique dans les trois semaines qui suivent la publication de la demande de marque au Bulletin des marques communautaires ou à la Gazette des marques internationales.
+
+L'alerte mentionne la faculté ouverte à toute personne intéressée de formuler des observations au titre de l'article L. 712-3 et aux collectivités territoriales de former opposition à enregistrement au titre de l'article L. 712-4.
+
 #### Chapitre III : Droits conférés par l'enregistrement
 
 #### Chapitre IV : Transmission et perte du droit sur la marque
