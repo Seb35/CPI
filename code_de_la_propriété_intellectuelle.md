@@ -1976,7 +1976,11 @@ Elle est composée de trois membres, dont le président, nommés pour une durée
 
 Des membres suppléants sont nommés dans les mêmes conditions.
 
-En cas de vacance d'un siège de membre de la commission de protection des droits, pour quelque cause que ce soit, il est procédé à la nomination, dans les conditions prévues au présent article, d'un nouveau membre pour la durée du mandat restant à courir.
+Lors de chaque renouvellement, le membre titulaire succédant à une femme est un homme et celui succédant à un homme, une femme.
+
+Le membre titulaire et son suppléant sont de sexe différent.
+
+En cas de vacance d'un siège de membre de la commission de protection des droits, pour quelque cause que ce soit, il est procédé à la nomination, dans les conditions prévues au présent article, d'un nouveau membre de même sexe pour la durée du mandat restant à courir.
 
 Le mandat des membres n'est ni révocable, ni renouvelable.
 
