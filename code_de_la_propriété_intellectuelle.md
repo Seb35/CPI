@@ -2858,7 +2858,7 @@ Tout conseil en propriété industrielle doit justifier d'une assurance garantis
 
 ###### Article L422-9
 
-Il est institué une compagnie nationale des conseils en propriété industrielle, organisme doté de la personnalité morale, placé auprès de l'Institut national de la propriété industrielle aux fins de représenter les conseils en propriété industrielle auprès des pouvoirs publics, de défendre leurs intérêts professionnels et de veiller au respect des règles de déontologie.
+Il est institué une compagnie nationale des conseils en propriété industrielle, organisme doté de la personnalité morale, placé auprès de l'Institut national de la propriété industrielle aux fins de représenter les conseils en propriété industrielle auprès des pouvoirs publics, de promouvoir l'accès à leurs prestations sur l'ensemble du territoire, de défendre leurs intérêts professionnels et de veiller au respect des règles de déontologie.
 
 ###### Article L422-10
 
@@ -2898,11 +2898,7 @@ Elle est toutefois compatible avec les fonctions d'enseignement, ainsi qu'avec c
 
 ###### Article L423-1
 
-Il est interdit à toute personne physique ou morale de se livrer au démarchage en vue de représenter les intéressés, de donner des consultations ou de rédiger des actes en matière de droit de la propriété industrielle. Toutefois, cette interdiction ne s'étend pas aux offres de service à destination de professionnels ou d'entreprises effectuées par voie postale dans des conditions fixées par voie réglementaire.
-
-Toute infraction aux dispositions du précédent alinéa sera punie des peines prévues à l'article 5 de la loi n° 72-1137 du 22 décembre 1972 relative à la protection des consommateurs en matière de démarchage et de vente à domicile.
-
-Toute publicité pour les activités mentionnées à ce même alinéa est subordonnée au respect de conditions fixées par voie réglementaire.
+Les conseils en propriété industrielle sont autorisés, dans les conditions fixées par décret en Conseil d'Etat, à recourir à la publicité ainsi qu'à la sollicitation personnalisée. La sollicitation personnalisée est accompagnée de la communication d'informations générales sur le droit de la propriété industrielle.
 
 ###### Article L423-2
 
@@ -3423,7 +3419,7 @@ Dans la procédure devant le directeur de l'Institut national de la propriété 
 
 Si l'inventeur est un salarié, le droit au titre de propriété industrielle, à défaut de stipulation contractuelle plus favorable au salarié, est défini selon les dispositions ci-après :
 
-1. Les inventions faites par le salarié dans l'exécution soit d'un contrat de travail comportant une mission inventive qui correspond à ses fonctions effectives, soit d'études et de recherches qui lui sont explicitement confiées, appartiennent à l'employeur. Les conditions dans lesquelles le salarié, auteur d'une telle invention, bénéficie d'une rémunération supplémentaire sont déterminées par les conventions collectives, les accords d'entreprise et les contrats individuels de travail.
+1. Les inventions faites par le salarié dans l'exécution soit d'un contrat de travail comportant une mission inventive qui correspond à ses fonctions effectives, soit d'études et de recherches qui lui sont explicitement confiées, appartiennent à l'employeur. L'employeur informe le salarié auteur d'une telle invention lorsque cette dernière fait l'objet du dépôt d'une demande de titre de propriété industrielle et lors de la délivrance, le cas échéant, de ce titre. Les conditions dans lesquelles le salarié, auteur d'une invention appartenant à l'employeur, bénéficie d'une rémunération supplémentaire sont déterminées par les conventions collectives, les accords d'entreprise et les contrats individuels de travail.
 
 Si l'employeur n'est pas soumis à une convention collective de branche, tout litige relatif à la rémunération supplémentaire est soumis à la commission de conciliation instituée par l'article L. 615-21 ou au tribunal de grande instance.
 
@@ -5889,7 +5885,7 @@ Pour chaque produit bénéficiant d'une indication géographique dont il assure 
 
 5° Tient à jour la liste des opérateurs et transmet les mises à jour à l'Institut national de la propriété industrielle, qui les publie au Bulletin officiel de la propriété industrielle ;
 
-6° Exclut, après mise en demeure, tout opérateur qui ne respecte pas le cahier des charges et n'a pas pris les mesures correctives mentionnées au 3° ;
+6° Exclut, après mise en demeure, tout opérateur qui ne respecte pas le cahier des charges et n'a pas pris les mesures correctives mentionnées au 3°, et exclut tout opérateur dont la certification a été non octroyée, suspendue ou retirée par l'organisme certificateur mentionné à l'article L. 721-9 ;
 
 7° Participe aux actions de défense, de protection et de valorisation de l'indication géographique, des produits et du savoir-faire, ainsi qu'à la connaissance statistique du secteur.
 
@@ -5909,7 +5905,7 @@ Le cahier des charges d'une indication géographique précise :
 
 6° L'identité de l'organisme de défense et de gestion, ses statuts, la liste des opérateurs initiaux qu'il représente et les modalités financières de leur participation ;
 
-7° Les modalités et la périodicité des contrôles réalisés par les organismes mentionnés à l'article L. 721-9 ainsi que les modalités de financement de ces contrôles. Les modalités comportent notamment les points de contrôle du produit ;
+7° Les modalités et la périodicité des contrôles, le type d'organisme mentionné à l'article L. 721-9 en charge de leur réalisation, ainsi que les modalités de financement de ces contrôles. Les modalités comportent notamment les points de contrôle du produit et des éléments spécifiques de l'étiquetage ;
 
 8° Les obligations déclaratives ou de tenue de registres auxquelles les opérateurs doivent satisfaire afin de permettre la vérification du respect du cahier des charges ;
 
@@ -5937,7 +5933,11 @@ II. ― L'indication géographique, dont le cahier des charges a été homologu�
 
 ####### Article L721-9
 
-Le respect du cahier des charges par les opérateurs est contrôlé par des organismes d'évaluation de la conformité, qui bénéficient d'une accréditation délivrée par l'instance nationale d'accréditation, mentionnée à l'article 137 de la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie, ou par l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux couvrant le champ de ce contrôle.
+Le respect du cahier des charges par les opérateurs est contrôlé par des organismes d'évaluation de la conformité, qui peuvent être soit des organismes d'inspection, soit des organismes de certification, qui bénéficient d'une accréditation délivrée par l'instance nationale d'accréditation, mentionnée à l'article 137 de la loi n° 2008-776 du 4 août 2008 de modernisation de l'économie, ou par l'instance nationale d'accréditation d'un autre Etat membre de l'Union européenne, membre de la coopération européenne pour l'accréditation et ayant signé les accords de reconnaissance mutuelle multilatéraux couvrant le champ de ce contrôle.
+
+Les organismes d'inspection effectuent les opérations de contrôle et transmettent leur rapport à l'organisme de défense et de gestion, qui décide des mesures sanctionnant les manquements.
+
+Les organismes de certification décident de l'octroi, du maintien ou de l'extension de la certification, ainsi que des mesures sanctionnant les manquements.
 
 L'organisme de défense et de gestion peut demander à un opérateur d'avoir recours, à ses frais, à un organisme de contrôle accrédité conformément au premier alinéa du présent article afin qu'il effectue un contrôle supplémentaire visant à vérifier que cet opérateur a appliqué les mesures correctives mentionnées au 3° de l'article L. 721-6 du présent code.
 
@@ -6182,9 +6182,10 @@ Les manquements au présent chapitre sont recherchés et constatés dans les con
 ###### Article L811-1
 
 Les dispositions du présent code sont applicables dans les îles Wallis et Futuna et en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4,
-L. 421-1 à L. 422-13 et L. 423-2.
+L. 421-1 à
+L. 423-2.
 
-Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à L. 422-13 et L. 423-2, ainsi que le quatrième alinéa de l'article L. 335-4.
+Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à L. 423-2, ainsi que le quatrième alinéa de l'article L. 335-4.
 
 ###### Article L811-2
 
