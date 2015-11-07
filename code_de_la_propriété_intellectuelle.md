@@ -6682,6 +6682,14 @@ En cas de non-conformité d'une demande d'inscription, notification motivée en 
 
 La notification peut être assortie d'une proposition de régularisation. Dans ce cas, cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai de deux mois qui lui est imparti.
 
+###### Article R132-14-1
+
+Il est statué sur la demande d'inscription dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 132-14, jusqu'à la régularisation de la demande ou la levée de l'objection.
+
+###### Article R132-14-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 132-14-1, la demande est réputée acceptée.
+
 ###### Article R132-15
 
 L'inscription cesse de produire effet si elle n'a pas été renouvelée, selon la procédure prévue à l'article R. 132-10, avant l'expiration du délai de cinq ans, couru à compter de la date de l'inscription du nantissement.
@@ -9334,9 +9342,19 @@ La demande d'inscription est présentée au directeur général de l'Institut na
 
 Il est donné récépissé de la demande.
 
+En cas de non-conformité de la demande, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser la demande ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de lever l'objection, la demande est rejetée. La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
 ##### Article R421-10
 
 La décision du directeur général de l'institut statuant sur la demande d'inscription le cas échéant, après décision du jury conformément aux articles R. 421-5 et R. 421-1-2 est notifiée à l'intéressé. Le refus est motivé.
+
+##### Article R421-10-1
+
+Il est statué sur la demande d'inscription dans un délai de quatre mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 421-9, jusqu'à la régularisation de la demande ou la levée de l'objection.
+
+##### Article R421-10-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 421-10-1, la demande est réputée acceptée.
 
 ##### Article R421-11
 
@@ -9377,6 +9395,16 @@ L'inscription sur la liste prévue à l'article R. 422-1 est subordonnée aux co
 ###### Article R422-3
 
 La demande d'inscription est présentée au directeur général de l'institut. Lui est jointe la justification qu'il est satisfait aux conditions prévues à l'article R. 422-2.
+
+En cas de non-conformité de la demande, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser la demande ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de lever l'objection, la demande est rejetée. La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
+###### Article R422-3-1
+
+Il est statué sur la demande d'inscription dans un délai de quatre mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 422-3, jusqu'à la régularisation de la demande ou la levée de l'objection.
+
+###### Article R422-3-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 422-3-1, la demande est réputée acceptée.
 
 ###### Article R422-4
 
@@ -10155,7 +10183,17 @@ La demande n'est recevable qu'après paiement de la redevance prescrite.
 
 La demande est écrite. Elle indique les faits et justifications invoqués à son appui.
 
+En cas de non-conformité de la demande, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser la demande ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de lever l'objection, la demande est rejetée. La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
 La décision motivée est notifiée au demandeur.
+
+##### Article R512-12-1
+
+Il est statué sur la demande de relevé de déchéance dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 512-12, jusqu'à la régularisation de la demande ou la levée de l'objection.
+
+##### Article R512-12-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 512-12-1, la demande est réputée acceptée.
 
 ##### Article R512-13
 
@@ -10225,6 +10263,14 @@ Un délai lui est imparti pour régulariser sa demande ou présenter des observa
 
 La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le déposant ne la conteste pas dans le délai qui lui est imparti.
 
+##### Article R512-18-1
+
+Il est statué sur la demande d'inscription mentionnée aux articles R. 512-15 et R. 512-17 dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 512-18, jusqu'à la régularisation de la demande ou la levée de l'objection.
+
+##### Article R512-18-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 512-18-1, la demande est réputée acceptée.
+
 ##### Article R512-19
 
 Toute inscription portée au Registre national des dessins et modèles fait l'objet d'une mention au Bulletin officiel de la propriété industrielle.
@@ -10259,7 +10305,7 @@ L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis e
 
 ##### Article R513-1-1
 
-Il est statué sur la déclaration de prorogation dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, jusqu'à la levée de l'objection prévue à l'article R. 512-9.
+Il est statué sur la déclaration de prorogation dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 512-9, jusqu'à la levée de l'objection.
 
 ##### Article R*513-1-2
 
@@ -10276,6 +10322,16 @@ La déclaration de renonciation doit, à peine d'irrecevabilité :
 2° Etre accompagnée de la justification du paiement de la redevance prescrite.
 
 Les dispositions de l'article R. 512-9-1 sont applicables à la renonciation.
+
+En cas de non-conformité de la déclaration, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser la déclaration ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de lever l'objection, la déclaration est rejetée. La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
+##### Article R513-2-1
+
+Il est statué sur la déclaration de renonciation dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 513-2, jusqu'à la régularisation de la demande ou la levée de l'objection.
+
+##### Article R513-2-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 513-2-1, la demande est réputée acceptée.
 
 ##### Article R513-3
 
@@ -11294,6 +11350,14 @@ Si cette inscription est faite après la publication du brevet, les exemplaires 
 
 Au terme de l'instruction de la demande de brevet, invitation est faite au demandeur d'acquitter, dans le délai qui lui est imparti par l'Institut national de la propriété industrielle, la redevance de délivrance et d'impression du fascicule.
 
+####### Article R612-70-1
+
+Il est statué sur la demande de brevet dans un délai de quatre mois à compter du paiement de la redevance de délivrance et d'impression du fascicule mentionnée à l'article R. 612-70.
+
+####### Article R612-70-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 612-70-1, la demande est réputée acceptée.
+
 ####### Article R612-71
 
 Le brevet est délivré au nom du demandeur par décision du directeur général de l'Institut national de la propriété industrielle. Cette décision est notifiée au demandeur, accompagnée d'un exemplaire certifié conforme du brevet.
@@ -11317,6 +11381,14 @@ Si la revendication modifiée n'est pas conforme au dispositif du jugement, noti
 La revendication modifiée est rejetée si le propriétaire du brevet ne défère pas à la notification dans le délai prescrit, ou ne présente pas d'observations pour contester son bien-fondé.
 
 Si les observations présentées ne sont pas retenues, notification en est faite au propriétaire du brevet. Si l'intéressé ne défère pas à la notification prévue au deuxième alinéa dans un nouveau délai qui lui est imparti, la revendication modifiée est rejetée.
+
+####### Article R612-73-1
+
+Il est statué sur la demande de modification de revendication dans un délai de douze mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 612-73, jusqu'à la régularisation de la demande.
+
+####### Article R*612-73-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 612-73-1, la demande est réputée rejetée.
 
 ##### Section 3 : Diffusion légale des inventions
 
@@ -11662,7 +11734,7 @@ Les renonciations et limitations sont inscrites au Registre national des brevets
 
 ###### Article R613-45-1
 
-Il est statué sur la requête en renonciation ou en limitation prévue à l'article R. 613-45 dans un délai de douze mois. Ce délai est interrompu, le cas échéant, jusqu'à la levée de l'objection prévue au neuvième alinéa du même article.
+Il est statué sur la requête en renonciation ou en limitation prévue à l'article R. 613-45 dans un délai de douze mois. Ce délai est interrompu, le cas échéant, par la notification prévue au neuvième alinéa du même article jusqu'à la levée de l'objection.
 
 ###### Article R*613-45-2
 
@@ -11725,7 +11797,17 @@ Le recours n'est recevable qu'après paiement de la redevance prescrite.
 
 Le recours est écrit. Il indique les faits et justifications invoqués à son appui.
 
+En cas de non-conformité du recours, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser le recours ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de lever l'objection, le recours est rejeté. La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
 La décision motivée est notifiée au requérant.
+
+###### Article R613-52-1
+
+Il est statué sur le recours en restauration dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 613-52, jusqu'à la régularisation du recours ou la levée de l'objection.
+
+###### Article R613-52-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 613-52-1, le recours est réputé accepté.
 
 ##### Section 5 : Registre national des brevets
 
@@ -11794,6 +11876,14 @@ L'institut peut exiger la justification de la réalité du changement dont l'ins
 En cas de non-conformité d'une demande d'inscription, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser sa demande ou présenter des observations. A défaut de régularisation ou d'observation permettant de lever l'objection, la demande est rejetée par décision du directeur général de l'Institut national de la propriété industrielle.
 
 La notification peut être assortie d'une proposition de régularisation. Dans ce cas, cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
+###### Article R613-58-1
+
+Il est statué sur la demande d'inscription mentionnée aux articles R. 613-55 et R. 613-57 dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 613-58, jusqu'à la régularisation de la demande ou la levée de l'objection.
+
+###### Article R613-58-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 613-58-1, la demande est réputée acceptée.
 
 ###### Article R613-59
 
@@ -12246,6 +12336,16 @@ La redevance de dépôt d'un certificat complémentaire de protection ne couvre 
 Les articles R. 611-18 à R. 611-20, R. 612-1, R. 612-2,
 R. 612-5 (1°), R. 612-6, R. 612-7, R. 612-36, R. 612-38, R. 612-52, R. 612-71 (alinéas 1 et 2), R. 612-72, R. 613-45 à R. 613-59 et R. 618-1 à R. 618-3 sont applicables aux demandes de certificat complémentaire de protection et aux certificats complémentaires de protection.
 
+##### Article R617-2-1
+
+Il est statué sur la demande de certificat complémentaire de protection dans un délai de douze mois à compter de son dépôt. Ce délai est interrompu en cas de notification d'irrégularité émise par l'Institut national de la propriété industrielle, jusqu'à la régularisation de la demande conformément aux règlements (CE) n° 1610/96 du Parlement européen et du Conseil du 23 juillet 1996 concernant la création d'un certificat complémentaire de protection pour les produits phytopharmaceutiques et (CE) n° 469/2009 du Parlement européen et du Conseil du 6 mai 2009 concernant le certificat complémentaire de protection pour les médicaments.
+
+Les dispositions du premier alinéa sont applicables aux demandes de prorogation présentées conformément aux dispositions de l'article 36 du règlement (CE) n° 1901/2006 du 12 décembre 2006 relatif aux médicaments à usage pédiatrique, modifiant le règlement (CEE) n° 1768/92, les directives 2001/20/CE et 2011/83/CE ainsi que le règlement (CE) n° 726/2004.
+
+##### Article R*617-2-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 617-2-1, la demande est réputée rejetée.
+
 #### Chapitre VIII : Dispositions communes
 
 ##### Section unique : Procédure
@@ -12330,6 +12430,14 @@ Le bénéfice de la date de dépôt est acquis au déposant à la date de remise
 En cas de non-conformité du dépôt ou d'irrégularité matérielle, notification est faite au déposant d'avoir à régulariser le dépôt dans un délai qui lui est imparti par le directeur général de l'Institut national de la propriété industrielle et qui ne saurait être inférieur à deux mois ou supérieur à quatre mois. A défaut de régularisation, le dépôt est rejeté.
 
 Le dépôt, dès qu'il est reconnu conforme, est enregistré. L'enregistrement est notifié au déposant et mentionné au Bulletin officiel de la propriété industrielle.
+
+##### Article R622-3-1
+
+Il est statué sur le dépôt de topographie de produit semi-conducteur dans un délai de six mois à compter du dépôt. Ce délai est interrompu par la notification prévue à l'article R. 622-3, jusqu'à la régularisation du dépôt.
+
+##### Article R*622-3-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 622-3-1, le dépôt est réputé rejeté.
 
 ##### Article R622-4
 
@@ -13059,7 +13167,17 @@ Elle n'est recevable qu'après paiement de la redevance prescrite.
 
 La demande est écrite. Elle indique les faits et justifications invoqués à son appui.
 
+En cas de non-conformité de la demande, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser la demande ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de lever l'objection, la demande est rejetée. La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
 La décision motivée est notifiée au demandeur.
+
+##### Article R712-12-1
+
+Il est statué sur la demande de relevé de déchéance dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue par l'article R. 712-12, jusqu'à la régularisation de la demande ou la levée de l'objection.
+
+##### Article R712-12-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 712-12-1, la demande est réputée acceptée.
 
 ##### Article R712-13
 
@@ -13159,7 +13277,7 @@ La date à laquelle une marque est réputée enregistrée, notamment pour l'appl
 
 ##### Article R712-23-1
 
-Il est statué sur la demande d'enregistrement de marque dans un délai de six mois à compter de la demande. Ce délai est interrompu, le cas échéant, jusqu'à la décision statuant sur la demande d'opposition prévue à l'article L. 712-4 ou jusqu'à la régularisation de la demande prévue à l'article R. 712-11.
+Il est statué sur la demande d'enregistrement de marque dans un délai de six mois à compter de la demande. Ce délai est interrompu, le cas échéant, par la demande d'opposition prévue à l'article L. 712-4 jusqu'à la décision statuant sur cette dernière ou par la notification prévue à l'article R. 712-11 jusqu'à la régularisation de la demande.
 
 ##### Article R*712-23-2
 
@@ -13185,7 +13303,7 @@ L'irrecevabilité ne peut être prononcée sans que le déposant ait été mis e
 
 ##### Article R712-24-1
 
-Il est statué sur la déclaration de renouvellement dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, jusqu'à la régularisation de la demande prévue à l'article R. 712-11.
+Il est statué sur la déclaration de renouvellement dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 712-11 jusqu'à la régularisation de la déclaration.
 
 ##### Article R*712-24-2
 
@@ -13263,6 +13381,16 @@ La déclaration de renonciation doit, pour être recevable :
 
 Les dispositions de l'article R. 712-21 sont applicables à la renonciation.
 
+En cas de non-conformité de la déclaration, notification motivée en est faite au demandeur. Un délai lui est imparti pour régulariser la déclaration ou contester les objections de l'institut. A défaut de régularisation ou d'observation permettant de lever l'objection, la déclaration est rejetée. La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le demandeur ne la conteste pas dans le délai qui lui est imparti.
+
+##### Article R714-1-1
+
+Il est statué sur la déclaration de renonciation dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue par l'article R. 714-1, jusqu'à la régularisation de la demande ou la levée de l'objection.
+
+##### Article R714-1-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 714-1-1, la demande est réputée acceptée.
+
 ##### Article R714-2
 
 Le Registre national des marques est tenu par l'Institut national de la propriété industrielle.
@@ -13330,6 +13458,14 @@ En cas de non-conformité d'une demande d'inscription, notification motivée en 
 Un délai lui est imparti pour régulariser sa demande ou présenter des observations. A défaut de régularisation ou d'observations permettant de lever l'objection, la demande est rejetée par décision du directeur général de l'Institut national de la propriété industrielle.
 
 La notification peut être assortie d'une proposition de régularisation. Cette proposition est réputée acceptée si le déposant ne la conteste pas dans le délai qui lui est imparti.
+
+##### Article R714-7-1
+
+Il est statué sur la demande d'inscription mentionnée aux articles R. 714-4 et R. 714-6 dans un délai de six mois à compter de son dépôt. Ce délai est interrompu, le cas échéant, par la notification prévue à l'article R. 714-7, jusqu'à la régularisation de la demande ou la levée de l'objection.
+
+##### Article R714-7-2
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 714-4-1, la demande est réputée acceptée.
 
 ##### Article R714-8
 
@@ -13417,7 +13553,11 @@ Le siège et le ressort des tribunaux de grande instance ayant compétence exclu
 
 ###### Article R717-1
 
-Les articles R. 712-3 (2°, d), R. 712-9 à R. 712-11, R. 712-13 à R. 712-18, R. 714-2 et R. 714-4 à R. 714-8 sont applicables aux enregistrements internationaux de marque étendus à la France conformément à l'arrangement de Madrid du 14 avril 1891 et du Protocole de Madrid du 27 juin 1989, dans la limite et sous la réserve des dispositions prévues au présent chapitre.
+Les articles R. 712-3 (2°, d), R. 712-9 à R. 712-11, R. 712-13 à R. 712-18, R. 712-23 et R. 712-23-1, R. 714-2 et R. 714-4 à R. 714-8 sont applicables aux enregistrements internationaux de marque étendus à la France conformément à l'arrangement de Madrid du 14 avril 1891 et du Protocole de Madrid du 27 juin 1989, dans la limite et sous la réserve des dispositions prévues au présent chapitre.
+
+###### Article R*717-1-1
+
+L'article R. * 712-23-2 est applicable aux enregistrements internationaux de marque mentionnés à l'article R. 717-1, dans la même limite et sous la même réserve.
 
 ###### Article R717-2
 
@@ -13483,7 +13623,11 @@ Si le demandeur n'a pas son domicile ou son siège dans un Etat membre de la Com
 
 ###### Article R717-10
 
-La demande de marque nationale issue de la requête en transformation est examinée et enregistrée ou rejetée dans les conditions prévues aux articles R. 712-9 à R. 712-23.
+La demande de marque nationale issue de la requête en transformation est examinée et enregistrée ou rejetée dans les conditions prévues aux articles R. 712-9 à R. 712-23-1.
+
+###### Article R*717-10-1
+
+La demande de marque nationale issue de la requête en transformation est également examinée et enregistrée ou rejetée dans les conditions prévues à l'article R. * 712-23-2.
 
 ###### Article R717-11
 
@@ -13644,6 +13788,10 @@ III. - La synthèse de l'enquête publique et de la consultation, prévue au I, 
 Les décisions d'homologation ou de rejet de l'homologation d'un cahier des charges ainsi que les décisions d'homologation ou de rejet de la modification d'un cahier des charges homologué sont notifiées par l'institut au déposant dans un délai de deux mois à compter de l'expiration des délais d'observations prévus au deuxième alinéa du I et au quatrième alinéa du II de l'article R. 721-5 ou dans un délai de deux mois à compter de l'expiration des délais de report prévus à l'article 9 de la directive 98/34/ CE du Parlement européen et du Conseil du 22 juin 1998, dans le cas où il a été procédé à la transmission prévue au III de l'article R. 721-2 et où la date d'expiration de ces délais de report est postérieure à la date d'expiration des délais d'observations. Ce délai de deux mois peut être prorogé pour une période maximale d'un mois, par une décision motivée du directeur général de l'institut, qui est notifiée au déposant.
 
 Les décisions d'homologation d'un cahier des charges sont accompagnées, lors de leur notification, du numéro d'homologation.
+
+###### Article R*721-6-1
+
+A défaut de décision expresse dans le délai mentionné à l'article R. 721-6, la demande d'homologation ou de modification du cahier des charges est réputée rejetée.
 
 ###### Article R721-7
 
