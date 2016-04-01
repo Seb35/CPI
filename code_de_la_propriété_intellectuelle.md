@@ -2844,7 +2844,7 @@ Les professionnels inscrits sur la liste prévue à l'article L. 422-1 ou ceux �
 
 1° Le président du conseil d'administration, les directeurs généraux, les membres du directoire, le directeur général unique et le ou les gérants ainsi que la majorité des membres du conseil d'administration ou du conseil de surveillance aient la qualité des personnes visées au premier alinéa ;
 
-2° Les personnes visées au premier alinéa détiennent plus de la moitié du capital social et des droits de vote ;
+2° (Abrogé)
 
 3° L'admission de tout nouvel associé est subordonnée à l'agrément préalable, selon le cas, du conseil d'administration, du conseil de surveillance ou du ou des gérants.
 
