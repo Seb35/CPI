@@ -9238,7 +9238,7 @@ Sous réserve des dispositions de l'article R. 421-1-1, l'inscription d'une pers
 
 3° Une pratique professionnelle de trois années au moins ;
 
-4° Le succès à un examen d'aptitude dont les modalités et le programme sont fixés, pour chaque spécialisation, par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur. Les épreuves sont aménagées pour les mandataires agréés près l'Office européen des brevets.
+4° Le succès à un examen d'aptitude en langue française dont les modalités et le programme sont fixés, pour chaque spécialisation, par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la propriété industrielle et du ministre chargé de l'enseignement supérieur. Les épreuves sont aménagées pour les mandataires agréés près l'Office européen des brevets.
 
 ##### Article R421-1-1
 
@@ -9268,7 +9268,7 @@ c) Une pratique professionnelle de huit ans au moins, en rapport avec la propri�
 
 Les personnes mentionnées au c peuvent avoir exercé leurs activités dans plusieurs des fonctions visées dans ces dispositions dès lors que la durée totale de ces activités est au moins égale à huit ans.
 
-Sauf lorsqu'elle résulte de fonctions exercées au sein d'une organisation internationale, la pratique professionnelle prévue aux 1° et 2° doit avoir été acquise dans un Etat membre de l'Union européenne ou partie à l'Espace économique européen.
+Sauf lorsqu'elle résulte de fonctions exercées au sein d'une organisation internationale, la pratique professionnelle prévue aux 1° et 2° doit avoir été acquise dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen ou partie à un accord avec la France reconnaissant cette pratique professionnelle.
 
 ##### Article R421-1-2
 
@@ -9304,9 +9304,9 @@ Un arrêté du ministre chargé de la propriété industrielle peut prévoir d'a
 
 La pratique professionnelle prévue à l'article R. 421-1 (3°) résulte de l'exercice à titre principal d'une activité d'étude, de conseil, d'assistance ou de représentation en matière de propriété industrielle, droits annexes et droits portant sur toute question connexe.
 
-La pratique professionnelle doit avoir été acquise en France dans la matière correspondant à la mention de spécialisation recherchée et sous la responsabilité d'une personne qualifiée en propriété industrielle inscrite avec la même mention. Cette pratique professionnelle peut également avoir été acquise dans un autre Etat membre de l'Union européenne ou partie à l'Espace économique européen sous réserve qu'elle l'ait été sous la responsabilité d'une personne habilitée à représenter les personnes, dans la matière correspondant à la spécialisation recherchée, devant le service central de la propriété industrielle de l'Etat dans lequel elle est établie.
+La pratique professionnelle doit avoir été acquise en France dans la matière correspondant à la mention de spécialisation recherchée et sous la responsabilité d'une personne qualifiée en propriété industrielle inscrite avec la même mention. Cette pratique professionnelle peut également avoir été acquise dans un autre Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen ou partie à un accord avec la France reconnaissant cette pratique professionnelle sous réserve qu'elle l'ait été sous la responsabilité d'une personne habilitée à représenter les personnes, dans la matière correspondant à la spécialisation recherchée, devant le service central de la propriété industrielle de l'Etat dans lequel elle est établie.
 
-Lorsque la pratique n'aura pas été acquise sous la responsabilité d'une telle personne, le jury prévu à l'article R. 421-6 pourra, sur dossier, admettre à se présenter à l'examen un candidat dont la pratique aura été reconnue équivalente par son contenu, son étendue et son respect des normes usuelles dans la spécialisation concernée.
+Lorsque la pratique n'aura pas été acquise sous la responsabilité d'une telle personne ou lorsqu'elle aura été acquise dans un pays tiers, le jury prévu à l'article R. 421-6 pourra, sur dossier, admettre à se présenter à l'examen un candidat dont la pratique aura été reconnue équivalente par son contenu, son étendue et son respect des normes usuelles dans la spécialisation concernée.
 
 ##### Article R421-6
 
@@ -9316,23 +9316,27 @@ Les conditions de désignation des membres du jury et de leurs suppléants sont 
 
 ##### Article R421-7
 
-Les conditions de diplôme, de stage et d'examen professionnel prévues aux articles R. 421-1 et R. 421-1-1 ne sont pas applicables aux personnes qui ont suivi avec succès un cycle d'études d'une durée minimum de trois ans, ou d'une durée équivalente à temps partiel dans une université ou un établissement d'enseignement supérieur ou dans un autre établissement de même niveau de formation et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui justifient :
+Les conditions de diplôme, de stage et d'examen professionnel prévues aux articles R. 421-1 et R. 421-1-1 ne sont pas applicables aux personnes qui ont suivi avec succès un cycle d'études et, le cas échéant, la formation professionnelle requise en plus de ce cycle d'études et qui justifient :
 
-1° Soit d'un diplôme, certificat ou autre titre permettant l'exercice de la profession dans un Etat membre de l'Union européenne délivrés :
+1° Soit d'un diplôme, certificat ou autre titre permettant l'exercice de la profession dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen délivrés :
 
-a) Par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans l'Union ;
+a) Par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans l'Union européenne ou dans l'Espace économique européen ;
 
-b) Ou par une autorité d'un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre qui a reconnu le diplôme, certificat ou autre titre certifiant que son titulaire a une expérience professionnelle de trois ans au moins dans cet Etat ;
+b) Ou par une autorité d'un pays tiers, à condition que soit fournie une attestation émanant de l'Etat membre de l'Union européenne ou de l'Etat partie à l'accord sur l'Espace économique européen qui a reconnu le diplôme, certificat ou autre titre certifiant que son titulaire a une expérience professionnelle de trois ans au moins à temps plein ou à temps partiel pendant une durée totale équivalente, acquise sur son territoire ;
 
-2° Soit de l'exercice à plein temps de la profession pendant deux ans au moins au cours des dix années précédentes dans un Etat membre qui ne réglemente pas l'accès ou l'exercice de cette profession, à condition que cet exercice soit attesté par l'autorité compétente de cet Etat.
+2° Soit de l'exercice de la profession à temps plein pendant une année ou à temps partiel pendant une durée équivalente, au cours des dix années précédentes, dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen qui ne réglemente pas l'accès ou l'exercice de cette profession, à condition que cet exercice soit attesté par l'autorité compétente de cet Etat et que l'intéressé possède une ou plusieurs attestations de compétence ou preuves de titres de formation préparant à l'exercice de la profession, délivrées par l'autorité compétente d'un Etat membre qui ne réglemente pas la profession. Toutefois, l'expérience professionnelle d'un an n'est pas requise si le titre de formation dont dispose le demandeur certifie une formation réglementée.
 
 ##### Article R421-8
 
-Le bénéfice de l'article R. 421-7 est subordonné au succès à un examen d'aptitude devant le jury prévu à l'article R. 421-6 dont le programme et les modalités sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la propriété industrielle :
+Le bénéfice de l'article R. 421-7 est subordonné au succès à un examen d'aptitude en langue française devant le jury prévu à l'article R. 421-6 dont le programme et les modalités sont fixés par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la propriété industrielle :
 
-1° Soit lorsque la formation du candidat porte sur des matières substantiellement différentes de celles qui figurent aux programmes des diplômes et de l'examen professionnel mentionné à l'article R. 421-1 ;
+1° Soit lorsque la formation du candidat porte sur des matières substantiellement différentes de celles qui figurent aux programmes des diplômes et de l'examen professionnel mentionné à l'article R. 421-1 et que les connaissances, aptitudes et compétences acquises par le demandeur au cours de son expérience professionnelle ou de l'apprentissage tout au long de la vie, et ayant fait l'objet d'une validation en bonne et due forme par un organisme compétent, ne permettent pas de compenser ces différences ;
 
 2° Soit lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est subordonné à la possession de ce diplôme et de cet examen ne sont pas réglementées dans l'Etat membre d'origine ou de provenance ou sont réglementées de manière différente et que cette différence est caractérisée par une formation spécifique requise dans l'Etat membre d'accueil portant sur des matières substantiellement différentes de celles couvertes par le diplôme dont le demandeur fait état.
+
+Le directeur général de l'Institut national de la propriété industrielle adresse au demandeur une notification qui précise le niveau de qualification professionnelle requis en France et établit, compte tenu du niveau de qualification professionnelle du demandeur, les différences substantielles justifiant le recours à un examen d'aptitude.
+
+L'examen d'aptitude est organisé dans un délai de six mois à compter de cette notification.
 
 La liste des candidats admis à se présenter à cet examen est dressée par le directeur général de l'Institut national de la propriété industrielle.
 
@@ -9452,9 +9456,9 @@ Le capital social d'une société de conseil en propriété industrielle mention
 
 ###### Article R422-7-1
 
-Lorsqu'un professionnel établi sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen est habilité à représenter en matière de propriété industrielle des personnes devant le service central de propriété industrielle de cet Etat, il peut faire usage en France de son titre professionnel, exprimé dans la ou l'une des langues de ce dernier Etat, pour représenter des personnes devant l'Institut national de la propriété industrielle, dès lors que son titre est attesté par l'autorité compétente de l'Etat où il est établi.
+Lorsqu'un professionnel établi sur le territoire d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen est habilité à représenter en matière de propriété industrielle des personnes devant le service central de propriété industrielle de cet Etat, il peut faire usage en France de son titre professionnel, exprimé dans la ou l'une des langues de ce dernier Etat, pour représenter des personnes devant l'Institut national de la propriété industrielle, dès lors que son titre est attesté par l'autorité compétente de l'Etat où il est établi.
 
-Lorsque l'exercice de la profession dans l'Etat où l'intéressé est établi n'est pas subordonné à la possession d'un titre réglementé, le professionnel doit justifier auprès de l'Institut national de la propriété industrielle, par une attestation de l'autorité compétente de cet Etat, d'un tel exercice à titre habituel pendant deux ans au moins au cours des dix dernières années.
+Lorsque le professionnel est établi dans un Etat dans lequel l'exercice de la profession n'est pas soumis à la possession d'un titre réglementé, il doit, pour représenter des personnes devant l'Institut national de la propriété industrielle, justifier par tout moyen auprès de cet Institut qu'il a exercé cette profession, dans un ou plusieurs Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, à temps plein pendant au moins une année ou à temps partiel pendant une durée totale équivalente, au cours des dix dernières années. Toutefois, l'expérience professionnelle d'un an n'est pas requise si le professionnel justifie d'une formation réglementée donnant accès à la profession, existant dans son Etat d'établissement.
 
 ###### Article R422-7-2
 
@@ -10015,15 +10019,11 @@ Les personnes inscrites sur la liste prévue à l'article L. 422-5 sont tenues, 
 
 ##### Article R423-2
 
-L'interdiction du démarchage prévue à l'article L. 423-1 ne s'étend pas aux offres de services, effectuées par voie postale, à destination de professionnels ou d'entreprises. Toutefois ces offres doivent se limiter à la communication d'informations générales sur le cabinet, son organisation, son personnel, ses prestations ainsi que sur le droit de la propriété industrielle.
+La publicité et la sollicitation personnalisée prévues à l'article L. 423-1 sont permises aux conseils en propriété industrielle si elles procurent une information sincère sur la nature des prestations de services proposées et si leur mise en œuvre respecte les principes essentiels de la profession. Elles excluent tout élément comparatif ou dénigrant, ainsi que toute mention susceptible de porter atteinte au secret professionnel.
 
-Ces informations peuvent être complétées par des indications relatives au prix des prestations. Les suites de ces prestations, de nature à entraîner des frais supplémentaires, sont, le cas échéant, précisées. Il est distingué entre les honoraires et les frais et redevances.
+La sollicitation personnalisée prend la forme d'un envoi postal, d'un appel téléphonique ou d'un courrier électronique adressé au destinataire de l'offre de service, à l'exclusion de tout message textuel envoyé sur un terminal téléphonique mobile. Elle précise les modalités de détermination du coût de la prestation, laquelle fera l'objet d'une convention d'honoraires. Les suites de cette prestation, de nature à entraîner des frais supplémentaires, sont, le cas échéant, précisées. Il est distingué entre les honoraires et les frais et redevances.
 
-La publicité par voie de mise à disposition de brochures ou notices, ainsi que d'insertion d'annonces dans la presse professionnelle ou dans les annuaires, est autorisée aux mêmes conditions.
-
-Ne constituent des publicités ni la publication d'ouvrages ou d'articles de nature juridique ou technique ni la diffusion d'informations auprès de la clientèle.
-
-Un arrêté du ministre chargé de la propriété industrielle, pris après avis de la Compagnie nationale des conseils en propriété industrielle, peut prescrire une présentation et une formulation normalisées des informations prévues au présent article. L'avis de la compagnie est réputé acquis à défaut de réponse dans un délai d'un mois à compter de la saisine.
+Les informations générales sur le droit de la propriété industrielle accompagnant la sollicitation portent en particulier sur les principaux titres de propriété industrielle, leurs champs de protection et leurs limites respectives, ainsi que sur le maintien et la défense des droits associés. Dans le cas d'une sollicitation personnalisée réalisée par téléphone, ces informations peuvent être mises à la disposition du destinataire de l'offre de service par d'autres moyens dûment précisés lors du démarchage.
 
 ## Livre V : Les dessins et modèles
 
