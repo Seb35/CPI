@@ -2050,6 +2050,8 @@ Ils peuvent en outre recueillir les observations des personnes concernées. Il e
 
 Lorsque les personnes concernées demandent à être entendues, ils les convoquent et les entendent. Toute personne entendue a le droit de se faire assister d'un conseil de son choix.
 
+Conformément à l'article 28 du code de procédure pénale, l'article 61-1 du même code est applicable lorsqu'il est procédé à l'audition d'une personne à l'égard de laquelle il existe des raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre une infraction.
+
 Une copie du procès-verbal d'audition est remise à la personne concernée.
 
 ######## Article L331-22
@@ -2284,7 +2286,7 @@ La contrefaçon en France d'ouvrages publiés en France ou à l'étranger est pu
 
 Seront punis des mêmes peines le débit, l'exportation, l'importation, le transbordement ou la détention aux fins précitées des ouvrages contrefaisants.
 
-Lorsque les délits prévus par le présent article ont été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus par le présent article ont été commis en bande organisée, les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende.
 
 ###### Article L335-2-1
 
@@ -2346,7 +2348,7 @@ Est puni de la peine d'amende prévue au premier alinéa le défaut de versement
 
 Est puni de la peine d'amende prévue au premier alinéa le défaut de versement du prélèvement mentionné au troisième alinéa de l'article L. 133-3.
 
-Lorsque les délits prévus au présent article ont été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus au présent article ont été commis en bande organisée, les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende.
 
 ###### Article L335-4-1
 
@@ -2690,7 +2692,7 @@ Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuv
 
 ###### Article L343-4
 
-Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait de porter atteinte aux droits du producteur d'une base de données tels que définis à l'article L. 342-1. Lorsque le délit a été commis en bande organisée, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Est puni de trois ans d'emprisonnement et de 300 000 euros d'amende le fait de porter atteinte aux droits du producteur d'une base de données tels que définis à l'article L. 342-1. Lorsque le délit a été commis en bande organisée, les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende.
 
 ###### Article L343-5
 
@@ -3220,7 +3222,7 @@ Les officiers de police judiciaire peuvent procéder, dès la constatation des i
 
 ###### Article L521-10
 
-Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de trois ans d'emprisonnement et de 300 000 euros d'amende. Lorsque le délit a été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Toute atteinte portée sciemment aux droits garantis par le présent livre est punie de trois ans d'emprisonnement et de 300 000 euros d'amende. Lorsque le délit a été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende.
 
 En outre, la juridiction peut ordonner la fermeture totale ou partielle, définitive ou temporaire, pour une durée au plus de cinq ans, de l'établissement ayant servi à commettre l'infraction.
 
@@ -4510,7 +4512,7 @@ Sans préjudice, s'il échet, des peines plus graves prévues en matière d'atte
 
 ####### Article L615-14
 
-1. Sont punies de trois ans d'emprisonnement et de 300 000 euros d'amende les atteintes portées sciemment aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6. Lorsque le délit a été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+1. Sont punies de trois ans d'emprisonnement et de 300 000 euros d'amende les atteintes portées sciemment aux droits du propriétaire d'un brevet, tels que définis aux articles L. 613-3 à L. 613-6. Lorsque le délit a été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende.
 
 2. Alinéa périmé.
 
@@ -5680,7 +5682,7 @@ b) De produire industriellement des marchandises présentées sous une marque co
 
 c) De donner des instructions ou des ordres pour la commission des actes visés aux a et b.
 
-Lorsque les délits prévus au présent article ont été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus au présent article ont été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé, la sécurité de l'homme ou l'animal, les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende.
 
 ####### Article L716-10
 
@@ -5696,7 +5698,7 @@ d) De sciemment livrer un produit ou fournir un service autre que celui qui lui 
 
 L'infraction, dans les conditions prévues au d, n'est pas constituée en cas d'exercice par un pharmacien de la faculté de substitution prévue à l'article L. 5125-23 du code de la santé publique.
 
-Lorsque les délits prévus aux a à d ont été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé ou la sécurité de l'homme ou l'animal, les peines sont portées à cinq ans d'emprisonnement et à 500 000 euros d'amende.
+Lorsque les délits prévus aux a à d ont été commis en bande organisée ou sur un réseau de communication au public en ligne ou lorsque les faits portent sur des marchandises dangereuses pour la santé ou la sécurité de l'homme ou l'animal, les peines sont portées à sept ans d'emprisonnement et à 750 000 euros d'amende.
 
 ####### Article L716-11
 
