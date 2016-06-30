@@ -1639,7 +1639,7 @@ Le montant de la rémunération tient compte du degré d'utilisation des mesures
 
 Le montant de la rémunération prévue à l'article L. 311-3 propre à chaque support est porté à la connaissance de l'acquéreur lors de la mise en vente des supports d'enregistrement mentionnés à l'article L. 311-4. Une notice explicative relative à cette rémunération et à ses finalités, qui peut être intégrée au support de façon dématérialisée, est également portée à sa connaissance. Cette notice mentionne la possibilité de conclure des conventions d'exonération ou d'obtenir le remboursement de la rémunération pour copie privée dans les conditions prévues à l'article L. 311-8.
 
-Les manquements au présent article sont recherchés et constatés par les agents mentionnés au II de l'article L. 450-1 du code de commerce, dans les conditions fixées à l'article L. 141-1 du code de la consommation. Ces manquements sont sanctionnés par une amende administrative dont le montant ne peut être supérieur à 3 000 €.
+Les manquements au présent article sont recherchés et constatés par les agents mentionnés aux articles L. 511-3 et L. 511-21 du code de la consommation, dans les conditions prévues à l'article L. 511-5 du code de la consommation. Ces manquements sont sanctionnés par une amende administrative dont le montant ne peut être supérieur à 3 000 €.
 
 Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
 
@@ -6167,11 +6167,11 @@ Le service ayant délivré l'autorisation peut la retirer à tout moment si l'un
 
 ###### Article L731-3
 
-Tout manquement à l'article L. 731-2 est passible d'une amende administrative dont le montant ne peut excéder 100 000 €. L'amende est prononcée par l'autorité administrative chargée de la concurrence et de la consommation dans les conditions prévues à l'article L. 141-1-2 du code de la consommation.
+Tout manquement à l'article L. 731-2 est passible d'une amende administrative dont le montant ne peut excéder 100 000 €. L'amende est prononcée par l'autorité administrative chargée de la concurrence et de la consommation dans les conditions prévues au chapitre II du titre II du livre V du code de la consommation.
 
 ###### Article L731-4
 
-Les manquements au présent chapitre sont recherchés et constatés dans les conditions prévues au II de l'article L. 141-1 du code de la consommation.
+Les manquements au présent chapitre sont recherchés et constatés par les agents mentionnés aux articles L. 511-3 et L. 511-21 du code de la consommation, dans les conditions prévues à l'article L. 511-6 du même code.
 
 ## Troisième partie : Dispositions relatives à l'outre-mer
 
@@ -9716,16 +9716,9 @@ Les dispositions de la présente sous-section régissent les sociétés constitu
 
 ####### Article R422-42
 
-Les actes et documents destinés aux tiers, notamment les lettres, factures, annonces et publications diverses, émanant d'une société d'exercice libéral de conseils en propriété industrielle doivent indiquer la dénomination sociale précédée ou suivie immédiatement, selon le cas :
-- soit de la mention "société d'exercice libéral à responsabilité limitée de conseils en propriété industrielle" ou de la mention "SELARL de conseils en propriété industrielle" ;
-- soit de la mention "société d'exercice libéral à forme anonyme de conseils en propriété industrielle" ou de la mention "SELAFA de conseils en propriété industrielle" ;
-- soit de la mention "société d'exercice libéral en commandite par actions de conseils en propriété industrielle" ou de la mention "SELCA de conseils en propriété industrielle",
+Les actes et documents destinés aux tiers, notamment les lettres, factures, annonces et publications diverses, émanant d'une société d'exercice libéral de conseils en propriété industrielle doivent indiquer la dénomination sociale précédée ou suivie immédiatement des mentions prévues au premier alinéa de l'article 2 de la loi du 31 décembre 1990 précitée.
 
-ainsi que de l'énonciation du montant de son capital social, de l'adresse de son siège social, de la mention de son inscription sur la liste des conseils en propriété industrielle et de son numéro d'immatriculation au registre du commerce et des sociétés.
-
-####### Article R422-43
-
-Une même personne physique ou morale exerçant la profession de conseil en propriété industrielle ne peut, au titre du troisième alinéa de l'article 5 de la loi n° 90-1258 du 31 décembre 1990, détenir de participations dans plus de deux sociétés d'exercice libéral de conseils en propriété industrielle.
+Ils indiquent également l'adresse de son siège social, la mention de son inscription sur la liste des conseils en propriété industrielle et son numéro d'immatriculation au registre du commerce et des sociétés.
 
 ####### Article R422-44
 
@@ -9775,19 +9768,7 @@ L'appartenance à la société en participation, avec la dénomination de celle-
 
 ####### Article R422-51-1
 
-Des conseils en propriété industrielle peuvent constituer, dans les conditions prévues à l'article 31-1 de la loi n° 90-1258 du 31 décembre 1990, une ou plusieurs sociétés de participations financières de la profession libérale de conseil en propriété industrielle ayant pour objet la détention de parts ou d'actions de sociétés d'exercice libéral constituées pour l'exercice de leur profession ou de groupements de droit étranger ayant pour objet l'exercice de cette même profession.
-
-Peuvent également être associés, à l'exclusion de toute autre personne :
-
-1° Pendant un délai de dix ans, des personnes physiques qui, ayant cessé toute activité professionnelle, ont exercé la profession de conseils en propriété industrielle ;
-
-2° Les ayants droit des personnes physiques mentionnées aux premier et troisième alinéas ci-dessus, pendant un délai de cinq ans suivant le décès de celles-ci ;
-
-3° Les personnes exerçant une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, autre que les professions libérales de santé ou les professions libérales juridiques ou judiciaires ;
-
-4° Des ressortissants des Etats membres de l'Union européenne, des autres Etats parties à l'accord sur l'Espace économique européen ou de la Confédération suisse, qui exercent en qualité de professionnel libéral, dans l'un de ces Etats membres ou parties ou dans la Confédération suisse, une activité soumise à un statut législatif ou réglementaire ou subordonnée à la possession d'une qualification nationale ou internationale reconnue et dont l'exercice constitue l'objet social de l'une des sociétés ou de l'un des groupements faisant l'objet d'une prise de participation.
-
-Ces sociétés sont régies par les dispositions du livre II du code de commerce, sous réserve des dispositions du présent chapitre.
+Les sociétés constituées, en application du titre IV de la loi n° 90-1258 du 31 décembre 1990, en vue de la détention de parts sociales ou d'actions dans des sociétés exerçant la profession de conseil en propriété industrielle sont régies par les dispositions du livre II du code de commerce, sous réserve des dispositions du présent chapitre.
 
 ####### Article R422-51-2
 
@@ -9801,7 +9782,7 @@ Cette déclaration est accompagnée, à peine d'irrecevabilité, des pièces sui
 
 1° Un exemplaire des statuts de la société ;
 
-2° Une attestation du greffier chargé de la tenue du registre du commerce et des sociétés au lieu du siège social constatant le dépôt au greffe de la demande, des actes annexés et des pièces nécessaires à l'immatriculation ultérieure de la société de participations financières ;
+2° Une attestation du greffier chargé de la tenue du registre du commerce et des sociétés au lieu du siège social constatant le dépôt au greffe de la demande, des actes annexés et des pièces nécessaires à l'immatriculation ultérieure de la société de participations financières, ou tout document attestant de l'immatriculation ;
 
 3° La liste des associés avec, selon le cas, l'indication de leur profession ou de leur qualité au regard de l'article R. 422-51-1, suivie, pour chacun, de la mention de la part du capital qu'il détient dans la société dont l'inscription est demandée.
 
@@ -9811,12 +9792,6 @@ La déclaration est, le cas échéant, accompagnée d'une note d'information dé
 
 Les sociétés de participations financières de profession libérale de conseil en propriété industrielle issues d'une fusion ou d'une scission sont soumises aux dispositions des articles R. 422-51-2 à R. 422-51-3.
 
-####### Article R422-51-6
-
-A la diligence du directeur de l'Institut national de la propriété industrielle, une ampliation de la déclaration d'inscription de la société est adressée au greffe du tribunal où a été déposée la demande d'immatriculation au registre du commerce et des sociétés. Au reçu de cette ampliation, le greffier procède à l'immatriculation et en informe le directeur général de l'Institut national de la propriété industrielle.
-
-La société est dispensée de procéder aux formalités de publicité prévues à l'article R. 210-16 du code de commerce.
-
 ####### Article R422-51-7
 
 La société de participations financières de profession libérale de conseil en propriété industrielle notifie au directeur général de l'Institut national de la propriété industrielle tout changement dans la situation déclarée en application de l'article R. 422-51-3, avec les pièces justificatives, dans un délai de trente jours à compter de la date à laquelle ce changement est intervenu.
@@ -9825,7 +9800,7 @@ La société de participations financières de profession libérale de conseil e
 
 Si ce changement a pour effet de rendre la situation déclarée de la société non conforme aux dispositions législatives et réglementaires en vigueur, la société est mise en demeure par le directeur général de l'institut de régulariser sa situation dans le délai indiqué par cette mise en demeure.
 
-Si, à l'expiration de ce délai, la société n'a pas régularisé sa situation, le directeur général de l'Institut saisit, à l'encontre des associés, la chambre de discipline prévue à l'article L. 422-10.
+Si, à l'expiration de ce délai, la société n'a pas régularisé sa situation, le directeur général de l'Institut saisit, à l'encontre des associés exerçant la profession, la chambre de discipline prévue à l'article L. 422-10.
 
 ####### Article R422-51-9
 
