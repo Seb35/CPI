@@ -332,15 +332,7 @@ e) La représentation ou la reproduction d'extraits d'oeuvres, sous réserve des
 
 6° La reproduction provisoire présentant un caractère transitoire ou accessoire, lorsqu'elle est une partie intégrante et essentielle d'un procédé technique et qu'elle a pour unique objet de permettre l'utilisation licite de l'oeuvre ou sa transmission entre tiers par la voie d'un réseau faisant appel à un intermédiaire ; toutefois, cette reproduction provisoire qui ne peut porter que sur des oeuvres autres que les logiciels et les bases de données ne doit pas avoir de valeur économique propre ;
 
-7° La reproduction et la représentation par des personnes morales et par les établissements ouverts au public, tels que bibliothèques, archives, centres de documentation et espaces culturels multimédias, en vue d'une consultation strictement personnelle de l'oeuvre par des personnes atteintes d'une ou de plusieurs déficiences des fonctions motrices, physiques, sensorielles, mentales, cognitives ou psychiques, dont le niveau d'incapacité est égal ou supérieur à un taux fixé par décret en Conseil d'Etat, et reconnues par la commission départementale de l'éducation spécialisée, la commission technique d'orientation et de reclassement professionnel ou la commission des droits et de l'autonomie des personnes handicapées mentionnée à l'article L. 146-9 du code de l'action sociale et des familles, ou reconnues par certificat médical comme empêchées de lire après correction. Cette reproduction et cette représentation sont assurées, à des fins non lucratives et dans la mesure requise par le handicap, par les personnes morales et les établissements mentionnés au présent alinéa, dont la liste est arrêtée par l'autorité administrative.
-
-Les personnes morales et établissements mentionnés au premier alinéa du présent 7° doivent apporter la preuve de leur activité professionnelle effective de conception, de réalisation et de communication de supports au bénéfice des personnes physiques mentionnées au même alinéa par référence à leur objet social, à l'importance de leurs membres ou usagers, aux moyens matériels et humains dont ils disposent et aux services qu'ils rendent.
-
-A la demande des personnes morales et des établissements mentionnés au premier alinéa du présent 7°, formulée dans les dix ans suivant le dépôt légal des œuvres imprimées, les fichiers numériques ayant servi à l'édition des œuvres dont la date de dépôt légal est postérieure au 4 août 2006 sont déposés au Centre national du livre ou auprès d'un organisme désigné par décret.
-
-Le Centre national du livre ou l'organisme désigné par décret conserve sans limitation de date les fichiers numériques ayant servi à l'édition de ces œuvres et les met à la disposition des personnes morales et des établissements mentionnés au premier alinéa du présent 7° dans un standard ouvert au sens de l'article 4 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique. Il garantit la confidentialité de ces fichiers et la sécurisation de leur accès.
-
-Les personnes morales et les établissements mentionnés au premier alinéa du présent 7° détruisent les fichiers mis à leur disposition une fois effectué le travail de conception, de réalisation et de communication de supports au bénéfice des personnes physiques mentionnées au même premier alinéa ;
+7° Dans les conditions prévues aux articles L. 122-5-1 et L. 122-5-2, la reproduction et la représentation par des personnes morales et par les établissements ouverts au public, tels que les bibliothèques, les archives, les centres de documentation et les espaces culturels multimédia, en vue d'une consultation strictement personnelle de l'œuvre par des personnes atteintes d'une ou de plusieurs déficiences des fonctions motrices, physiques, sensorielles, mentales, cognitives ou psychiques et empêchées, du fait de ces déficiences, d'accéder à l'œuvre dans la forme sous laquelle l'auteur la rend disponible au public ;
 
 8° La reproduction d'une œuvre et sa représentation effectuées à des fins de conservation ou destinées à préserver les conditions de sa consultation à des fins de recherche ou d'études privées par des particuliers, dans les locaux de l'établissement et sur des terminaux dédiés par des bibliothèques accessibles au public, par des musées ou par des services d'archives, sous réserve que ceux-ci ne recherchent aucun avantage économique ou commercial ;
 
@@ -352,7 +344,48 @@ Les reproductions ou représentations qui, notamment par leur nombre ou leur for
 
 Les exceptions énumérées par le présent article ne peuvent porter atteinte à l'exploitation normale de l'oeuvre ni causer un préjudice injustifié aux intérêts légitimes de l'auteur.
 
-Les modalités d'application du présent article, notamment les caractéristiques et les conditions de distribution des documents mentionnés au d du 3°, l'autorité administrative mentionnée au 7°, ainsi que les conditions de désignation des organismes dépositaires et d'accès aux fichiers numériques mentionnés au troisième alinéa du 7°, sont précisées par décret en Conseil d'Etat.
+Les modalités d'application du présent article, notamment les caractéristiques et les conditions de distribution des documents mentionnés au d du 3°, sont précisées par décret en Conseil d'Etat.
+
+###### Article L122-5-1
+
+La reproduction et la représentation mentionnées au 7° de l'article L. 122-5 sont assurées, à des fins non lucratives et dans la mesure requise par le handicap, dans les conditions suivantes :
+
+1° La reproduction et la représentation sont assurées par des personnes morales ou des établissements figurant sur une liste arrêtée conjointement par les ministres chargés de la culture et des personnes handicapées. La liste de ces personnes morales et de ces établissements est établie au vu de leur activité professionnelle effective de conception, de réalisation ou de communication de documents adaptés au bénéfice des personnes physiques mentionnées au 7° du même article L. 122-5 et par référence à leur objet social, à l'importance des effectifs de leurs membres ou de leurs usagers, aux moyens matériels et humains dont ils disposent et aux services qu'ils rendent ;
+
+2° La reproduction et la représentation peuvent également porter sur toute œuvre dont le fichier numérique est déposé par l'éditeur, dans un format facilitant la production de documents adaptés, auprès de la Bibliothèque nationale de France qui le met à la disposition des personnes morales et des établissements figurant sur la liste mentionnée au 1° du présent article et agréés à cet effet.
+
+Pour l'application du présent 2° :
+
+a) L'agrément est accordé conjointement par les ministres chargés de la culture et des personnes handicapées à ceux, parmi les personnes morales et établissements mentionnés au 1°, qui présentent des garanties et des capacités de sécurisation et de confidentialité des fichiers susceptibles d'être mis à leur disposition puis transmis par eux aux personnes bénéficiaires de la reproduction ou de la représentation ;
+
+b) Ce dépôt est obligatoire pour les éditeurs :
+
+- en ce qui concerne les livres scolaires, pour ceux dont le dépôt légal ou la publication sous forme de livre numérique, au sens de la loi n° 2011-590 du 26 mai 2011 relative au prix du livre numérique, sont postérieurs au 1er janvier 2016, au plus tard le jour de leur mise à la disposition du public ;
+- pour les autres œuvres, sur demande d'une des personnes morales et des établissements mentionnés au même 1° formulée dans les dix ans suivant le dépôt légal des œuvres imprimées quand celui-ci est postérieur au 4 août 2006 ou dès lors que des œuvres sont publiées sous forme de livre numérique, au sens de la loi n° 2011-590 du 26 mai 2011 précitée ;
+
+c) Le ministre chargé de la culture arrête la liste des formats mentionnés au premier alinéa du présent 2°, après avis de la Bibliothèque nationale de France, des personnes morales et des établissements mentionnés au présent 2° et des organisations représentatives des titulaires de droit d'auteur et des personnes handicapées concernées ;
+
+d) La Bibliothèque nationale de France conserve sans limitation de durée les fichiers déposés par les éditeurs. Elle garantit la confidentialité de ces fichiers et la sécurisation de leur accès ;
+
+e) Les personnes morales et les établissements agréés en application du premier alinéa du présent 2° détruisent les fichiers mis à leur disposition une fois effectué le travail de conception, de réalisation et de communication de documents adaptés au bénéfice des personnes physiques mentionnées au 7° de l'article L. 122-5 ;
+
+f) Les fichiers des documents adaptés sous forme numérique sont transmis à la Bibliothèque nationale de France par les personnes morales et les établissements mentionnés au 1° du présent article qui les ont réalisés. La Bibliothèque nationale de France les met à la disposition des autres personnes morales et établissements. Elle procède à une sélection des fichiers qu'elle conserve. Elle rend compte de cette activité de sélection et de conservation dans un rapport annuel rendu public ;
+
+g) La mise à disposition de documents adaptés est autorisée entre les personnes morales et les établissements mentionnés au même 1°.
+
+Les modalités d'application du présent article, notamment les modalités d'établissement de la liste mentionnée audit 1° et de l'agrément prévu au présent 2°, les caractéristiques des livres scolaires mentionnés au b du même 2°, les critères de la sélection prévue au f dudit 2° ainsi que les conditions d'accès aux fichiers numériques mentionnés au premier alinéa et au f du même 2° sont précisées par décret en Conseil d'Etat.
+
+###### Article L122-5-2
+
+Les personnes morales et les établissements agréés en application du 2° de l'article L. 122-5-1 peuvent, en outre, être autorisés, conjointement par les ministres chargés de la culture et des personnes handicapées, à recevoir et à mettre les documents adaptés à la disposition d'un organisme sans but lucratif établi dans un autre Etat, en vue de leur consultation par des personnes atteintes d'une déficience qui les empêche de lire, si une exception au droit d'auteur autorisant une telle consultation et répondant aux conditions fixées à l'avant-dernier alinéa de l'article L. 122-5 est consacrée par la législation de cet Etat.
+
+On entend par organisme, au sens du premier alinéa du présent article, toute personne morale ou tout établissement autorisé ou reconnu par un Etat pour exercer une activité professionnelle effective de conception, de réalisation et de communication de documents adaptés au bénéfice des personnes physiques atteintes d'une déficience qui les empêche de lire.
+
+Une convention entre ces organismes précise les conditions de mise à disposition des documents adaptés ainsi que les mesures prises par l'organisme sans but lucratif destinataire de ces documents afin de garantir que ceux-ci ne sont consultés que par les personnes physiques atteintes d'une déficience qui les empêche de lire.
+
+Les personnes morales et les établissements mentionnés autorisés en application du premier alinéa rendent compte chaque année, dans un rapport aux ministres chargés de la culture et des personnes handicapées, de la mise en œuvre des conventions conclues en application du troisième alinéa.
+
+Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat.
 
 ###### Article L122-6
 
@@ -505,7 +538,29 @@ Ce droit s'éteint au cas où le conjoint contracte un nouveau mariage.
 
 ###### Article L123-7
 
-Après le décès de l'auteur, le droit de suite mentionné à l'article L. 122-8 subsiste au profit de ses héritiers et, pour l'usufruit prévu à l'article L. 123-6, de son conjoint, à l'exclusion de tous légataires et ayants cause, pendant l'année civile en cours et les soixante-dix années suivantes.
+I.-Après le décès de l'auteur, le droit de suite mentionné à l'article L. 122-8 subsiste au profit de ses héritiers et, pour l'usufruit prévu à l'article L. 123-6, de son conjoint, pendant l'année civile en cours et les soixante-dix années suivantes.
+
+Sous réserve des droits des descendants et du conjoint survivant non divorcé, l'auteur peut transmettre le droit de suite par legs.
+
+En l'absence d'héritier et de legs du droit de suite, ce dernier revient au légataire universel ou, à défaut, au détenteur du droit moral.
+
+II.-En l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence, le tribunal de grande instance peut confier le bénéfice du droit de suite à une société régie par le titre II du livre III de la présente partie, agréée à cet effet par arrêté du ministre chargé de la culture. Le tribunal peut être saisi par le ministre chargé de la culture ou par la société agréée.
+
+Les sommes perçues par la société agréée sont affectées à la prise en charge d'une fraction des cotisations dues par les auteurs des arts graphiques et plastiques au titre de la retraite complémentaire.
+
+La gestion du droit de suite prévue au premier alinéa du présent II prend fin lorsqu'un ayant droit justifiant de sa qualité se fait connaître auprès de la société agréée.
+
+III.-L'agrément des sociétés prévu au II est délivré en considération :
+
+1° De la diversité des associés ;
+
+2° De la qualification professionnelle des dirigeants ;
+
+3° De l'importance de leur répertoire et de la représentation des auteurs d'œuvres originales graphiques et plastiques bénéficiaires du droit de suite, au sens de l'article L. 122-8, au sein des organes dirigeants ;
+
+4° Des moyens humains et matériels qu'ils proposent de mettre en œuvre pour permettre la prise en charge du droit de suite prévue au deuxième alinéa du II du présent article.
+
+IV.-Les modalités d'application du présent article, notamment de la délivrance et du retrait de l'agrément prévu au II, sont précisées par décret en Conseil d'Etat.
 
 ###### Article L123-8
 
@@ -540,6 +595,8 @@ La cession globale des oeuvres futures est nulle.
 ###### Article L131-2
 
 Les contrats de représentation, d'édition et de production audiovisuelle définis au présent titre doivent être constatés par écrit. Il en est de même des autorisations gratuites d'exécution.
+
+Les contrats par lesquels sont transmis des droits d'auteur doivent être constatés par écrit.
 
 Dans tous les autres cas, les dispositions des articles 1341 à 1348 du code civil sont applicables.
 
@@ -793,7 +850,7 @@ IV.-Les résiliations prévues aux II et III sont sans effet sur les contrats d'
 
 ######### Article L132-17-3
 
-I. - L'éditeur est tenu pour chaque livre de rendre compte à l'auteur du calcul de sa rémunération de façon explicite et transparente.
+I.-L'éditeur est tenu pour chaque livre de rendre compte à l'auteur du calcul de sa rémunération de façon explicite et transparente.
 
 A cette fin, l'éditeur adresse à l'auteur, ou met à sa disposition par un procédé de communication électronique, un état des comptes mentionnant :
 
@@ -807,13 +864,21 @@ Une partie spécifique de cet état des comptes est consacrée à l'exploitation
 
 La reddition des comptes est effectuée au moins une fois par an, à la date prévue au contrat ou, en l'absence de date, au plus tard six mois après l'arrêté des comptes.
 
-II. - Si l'éditeur n'a pas satisfait à son obligation de reddition des comptes selon les modalités et dans les délais prévus au I, l'auteur dispose d'un délai de six mois pour mettre en demeure l'éditeur d'y procéder.
+II.-Si l'éditeur n'a pas satisfait à son obligation de reddition des comptes selon les modalités et dans les délais prévus au I, l'auteur dispose d'un délai de six mois pour mettre en demeure l'éditeur d'y procéder.
 
 Lorsque cette mise en demeure n'est pas suivie d'effet dans un délai de trois mois, le contrat est résilié de plein droit.
 
-III. - Lorsque l'éditeur n'a satisfait, durant deux exercices successifs, à son obligation de reddition des comptes que sur mise en demeure de l'auteur, le contrat est résilié de plein droit dans les six mois qui suivent la seconde mise en demeure.
+III.-Lorsque l'éditeur n'a satisfait, durant deux exercices successifs, à son obligation de reddition des comptes que sur mise en demeure de l'auteur, le contrat est résilié de plein droit trois mois après la seconde mise en demeure.
 
-IV. - L'éditeur reste tenu, même en l'absence de mise en demeure par l'auteur, de respecter ses obligations légales et contractuelles de reddition des comptes.
+IV.-L'éditeur reste tenu, même en l'absence de mise en demeure par l'auteur, de respecter ses obligations légales et contractuelles de reddition des comptes.
+
+######### Article L132-17-3-1
+
+L'éditeur procède au paiement des droits au plus tard six mois après l'arrêté des comptes, sauf convention contraire précisée par l'accord rendu obligatoire mentionné à l'article L. 132-17-8.
+
+Si l'éditeur n'a pas satisfait à son obligation de paiement des droits dans les délais prévus au premier alinéa du présent article, l'auteur dispose d'un délai de douze mois pour mettre en demeure l'éditeur d'y procéder.
+
+Lorsque cette mise en demeure n'est pas suivie d'effet dans un délai de trois mois, le contrat est résilié de plein droit.
 
 ######### Article L132-17-4
 
@@ -871,7 +936,7 @@ II.-L'accord mentionné au I fixe les modalités d'application des dispositions 
 
 3° De l'article L. 132-17-2 relatives à l'exploitation permanente et suivie d'un livre édité sous une forme imprimée et sous une forme numérique ;
 
-4° De l'article L. 132-17-3 relatives à la reddition des comptes afin de préciser la forme de cette reddition, les délais de paiement des droits, les règles applicables à leur versement à l'auteur ainsi que les modalités d'information de celui-ci ;
+4° De l'article L. 132-17-3 relatives à la reddition des comptes afin de préciser la forme de cette reddition, les règles applicables au versement des droits à l'auteur ainsi que les modalités d'information de celui-ci ;
 
 5° Du II de l'article L. 132-17-4 relatives aux dérogations à certaines modalités de résiliation du contrat d'édition d'un livre ;
 
@@ -879,7 +944,9 @@ II.-L'accord mentionné au I fixe les modalités d'application des dispositions 
 
 7° De l'article L. 132-17-6 relatives au calcul de la rémunération de l'auteur provenant de la commercialisation et de la diffusion d'un livre édité sous une forme numérique, en l'absence de prix de vente à l'unité ;
 
-8° De l'article L. 132-17-7 relatives au réexamen des conditions économiques de la cession des droits d'exploitation d'un livre sous forme numérique, notamment la périodicité de ce réexamen, son objet et son régime ainsi que les modalités de règlement des différends.
+8° De l'article L. 132-17-7 relatives au réexamen des conditions économiques de la cession des droits d'exploitation d'un livre sous forme numérique, notamment la périodicité de ce réexamen, son objet et son régime ainsi que les modalités de règlement des différends ;
+
+9° De l'article L. 132-17-3-1 relatives au délai de paiement des droits et aux dérogations contractuelles à ce délai.
 
 III.-En l'absence d'un accord rendu obligatoire en vertu du I, les modalités d'application mentionnées au II sont fixées par décret en Conseil d'Etat.
 
@@ -977,7 +1044,9 @@ La rémunération des auteurs est due pour chaque mode d'exploitation.
 
 Sous réserve des dispositions de l'article L. 131-4, lorsque le public paie un prix pour recevoir communication d'une oeuvre audiovisuelle déterminée et individualisable, la rémunération est proportionnelle à ce prix, compte tenu des tarifs dégressifs éventuels accordés par le distributeur à l'exploitant ; elle est versée aux auteurs par le producteur.
 
-Les accords relatifs à la rémunération des auteurs conclus entre les organismes professionnels d'auteurs ou les sociétés de perception et de répartition des droits mentionnées au titre II du livre III et les organisations représentatives d'un secteur d'activité peuvent être rendus obligatoires à l'ensemble des intéressés du secteur d'activité concerné par arrêté du ministre chargé de la culture.
+####### Article L132-25-1
+
+Les accords relatifs à la rémunération des auteurs, ainsi que ceux traitant des pratiques contractuelles ou des usages professionnels entre auteurs et producteurs, conclus entre les organismes professionnels d'auteurs ou les sociétés de perception et de répartition des droits mentionnées au titre II du livre III de la présente partie, les organisations professionnelles représentatives des producteurs et, le cas échéant, les organisations représentatives d'autres secteurs d'activité peuvent être étendus à l'ensemble des intéressés par arrêté du ministre chargé de la culture.
 
 ####### Article L132-26
 
@@ -985,15 +1054,17 @@ L'auteur garantit au producteur l'exercice paisible des droits cédés.
 
 ####### Article L132-27
 
-Le producteur est tenu d'assurer à l'oeuvre audiovisuelle une exploitation conforme aux usages de la profession.
+Le producteur est tenu de rechercher une exploitation suivie de l'œuvre audiovisuelle, conforme aux usages de la profession.
 
-Les organisations représentatives des producteurs, les organisations professionnelles d'auteurs et les sociétés de perception et de répartition des droits mentionnées au titre II du livre III peuvent établir conjointement un recueil des usages de la profession.
+Le champ et les conditions de mise en œuvre de cette obligation ainsi que, le cas échéant, les dispositions convenues entre le producteur et ses cessionnaires ou mandataires sont définis par voie d'accord professionnel conclu entre, d'une part, les organismes professionnels d'auteurs ou les sociétés de perception et de répartition des droits mentionnées au titre II du livre III de la présente partie et, d'autre part, les organisations représentatives des producteurs d'œuvres audiovisuelles, les organisations représentatives des éditeurs de services de communication audiovisuelle ou un ensemble d'éditeurs de services de communication audiovisuelle représentatifs ainsi que, le cas échéant, un ensemble d'éditeurs de services de communication au public en ligne représentatifs et les organisations représentatives d'autres secteurs d'activité. L'accord peut être rendu obligatoire pour l'ensemble des intéressés des secteurs d'activité concernés par arrêté du ministre chargé de la culture. A défaut d'accord professionnel rendu obligatoire dans le délai de trois mois à compter de la promulgation de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, le champ et les conditions de mise en œuvre de cette obligation sont fixés par décret en Conseil d'Etat.
 
 ####### Article L132-28
 
 Le producteur fournit, au moins une fois par an, à l'auteur et aux coauteurs un état des recettes provenant de l'exploitation de l'oeuvre selon chaque mode d'exploitation.
 
 A leur demande, il leur fournit toute justification propre à établir l'exactitude des comptes, notamment la copie des contrats par lesquels il cède à des tiers tout ou partie des droits dont il dispose.
+
+Toute cession du bénéfice d'un contrat de production audiovisuelle à un tiers ne peut intervenir qu'après une information préalable des coauteurs par le cédant dans un délai minimal d'un mois avant la date effective de la cession. Tout contrat de production audiovisuelle fait mention de l'obligation prévue au présent alinéa
 
 ####### Article L132-29
 
@@ -1318,6 +1389,8 @@ L'organisme auprès duquel le titulaire de droits justifie de ses droits informe
 
 Un décret en Conseil d'Etat définit les modalités d'application du présent chapitre, notamment les sources d'informations appropriées pour chaque catégorie d'œuvres qui doivent être consultées au titre des recherches prévues au 1° de l'article L. 135-3.
 
+##### Chapitre VI : Dispositions applicables à la recherche et au référencement des œuvres d'art plastiques, graphiques ou photographiques
+
 ### Livre II : Les droits voisins du droit d'auteur
 
 #### Titre unique
@@ -1351,7 +1424,7 @@ Les bénéficiaires des droits ouverts au présent titre ne peuvent interdire :
 
 5° La reproduction provisoire présentant un caractère transitoire ou accessoire, lorsqu'elle est une partie intégrante et essentielle d'un procédé technique et qu'elle a pour unique objet de permettre l'utilisation licite de l'objet protégé par un droit voisin ou sa transmission entre tiers par la voie d'un réseau faisant appel à un intermédiaire ; toutefois, cette reproduction provisoire ne doit pas avoir de valeur économique propre ;
 
-6° La reproduction et la communication au public d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme dans les conditions définies aux deux premiers alinéas du 7° de l'article L. 122-5 ;
+6° La reproduction et la communication au public d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme dans les conditions définies au 7° de l'article L. 122-5, au 1° de l'article L. 122-5-1 et à l'article L. 122-5-2 ;
 
 7° Les actes de reproduction et de représentation d'une interprétation, d'un phonogramme, d'un vidéogramme ou d'un programme réalisés à des fins de conservation ou destinés à préserver les conditions de sa consultation à des fins de recherche ou d'études privées par des particuliers, dans les locaux de l'établissement et sur des terminaux dédiés, effectués par des bibliothèques accessibles au public, par des musées ou par des services d'archives, sous réserve que ceux-ci ne recherchent aucun avantage économique ou commercial.
 
@@ -1391,11 +1464,13 @@ Le chapitre V du titre III du livre Ier est applicable aux droits voisins.
 
 ##### Chapitre II : Droits des artistes-interprètes
 
-###### Article L212-1
+###### Section 1 : Dispositions communes
+
+####### Article L212-1
 
 A l'exclusion de l'artiste de complément, considéré comme tel par les usages professionnels, l'artiste-interprète ou exécutant est la personne qui représente, chante, récite, déclame, joue ou exécute de toute autre manière une oeuvre littéraire ou artistique, un numéro de variétés, de cirque ou de marionnettes.
 
-###### Article L212-2
+####### Article L212-2
 
 L'artiste-interprète a le droit au respect de son nom, de sa qualité et de son interprétation.
 
@@ -1403,13 +1478,13 @@ Ce droit inaliénable et imprescriptible est attaché à sa personne.
 
 Il est transmissible à ses héritiers pour la protection de l'interprétation et de la mémoire du défunt.
 
-###### Article L212-3
+####### Article L212-3
 
 Sont soumises à l'autorisation écrite de l'artiste-interprète la fixation de sa prestation, sa reproduction et sa communication au public, ainsi que toute utilisation séparée du son et de l'image de la prestation lorsque celle-ci a été fixée à la fois pour le son et l'image.
 
 Cette autorisation et les rémunérations auxquelles elle donne lieu sont régies par les dispositions des articles L. 762-1 et L. 762-2 du code du travail, sous réserve des dispositions de l'article L. 212-6 du présent code.
 
-###### Article L212-3-1
+####### Article L212-3-1
 
 I.-Au-delà des cinquante premières années du délai de soixante-dix ans prévu au 2° du I de l'article L. 211-4, l'artiste-interprète peut notifier son intention de résilier l'autorisation donnée en application de l'article L. 212-3 à un producteur de phonogrammes lorsque celui-ci n'offre pas à la vente des exemplaires du phonogramme en quantité suffisante ou ne le met pas à la disposition du public de manière que chacun puisse y avoir accès de sa propre initiative.
 
@@ -1417,13 +1492,13 @@ II.-Si, au cours des douze mois suivant la notification prévue au I du présent
 
 III.-Les modalités d'exercice du droit de résiliation sont définies par décret en Conseil d'Etat.
 
-###### Article L212-3-2
+####### Article L212-3-2
 
 Lorsqu'un phonogramme contient la fixation des prestations de plusieurs artistes-interprètes, ceux-ci exercent le droit de résiliation mentionné à l'article L. 212-3-1 d'un commun accord.
 
 En cas de désaccord, il appartient à la juridiction civile de statuer.
 
-###### Article L212-3-3
+####### Article L212-3-3
 
 I.-Si l'autorisation donnée en application de l'article L. 212-3 prévoit une rémunération forfaitaire, le producteur de phonogrammes verse à l'artiste-interprète, en contrepartie de l'exploitation du phonogramme contenant la fixation autorisée, une rémunération annuelle supplémentaire pour chaque année complète au-delà des cinquante premières années du délai de soixante-dix ans prévu au 2° du I de l'article L. 211-4. L'artiste-interprète ne peut renoncer à ce droit.
 
@@ -1449,47 +1524,49 @@ L'agrément prévu au premier alinéa du présent IV est délivré en considéra
 
 Un décret en Conseil d'Etat fixe les modalités de délivrance et de retrait de cet agrément.
 
-###### Article L212-3-4
+####### Article L212-3-4
 
 Si l'autorisation donnée en application de l'article L. 212-3 prévoit une rémunération proportionnelle, le producteur de phonogrammes ne peut retrancher les avances ou les déductions définies contractuellement de la rémunération due à l'artiste-interprète en contrepartie de l'exploitation du phonogramme contenant la fixation autorisée après les cinquante premières années du délai de soixante-dix ans prévu au 2° du I de l'article L. 211-4.
 
-###### Article L212-4
+####### Article L212-3-5
+
+Les artistes-interprètes ne peuvent interdire la reproduction et la communication publique de leur prestation si elle est accessoire à un événement constituant le sujet principal d'une séquence d'une oeuvre ou d'un document audiovisuel.
+
+####### Article L212-3-6
+
+Les dispositions de l'article L. 131-9 sont applicables aux contrats valant autorisation d'exploitation en application des articles L. 212-3 et L. 212-4, entre les producteurs et les artistes-interprètes.
+
+###### section 2 : Contrats conclus entre un artiste-interprète et un producteur de vidéogrammes
+
+####### Article L212-4
 
 La signature du contrat conclu entre un artiste-interprète et un producteur pour la réalisation d'une oeuvre audiovisuelle vaut autorisation de fixer, reproduire et communiquer au public la prestation de l'artiste-interprète.
 
 Ce contrat fixe une rémunération distincte pour chaque mode d'exploitation de l'oeuvre.
 
-###### Article L212-5
+####### Article L212-5
 
 Lorsque ni le contrat ni une convention collective ne mentionnent de rémunération pour un ou plusieurs modes d'exploitation, le niveau de celle-ci est fixé par référence à des barèmes établis par voie d'accords spécifiques conclus, dans chaque secteur d'activité, entre les organisations de salariés et d'employeurs représentatives de la profession.
 
-###### Article L212-6
+####### Article L212-6
 
 Les dispositions de l'article L. 762-2 du code du travail ne s'appliquent qu'à la fraction de la rémunération versée en application du contrat excédant les bases fixées par la convention collective ou l'accord spécifique.
 
-###### Article L212-7
+####### Article L212-7
 
 Les contrats passés antérieurement au 1er janvier 1986 entre un artiste-interprète et un producteur d'oeuvre audiovisuelle ou leurs cessionnaires sont soumis aux dispositions qui précèdent, en ce qui concerne les modes d'exploitation qu'ils excluaient. La rémunération correspondante n'a pas le caractère de salaire.
 
-###### Article L212-8
+####### Article L212-8
 
 Les stipulations des conventions ou accords mentionnés aux articles précédents peuvent être rendues obligatoires à l'intérieur de chaque secteur d'activité pour l'ensemble des intéressés par arrêté du ministre compétent.
 
-###### Article L212-9
+####### Article L212-9
 
 A défaut d'accord conclu dans les termes des articles L. 212-4 à L. 212-7 soit avant le 4 janvier 1986, soit à la date d'expiration du précédent accord, les modes et les bases de rémunération des artistes-interprètes sont déterminés, pour chaque secteur d'activité, par une commission présidée par un magistrat de l'ordre judiciaire désigné par le premier président de la Cour de cassation et composée, en outre, d'un membre du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat, d'une personnalité qualifiée désignée par le ministre chargé de la culture et, en nombre égal, de représentants des organisations de salariés et de représentants des organisations d'employeurs.
 
 La commission se détermine à la majorité de membres présents. En cas de partage des voix, le président a voix prépondérante. La commission se prononce dans les trois mois suivant l'expiration du délai fixé au premier alinéa du présent article.
 
 Sa décision a effet pour une durée de trois ans, sauf accord des intéressés intervenu avant ce terme.
-
-###### Article L212-10
-
-Les artistes-interprètes ne peuvent interdire la reproduction et la communication publique de leur prestation si elle est accessoire à un événement constituant le sujet principal d'une séquence d'une oeuvre ou d'un document audiovisuel.
-
-###### Article L212-11
-
-Les dispositions de l'article L. 131-9 sont applicables aux contrats valant autorisation d'exploitation en application des articles L. 212-3 et L. 212-4, entre les producteurs et les artistes-interprètes.
 
 ##### Chapitre III : Droits des producteurs de phonogrammes
 
@@ -1498,6 +1575,10 @@ Les dispositions de l'article L. 131-9 sont applicables aux contrats valant auto
 Le producteur de phonogrammes est la personne, physique ou morale, qui a l'initiative et la responsabilité de la première fixation d'une séquence de son.
 
 L'autorisation du producteur de phonogrammes est requise avant toute reproduction, mise à la disposition du public par la vente, l'échange ou le louage, ou communication au public de son phonogramme autres que celles mentionnées à l'article L. 214-1.
+
+###### Article L213-2
+
+Le contrat conclu par le producteur d'un phonogramme avec un éditeur de services de communication au public par voie électronique mettant à disposition des œuvres musicales fixe les conditions de l'exploitation des phonogrammes de manière objective et équitable. Ces conditions ne peuvent comporter de clauses discriminatoires non justifiées par des contreparties réelles.
 
 ##### Chapitre IV : Dispositions communes aux artistes-interprètes et aux producteurs de phonogrammes
 
@@ -1513,11 +1594,15 @@ Dans tous les autres cas, il incombe aux producteurs desdits programmes de se co
 
 Ces utilisations des phonogrammes publiés à des fins de commerce, quel que soit le lieu de fixation de ces phonogrammes, ouvrent droit à rémunération au profit des artistes-interprètes et des producteurs.
 
-Cette rémunération est versée par les personnes qui utilisent les phonogrammes publiés à des fins de commerce dans les conditions mentionnées aux 1° et 2° du présent article.
+Cette rémunération est versée par les personnes qui utilisent les phonogrammes publiés à des fins de commerce dans les conditions mentionnées aux 1°, 2° et 3° du présent article.
 
 Elle est assise sur les recettes de l'exploitation ou, à défaut, évaluée forfaitairement dans les cas prévus à l'article L. 131-4.
 
 Elle est répartie par moitié entre les artistes-interprètes et les producteurs de phonogrammes.
+
+3° A sa communication au public par un service de radio, au sens de l'article 2 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, à l'exclusion des services de radio dont le programme principal est dédié majoritairement à un artiste-interprète, à un même auteur, à un même compositeur ou est issu d'un même phonogramme.
+
+Dans tous les autres cas, il incombe aux services de communication au public en ligne de se conformer au droit exclusif des titulaires de droits voisins dans les conditions prévues aux articles L. 212-3, L. 213-1 et L. 213-2. Il en va ainsi des services ayant mis en place des fonctionnalités permettant à un utilisateur d'influencer le contenu du programme ou la séquence de sa communication.
 
 ###### Article L214-2
 
@@ -1525,7 +1610,7 @@ Sous réserve des conventions internationales, les droits à rémunération reco
 
 ###### Article L214-3
 
-Le barème de rémunération et les modalités de versement de la rémunération sont établis par des accords spécifiques à chaque branche d'activité entre les organisations représentatives des artistes-interprètes, des producteurs de phonogrammes et des personnes utilisant les phonogrammes dans les conditions prévues aux 1° et 2° de l'article L. 214-1.
+Le barème de rémunération et les modalités de versement de la rémunération sont établis par des accords spécifiques à chaque branche d'activité entre les organisations représentatives des artistes-interprètes, des producteurs de phonogrammes et des personnes utilisant les phonogrammes dans les conditions prévues aux 1°, 2° et 3° de l'article L. 214-1.
 
 Ces accords doivent préciser les modalités selon lesquelles les personnes utilisant les phonogrammes dans ces mêmes conditions s'acquittent de leur obligation de fournir aux sociétés de perception et de répartition des droits le programme exact des utilisations auxquelles elles procèdent et tous les éléments documentaires indispensables à la répartition des droits.
 
@@ -1535,7 +1620,7 @@ La durée de ces accords est comprise entre un et cinq ans.
 
 ###### Article L214-4
 
-A défaut d'accord intervenu avant le 30 juin 1986, ou si aucun accord n'est intervenu à l'expiration du précédent accord, le barème de rémunération et des modalités de versement de la rémunération sont arrêtés par une commission présidée par un représentant de l'Etat et composée, en nombre égal, d'une part, de membres désignés par les organisations représentant les bénéficiaires du droit à rémunération, d'autre part, de membres désignés par les organisations représentant les personnes qui, dans la branche d'activité concernée, utilisent les phonogrammes dans les conditions prévues aux 1° et 2° de l'article L. 214-1.
+A défaut d'accord intervenu avant le 30 juin 1986, ou si aucun accord n'est intervenu à l'expiration du précédent accord, le barème de rémunération et des modalités de versement de la rémunération sont arrêtés par une commission présidée par un représentant de l'Etat et composée, en nombre égal, d'une part, de membres désignés par les organisations représentant les bénéficiaires du droit à rémunération, d'autre part, de membres désignés par les organisations représentant les personnes qui, dans la branche d'activité concernée, utilisent les phonogrammes dans les conditions prévues aux 1°, 2° et 3° de l'article L. 214-1.
 
 Les organisations appelées à désigner les membres de la commission ainsi que le nombre de personnes que chacune est appelée à désigner sont déterminés par arrêté du ministre chargé de la culture.
 
@@ -1548,6 +1633,34 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 ###### Article L214-5
 
 La rémunération prévue à l'article L. 214-1 est perçue pour le compte des ayants droit et répartie entre ceux-ci par un ou plusieurs organismes mentionnés au titre II du livre III.
+
+###### Article L214-6
+
+I.-Sans préjudice du droit des parties de saisir le juge, le médiateur de la musique est chargé d'une mission de conciliation pour tout litige relatif à l'interprétation ou à l'exécution :
+
+1° De tout accord entre les artistes-interprètes dont l'interprétation est fixée dans un phonogramme, les producteurs de phonogrammes et les éditeurs de services de communication au public en ligne mettant à disposition des œuvres musicales ;
+
+2° D'un engagement contractuel entre un artiste-interprète et un producteur de phonogrammes ;
+
+3° D'un engagement contractuel entre un producteur de phonogrammes et un éditeur de services de communication au public en ligne mettant à disposition des œuvres musicales ;
+
+4° D'un engagement contractuel entre un producteur de phonogrammes et un producteur de spectacles.
+
+Dans le cadre de sa mission, le médiateur peut être saisi par tout artiste-interprète, par tout producteur de phonogrammes, par tout producteur de spectacles ou par tout éditeur de services de communication au public en ligne mettant à disposition des œuvres musicales. Il peut également être saisi par leurs mandataires ou par toute organisation professionnelle ou syndicale intéressée, ainsi que par le ministre chargé de la culture.
+
+Pour l'exercice de sa mission, il invite les parties à lui fournir toutes les informations qu'il estime nécessaires, sans que puisse lui être opposé le secret des affaires, et peut entendre toute personne dont l'audition lui paraît utile.
+
+Le médiateur de la musique exerce sa mission dans le respect des compétences de l'Autorité de la concurrence. Lorsque les faits relevés par le médiateur apparaissent constitutifs de pratiques anticoncurrentielles mentionnées aux articles L. 420-1 à L. 420-7 du code de commerce, le médiateur saisit l'Autorité de la concurrence. Cette saisine peut être introduite dans le cadre d'une procédure d'urgence, conformément à l'article L. 464-1 du même code. Le médiateur peut également saisir pour avis l'Autorité de la concurrence de toute question de concurrence en application de l'article L. 462-1 dudit code. L'Autorité de la concurrence peut consulter le médiateur sur toute question relevant de sa compétence et lui communiquer, à cette fin, toute saisine entrant dans le champ de cette compétence.
+
+Lorsque le litige dont il est saisi relève du champ de compétence d'une autre instance de conciliation créée par une convention ou un accord collectif de travail, le médiateur saisit cette instance pour avis. Il se déclare incompétent si cette instance lui en fait la demande.
+
+Le médiateur de la musique favorise ou suscite toute solution de conciliation aux litiges qui lui sont soumis. Lorsqu'il constate un accord entre les parties, il rédige un procès-verbal de conciliation précisant les mesures à prendre pour le mettre en œuvre. A défaut d'accord entre les parties, le médiateur peut émettre une recommandation proposant des mesures tendant à mettre fin au litige. Il peut rendre publique la décision de conciliation ou la recommandation, sous réserve des informations couvertes par le secret des affaires.
+
+II.-Le médiateur de la musique peut faire au ministre chargé de la culture toute proposition que lui paraît appeler l'accomplissement de ses missions. Il met en œuvre toute mesure de nature à favoriser l'adoption de codes des usages entre les organismes professionnels et les sociétés de perception et de répartition des droits représentant les artistes-interprètes et les producteurs de phonogrammes, entre les producteurs de phonogrammes et les producteurs de spectacles ou entre les producteurs de phonogrammes et les éditeurs de services de communication au public en ligne mettant à disposition des œuvres musicales.
+
+Le médiateur de la musique adresse chaque année un rapport sur son activité au ministre chargé de la culture. Ce rapport est public. Une copie en est adressée aux présidents des commissions permanentes de l'Assemblée nationale et du Sénat chargées de la culture.
+
+III.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 ##### Chapitre V : Droits des producteurs de vidéogrammes
 
@@ -1627,11 +1740,11 @@ La rémunération pour copie privée est, dans les conditions ci-après définie
 
 La rémunération prévue à l'article L. 311-3 est versée par le fabricant, l'importateur ou la personne qui réalise des acquisitions intracommunautaires, au sens du 3° du I de l'article 256 bis du code général des impôts, de supports d'enregistrement utilisables pour la reproduction à usage privé d'oeuvres, lors de la mise en circulation en France de ces supports.
 
-Le montant de la rémunération est fonction du type de support et de la durée ou de la capacité d'enregistrement qu'il permet.
+Cette rémunération est également versée par l'éditeur d'un service de radio ou de télévision ou son distributeur, au sens de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, qui fournit à une personne physique, par voie d'accès à distance, la reproduction à usage privé d'œuvres à partir d'un programme diffusé de manière linéaire par cet éditeur ou son distributeur, sous réserve que cette reproduction soit demandée par cette personne physique avant la diffusion du programme ou au cours de celle-ci pour la partie restante.
 
-Ce montant est également fonction de l'usage de chaque type de support. Cet usage est apprécié sur le fondement d'enquêtes.
+Le montant de la rémunération est fonction du type de support et de la durée ou de la capacité d'enregistrement qu'il permet ou, dans le cas mentionné au deuxième alinéa du présent article, du nombre d'utilisateurs du service de stockage proposé par l'éditeur ou le distributeur du service de radio ou de télévision et des capacités de stockage mises à disposition par cet éditeur ou ce distributeur.
 
-Toutefois, lorsque des éléments objectifs permettent d'établir qu'un support peut être utilisé pour la reproduction à usage privé d'œuvres et doit, en conséquence, donner lieu au versement de la rémunération, le montant de cette rémunération peut être déterminé par application des seuls critères mentionnés au deuxième alinéa, pour une durée qui ne peut excéder un an à compter de cet assujettissement.
+Ce montant est également fonction de l'usage de chaque type de support et, dans le cas mentionné au même deuxième alinéa, des capacités de stockage mises à disposition par un éditeur ou un distributeur d'un service de radio ou de télévision. Cet usage est apprécié sur le fondement d'enquêtes. Toutefois, lorsque des éléments objectifs permettent d'établir qu'un support ou une capacité de stockage mise à disposition par un éditeur ou un distributeur de service de radio ou de télévision peut être utilisé pour la reproduction à usage privé d'œuvres et doit, en conséquence, donner lieu au versement de la rémunération, le montant de cette rémunération peut être déterminé par application des seuls critères mentionnés au troisième alinéa, pour une durée qui ne peut excéder un an à compter de cet assujettissement.
 
 Le montant de la rémunération tient compte du degré d'utilisation des mesures techniques définies à l'article L. 331-5 et de leur incidence sur les usages relevant de l'exception pour copie privée. Il ne peut porter rémunération des actes de copie privée ayant déjà donné lieu à compensation financière.
 
@@ -1645,7 +1758,9 @@ Les conditions d'application du présent article sont définies par décret en C
 
 ###### Article L311-5
 
-Les types de support, les taux de rémunération et les modalités de versement de celle-ci sont déterminés par une commission présidée par un représentant de l'Etat et composée, en outre, pour moitié, de personnes désignées par les organisations représentant les bénéficiaires du droit à rémunération, pour un quart, de personnes désignées par les organisations représentant les fabricants ou importateurs des supports mentionnés au premier alinéa de l'article L. 311-4 et, pour un quart, de personnes désignées par les organisations représentant les consommateurs.
+Les types de support, les taux de rémunération et les modalités de versement de celle-ci sont déterminés par une commission présidée par un représentant de l'Etat et composée, en outre, pour moitié, de personnes désignées par les organisations représentant les bénéficiaires du droit à rémunération, pour un quart, de personnes désignées par les organisations représentant les fabricants ou importateurs des supports mentionnés au premier alinéa de l'article L. 311-4 et, pour un quart, de personnes désignées par les organisations représentant les consommateurs. Trois représentants des ministres chargés de la culture, de l'industrie et de la consommation participent aux travaux de la commission, avec voix consultative. Le président et les membres de la commission transmettent au président de la Haute Autorité pour la transparence de la vie publique, dans un délai de deux mois suivant leur nomination, une déclaration d'intérêts telle que prévue au III de l'article 4 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique.
+
+Le règlement intérieur de la commission et ses modifications font l'objet d'une publication au Journal officiel.
 
 Les comptes rendus des réunions de la commission sont rendus publics, selon des modalités fixées par décret. La commission publie un rapport annuel, transmis au Parlement.
 
@@ -1655,9 +1770,19 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 
 ###### Article L311-6
 
-La rémunération prévue à l'article L. 311-1 est perçue pour le compte des ayants droit par un ou plusieurs organismes mentionnés au titre II du présent livre.
+I.-La rémunération prévue à l'article L. 311-1 est perçue pour le compte des ayants droit par un ou plusieurs organismes mentionnés au titre II du présent livre, agréés à cet effet par le ministre chargé de la culture.
 
-Elle est répartie entre les ayants droit par les organismes mentionnés à l'alinéa précédent, à raison des reproductions privées dont chaque oeuvre fait l'objet.
+L'agrément est délivré pour cinq années en considération :
+
+1° De la qualification professionnelle des dirigeants de l'organisme ;
+
+2° Des moyens que l'organisme propose de mettre en œuvre pour assurer la perception des droits ;
+
+3° De la diversité des associés de la société.
+
+II.-La rémunération prévue à l'article L. 311-1 est répartie entre les ayants droit par les organismes mentionnés au I du présent article, à raison des reproductions privées dont chaque œuvre fait l'objet.
+
+III.-Une part ne pouvant excéder 1 % des sommes provenant de la rémunération pour copie privée est affectée par ces organismes au financement des enquêtes d'usage réalisées, en application du quatrième alinéa de l'article L. 311-4, par la commission mentionnée à l'article L. 311-5, qui en rédige les cahiers des charges préalables.
 
 ###### Article L311-7
 
@@ -1681,7 +1806,9 @@ I.-La rémunération pour copie privée n'est pas due lorsque le support d'enreg
 
 II.-La rémunération pour copie privée n'est pas due non plus pour les supports d'enregistrement acquis notamment à des fins professionnelles dont les conditions d'utilisation ne permettent pas de présumer un usage à des fins de copie privée.
 
-III.-Une convention constatant l'exonération et en fixant les modalités peut être conclue entre les personnes bénéficiaires des I ou II et l'un des organismes mentionnés au premier alinéa de l'article L. 311-6. En cas de refus de l'un des organismes de conclure une convention, ce dernier doit préciser les motifs de ce refus.
+II bis.-La rémunération pour copie privée n'est pas due non plus par les personnes qui procèdent à l'exportation ou à la livraison intracommunautaire de supports d'enregistrement mis en circulation en France.
+
+III.-Une convention constatant l'exonération et en fixant les modalités peut être conclue entre les personnes bénéficiaires des I, II ou II bis et l'un des organismes mentionnés au I de l'article L. 311-6. En cas de refus de l'un des organismes de conclure une convention, ce dernier doit préciser les motifs de ce refus.
 
 A défaut de conclusion d'une convention, ces personnes ont droit au remboursement de la rémunération sur production de justificatifs déterminés par les ministres chargés de la culture et de l'économie.
 
@@ -1731,7 +1858,7 @@ Les statuts des sociétés de perception et de répartition des droits doivent p
 
 ###### Article L321-9
 
-Ces sociétés utilisent à des actions d'aide à la création, à la diffusion du spectacle vivant et à des actions de formation des artistes :
+Ces sociétés utilisent à des actions d'aide à la création, à la diffusion du spectacle vivant, au développement de l'éducation artistique et culturelle et à des actions de formation des artistes :
 
 1° 25 % des sommes provenant de la rémunération pour copie privée ;
 
@@ -1739,7 +1866,9 @@ Ces sociétés utilisent à des actions d'aide à la création, à la diffusion 
 
 Elles peuvent utiliser à ces actions tout ou partie des sommes visées au 2° à compter de la fin de la cinquième année suivant la date de leur mise en répartition. La répartition des sommes correspondantes, qui ne peut bénéficier à un organisme unique, est soumise à un vote de l'assemblée générale de la société, qui se prononce à la majorité des deux tiers. A défaut d'une telle majorité, une nouvelle assemblée générale, convoquée spécialement à cet effet, statue à la majorité simple.
 
-Le montant et l'utilisation de ces sommes font l'objet, chaque année, d'un rapport des sociétés de perception et de répartition des droits au ministre chargé de la culture et aux commissions permanentes compétentes de l'Assemblée nationale et du Sénat. Le commissaire aux comptes vérifie la sincérité et la concordance avec les documents comptables de la société des informations contenues dans ce rapport. Il établit à cet effet un rapport spécial.
+Les sociétés de perception et de répartition des droits établissent et gèrent une base de données électronique unique recensant, avec le nom de leurs bénéficiaires, le montant et l'utilisation de ces sommes. Cette base est régulièrement mise à jour et mise à disposition gratuitement, sur un service de communication au public en ligne, dans un format ouvert et librement réutilisable. Le commissaire aux comptes vérifie la sincérité et la concordance avec les documents comptables de la société des informations contenues dans cette base de données. Il établit à cet effet un rapport spécial.
+
+L'aide au développement de l'éducation artistique et culturelle s'entend des concours apportés par des auteurs ou des artistes-interprètes aux actions mentionnées au 9° de l'article 3 de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine.
 
 ###### Article L321-10
 
@@ -1850,7 +1979,9 @@ Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuv
 
 ####### Article L331-3
 
-Le Centre national de la cinématographie peut exercer les droits reconnus à la partie civile en ce qui concerne le délit de contrefaçon, au sens de l'article L. 335-3, d'une oeuvre audiovisuelle lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
+Le Centre national du cinéma et de l'image animée peut porter plainte et se constituer partie civile devant le juge d'instruction à raison des faits constitutifs du délit de contrefaçon, au sens de l'article L. 335-3 du présent code, d'œuvres audiovisuelles qui emportent pour lui un préjudice quant aux ressources qui lui sont affectées en application des articles L. 115-1 à L. 116-5 du code du cinéma et de l'image animée pour l'accomplissement de ses missions prévues à l'article L. 111-2 du même code.
+
+Il peut également exercer les droits reconnus à la partie civile en ce qui concerne le délit de contrefaçon, au sens de l'article L. 335-3 du présent code, d'œuvres audiovisuelles et le délit prévu à l'article L. 335-4 s'agissant des droits des artistes-interprètes d'œuvres audiovisuelles et des producteurs de vidéogrammes, lorsque l'action publique a été mise en mouvement par le ministère public ou la partie lésée.
 
 ####### Article L331-4
 
@@ -1893,6 +2024,10 @@ Les titulaires de droits ne sont cependant pas tenus de prendre les dispositions
 Les éditeurs et les distributeurs de services de télévision ne peuvent recourir à des mesures techniques qui auraient pour effet de priver le public du bénéfice de l'exception pour copie privée, y compris sur un support et dans un format numérique, dans les conditions mentionnées au 2° de l'article L. 122-5 et au 2° de l'article L. 211-3.
 
 Le Conseil supérieur de l'audiovisuel veille au respect des obligations du premier alinéa dans les conditions définies par les articles 42 et 48-1 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+
+Lorsqu'un distributeur d'un service de radio ou de télévision met à disposition un service de stockage mentionné au deuxième alinéa de l'article L. 311-4, une convention conclue avec l'éditeur de ce service de radio ou de télévision définit préalablement les fonctionnalités de ce service de stockage.
+
+Le Conseil supérieur de l'audiovisuel peut être saisi par un éditeur ou un distributeur des services de tout différend relatif à la conclusion ou à l'exécution de la convention mentionnée à l'avant-dernier alinéa du présent article et rendre une décision dans les conditions définies à l'article 17-1 de la loi n° 86-1067 du 30 septembre 1986 précitée.
 
 ####### Article L331-10
 
@@ -2562,7 +2697,7 @@ L'article L. 332-4 est applicable aux logiciels mentionnés au présent article.
 
 ###### Article L336-2
 
-En présence d'une atteinte à un droit d'auteur ou à un droit voisin occasionnée par le contenu d'un service de communication au public en ligne, le tribunal de grande instance, statuant le cas échéant en la forme des référés, peut ordonner à la demande des titulaires de droits sur les œuvres et objets protégés, de leurs ayants droit, des sociétés de perception et de répartition des droits visées à l'article L. 321-1 ou des organismes de défense professionnelle visés à l'article L. 331-1, toutes mesures propres à prévenir ou à faire cesser une telle atteinte à un droit d'auteur ou un droit voisin, à l'encontre de toute personne susceptible de contribuer à y remédier.
+En présence d'une atteinte à un droit d'auteur ou à un droit voisin occasionnée par le contenu d'un service de communication au public en ligne, le tribunal de grande instance, statuant le cas échéant en la forme des référés, peut ordonner à la demande des titulaires de droits sur les œuvres et objets protégés, de leurs ayants droit, des sociétés de perception et de répartition des droits visées à l'article L. 321-1 ou des organismes de défense professionnelle visés à l'article L. 331-1, toutes mesures propres à prévenir ou à faire cesser une telle atteinte à un droit d'auteur ou un droit voisin, à l'encontre de toute personne susceptible de contribuer à y remédier. La demande peut également être effectuée par le Centre national du cinéma et de l'image animée.
 
 ###### Article L336-3
 
@@ -2620,7 +2755,7 @@ Lorsqu'une base de données est mise à la disposition du public par le titulair
 
 2° L'extraction à des fins privées d'une partie qualitativement ou quantitativement substantielle du contenu d'une base de données non électronique sous réserve du respect des droits d'auteur ou des droits voisins sur les oeuvres ou éléments incorporés dans la base ;
 
-3° L'extraction et la réutilisation d'une base de données dans les conditions définies aux deux premiers alinéas du 7° de l'article L. 122-5 ;
+3° L'extraction et la réutilisation d'une base de données dans les conditions définies au 7° de l'article L. 122-5, au 1° de l'article L. 122-5-1 et à l'article L. 122-5-2 ;
 
 4° L'extraction et la réutilisation d'une partie substantielle, appréciée de façon qualitative ou quantitative, du contenu de la base, sous réserve des bases de données conçues à des fins pédagogiques et des bases de données réalisées pour une édition numérique de l'écrit, à des fins exclusives d'illustration dans le cadre de l'enseignement et de la recherche, à l'exclusion de toute activité ludique ou récréative, dès lors que le public auquel cette extraction et cette réutilisation sont destinées est composé majoritairement d'élèves, d'étudiants, d'enseignants ou de chercheurs directement concernés, que la source est indiquée, que l'utilisation de cette extraction et cette réutilisation ne donne lieu à aucune exploitation commerciale et qu'elle est compensée par une rémunération négociée sur une base forfaitaire.
 
