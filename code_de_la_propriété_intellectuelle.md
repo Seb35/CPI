@@ -9859,10 +9859,6 @@ Ils indiquent également l'adresse de son siège social, la mention de son inscr
 
 La détention de parts d'une société d'exercice libéral de conseils en propriété industrielle est interdite à toute personne radiée de la liste des conseils en propriété industrielle ou de la liste des conseils en brevets d'invention telle qu'elle était prévue à l'article 3 du décret n° 76-671 du 13 juillet 1976 modifié relatif à la qualification professionnelle en matière de brevets d'invention et portant organisation et régime disciplinaire de la profession de conseil en brevets d'invention.
 
-####### Article R422-45
-
-Un associé ne peut exercer la profession de conseil en propriété industrielle qu'au sein d'une seule société d'exercice libéral et ne peut exercer la même profession à titre individuel ou au sein d'une autre société quelle qu'en soit la forme.
-
 ####### Article R422-46
 
 Les sociétés d'exercice libéral de conseils en propriété industrielle sont soumises aux dispositions relatives aux obligations, à la garantie et à la discipline applicables à la profession de conseil en propriété industrielle.
