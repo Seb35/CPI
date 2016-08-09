@@ -3679,6 +3679,8 @@ I. - Ne sont pas brevetables :
 
 3° Les procédés essentiellement biologiques pour l'obtention des végétaux et des animaux ; sont considérés comme tels les procédés qui font exclusivement appel à des phénomènes naturels comme le croisement ou la sélection ;
 
+3° bis Les produits exclusivement obtenus par des procédés essentiellement biologiques définis au 3°, y compris les éléments qui constituent ces produits et les informations génétiques qu'ils contiennent ;
+
 4° Les procédés de modification de l'identité génétique des animaux de nature à provoquer chez eux des souffrances sans utilité médicale substantielle pour l'homme ou l'animal, ainsi que les animaux issus de tels procédés.
 
 II. - Nonobstant les dispositions du I, les inventions portant sur des végétaux ou des animaux sont brevetables si la faisabilité technique de l'invention n'est pas limitée à une variété végétale ou à une race animale déterminées.
@@ -3916,6 +3918,8 @@ Cette protection ne s'applique pas en cas de présence fortuite ou accidentelle 
 La protection conférée par un brevet relatif à une matière biologique dotée, du fait de l'invention, de propriétés déterminées s'étend à toute matière biologique obtenue à partir de cette matière biologique par reproduction ou multiplication et dotée de ces mêmes propriétés.
 
 La protection conférée par un brevet relatif à un procédé permettant de produire une matière biologique dotée, du fait de l'invention, de propriétés déterminées s'étend à la matière biologique directement obtenue par ce procédé et à toute autre matière biologique obtenue, à partir de cette dernière, par reproduction ou multiplication et dotée de ces mêmes propriétés.
+
+La protection conférée par un brevet relatif à une matière biologique dotée, du fait de l'invention, de propriétés déterminées ne s'étend pas aux matières biologiques dotées de ces propriétés déterminées, obtenues indépendamment de la matière biologique brevetée et par procédé essentiellement biologique, ni aux matières biologiques obtenues à partir de ces dernières, par reproduction ou multiplication.
 
 ####### Article L613-2-4
 
