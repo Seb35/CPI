@@ -8993,13 +8993,13 @@ L'Institut national de la propriété industrielle organise la consultation publ
 
 ###### Article D411-1-3
 
-Les informations publiques de l'Institut national de la propriété industrielle relatives aux titres de propriété industrielle peuvent être mises à la disposition du public sur demande, par voie électronique ou sur support informatique, à des fins de réutilisation.
+Les informations publiques de l'Institut national de la propriété industrielle relatives aux titres de propriété industrielle et au registre national du commerce et des sociétés peuvent être mises à la disposition du public sur demande, par voie électronique ou sur support informatique, à des fins de réutilisation.
 
-La réutilisation de tout ou partie de ces informations publiques est soumise à l'acceptation par le demandeur d'une licence incluant l'engagement à ne pas faire un usage des données à caractère personnel contraire aux dispositions de la
-loi n° 78-753 du 17 juillet 1978
-portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal.
+La réutilisation de tout ou partie de ces informations publiques est soumise à l'acceptation par le demandeur d'une licence incluant l'engagement à ne pas faire un usage des données à caractère personnel contraire aux dispositions du livre III du code des relations entre le public et l'administration. Pour la réutilisation des informations du registre national du commerce et des sociétés, la licence inclut l'engagement de respecter les restrictions relatives aux critères de recherche prévues en application de l'article R. 123-151 du code de commerce.
 
-La description de ces informations ainsi que le modèle de licence sont accessibles sur le site internet de l'Institut national de la propriété industrielle.
+Les modalités de diffusion et de mise à la disposition du public des informations du registre national du commerce et des sociétés respectent les dispositions relatives à la communication des décisions de justice et des documents comptables prévues aux articles R. 123-154 et R. 123-154-1 du code de commerce.
+
+La description des informations mises à la disposition du public ainsi que les modèles de licence sont accessibles sur le site internet de l'Institut national de la propriété industrielle.
 
 ###### Article R411-1-4
 
