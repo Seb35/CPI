@@ -598,7 +598,7 @@ Les contrats de représentation, d'édition et de production audiovisuelle défi
 
 Les contrats par lesquels sont transmis des droits d'auteur doivent être constatés par écrit.
 
-Dans tous les autres cas, les dispositions des articles 1341 à 1348 du code civil sont applicables.
+Dans tous les autres cas, les dispositions des articles 1359 à 1362 du code civil sont applicables.
 
 ###### Article L131-3
 
@@ -8229,7 +8229,7 @@ Dès réception de la saisine, la commission de protection des droits en accuse 
 
 ####### Article R331-36
 
-Les procès-verbaux dressés par les agents assermentés et agréés mentionnés à l'article L. 331-24 peuvent être établis sous la forme électronique. Dans ce cas, il est fait usage d'une signature électronique sécurisée dans les conditions prévues par l'article 1316-4 du code civil et le décret n° 2001-272 du 30 mars 2001 pris pour l'application de l'article 1316-4 du code civil et relatif à la signature électronique.
+Les procès-verbaux dressés par les agents assermentés et agréés mentionnés à l'article L. 331-24 peuvent être établis sous la forme électronique. Dans ce cas, il est fait usage d'une signature électronique sécurisée dans les conditions prévues par l'article 1367 du code civil et le décret n° 2001-272 du 30 mars 2001 pris pour l'application de l'article 1316-4 du code civil et relatif à la signature électronique.
 
 ####### Article R331-37
 
