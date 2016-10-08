@@ -338,7 +338,11 @@ e) La représentation ou la reproduction d'extraits d'oeuvres, sous réserve des
 
 9° La reproduction ou la représentation, intégrale ou partielle, d'une oeuvre d'art graphique, plastique ou architecturale, par voie de presse écrite, audiovisuelle ou en ligne, dans un but exclusif d'information immédiate et en relation directe avec cette dernière, sous réserve d'indiquer clairement le nom de l'auteur.
 
-Le premier alinéa du présent 9° ne s'applique pas aux oeuvres, notamment photographiques ou d'illustration, qui visent elles-mêmes à rendre compte de l'information.
+Le premier alinéa du présent 9° ne s'applique pas aux oeuvres, notamment photographiques ou d'illustration, qui visent elles-mêmes à rendre compte de l'information ;
+
+10° Les copies ou reproductions numériques réalisées à partir d'une source licite, en vue de l'exploration de textes et de données incluses ou associées aux écrits scientifiques pour les besoins de la recherche publique, à l'exclusion de toute finalité commerciale. Un décret fixe les conditions dans lesquelles l'exploration des textes et des données est mise en œuvre, ainsi que les modalités de conservation et de communication des fichiers produits au terme des activités de recherche pour lesquelles elles ont été produites ; ces fichiers constituent des données de la recherche ;
+
+11° Les reproductions et représentations d'œuvres architecturales et de sculptures, placées en permanence sur la voie publique, réalisées par des personnes physiques, à l'exclusion de tout usage à caractère commercial.
 
 Les reproductions ou représentations qui, notamment par leur nombre ou leur format, ne seraient pas en stricte proportion avec le but exclusif d'information immédiate poursuivi ou qui ne seraient pas en relation directe avec cette dernière donnent lieu à rémunération des auteurs sur la base des accords ou tarifs en vigueur dans les secteurs professionnels concernés.
 
@@ -2757,7 +2761,9 @@ Lorsqu'une base de données est mise à la disposition du public par le titulair
 
 3° L'extraction et la réutilisation d'une base de données dans les conditions définies au 7° de l'article L. 122-5, au 1° de l'article L. 122-5-1 et à l'article L. 122-5-2 ;
 
-4° L'extraction et la réutilisation d'une partie substantielle, appréciée de façon qualitative ou quantitative, du contenu de la base, sous réserve des bases de données conçues à des fins pédagogiques et des bases de données réalisées pour une édition numérique de l'écrit, à des fins exclusives d'illustration dans le cadre de l'enseignement et de la recherche, à l'exclusion de toute activité ludique ou récréative, dès lors que le public auquel cette extraction et cette réutilisation sont destinées est composé majoritairement d'élèves, d'étudiants, d'enseignants ou de chercheurs directement concernés, que la source est indiquée, que l'utilisation de cette extraction et cette réutilisation ne donne lieu à aucune exploitation commerciale et qu'elle est compensée par une rémunération négociée sur une base forfaitaire.
+4° L'extraction et la réutilisation d'une partie substantielle, appréciée de façon qualitative ou quantitative, du contenu de la base, sous réserve des bases de données conçues à des fins pédagogiques et des bases de données réalisées pour une édition numérique de l'écrit, à des fins exclusives d'illustration dans le cadre de l'enseignement et de la recherche, à l'exclusion de toute activité ludique ou récréative, dès lors que le public auquel cette extraction et cette réutilisation sont destinées est composé majoritairement d'élèves, d'étudiants, d'enseignants ou de chercheurs directement concernés, que la source est indiquée, que l'utilisation de cette extraction et cette réutilisation ne donne lieu à aucune exploitation commerciale et qu'elle est compensée par une rémunération négociée sur une base forfaitaire ;
+
+5° Les copies ou reproductions numériques de la base réalisées par une personne qui y a licitement accès, en vue de fouilles de textes et de données incluses ou associées aux écrits scientifiques dans un cadre de recherche, à l'exclusion de toute finalité commerciale. La conservation et la communication des copies techniques issues des traitements, au terme des activités de recherche pour lesquelles elles ont été produites, sont assurées par des organismes désignés par décret. Les autres copies ou reproductions sont détruites.
 
 Toute clause contraire au 1° ci-dessus est nulle.
 
