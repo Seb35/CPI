@@ -1572,6 +1572,50 @@ La commission se détermine à la majorité de membres présents. En cas de part
 
 Sa décision a effet pour une durée de trois ans, sauf accord des intéressés intervenu avant ce terme.
 
+###### Section 3 : Contrats conclus entre un artiste-interprète et un producteur de phonogrammes
+
+####### Article L212-10
+
+L'existence ou la conclusion d'un contrat de louage d'ouvrage ou de service avec un producteur de phonogrammes n'emporte pas dérogation à la jouissance des droits reconnus à l'artiste-interprète par les articles L. 212-2 et L. 212-3, sous réserve des exceptions prévues au présent code.
+
+####### Article L212-11
+
+La cession des droits de l'artiste-interprète mentionnés au présent code est subordonnée à la condition que chacun des droits cédés fasse l'objet d'une mention distincte dans le contrat conclu avec le producteur de phonogrammes et que le domaine d'exploitation de ces droits soit délimité quant à son étendue et à sa destination, quant au lieu et quant à la durée.
+
+Toute clause qui tend à conférer le droit d'exploiter la prestation de l'artiste-interprète sous une forme non prévisible ou non prévue à la date de signature est expresse et stipule, au bénéfice des artistes-interprètes dont les contrats prévoient le paiement direct par le producteur d'une rémunération proportionnelle aux recettes de l'exploitation, une participation corrélative auxdites recettes.
+
+Lorsque l'artiste-interprète cède à un producteur de phonogrammes une créance sur les rémunérations provenant d'exploitations à venir de sa prestation en contrepartie d'une avance consentie par ce dernier, cette cession ne peut porter sur les rémunérations mentionnées aux articles L. 214-1 et L. 311-1. Toute clause contraire est nulle.
+
+La cession au producteur de phonogrammes de droits de l'artiste-interprète autres que ceux mentionnés au présent code est subordonnée à la condition que chacun des droits cédés fasse l'objet d'une mention expresse distincte dans le contrat.
+
+####### Article L212-12
+
+En cas d'abus notoire dans le non-usage par un producteur de phonogrammes des droits d'exploitation qui lui ont été cédés, la juridiction civile compétente peut ordonner toute mesure appropriée.
+
+####### Article L212-13
+
+Le contrat conclu entre l'artiste-interprète et le producteur de phonogrammes fixe une rémunération minimale garantie en contrepartie de l'autorisation de fixation, rémunérée sous forme de salaire, de la prestation de l'artiste-interprète.
+
+Chaque mode d'exploitation du phonogramme incorporant la prestation de l'artiste-interprète prévu au contrat fait l'objet d'une rémunération distincte.
+
+Sont regardées comme des modes d'exploitation distincts la mise à disposition du phonogramme sous une forme physique et sa mise à disposition par voie électronique.
+
+####### Article L212-14
+
+I.-La mise à disposition d'un phonogramme de manière que chacun puisse y avoir accès de sa propre initiative, dans le cadre des diffusions en flux, fait l'objet d'une garantie de rémunération minimale.
+
+II.-Les modalités de la garantie de rémunération minimale prévue au I et son niveau sont établis par un accord collectif de travail conclu entre les organisations représentatives des artistes-interprètes et les organisations représentatives des producteurs de phonogrammes.
+
+Cet accord peut être rendu obligatoire par arrêté du ministre chargé du travail.
+
+III.-A défaut d'accord collectif dans un délai de douze mois à compter de la promulgation de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, la garantie de rémunération minimale versée par le producteur aux artistes-interprètes prévue au I est fixée de manière à associer justement les artistes-interprètes à l'exploitation des phonogrammes, par une commission présidée par un représentant de l'Etat et composée, en outre, pour moitié, de personnes désignées par les organisations représentant les artistes-interprètes et, pour moitié, de personnes désignées par les organisations représentant les producteurs de phonogrammes.
+
+####### Article L212-15
+
+Lorsque le contrat conclu entre un artiste-interprète et un producteur de phonogrammes prévoit le paiement direct par le producteur d'une rémunération qui est fonction des recettes de l'exploitation, le producteur de phonogrammes rend compte semestriellement à l'artiste-interprète du calcul de sa rémunération, de façon explicite et transparente.
+
+A la demande de l'artiste-interprète, le producteur de phonogrammes fournit à un expert-comptable mandaté par l'artiste-interprète toutes justifications propres à établir l'exactitude de ses comptes.
+
 ##### Chapitre III : Droits des producteurs de phonogrammes
 
 ###### Article L213-1
