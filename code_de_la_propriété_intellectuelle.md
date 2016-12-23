@@ -459,7 +459,7 @@ On entend par oeuvres originales au sens du présent article les oeuvres créée
 
 Le droit de suite est à la charge du vendeur. La responsabilité de son paiement incombe au professionnel intervenant dans la vente et, si la cession s'opère entre deux professionnels, au vendeur.
 
-Les professionnels du marché de l'art visés au premier alinéa doivent délivrer à l'auteur ou à une société de perception et de répartition du droit de suite toute information nécessaire à la liquidation des sommes dues au titre du droit de suite pendant une période de trois ans à compter de la vente.
+Les professionnels du marché de l'art visés au premier alinéa doivent délivrer à l'auteur ou à un organisme de gestion collective du droit de suite toute information nécessaire à la liquidation des sommes dues au titre du droit de suite pendant une période de trois ans à compter de la vente.
 
 Les auteurs non ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen et leurs ayants droit sont admis au bénéfice de la protection prévue au présent article si la législation de l'Etat dont ils sont ressortissants admet la protection du droit de suite des auteurs des Etats membres et de leurs ayants droit.
 
@@ -473,9 +473,9 @@ Le tribunal peut être saisi notamment par le ministre chargé de la culture.
 
 ###### Article L122-10
 
-La publication d'une oeuvre emporte cession du droit de reproduction par reprographie à une société régie par le titre II du livre III et agréée à cet effet par le ministre chargé de la culture. Les sociétés agréées peuvent seules conclure toute convention avec les utilisateurs aux fins de gestion du droit ainsi cédé, sous réserve, pour les stipulations autorisant les copies aux fins de vente, de location, de publicité ou de promotion, de l'accord de l'auteur ou de ses ayants droit.
+La publication d'une oeuvre emporte cession du droit de reproduction par reprographie à un organisme de gestion collective régi par le titre II du livre III et agréé à cet effet par le ministre chargé de la culture. Les organismes agréés peuvent seuls conclure toute convention avec les utilisateurs aux fins de gestion du droit ainsi cédé, sous réserve, pour les stipulations autorisant les copies aux fins de vente, de location, de publicité ou de promotion, de l'accord de l'auteur ou de ses ayants droit.
 
-A défaut de désignation par l'auteur ou son ayant droit à la date de la publication de l'oeuvre, une des sociétés agréées est réputée cessionnaire de ce droit.
+A défaut de désignation par l'auteur ou son ayant droit à la date de la publication de l'oeuvre, un des organismes agréés est réputé cessionnaire de ce droit.
 
 La reprographie s'entend de la reproduction sous forme de copie sur papier ou support assimilé par une technique photographique ou d'effet équivalent permettant une lecture directe.
 
@@ -489,14 +489,13 @@ Les conventions mentionnées à l'article L. 122-10 peuvent prévoir une rémun�
 
 ###### Article L122-12
 
-L'agrément des sociétés mentionnées au premier alinéa de l'article L. 122-10 est délivré en considération :
-
-- de la diversité des associés ;
+L'agrément des organismes mentionnés au premier alinéa de l'article L. 122-10 est délivré en considération :
+- de la diversité des membres ;
 - de la qualification professionnelle des dirigeants ;
 - des moyens humains et matériels qu'ils proposent de mettre en oeuvre pour assurer la gestion du droit de reproduction par reprographie ;
 - du caractère équitable des modalités prévues pour la répartition des sommes perçues.
 
-Un décret en Conseil d'Etat fixe les modalités de la délivrance et du retrait de cet agrément ainsi que du choix des sociétés cessionnaires en application de la dernière phrase du premier alinéa de l'article L. 122-10.
+Un décret en Conseil d'Etat fixe les modalités de la délivrance et du retrait de cet agrément ainsi que du choix des organismes cessionnaires en application de la dernière phrase du premier alinéa de l'article L. 122-10.
 
 ##### Chapitre III : Durée de la protection
 
@@ -548,15 +547,15 @@ Sous réserve des droits des descendants et du conjoint survivant non divorcé, 
 
 En l'absence d'héritier et de legs du droit de suite, ce dernier revient au légataire universel ou, à défaut, au détenteur du droit moral.
 
-II.-En l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence, le tribunal de grande instance peut confier le bénéfice du droit de suite à une société régie par le titre II du livre III de la présente partie, agréée à cet effet par arrêté du ministre chargé de la culture. Le tribunal peut être saisi par le ministre chargé de la culture ou par la société agréée.
+II.-En l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence, le tribunal de grande instance peut confier le bénéfice du droit de suite à un organisme de gestion collective régi par le titre II du livre III de la présente partie, agréé à cet effet par arrêté du ministre chargé de la culture. Le tribunal peut être saisi par le ministre chargé de la culture ou par l'organisme agréé.
 
-Les sommes perçues par la société agréée sont affectées à la prise en charge d'une fraction des cotisations dues par les auteurs des arts graphiques et plastiques au titre de la retraite complémentaire.
+Les sommes perçues par l'organisme agréé sont affectées à la prise en charge d'une fraction des cotisations dues par les auteurs des arts graphiques et plastiques au titre de la retraite complémentaire.
 
-La gestion du droit de suite prévue au premier alinéa du présent II prend fin lorsqu'un ayant droit justifiant de sa qualité se fait connaître auprès de la société agréée.
+La gestion du droit de suite prévue au premier alinéa du présent II prend fin lorsqu'un ayant droit justifiant de sa qualité se fait connaître auprès de l'organisme agréé.
 
-III.-L'agrément des sociétés prévu au II est délivré en considération :
+III.-L'agrément des organismes prévu au II est délivré en considération :
 
-1° De la diversité des associés ;
+1° De la diversité des membres ;
 
 2° De la qualification professionnelle des dirigeants ;
 
@@ -990,21 +989,21 @@ Sauf stipulation contraire :
 
 ####### Article L132-20-1
 
-I.-A compter de la date d'entrée en vigueur de la loi n° 97-283 du 27 mars 1997, le droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, d'une oeuvre télédiffusée à partir d'un Etat membre de la Communauté européenne ne peut être exercé que par une société de perception et de répartition des droits. Si cette société est régie par le titre II du livre III, elle doit être agréée à cet effet par le ministre chargé de la culture.
+I.-A compter de la date d'entrée en vigueur de la loi n° 97-283 du 27 mars 1997, le droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, d'une oeuvre télédiffusée à partir d'un Etat membre de la Communauté européenne ne peut être exercé que par un organisme de gestion collective. Si cet organisme est régi par le titre II du livre III, il doit être agréé à cet effet par le ministre chargé de la culture.
 
-Si le titulaire du droit n'en a pas déjà confié la gestion à l'une de ces sociétés, il désigne celle qu'il charge de l'exercer. Il notifie par écrit cette désignation à la société, qui ne peut refuser.
+Si le titulaire du droit n'en a pas déjà confié la gestion à l'un de ces organismes, il désigne celui qu'il charge de l'exercer. Il notifie par écrit cette désignation à l'organisme, qui ne peut refuser.
 
-Le contrat autorisant la télédiffusion d'une oeuvre sur le territoire national mentionne la société chargée d'exercer le droit d'autoriser sa retransmission par câble, simultanée, intégrale et sans changement, dans les Etats membres de la Communauté européenne.
+Le contrat autorisant la télédiffusion d'une oeuvre sur le territoire national mentionne l'organisme chargé d'exercer le droit d'autoriser sa retransmission par câble, simultanée, intégrale et sans changement, dans les Etats membres de la Communauté européenne.
 
 L'agrément prévu au premier alinéa est délivré en considération :
 
-1° De la qualification professionnelle des dirigeants des sociétés et des moyens que celles-ci peuvent mettre en oeuvre pour assurer le recouvrement des droits définis au premier alinéa et l'exploitation de leur répertoire ;
+1° De la qualification professionnelle des dirigeants des organismes et des moyens que ceux-ci peuvent mettre en oeuvre pour assurer le recouvrement des droits définis au premier alinéa et l'exploitation de leur répertoire ;
 
 2° De l'importance de leur répertoire ;
 
 3° De leur respect des obligations que leur imposent les dispositions du titre II du livre III.
 
-Un décret en Conseil d'Etat fixe les conditions de délivrance et de retrait de l'agrément. Il fixe également, dans le cas prévu au deuxième alinéa, les modalités de désignation de la société chargée de la gestion du droit de retransmission.
+Un décret en Conseil d'Etat fixe les conditions de délivrance et de retrait de l'agrément. Il fixe également, dans le cas prévu au deuxième alinéa, les modalités de désignation de l'organisme chargé de la gestion du droit de retransmission.
 
 II.-Par dérogation au I, le titulaire du droit peut céder celui-ci à une entreprise de communication audiovisuelle.
 
@@ -1050,7 +1049,7 @@ Sous réserve des dispositions de l'article L. 131-4, lorsque le public paie un 
 
 ####### Article L132-25-1
 
-Les accords relatifs à la rémunération des auteurs, ainsi que ceux traitant des pratiques contractuelles ou des usages professionnels entre auteurs et producteurs, conclus entre les organismes professionnels d'auteurs ou les sociétés de perception et de répartition des droits mentionnées au titre II du livre III de la présente partie, les organisations professionnelles représentatives des producteurs et, le cas échéant, les organisations représentatives d'autres secteurs d'activité peuvent être étendus à l'ensemble des intéressés par arrêté du ministre chargé de la culture.
+Les accords relatifs à la rémunération des auteurs, ainsi que ceux traitant des pratiques contractuelles ou des usages professionnels entre auteurs et producteurs, conclus entre les organismes professionnels d'auteurs ou les organismes de gestion collective mentionnés au titre II du livre III de la présente partie, les organisations professionnelles représentatives des producteurs et, le cas échéant, les organisations représentatives d'autres secteurs d'activité peuvent être étendus à l'ensemble des intéressés par arrêté du ministre chargé de la culture.
 
 ####### Article L132-26
 
@@ -1060,7 +1059,7 @@ L'auteur garantit au producteur l'exercice paisible des droits cédés.
 
 Le producteur est tenu de rechercher une exploitation suivie de l'œuvre audiovisuelle, conforme aux usages de la profession.
 
-Le champ et les conditions de mise en œuvre de cette obligation ainsi que, le cas échéant, les dispositions convenues entre le producteur et ses cessionnaires ou mandataires sont définis par voie d'accord professionnel conclu entre, d'une part, les organismes professionnels d'auteurs ou les sociétés de perception et de répartition des droits mentionnées au titre II du livre III de la présente partie et, d'autre part, les organisations représentatives des producteurs d'œuvres audiovisuelles, les organisations représentatives des éditeurs de services de communication audiovisuelle ou un ensemble d'éditeurs de services de communication audiovisuelle représentatifs ainsi que, le cas échéant, un ensemble d'éditeurs de services de communication au public en ligne représentatifs et les organisations représentatives d'autres secteurs d'activité. L'accord peut être rendu obligatoire pour l'ensemble des intéressés des secteurs d'activité concernés par arrêté du ministre chargé de la culture. A défaut d'accord professionnel rendu obligatoire dans le délai de trois mois à compter de la promulgation de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, le champ et les conditions de mise en œuvre de cette obligation sont fixés par décret en Conseil d'Etat.
+Le champ et les conditions de mise en œuvre de cette obligation ainsi que, le cas échéant, les dispositions convenues entre le producteur et ses cessionnaires ou mandataires sont définis par voie d'accord professionnel conclu entre, d'une part, les organismes professionnels d'auteurs ou les organismes de gestion collective mentionnés au titre II du livre III de la présente partie et, d'autre part, les organisations représentatives des producteurs d'œuvres audiovisuelles, les organisations représentatives des éditeurs de services de communication audiovisuelle ou un ensemble d'éditeurs de services de communication audiovisuelle représentatifs ainsi que, le cas échéant, un ensemble d'éditeurs de services de communication au public en ligne représentatifs et les organisations représentatives d'autres secteurs d'activité. L'accord peut être rendu obligatoire pour l'ensemble des intéressés des secteurs d'activité concernés par arrêté du ministre chargé de la culture. A défaut d'accord professionnel rendu obligatoire dans le délai de trois mois à compter de la promulgation de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, le champ et les conditions de mise en œuvre de cette obligation sont fixés par décret en Conseil d'Etat.
 
 ####### Article L132-28
 
@@ -1168,7 +1167,7 @@ Par dérogation à l'article L. 2232-24 du code du travail, dans les entreprises
 
 ####### Article L132-43
 
-Les accords collectifs peuvent prévoir de confier la gestion des droits mentionnés aux articles L. 132-38 et suivants à une ou des sociétés de perception et de répartition de droits mentionnées aux articles L. 321-1 et suivants.
+Les accords collectifs peuvent prévoir de confier la gestion des droits mentionnés aux articles L. 132-38 et suivants à un ou plusieurs organismes de gestion collective régis par le titre II du livre III.
 
 ####### Article L132-44
 
@@ -1214,14 +1213,14 @@ Ce prêt ouvre droit à rémunération au profit de l'auteur selon les modalité
 
 ###### Article L133-2
 
-La rémunération prévue par l'article L. 133-1 est perçue par une ou plusieurs des sociétés de perception et de répartition des droits régies par le titre II du livre III et agréées à cet effet par le ministre chargé de la culture.
+La rémunération prévue par l'article L. 133-1 est perçue par un ou plusieurs organismes de gestion collective régis par le titre II du livre III et agréés à cet effet par le ministre chargé de la culture.
 
 L'agrément prévu au premier alinéa est délivré en considération :
 
-- de la diversité des associés ;
+- de la diversité des membres ;
 - de la qualification professionnelle des dirigeants ;
-- des moyens que la société propose de mettre en oeuvre pour assurer la perception et la répartition de la rémunération au titre du prêt en bibliothèque ;
-- de la représentation équitable des auteurs et des éditeurs parmi ses associés et au sein de ses organes dirigeants.
+- des moyens que l'organisme propose de mettre en oeuvre pour assurer la perception et la répartition de la rémunération au titre du prêt en bibliothèque ;
+- de la représentation équitable des auteurs et des éditeurs parmi ses membres et au sein de ses organes dirigeants.
 
 Un décret en Conseil d'Etat fixe les conditions de délivrance et de retrait de cet agrément.
 
@@ -1237,7 +1236,7 @@ La seconde part est assise sur le prix public de vente hors taxes des livres ach
 
 La rémunération au titre du prêt en bibliothèque est répartie dans les conditions suivantes :
 
-1° Une première part est répartie à parts égales entre les auteurs et leurs éditeurs à raison du nombre d'exemplaires des livres achetés chaque année, pour leurs bibliothèques accueillant du public pour le prêt, par les personnes morales mentionnées au troisième alinéa (2°) de l'article 3 de la loi n° 81-766 du 10 août 1981 précitée, déterminé sur la base des informations que ces personnes et leurs fournisseurs communiquent à la ou aux sociétés mentionnées à l'article L. 133-2 ;
+1° Une première part est répartie à parts égales entre les auteurs et leurs éditeurs à raison du nombre d'exemplaires des livres achetés chaque année, pour leurs bibliothèques accueillant du public pour le prêt, par les personnes morales mentionnées au troisième alinéa (2°) de l'article 3 de la loi n° 81-766 du 10 août 1981 précitée, déterminé sur la base des informations que ces personnes et leurs fournisseurs communiquent à l'organisme ou aux organismes mentionnés à l'article L. 133-2 ;
 
 2° Une seconde part, qui ne peut excéder la moitié du total, est affectée à la prise en charge d'une fraction des cotisations dues au titre de la retraite complémentaire par les personnes visées aux troisième et quatrième alinéas de l'article L. 382-12 du code de la sécurité sociale.
 
@@ -1257,85 +1256,89 @@ L'inscription d'un livre dans la base de données ne préjuge pas de l'applicati
 
 ###### Article L134-3
 
-I. ― Lorsqu'un livre est inscrit dans la base de données mentionnée à l'article L. 134-2 depuis plus de six mois, le droit d'autoriser sa reproduction et sa représentation sous une forme numérique est exercé par une société de perception et de répartition des droits régie par le titre II du livre III de la présente partie, agréée à cet effet par le ministre chargé de la culture.
+I. ― Lorsqu'un livre est inscrit dans la base de données mentionnée à l'article L. 134-2 depuis plus de six mois, le droit d'autoriser sa reproduction et sa représentation sous une forme numérique est exercé par un organisme de gestion collective régi par le titre II du livre III de la présente partie, agréé à cet effet par le ministre chargé de la culture.
 
 Sauf dans le cas prévu au troisième alinéa de l'article L. 134-5, la reproduction et la représentation du livre sous une forme numérique sont autorisées, moyennant une rémunération, à titre non exclusif et pour une durée limitée à cinq ans, renouvelable.
 
-II. ― Les sociétés agréées ont qualité pour ester en justice pour la défense des droits dont elles ont la charge.
+II. ― Les organismes agréés ont qualité pour ester en justice pour la défense des droits dont ils ont la charge.
 
 III. ― L'agrément prévu au I est délivré en considération :
 
-1° De la diversité des associés de la société ;
+1° De la diversité des membres de l'organisme ;
 
-2° De la représentation paritaire des auteurs et des éditeurs parmi les associés et au sein des organes dirigeants ;
+2° De la représentation paritaire des auteurs et des éditeurs parmi les membres et au sein des organes dirigeants ;
 
-3° De la qualification professionnelle des dirigeants de la société ;
+3° De la qualification professionnelle des dirigeants de l'organisme ;
 
-4° Des moyens que la société propose de mettre en œuvre pour assurer la perception des droits et leur répartition ;
+4° Des moyens que l'organisme propose de mettre en œuvre pour assurer la perception des droits et leur répartition ;
 
 5° Du caractère équitable des règles de répartition des sommes perçues entre les ayants droit, qu'ils soient ou non parties au contrat d'édition. Le montant des sommes perçues par le ou les auteurs du livre ne peut être inférieur au montant des sommes perçues par l'éditeur ;
 
-6° Des moyens probants que la société propose de mettre en œuvre afin d'identifier et de retrouver les titulaires de droits aux fins de répartir les sommes perçues ;
+6° Des moyens probants que l'organisme propose de mettre en œuvre afin d'identifier et de retrouver les titulaires de droits aux fins de répartir les sommes perçues ;
 
-7° Des moyens que la société propose de mettre en œuvre pour développer des relations contractuelles permettant d'assurer la plus grande disponibilité possible des œuvres ;
+7° Des moyens que l'organisme propose de mettre en œuvre pour développer des relations contractuelles permettant d'assurer la plus grande disponibilité possible des œuvres ;
 
-8° Des moyens que la société propose de mettre en œuvre pour veiller à la défense des intérêts légitimes des ayants droit non parties au contrat d'édition.
+8° Des moyens que l'organisme propose de mettre en œuvre pour veiller à la défense des intérêts légitimes des ayants droit non parties au contrat d'édition.
 
-IV. ― Les sociétés agréées remettent chaque année à la commission permanente de contrôle des sociétés de perception et de répartition des droits mentionnée à l'article L. 321-13 un rapport rendant compte des moyens mis en œuvre et des résultats obtenus dans la recherche des titulaires de droits, qu'ils soient ou non parties au contrat d'édition.
+IV. ― Les organismes agréés remettent chaque année à la commission de contrôle des organismes de gestion mentionnée à l'article L. 327-1 un rapport rendant compte des moyens mis en œuvre et des résultats obtenus dans la recherche des titulaires de droits, qu'ils soient ou non parties au contrat d'édition.
 
 La commission peut formuler toute observation ou recommandation d'amélioration des moyens mis en œuvre afin d'identifier et de retrouver les titulaires de droits.
 
 La commission est tenue informée, dans le délai qu'elle fixe, des suites données à ses observations et recommandations.
 
-La commission rend compte annuellement au Parlement, au Gouvernement et à l'assemblée générale des sociétés agréées, selon des modalités qu'elle détermine, des observations et recommandations qu'elle a formulées et des suites qui leur ont été données.
+La commission rend compte annuellement au Parlement, au Gouvernement et à l'assemblée générale des organismes agréés, selon des modalités qu'elle détermine, des observations et recommandations qu'elle a formulées et des suites qui leur ont été données.
 
 ###### Article L134-4
 
-I. ― L'auteur d'un livre indisponible ou l'éditeur disposant du droit de reproduction sous une forme imprimée de ce livre peut s'opposer à l'exercice du droit d'autorisation mentionné au premier alinéa du I de l'article L. 134-3 par une société de perception et de répartition des droits agréée. Cette opposition est notifiée par écrit à l'organisme mentionné au premier alinéa de l'article L. 134-2 au plus tard six mois après l'inscription du livre concerné dans la base de données mentionnée au même alinéa. Mention de cette opposition est faite dans la base de données mentionnée au même article L. 134-2.
+I. ― L'auteur d'un livre indisponible ou l'éditeur disposant du droit de reproduction sous une forme imprimée de ce livre peut s'opposer à l'exercice du droit d'autorisation mentionné au premier alinéa du I de l'article L. 134-3 par un organisme de gestion collective agréé. Cette opposition est notifiée par écrit à l'organisme mentionné au premier alinéa de l'article L. 134-2 au plus tard six mois après l'inscription du livre concerné dans la base de données mentionnée au même alinéa.
+
+Mention de cette opposition est faite dans la base de données mentionnée au même article L. 134-2.
 
 Après l'expiration du délai mentionné au premier alinéa du présent I, l'auteur d'un livre indisponible peut s'opposer à l'exercice du droit de reproduction ou de représentation de ce livre s'il juge que la reproduction ou la représentation de ce livre est susceptible de nuire à son honneur ou à sa réputation. Ce droit est exercé sans indemnisation.
 
-II. ― L'éditeur ayant notifié son opposition dans les conditions prévues au premier alinéa du I du présent article est tenu d'exploiter dans les deux ans suivant cette notification le livre indisponible concerné. Il doit apporter par tout moyen la preuve de l'exploitation effective du livre à la société agréée en application de l'article L. 134-3. A défaut d'exploitation du livre dans le délai imparti, la mention de l'opposition est supprimée dans la base de données mentionnée à l'article L. 134-2 et le droit d'autoriser sa reproduction et sa représentation sous une forme numérique est exercé dans les conditions prévues au second alinéa du I de l'article L. 134-3.
+II. ― L'éditeur ayant notifié son opposition dans les conditions prévues au premier alinéa du I du présent article est tenu d'exploiter dans les deux ans suivant cette notification le livre indisponible concerné. Il doit apporter par tout moyen la preuve de l'exploitation effective du livre à l'organisme agréé en application de l'article L. 134-3. A défaut d'exploitation du livre dans le délai imparti, la mention de l'opposition est supprimée dans la base de données mentionnée à l'article L. 134-2 et le droit d'autoriser sa reproduction et sa représentation sous une forme numérique est exercé dans les conditions prévues au second alinéa du I de l'article L. 134-3.
 
 La preuve de l'exploitation effective du livre, apportée par l'éditeur dans les conditions prévues au premier alinéa du présent II, ne préjuge pas de l'application des articles L. 132-12 et L. 132-17.
 
 ###### Article L134-5
 
-A défaut d'opposition notifiée par l'auteur ou l'éditeur à l'expiration du délai prévu au I de l'article L. 134-4, la société de perception et de répartition des droits propose une autorisation de reproduction et de représentation sous une forme numérique d'un livre indisponible à l'éditeur disposant du droit de reproduction de ce livre sous une forme imprimée. Cette proposition est formulée par écrit. Elle est réputée avoir été refusée si l'éditeur n'a pas notifié sa décision par écrit dans un délai de deux mois à la société de perception et de répartition des droits.
+A défaut d'opposition notifiée par l'auteur ou l'éditeur à l'expiration du délai prévu au I de l'article L. 134-4, l'organisme de gestion collective propose une autorisation de reproduction et de représentation sous une forme numérique d'un livre indisponible à l'éditeur disposant du droit de reproduction de ce livre sous une forme imprimée.
 
-L'autorisation d'exploitation mentionnée au premier alinéa est délivrée par la société de perception et de répartition des droits à titre exclusif pour une durée de dix ans tacitement renouvelable.
+Cette proposition est formulée par écrit. Elle est réputée avoir été refusée si l'éditeur n'a pas notifié sa décision par écrit dans un délai de deux mois à l'organisme de gestion collective.
+
+L'autorisation d'exploitation mentionnée au premier alinéa est délivrée par l'organisme de gestion collective à titre exclusif pour une durée de dix ans tacitement renouvelable.
 
 Mention de l'acceptation de l'éditeur est faite dans la base de données mentionnée à l'article L. 134-2.
 
-A défaut d'opposition de l'auteur apportant par tout moyen la preuve que cet éditeur ne dispose pas du droit de reproduction d'un livre sous une forme imprimée, l'éditeur ayant notifié sa décision d'acceptation est tenu d'exploiter, dans les trois ans suivant cette notification, le livre indisponible concerné. Il doit apporter à cette société, par tout moyen, la preuve de l'exploitation effective du livre.
+A défaut d'opposition de l'auteur apportant par tout moyen la preuve que cet éditeur ne dispose pas du droit de reproduction d'un livre sous une forme imprimée, l'éditeur ayant notifié sa décision d'acceptation est tenu d'exploiter, dans les trois ans suivant cette notification, le livre indisponible concerné. Il doit apporter à cet organisme, par tout moyen, la preuve de l'exploitation effective du livre.
 
-A défaut d'acceptation de la proposition mentionnée au premier alinéa ou d'exploitation de l'œuvre dans le délai prévu au cinquième alinéa du présent article, la reproduction et la représentation du livre sous une forme numérique sont autorisées par la société de perception et de répartition des droits dans les conditions prévues au second alinéa du I de l'article L. 134-3.
+A défaut d'acceptation de la proposition mentionnée au premier alinéa ou d'exploitation de l'œuvre dans le délai prévu au cinquième alinéa du présent article, la reproduction et la représentation du livre sous une forme numérique sont autorisées par l'organisme de gestion collective dans les conditions prévues au second alinéa du I de l'article L. 134-3.
 
-L'utilisateur auquel une société de perception et de répartition des droits a accordé une autorisation d'exploitation dans les conditions prévues au même second alinéa est considéré comme éditeur de livre numérique au sens de l'article 2 de la loi n° 2011-590 du 26 mai 2011 relative au prix du livre numérique.
+L'utilisateur auquel un organisme de gestion collective a accordé une autorisation d'exploitation dans les conditions prévues au même second alinéa est considéré comme éditeur de livre numérique au sens de l'article 2 de la loi n° 2011-590 du 26 mai 2011 relative au prix du livre numérique.
 
 L'exploitation de l'œuvre dans les conditions prévues au présent article ne préjuge pas de l'application des articles L. 132-12 et L. 132-17.
 
 ###### Article L134-6
 
-L'auteur et l'éditeur disposant du droit de reproduction sous une forme imprimée d'un livre indisponible notifient conjointement à tout moment à la société de perception et de répartition des droits mentionnée à l'article L. 134-3 leur décision de lui retirer le droit d'autoriser la reproduction et la représentation dudit livre sous forme numérique.
+L'auteur et l'éditeur disposant du droit de reproduction sous une forme imprimée d'un livre indisponible notifient conjointement à tout moment à l'organisme de gestion collective mentionné à l'article L. 134-3 leur décision de lui retirer le droit d'autoriser la reproduction et la représentation dudit livre sous forme numérique.
 
-L'auteur d'un livre indisponible peut décider à tout moment de retirer à la société de perception et de répartition des droits mentionnée au même article L. 134-3 le droit d'autoriser la reproduction et la représentation du livre sous une forme numérique s'il apporte la preuve qu'il est le seul titulaire des droits définis audit article L. 134-3. Il lui notifie cette décision.
+L'auteur d'un livre indisponible peut décider à tout moment de retirer à l'organisme de gestion collective mentionné au même article L. 134-3 le droit d'autoriser la reproduction et la représentation du livre sous une forme numérique s'il apporte la preuve qu'il est le seul titulaire des droits définis audit article L. 134-3. Il lui notifie cette décision.
 
 Mention des notifications prévues aux deux premiers alinéas du présent article est faite dans la base de données mentionnée à l'article L. 134-2.
 
-L'éditeur ayant notifié sa décision dans les conditions prévues au premier alinéa est tenu d'exploiter le livre concerné dans les dix-huit mois suivant cette notification. Il doit apporter à la société de perception et de répartition des droits, par tout moyen, la preuve de l'exploitation effective du livre.
+L'éditeur ayant notifié sa décision dans les conditions prévues au premier alinéa est tenu d'exploiter le livre concerné dans les dix-huit mois suivant cette notification. Il doit apporter à l'organisme de gestion collective, par tout moyen, la preuve de l'exploitation effective du livre.
 
-La société informe tous les utilisateurs auxquels elle a accordé une autorisation d'exploitation du livre concerné des décisions mentionnées aux deux premiers alinéas du présent article. Les ayants droit ne peuvent s'opposer à la poursuite de l'exploitation dudit livre engagée avant la notification pendant la durée restant à courir de l'autorisation mentionnée au second alinéa du I de l'article L. 134-3 ou au troisième alinéa de l'article L. 134-5, à concurrence de cinq ans maximum et à titre non exclusif.
+L'organisme informe tous les utilisateurs auxquels il a accordé une autorisation d'exploitation du livre concerné des décisions mentionnées aux deux premiers alinéas du présent article. Les ayants droit ne peuvent s'opposer à la poursuite de l'exploitation dudit livre engagée avant la notification pendant la durée restant à courir de l'autorisation mentionnée au second alinéa du I de l'article L. 134-3 ou au troisième alinéa de l'article L. 134-5, à concurrence de cinq ans maximum et à titre non exclusif.
 
 ###### Article L134-7
 
-Les modalités d'application du présent chapitre, notamment les modalités d'accès à la base de données prévue à l'article L. 134-2, la nature ainsi que le format des données collectées et les mesures de publicité les plus appropriées pour garantir la meilleure information possible des ayants droit, les conditions de délivrance et de retrait de l'agrément des sociétés de perception et de répartition des droits prévu à l'article L. 134-3, sont précisées par décret en Conseil d'Etat.
+Les modalités d'application du présent chapitre, notamment les modalités d'accès à la base de données prévue à l'article L. 134-2, la nature ainsi que le format des données collectées et les mesures de publicité les plus appropriées pour garantir la meilleure information possible des ayants droit, les conditions de délivrance et de retrait de l'agrément des organismes de gestion collective prévu à l'article L. 134-3, sont précisées par décret en Conseil d'Etat.
 
 ###### Article L134-9
 
-Par dérogation aux dispositions des trois premiers alinéas de l'article L. 321-9, les sociétés agréées mentionnées à l'article L. 134-3 utilisent à des actions d'aide à la création, à des actions de formation des auteurs de l'écrit et à des actions de promotion de la lecture publique mises en œuvre par les bibliothèques les sommes perçues au titre de l'exploitation des livres indisponibles et qui n'ont pu être réparties parce que leurs destinataires n'ont pu être identifiés ou retrouvés avant l'expiration du délai prévu au dernier alinéa de l'article L. 321-1.
+Par dérogation aux dispositions des trois premiers alinéas de l'article L. 324-17, les organismes agréés mentionnées à l'article L. 134-3 utilisent à des actions d'aide à la création, à des actions de formation des auteurs de l'écrit et à des actions de promotion de la lecture publique mises en œuvre par les bibliothèques les sommes perçues au titre de l'exploitation des livres indisponibles et qui n'ont pu être réparties parce que leurs destinataires n'ont pu être identifiés ou retrouvés avant l'expiration du délai prévu au dernier alinéa de l'article L. 321-1.
 
-Le montant et l'utilisation de ces sommes font l'objet, chaque année, d'un rapport des sociétés de perception et de répartition des droits au ministre chargé de la culture.
+Le montant et l'utilisation de ces sommes font l'objet, chaque année, d'un rapport des organismes de gestion collective au ministre chargé de la culture.
 
 ##### Chapitre V : Dispositions particulières relatives à certaines utilisations d'œuvres orphelines
 
@@ -1510,17 +1513,17 @@ Toutefois, le producteur de phonogrammes qui occupe moins de dix personnes et do
 
 II.-Le montant global de la rémunération annuelle supplémentaire mentionnée au I du présent article est fixé à 20 % de l'ensemble des recettes perçues par le producteur de phonogrammes au cours de l'année précédant celle du paiement de ladite rémunération annuelle pour la reproduction, la mise à la disposition du public par la vente ou l'échange, ou la mise à disposition du phonogramme de manière que chacun puisse y avoir accès de sa propre initiative, à l'exclusion des rémunérations prévues aux articles L. 214-1 et L. 311-1.
 
-III.-Le producteur de phonogrammes fournit, à la demande de l'artiste-interprète ou d'une société de perception et de répartition des droits mentionnée au IV et chargée de percevoir la rémunération annuelle supplémentaire de l'artiste-interprète, un état des recettes provenant de l'exploitation du phonogramme selon chaque mode d'exploitation mentionné au II.
+III.-Le producteur de phonogrammes fournit, à la demande de l'artiste-interprète ou d'un organisme de gestion collective mentionné au IV et chargé de percevoir la rémunération annuelle supplémentaire de l'artiste-interprète, un état des recettes provenant de l'exploitation du phonogramme selon chaque mode d'exploitation mentionné au II.
 
 Il fournit, dans les mêmes conditions, toute justification propre à établir l'exactitude des comptes.
 
-IV.-La rémunération annuelle supplémentaire prévue aux I et II est perçue par une ou plusieurs sociétés de perception et de répartition des droits régies par le titre II du livre III et agréées à cet effet par le ministre chargé de la culture.
+IV.-La rémunération annuelle supplémentaire prévue aux I et II est perçue par un ou plusieurs organismes de gestion collective régis par le titre II du livre III et agréés à cet effet par le ministre chargé de la culture.
 
 L'agrément prévu au premier alinéa du présent IV est délivré en considération :
 
-1° De la qualification professionnelle des dirigeants des sociétés ;
+1° De la qualification professionnelle des dirigeants des organismes ;
 
-2° Des moyens humains et matériels que ces sociétés proposent de mettre en œuvre pour assurer la perception et la répartition de la rémunération prévue aux mêmes I et II, tant auprès de leurs membres qu'auprès des artistes-interprètes qui ne sont pas leurs membres ;
+2° Des moyens humains et matériels que ces organismes proposent de mettre en œuvre pour assurer la perception et la répartition de la rémunération prévue aux mêmes I et II, tant auprès de leurs membres qu'auprès des artistes-interprètes qui ne sont pas leurs membres ;
 
 3° De l'importance de leur répertoire et de la représentation des artistes-interprètes bénéficiaires de la rémunération prévue auxdits I et II au sein des organes dirigeants ;
 
@@ -1660,7 +1663,7 @@ Sous réserve des conventions internationales, les droits à rémunération reco
 
 Le barème de rémunération et les modalités de versement de la rémunération sont établis par des accords spécifiques à chaque branche d'activité entre les organisations représentatives des artistes-interprètes, des producteurs de phonogrammes et des personnes utilisant les phonogrammes dans les conditions prévues aux 1°, 2° et 3° de l'article L. 214-1.
 
-Ces accords doivent préciser les modalités selon lesquelles les personnes utilisant les phonogrammes dans ces mêmes conditions s'acquittent de leur obligation de fournir aux sociétés de perception et de répartition des droits le programme exact des utilisations auxquelles elles procèdent et tous les éléments documentaires indispensables à la répartition des droits.
+Ces accords doivent préciser les modalités selon lesquelles les personnes utilisant les phonogrammes dans ces mêmes conditions s'acquittent de leur obligation de fournir aux organismes de gestion collective le programme exact des utilisations auxquelles elles procèdent et tous les éléments documentaires indispensables à la répartition des droits.
 
 Les stipulations de ces accords peuvent être rendues obligatoires pour l'ensemble des intéressés par arrêté du ministre chargé de la culture.
 
@@ -1704,7 +1707,7 @@ Lorsque le litige dont il est saisi relève du champ de compétence d'une autre 
 
 Le médiateur de la musique favorise ou suscite toute solution de conciliation aux litiges qui lui sont soumis. Lorsqu'il constate un accord entre les parties, il rédige un procès-verbal de conciliation précisant les mesures à prendre pour le mettre en œuvre. A défaut d'accord entre les parties, le médiateur peut émettre une recommandation proposant des mesures tendant à mettre fin au litige. Il peut rendre publique la décision de conciliation ou la recommandation, sous réserve des informations couvertes par le secret des affaires.
 
-II.-Le médiateur de la musique peut faire au ministre chargé de la culture toute proposition que lui paraît appeler l'accomplissement de ses missions. Il met en œuvre toute mesure de nature à favoriser l'adoption de codes des usages entre les organismes professionnels et les sociétés de perception et de répartition des droits représentant les artistes-interprètes et les producteurs de phonogrammes, entre les producteurs de phonogrammes et les producteurs de spectacles ou entre les producteurs de phonogrammes et les éditeurs de services de communication au public en ligne mettant à disposition des œuvres musicales.
+II.-Le médiateur de la musique peut faire au ministre chargé de la culture toute proposition que lui paraît appeler l'accomplissement de ses missions. Il met en œuvre toute mesure de nature à favoriser l'adoption de codes des usages entre les organismes professionnels et les organismes de gestion collective représentant les artistes-interprètes et les producteurs de phonogrammes, entre les producteurs de phonogrammes et les producteurs de spectacles ou entre les producteurs de phonogrammes et les éditeurs de services de communication au public en ligne mettant à disposition des œuvres musicales.
 
 Le médiateur de la musique adresse chaque année un rapport sur son activité au ministre chargé de la culture. Ce rapport est public. Une copie en est adressée aux présidents des commissions permanentes de l'Assemblée nationale et du Sénat chargées de la culture.
 
@@ -1742,15 +1745,15 @@ Dans les cas prévus à l'article L. 122-2-2, ces droits peuvent être exercés 
 
 ###### Article L217-2
 
-I.-Lorsqu'il est prévu par le présent code, le droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, de la prestation d'un artiste-interprète, d'un phonogramme ou d'un vidéogramme télédiffusés à partir d'un Etat membre de la Communauté européenne ne peut être exercé, à compter de la date d'entrée en vigueur de la loi n° 97-283 du 27 mars 1997, que par une société de perception et de répartition des droits. Si cette société est régie par le titre II du livre III, elle doit être agréée à cet effet par le ministre chargé de la culture.
+I.-Lorsqu'il est prévu par le présent code, le droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, de la prestation d'un artiste-interprète, d'un phonogramme ou d'un vidéogramme télédiffusés à partir d'un Etat membre de la Communauté européenne ne peut être exercé, à compter de la date d'entrée en vigueur de la loi n° 97-283 du 27 mars 1997, que par un organisme de gestion collective. Si cet organisme est régi par le titre II du livre III, il doit être agréé à cet effet par le ministre chargé de la culture.
 
-Si le titulaire du droit n'en a pas confié la gestion à l'une de ces sociétés, il désigne celle qu'il charge de l'exercer. Il notifie par écrit cette désignation à la société, qui ne peut refuser.
+Si le titulaire du droit n'en a pas confié la gestion à l'un de ces organismes, il désigne celui qu'il charge de l'exercer. Il notifie par écrit cette désignation à l'organisme, qui ne peut refuser.
 
-Le contrat autorisant la télédiffusion sur le territoire national de la prestation d'un artiste-interprète, d'un phonogramme ou d'un vidéogramme mentionne la société chargée, le cas échéant, d'exercer le droit d'autoriser sa retransmission par câble, simultanée, intégrale et sans changement, dans les Etats membres de la Communauté européenne.
+Le contrat autorisant la télédiffusion sur le territoire national de la prestation d'un artiste-interprète, d'un phonogramme ou d'un vidéogramme mentionne l'organisme chargé, le cas échéant, d'exercer le droit d'autoriser sa retransmission par câble, simultanée, intégrale et sans changement, dans les Etats membres de la Communauté européenne.
 
 L'agrément prévu au premier alinéa est délivré en considération des critères énumérés à l'article L. 132-20-1.
 
-Un décret en Conseil d'Etat fixe les conditions de délivrance et de retrait de l'agrément. Il fixe également, dans le cas prévu au deuxième alinéa, les modalités de désignation de la société chargée de la gestion du droit de retransmission.
+Un décret en Conseil d'Etat fixe les conditions de délivrance et de retrait de l'agrément. Il fixe également, dans le cas prévu au deuxième alinéa, les modalités de désignation de l'organisme chargé de la gestion du droit de retransmission.
 
 II.-Par dérogation au I, le titulaire du droit peut céder celui-ci à une entreprise de communication audiovisuelle.
 
@@ -1818,7 +1821,7 @@ Les décisions de la commission sont publiées au Journal officiel de la Républ
 
 ###### Article L311-6
 
-I.-La rémunération prévue à l'article L. 311-1 est perçue pour le compte des ayants droit par un ou plusieurs organismes mentionnés au titre II du présent livre, agréés à cet effet par le ministre chargé de la culture.
+I.-La rémunération prévue à l'article L. 311-1 est perçue pour le compte des ayants droit par un ou plusieurs organismes de gestion collective mentionnés au titre II du présent livre, agréés à cet effet par le ministre chargé de la culture.
 
 L'agrément est délivré pour cinq années en considération :
 
@@ -1826,7 +1829,7 @@ L'agrément est délivré pour cinq années en considération :
 
 2° Des moyens que l'organisme propose de mettre en œuvre pour assurer la perception des droits ;
 
-3° De la diversité des associés de la société.
+3° De la diversité des associés de l'organisme.
 
 II.-La rémunération prévue à l'article L. 311-1 est répartie entre les ayants droit par les organismes mentionnés au I du présent article, à raison des reproductions privées dont chaque œuvre fait l'objet.
 
@@ -1860,118 +1863,699 @@ III.-Une convention constatant l'exonération et en fixant les modalités peut �
 
 A défaut de conclusion d'une convention, ces personnes ont droit au remboursement de la rémunération sur production de justificatifs déterminés par les ministres chargés de la culture et de l'économie.
 
-#### Titre II : Sociétés de perception et de répartition des droits
+#### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme
 
-##### Chapitre unique
+##### Chapitre Ier : Dispositions générales
 
-###### Article L321-2
+###### Section 1 : Organismes de gestion collective
 
-Les contrats conclus par les sociétés civiles d'auteurs ou de titulaires de droits voisins, en exécution de leur objet, avec les utilisateurs de tout ou partie de leur répertoire sont des actes civils.
+####### Article L321-1
 
-###### Article L321-3
+I.-Les organismes de gestion collective sont des personnes morales constituées sous toute forme juridique dont l'objet principal consiste à gérer le droit d'auteur ou les droits voisins de celui-ci pour le compte de plusieurs titulaires de ces droits, tels que définis aux livres Ier et II du présent code, à leur profit collectif, soit en vertu de dispositions légales, soit en exécution d'un contrat.
 
-Les projets de statuts et de règlements généraux des sociétés de perception et de répartition des droits sont adressés au ministre chargé de la culture.
+Ces organismes doivent :
 
-Dans les deux mois de leur réception, le ministre peut saisir le tribunal de grande instance au cas où des motifs réels et sérieux s'opposeraient à la constitution d'une de ces sociétés.
+1° Soit être contrôlés par leurs membres titulaires de droits mentionnés au premier alinéa ;
 
-Le tribunal apprécie la qualification professionnelle des fondateurs de ces sociétés, les moyens humains et matériels qu'ils proposent de mettre en oeuvre pour assurer le recouvrement des droits et l'exploitation de leur répertoire ainsi que la conformité de leurs statuts et de leur règlement général à la réglementation en vigueur.
+2° Soit être à but non lucratif.
 
-Le ministre chargé de la culture peut, à tout moment, saisir le tribunal de grande instance pour demander l'annulation des dispositions des statuts, du règlement général ou d'une décision des organes sociaux non conformes à la réglementation en vigueur dès lors que ses observations tendant à la mise en conformité de ces dispositions ou cette décision n'ont pas été suivies d'effet dans un délai de deux mois à compter de leur transmission, ou de six mois si une décision de l'assemblée des associés est nécessaire.
+Ils agissent au mieux des intérêts des titulaires de droits qu'ils représentent et ne peuvent leur imposer des obligations qui ne sont pas objectivement nécessaires pour protéger leurs droits et leurs intérêts ou pour assurer une gestion efficace de leurs droits.
 
-###### Article L321-4
+II.-Les organismes de gestion collective peuvent mener des actions de promotion de la culture et fournir des services sociaux, culturels et éducatifs dans l'intérêt des titulaires de droits qu'ils représentent et du public.
 
-Les sociétés de perception et de répartition des droits sont tenues de nommer au moins un commissaire aux comptes et un suppléant, choisis sur la liste mentionnée à l'article L. 225-219 du code de commerce et qui exercent leurs fonctions dans les conditions prévues par ladite loi, sous réserve des règles qui leur sont propres. Les dispositions de l'article L. 242-27 du code de commerce précité sont applicables.
+####### Article L321-2
 
-Les dispositions de l'article 29 de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises sont applicables.
+Les organismes de gestion collective régulièrement constitués ont qualité pour ester en justice pour la défense des droits dont ils ont statutairement la charge et pour défendre les intérêts matériels et moraux de leurs membres, notamment dans le cadre des accords professionnels les concernant.
 
-###### Article L321-5
+Ils ont également qualité pour siéger au sein des organes compétents pour délibérer en matière de protection sociale, prévoyance et formation des titulaires de droits qu'ils représentent, sous réserve des règles applicables à la représentation des syndicats professionnels conformément aux dispositions du code du travail.
 
-Le droit à la communication prévu par l'article 1855 du code civil s'applique aux sociétés civiles de répartition des droits, sans pour autant qu'un associé puisse obtenir communication du montant des droits répartis individuellement à tout autre ayant droit que lui-même. Un décret en Conseil d'Etat détermine les modalités d'exercice de ce droit.
+####### Article L321-3
 
-###### Article L321-6
+Les organismes de gestion collective permettent à leurs membres et aux autres titulaires de droits dont ils gèrent les droits patrimoniaux de communiquer avec eux par voie électronique, notamment pour l'exercice des droits qui leur sont reconnus au titre du présent code, notamment en matière d'information, de participation aux décisions collectives et pour le contrôle de l'organisme.
 
-Tout groupement d'associés représentant au moins un dixième du nombre de ceux-ci peut demander en justice la désignation d'un ou plusieurs experts chargés de présenter un rapport sur une ou plusieurs opérations de gestion.
+####### Article L321-4
 
-Le ministère public et le comité d'entreprise sont habilités à agir aux mêmes fins.
+Les organismes de gestion collective établis en France sont soumis aux dispositions du présent titre.
 
-Le rapport est adressé au demandeur, au ministère public, au comité d'entreprise, aux commissaires aux comptes et au conseil d'administration. Ce rapport est annexé à celui établi par les commissaires aux comptes en vue de la première assemblée générale ; il reçoit la même publicité.
+Les organismes de gestion collective établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres ou autres objets protégés, sont soumis aux dispositions des premier, deuxième et quatrième alinéas de l'article L. 324-6, des articles L. 324-7, L. 324-8, L. 324-12 à L. 324-14, du second alinéa de l'article L. 326-2, des articles L. 326-3 et L. 326-4.
 
-###### Article L321-7
+Ils sont soumis au contrôle de la commission de contrôle des organismes de gestion des droits d'auteurs et des droits voisins au titre du 2° de l'article L. 327-1. La médiation prévue au a du 3° de l'article L. 327-1 leur est également applicable.
 
-Les sociétés de perception et de répartition des droits doivent tenir à la disposition des utilisateurs éventuels le répertoire complet des auteurs et compositeurs français et étrangers qu'elles représentent.
+Les organismes de gestion collective établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres musicales protégées sont en outre soumis aux dispositions des articles L. 325-1, L. 325-2, L. 325-5 à L. 325-7.
 
-###### Article L321-8
+####### Article L321-5
 
-Les statuts des sociétés de perception et de répartition des droits doivent prévoir les conditions dans lesquelles les associations ayant un but d'intérêt général bénéficieront, pour leurs manifestations ne donnant pas lieu à entrée payante, d'une réduction sur le montant des droits d'auteur et des droits des artistes-interprètes et des producteurs de phonogrammes qu'elles auraient à verser.
+Les organismes de gestion collective sont régis par les dispositions propres à la forme juridique sous laquelle ils sont constitués, sous réserve des dispositions du présent titre.
 
-###### Article L321-9
+###### Section 2 : Organismes de gestion indépendants
 
-Ces sociétés utilisent à des actions d'aide à la création, à la diffusion du spectacle vivant, au développement de l'éducation artistique et culturelle et à des actions de formation des artistes :
+####### Article L321-6
+
+Un organisme de gestion indépendant est une personne morale à but lucratif dont l'objet principal consiste à gérer le droit d'auteur ou les droits voisins de celui-ci pour le compte de plusieurs titulaires de droits, au profit collectif de ces derniers, qui n'est pas contrôlée, directement ou indirectement, par ces titulaires de droits.
+
+Les organismes de gestion indépendants établis en France sont soumis aux dispositions du second alinéa de l'article L. 322-1, des premier, deuxième et quatrième alinéas de l'article L. 324-6, des articles L. 324-7, L. 324-8, L. 324-12 à L. 324-14, du second alinéa de l'article L. 326-2, des articles L. 326-3, L. 326-4 et L. 328-1. Ils sont soumis au contrôle de la commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins au titre des 1° et 2° de l'article L. 327-1. La médiation prévue au a du 3° de l'article L. 327-1 leur est également applicable.
+
+Les organismes de gestion indépendants établis en France gérant les droits d'exploitation d'œuvres musicales protégées sont en outre soumis aux dispositions des articles L. 325-1, L. 325-2, L. 325-5 à L. 325-7. La médiation prévue au b du 3° de l'article L. 327-1 leur est également applicable.
+
+Les organismes de gestion indépendants établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres ou autres objets protégés, sont soumis aux dispositions des premier, deuxième et quatrième alinéas de l'article L. 324-6, des articles L. 324-7, L. 324-8, L. 324-12 à L. 324-14, du second alinéa de l'article L. 326-2, de l'article L. 326-3 et de l'article L. 326-4. Ils sont soumis au contrôle de la commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins au titre du 2° de l'article L. 327-1. La médiation prévue au a du 3° de l'article L. 327-1 leur est également applicable.
+
+Les organismes de gestion indépendants établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres musicales protégées sont en outre soumis aux dispositions des articles L. 325-1, L. 325-2, L. 325-5 à L. 325-7.
+
+##### Chapitre II : Autorisation de gestion des droits
+
+###### Article L322-1
+
+Les organismes de gestion collective informent les titulaires de droits qui souhaitent leur confier la gestion de ceux-ci des droits dont ils bénéficient en application des articles L. 322-3 à L. 322-7 et L. 324-4 ainsi que des modalités d'exercice du droit prévu par ce dernier, avant d'obtenir leur consentement pour cette gestion.
+
+Ils sont également tenus de leur fournir, préalablement à leur consentement, des informations concernant les frais de gestion et les autres déductions effectuées sur les revenus mentionnés au a de l'article L. 324-9.
+
+###### Article L322-2
+
+L'obligation d'information prévue à l'article L. 322-1 ainsi que les droits qu'il mentionne sont portés à la connaissance de tout titulaire de droit dans un document de référence aisément accessible.
+
+###### Section 1 : Conditions et effets de l'autorisation de gestion des droits
+
+####### Article L322-3
+
+L'autorisation de gestion des droits par l'organisme de gestion collective porte, au choix du titulaire, sur tout ou partie des droits, catégories de droits, types d'œuvres ou autres objets protégés et territoires définis par les statuts ou le règlement général de l'organisme. L'étendue de cette autorisation est précisée dans un document auquel le titulaire de droits a donné son consentement, y compris par voie électronique.
+
+La liberté de définir l'étendue des droits que leur titulaire autorise un organisme à gérer ne fait pas obstacle à ce que l'organisme fixe, compte tenu de son objet social, de son activité et de ses moyens, les cas dans lesquels un apport de droits indissociables peut être imposé en vue d'en garantir une gestion efficiente.
+
+####### Article L322-4
+
+Les organismes de gestion collective sont tenus d'accepter la gestion des droits dans les conditions prévues à l'article L. 322-3 dès lors que cette gestion relève de leur domaine d'activité.
+
+Les conditions qu'ils fixent reposent sur des critères publics, objectifs, transparents et non discriminatoires.
+
+Le refus d'un organisme d'accéder à une demande de gestion de droits patrimoniaux doit être écrit et énoncer les motifs de droit et de fait de la décision.
+
+###### Section 2 : Résiliation de l'autorisation de gestion des droits
+
+####### Article L322-5
+
+Un titulaire de droits peut résilier à tout moment, en tout ou partie, dans les limites arrêtées par l'organisme et mentionnées au second alinéa de l'article L. 322-3, l'autorisation qu'il a donnée à l'organisme de gestion collective de gérer ses droits patrimoniaux.
+
+####### Article L322-6
+
+L'organisme de gestion collective fixe et rend publiques les modalités de la résiliation, en particulier le délai de préavis, qui ne peut excéder six mois.
+
+Il peut cependant prévoir que la résiliation ne prend effet qu'à la fin de l'exercice social.
+
+La résiliation ne peut pas être subordonnée à la condition de confier la gestion des droits en cause à un autre organisme de gestion collective.
+
+####### Article L322-7
+
+Si des sommes sont dues à un titulaire de droits pour des actes d'exploitation exécutés avant que sa demande de résiliation totale ou partielle n'ait pris effet, ou dans le cadre d'une autorisation d'exploitation octroyée avant cette date d'effet, il conserve les droits que lui confèrent les dispositions des troisième et quatrième alinéas de l'article L. 324-10, des I et II de l'article L. 324-12, des articles L. 324-14, L. 324-18, L. 325-7, des I et II de l'article L. 326-3 et des articles L. 326-4 et L. 328-1.
+
+####### Article L322-8
+
+Les dispositions du présent chapitre ne sont pas applicables lorsque les droits en cause sont gérés par l'organisme en application des dispositions des articles L. 122-10, L. 132-20-1, L. 133-2, L. 134-3, L. 214-5, L. 217-2 et L. 311-6.
+
+##### Chapitre III : Organisation des organismes de gestion collective
+
+###### Article L323-1
+
+Les statuts des organismes de gestion collective prévoient des règles permettant la participation effective de leurs membres à leur processus de décision et assurent, au sein de ce dernier, une représentation équilibrée des différentes catégories de membres.
+
+Lorsque les droits et règles garantissant aux membres et aux tiers l'exercice de ces droits ou leur information ne figurent pas dans les statuts, ils sont régis par un règlement général de l'organisme adopté par l'assemblée générale des membres.
+
+###### Section 1 : Adhésion des membres
+
+####### Article L323-2
+
+Ne peuvent être membres d'un organisme de gestion collective que les titulaires de droits mentionnés au premier alinéa de l'article L. 321-1 et, le cas échéant, des entités regroupant des titulaires de droits, notamment des organismes de gestion collective.
+
+Les conditions d'adhésion à l'organisme de gestion collective et de refus éventuel de celui-ci sont soumises aux règles définies aux articles L. 322-3 et L. 322-4.
+
+####### Article L323-3
+
+Les organismes de gestion collective tiennent à jour les registres de leurs membres.
+
+###### Section 2 : Décisions collectives des membres
+
+####### Article L323-4
+
+Les décisions collectives des membres sont prises conformément aux dispositions particulières à la forme juridique adoptée par l'organisme de gestion collective, sous réserve des dispositions de la présente section.
+
+####### Article L323-5
+
+L'assemblée générale des membres est réunie au moins une fois par an.
+
+####### Article L323-6
+
+L'assemblée générale adopte les statuts et le règlement général, décide de toute modification à y apporter et fixe dans l'un de ces instruments les conditions d'adhésion à l'organisme de gestion collective.
+
+Lorsque l'organisme est doté d'un conseil d'administration ou d'un conseil de surveillance, ou de tout autre organe collégial d'administration autre que celui composé des dirigeants de l'organisme, l'assemblée générale nomme et révoque ses membres dans les conditions fixées par la loi et par les statuts. Elle approuve leur rémunération et les autres avantages dont ils bénéficient.
+
+L'assemblée générale nomme et révoque le commissaire aux comptes.
+
+L'assemblée générale statue également sur :
+
+1° La politique générale de répartition des sommes dues aux titulaires de droits ;
+
+2° La politique générale d'utilisation des sommes qui ne peuvent être réparties ;
+
+3° La politique générale d'investissement des revenus provenant de l'exploitation des droits et des recettes résultant de cet investissement ;
+
+4° La politique générale des déductions effectuées sur ces revenus et recettes ;
+
+5° L'utilisation, durant l'exercice précédent, des sommes qui n'ont pu être réparties ;
+
+6° La politique de gestion des risques ;
+
+7° L'approbation de toute acquisition, vente d'immeubles ou hypothèque sur ceux-ci ;
+
+8° L'approbation des opérations de fusion ou d'alliance, de la création de filiales, et de l'acquisition d'autres entités ou de participations ou de droits dans d'autres entités ;
+
+9° L'approbation des opérations d'emprunt, d'octroi de prêts ou de constitution de garanties d'emprunts.
+
+Elle approuve le rapport annuel de transparence mentionné à l'article L. 326-1.
+
+####### Article L323-7
+
+L'assemblée générale des membres peut déléguer tout ou partie des pouvoirs énumérés aux 6°, 7°, 8° et 9° de l'article L. 323-6 à l'organe de surveillance prévu à l'article L. 323-14 dans des conditions qu'elle détermine. L'organe de surveillance ne peut déléguer ces compétences.
+
+####### Article L323-8
+
+Tous les membres d'un organisme de gestion collective ont le droit de participer et de voter à l'assemblée générale dans les conditions fixées par la loi et par les statuts et le règlement général.
+
+Ils peuvent voter par voie électronique. Leur participation et l'exercice de leur droit de vote à l'assemblée générale ne peuvent être restreints par les statuts ou le règlement général qu'en fonction de la durée de leur adhésion ou du montant des revenus qu'ils ont reçu ou qui leur sont dus au titre de l'exploitation de leurs droits, sous réserve que ces critères, qui peuvent être cumulés, soient définis et appliqués de manière équitable et proportionnée.
+
+####### Article L323-9
+
+Les membres de l'organisme de gestion collective peuvent donner mandat à un autre membre à l'effet de les représenter à l'assemblée générale et de voter en leur nom, à condition que cette désignation ne crée pas de conflit d'intérêts, en particulier lorsque le mandant et le mandataire relèvent de catégories différentes de titulaires de droits au sein de l'organisme.
+
+Chaque mandat est valable pour une seule assemblée générale. Le mandataire jouit des mêmes droits que ceux dont le membre qui l'a désigné aurait bénéficié lors de l'assemblée générale. Le mandataire vote conformément aux instructions de vote données, le cas échéant, par le membre qui l'a désigné.
+
+Les statuts et le règlement général peuvent prévoir des restrictions concernant la désignation des mandataires et l'exercice des droits de vote des membres qu'ils représentent, et notamment limiter le nombre de mandats dont dispose un mandataire, sous réserve que celles-ci ne compromettent pas la participation appropriée et effective des membres au processus de décision de l'organisme.
+
+####### Article L323-10
+
+Lorsque l'organisme de gestion collective ne dispose pas, en raison de sa forme juridique, d'une assemblée générale de ses membres, les compétences de celle-ci, prévues à l'article L. 323-6, sont exercées par l'organe de surveillance prévu à l'article L. 323-14. Les règles prévues aux articles L. 323-5, L. 323-8 et L. 323-9 s'appliquent alors à cet organe.
+
+Si l'ensemble des membres de l'organe sont des personnes morales représentant des titulaires de droit, les statuts peuvent en outre prévoir que tout ou partie des pouvoirs de l'assemblée générale sont exercés par un organe réunissant ces personnes morales.
+
+###### Section 3 : Organes de gestion, d'administration et de direction
+
+####### Article L323-11
+
+Les statuts ou le règlement général des organismes de gestion collective prévoient les procédures administratives et comptables assurant un contrôle interne effectif des membres de l'organe d'administration et des représentants légaux.
+
+####### Article L323-12
+
+Les statuts ou le règlement général des organismes prévoient des procédures assurant la prévention et le traitement des conflits d'intérêts qui pourraient survenir dans l'exercice des fonctions des membres des organes de gestion, d'administration et de direction, de manière à éviter qu'ils ne portent atteinte aux intérêts collectifs des titulaires de droits qu'ils représentent.
+
+####### Article L323-13
+
+Les procédures mentionnées à l'article L. 323-12 prévoient notamment l'établissement d'une déclaration individuelle annuelle par chacun des membres, personnes physiques, du conseil d'administration, ou du conseil de surveillance et du directoire lorsque l'organisme en est doté, ainsi que par chacun des représentants légaux, précisant :
+
+1° Tout intérêt qu'il détient dans l'organisme de gestion collective ;
+
+2° Toute rémunération qu'il a perçue lors de l'exercice précédent de l'organisme, y compris sous la forme de prestations de retraite, d'avantages en nature ou de tout autre avantage ;
+
+3° Tout revenu qu'il a perçu, lors de l'exercice précédent, de l'organisme en tant que titulaire de droits ;
+
+4° Tout conflit réel ou potentiel entre ses intérêts personnels et ceux de l'organisme ou entre ses obligations envers celui-ci et celles qu'il a envers toute autre personne physique ou morale.
+
+Cette déclaration est tenue à la disposition des membres de l'assemblée générale pendant un délai de deux mois avant la réunion annuelle de cette assemblée au siège de l'organisme de gestion collective. Les conditions de sa consultation doivent assurer le respect de la vie privée, de la protection des données personnelles et du secret des affaires.
+
+Les statuts ou le règlement général déterminent les sanctions applicables à la personne qui omet de transmettre sa déclaration complète à l'organisme dans les délais qu'ils fixent ou qui mentionne des informations erronées dans ce document. Ces sanctions doivent être graduelles et proportionnées.
+
+###### Section 4 : Organe de surveillance
+
+####### Article L323-14
+
+Les statuts des organismes de gestion collective instituent un organe collégial de surveillance des activités des organes de gestion, d'administration et de direction.
+
+Cet organe est le conseil de surveillance lorsque l'organisme en est doté. Les dispositions du deuxième alinéa de l'article L. 225-68 du code de commerce ne s'appliquent que si l'assemblée générale a fait usage de la faculté de déléguer que lui reconnait l'article L. 323-7.
+
+Cet organe ne peut être un comité composé d'administrateurs du conseil d'administration ne prenant pas part à la gestion d'un organisme que lorsque celui-ci a adopté la forme d'une association dont les statuts n'attribuent pas au conseil d'administration des pouvoirs de gestion de l'association.
+
+Il se réunit au moins une fois par semestre. Il a pour mission :
+
+1° De contrôler l'activité des organes de gestion, d'administration et de direction, notamment la mise en œuvre des décisions de l'assemblée générale, en particulier s'agissant des politiques générales énumérées aux points a à d du quatrième alinéa de l'article L. 323-6 ;
+
+2° D'exercer les compétences qui lui sont déléguées par l'assemblée générale, notamment dans les cas prévus par l'article L. 323-7 ;
+
+3° D'émettre un avis sur les refus opposés par l'organisme de gestion collective aux demandes de communication de documents présentées par ses membres en application de l'article L. 326-5.
+
+Il rend compte, au moins une fois par an, de l'exercice de ses missions à l'assemblée générale.
+
+####### Article L323-15
+
+Les membres de l'organe de surveillance sont élus par l'assemblée générale.
+
+Les règles statutaires régissant leur désignation assurent une représentation équilibrée des différentes catégories de membres de l'assemblée générale au sein de l'organe de surveillance. Elles peuvent autoriser l'élection de personnes physiques qui ne sont pas membres de l'organisme, sous réserve que ces derniers demeurent majoritaires au regard du nombre de droits de vote détenus ou du nombre de personnes siégeant au sein de l'organe de surveillance.
+
+Aucun membre de cet organe ne peut être salarié ni appartenir aux organes de gestion, d'administration ou de direction de l'organisme de gestion collective.
+
+##### Chapitre IV : Gestion des droits
+
+###### Article L324-1
+
+Les modalités de gestion par l'organisme des droits patrimoniaux qui lui sont confiés sont fixées soit par les statuts, soit par le règlement général, conformément aux dispositions du présent chapitre.
+
+###### Article L324-2
+
+Les organismes de gestion collective respectent le principe d'égalité de traitement dans la gestion des droits patrimoniaux de l'ensemble des titulaires de droits qu'ils représentent, y compris dans le cas où cette gestion s'exerce au titre d'un accord de représentation.
+
+###### Section 1 : Octroi des autorisations d'exploitation et perception des revenus issus de l'exploitation des droits
+
+####### Article L324-3
+
+Les contrats conclus par les organismes de gestion collective avec les utilisateurs de tout ou partie de leur répertoire sont des actes civils.
+
+####### Article L324-4
+
+Les statuts ou le règlement général fixent les conditions dans lesquelles les titulaires de droits peuvent octroyer à des tiers des autorisations d'exploitation pour des utilisations non commerciales de droits ou catégories de droits dont ils ont confié la gestion à l'organisme, portant sur certains types d'œuvres ou d'autres objets protégés de leur choix.
+
+####### Article L324-5
+
+Les organismes de gestion collective des droits des producteurs de phonogrammes et de vidéogrammes et des artistes-interprètes ont la faculté, dans la limite des mandats qui leur sont donnés soit par tout ou partie des membres, soit par des organismes étrangers ayant le même objet, d'exercer collectivement les droits prévus aux articles L. 213-1 et L. 215-1 en concluant des contrats généraux d'intérêt commun avec les utilisateurs de phonogrammes ou de vidéogrammes dans le but d'améliorer la diffusion de ceux-ci ou de promouvoir le progrès technique ou économique.
+
+####### Article L324-6
+
+Les conditions d'octroi par les organismes de gestion collective des autorisations d'exploitation des droits sont fondées sur des critères objectifs, transparents et non discriminatoires.
+
+Le montant des rémunérations demandées par les organismes pour l'exploitation des droits est raisonnable et garantit que les titulaires de droits qu'ils représentent perçoivent une rémunération appropriée pour ces exploitations. Il tient compte, notamment, de la valeur économique des droits exploités, qu'il s'agisse de droits exclusifs ou de droits à rémunération, de la nature et de l'étendue de l'utilisation des œuvres et autres objets protégés sur lesquels portent ces droits, et de la valeur économique du service fourni par l'organisme de gestion collective.
+
+Les statuts ou le règlement général des organismes doivent prévoir les conditions dans lesquelles les associations ayant un but d'intérêt général bénéficient, pour leurs manifestations ne donnant pas lieu à entrée payante, d'une réduction sur le montant des droits d'auteur et des droits voisins de ceux-ci qu'elles auraient à verser.
+
+Lorsque des autorisations d'exploitation sont octroyées par les organismes de gestion collective à un utilisateur fournissant un nouveau type de service en ligne mis à la disposition du public de l'Union européenne depuis moins de trois ans, les conditions d'octroi de ces autorisations ne sauraient constituer des précédents pour déterminer les conditions d'octroi d'autres autorisations d'exploitation. Le délai de trois ans court à compter du premier contrat concernant le service considéré.
+
+####### Article L324-7
+
+Les organismes de gestion collective permettent aux utilisateurs de communiquer avec eux par voie électronique.
+
+Ils répondent dans un délai raisonnable aux demandes des utilisateurs et les informent des conditions d'octroi des autorisations d'exploitation, des critères qu'ils mettent en œuvre pour fixer le montant de la rémunération due et des informations qui leur sont nécessaires pour pouvoir proposer une autorisation d'exploitation.
+
+Après réception de ces informations, l'organisme, dans un délai raisonnable, propose une autorisation d'exploitation ou adresse à l'utilisateur une réponse motivée expliquant les raisons pour lesquelles il n'entend pas octroyer l'autorisation sollicitée.
+
+####### Article L324-8
+
+Lorsqu'une autorisation d'exploitation est octroyée, l'utilisateur est tenu de communiquer à l'organisme de gestion collective, dans un format et dans un délai convenus entre les parties ou préétablis, les informations pertinentes sur l'utilisation qu'il a faite des droits, de telle sorte que l'organisme soit en mesure d'assurer la perception et la répartition des revenus provenant de l'exploitation de ces droits.
+
+Pour définir le format à respecter pour la communication de ces informations, les organismes et les utilisateurs prennent en considération, dans la mesure du possible, les normes sectorielles volontaires, en particulier les identifiants standard des œuvres et autres objets protégés. A défaut d'accord entre les parties dans un délai raisonnable, ces informations sont celles définies par un arrêté du ministre chargé de la culture pour le secteur d'activité concerné.
+
+###### Section 2 : Gestion des revenus issus de l'exploitation des droits
+
+####### Article L324-9
+
+Les organismes de gestion collective établissent des comptes annuels comportant un bilan, un compte de résultat et une annexe, conformément à un règlement de l'autorité des normes comptables et de manière à séparer :
+
+1° Les revenus provenant de l'exploitation des droits et toute recette ou actif résultant de l'investissement de ces revenus ;
+
+2° Leurs actifs propres éventuels et les revenus tirés de ceux-ci ou d'autres activités, ainsi que les sommes qu'ils perçoivent au titre de leurs frais de gestion.
+
+Les règles comptables communes aux organismes de gestion collective sont fixées par l'Autorité des normes comptables.
+
+####### Article L324-10
+
+Les organismes de gestion collective ne sont pas autorisés à utiliser les revenus mentionnés au 1° de l'article L. 324-9 à des fins autres que leur répartition aux titulaires de droits.
+
+Toutefois, ils peuvent déduire des revenus à répartir certaines sommes, correspondant notamment à leurs frais de gestion, dans les conditions fixées dans le cadre de la politique générale définie par l'assemblée générale des membres.
+
+Ces déductions doivent être justifiées au regard des services rendus aux titulaires de droits.
+
+Les sommes déduites au titre des frais de gestion ne peuvent excéder les coûts justifiés supportés par l'organisme pour la gestion des droits patrimoniaux qui lui est confiée.
+
+Lorsque les revenus et les recettes mentionnés au 1° de l'article L. 324-9 sont perçus par l'organisme au titre d'un accord de représentation, seuls les montants correspondant aux frais de gestion peuvent être déduits de ces revenus, à moins que la personne morale partie à l'accord de représentation n'autorise expressément d'autres déductions.
+
+####### Article L324-11
+
+Les organismes de gestion collective investissent les revenus provenant de l'exploitation des droits et les recettes résultant de l'investissement de ces revenus conformément à la politique générale d'investissement et de gestion des risques définie par l'assemblée générale, et aux règles suivantes :
+
+1° S'il existe un quelconque risque de conflit d'intérêts, les organismes de gestion collective veillent à ce que l'investissement serve le seul intérêt des titulaires de droits ;
+
+2° Les actifs sont investis de manière à garantir la sécurité, la qualité, la liquidité et la rentabilité de l'ensemble du portefeuille ;
+
+3° Les actifs sont correctement diversifiés afin d'éviter une dépendance excessive à l'égard d'un actif particulier et l'accumulation de risques dans l'ensemble du portefeuille.
+
+####### Article L324-12
+
+I.-Les organismes de gestion collective versent les sommes dues aux titulaires de droits au plus tard neuf mois à compter de la fin de l'exercice au cours duquel les revenus provenant de l'exploitation des droits ont été perçus.
+
+Il ne peut être dérogé à ce délai que pour un motif légitime, notamment le manque d'information permettant l'identification ou la localisation des titulaires de droits bénéficiaires.
+
+II.-Lorsque ces sommes sont versées à un organisme de gestion collective ou un organisme de gestion indépendant représentant le titulaire de droits, un contrat conclu entre ces différents organismes précise le délai dont dispose chacun d'entre eux pour que le titulaire de droits perçoive les sommes qui lui sont dues dans le délai mentionné au I. A défaut de contrat, l'organisme collecteur dispose d'un délai d'un mois à compter de la fin de l'exercice pour verser les sommes dues à l'organisme qui est son membre. Celui-ci doit ensuite verser les sommes dues au titulaire de droits dans le délai fixé au I restant à courir.
+
+Lorsque des organismes de gestion collective ou des organismes de gestion indépendants membres les uns des autres interviennent successivement dans la répartition de ces sommes, un contrat conclu entre eux fixe le délai s'appliquant à chacune des parties, sans que le délai total ne puisse excéder celui prévu au I. A défaut de contrat, l'organisme collecteur dispose d'un délai d'un mois à compter de la fin de l'exercice pour verser les sommes dues et le délai restant à courir est réparti à égalité entre les autres organismes.
+
+III.-Les organismes de gestion collective versent les sommes dues en application d'un accord de représentation dans les conditions prévues au I. Ces sommes doivent ensuite être versées aux titulaires de droits dans un délai de six mois à compter de leur réception, sauf dans le cas prévu au deuxième alinéa du I.
+
+####### Article L324-13
+
+Lorsque les sommes dues à des titulaires de droits ne peuvent pas être réparties ou versées dans les délais fixés à l'article L. 324-12 pour les motifs prévus au second alinéa du I de cet article, ces sommes font l'objet d'une gestion et d'une présentation séparées dans les comptes de l'organisme.
+
+####### Article L324-14
+
+Les organismes de gestion collective prennent les mesures nécessaires pour identifier et localiser les titulaires de droits. En particulier, au plus tard trois mois après l'échéance du délai fixé au I de l'article L. 324-12, ils rendent facilement accessibles en ligne aux titulaires de droits qu'ils représentent, aux entités représentant ceux-ci lorsqu'elles sont membres de l'organisme de gestion collective, et aux organismes de gestion collective avec lesquels ils ont conclu des accords de représentation, la liste des œuvres et autres objets protégés pour lesquels un ou plusieurs titulaires de droits n'ont pas été identifiés ou localisés. Les éléments d'information relatifs aux œuvres ou autres objets protégés en cause devant être portés à la connaissance de ces personnes, sont déterminés par décret en Conseil d'Etat.
+
+Les organismes vérifient également les registres mentionnés à l'article L. 323-3 ainsi que ceux qui sont pertinents et facilement accessibles.
+
+Si les mesures prévues par les alinéas qui précèdent ne permettent pas d'identifier et de localiser les titulaires de droits, les organismes mettent ces informations à la disposition du public par un service en ligne, au plus tard un an après l'expiration du délai de trois mois prévu au premier alinéa.
+
+####### Article L324-15
+
+Si les sommes dues à des titulaires de droits ne peuvent pas être réparties dans un délai de trois ans à compter de la fin de l'exercice au cours duquel ont été perçus les revenus provenant de l'exploitation des droits, et sous réserve que l'organisme de gestion collective ait pris toutes les mesures prévues à l'article L. 324-14 pour identifier et localiser les bénéficiaires, ces sommes sont réputées relever des sommes qui ne peuvent être réparties.
+
+####### Article L324-16
+
+Les actions en paiement des droits perçus par les organismes de gestion collective se prescrivent par cinq ans à compter de la date de leur perception, ce délai étant suspendu pendant les délais de versement prévus à l'article L. 324-12 au plus ou, si elle intervient avant, jusqu'à la date de leur mise en paiement. La date de répartition ou de mise en paiement est portée à la connaissance de tout titulaire de droit dans un document de référence aisément accessible.
+
+####### Article L324-17
+
+Les organismes de gestion collective utilisent à des actions d'aide à la création, à la diffusion du spectacle vivant, au développement de l'éducation artistique et culturelle et à des actions de formation des artistes :
 
 1° 25 % des sommes provenant de la rémunération pour copie privée ;
 
-2° La totalité des sommes perçues en application des articles L. 122-10, L. 132-20-1, L. 214-1, L. 217-2 et L. 311-1 et qui n'ont pu être réparties soit en application des conventions internationales auxquelles la France est partie, soit parce que leurs destinataires n'ont pas pu être identifiés ou retrouvés avant l'expiration du délai prévu au dernier alinéa de l'article L. 321-1.
+2° La totalité des sommes perçues en application des articles L. 122-10, L. 132-20-1, L. 214-1, L. 217-2 et L. 311-1 et qui n'ont pu être réparties soit en application des conventions internationales auxquelles la France est partie, soit parce que leurs destinataires n'ont pas pu être identifiés ou retrouvés avant l'expiration du délai prévu à l'article L. 324-16.
 
-Elles peuvent utiliser à ces actions tout ou partie des sommes visées au 2° à compter de la fin de la cinquième année suivant la date de leur mise en répartition. La répartition des sommes correspondantes, qui ne peut bénéficier à un organisme unique, est soumise à un vote de l'assemblée générale de la société, qui se prononce à la majorité des deux tiers. A défaut d'une telle majorité, une nouvelle assemblée générale, convoquée spécialement à cet effet, statue à la majorité simple.
+Ils peuvent utiliser à ces actions tout ou partie des sommes visées au 2° à compter de la fin de la troisième année suivant la date de leur mise en répartition, sans préjudice des demandes de paiement des droits non prescrits.
 
-Les sociétés de perception et de répartition des droits établissent et gèrent une base de données électronique unique recensant, avec le nom de leurs bénéficiaires, le montant et l'utilisation de ces sommes. Cette base est régulièrement mise à jour et mise à disposition gratuitement, sur un service de communication au public en ligne, dans un format ouvert et librement réutilisable. Le commissaire aux comptes vérifie la sincérité et la concordance avec les documents comptables de la société des informations contenues dans cette base de données. Il établit à cet effet un rapport spécial.
+La répartition des sommes correspondantes, qui ne peut bénéficier à une seule personne, est soumise à un vote de l'assemblée générale de l'organisme de gestion collective, qui se prononce à la majorité des deux tiers. A défaut d'une telle majorité, une nouvelle assemblée générale, convoquée spécialement à cet effet, statue à la majorité simple.
 
 L'aide au développement de l'éducation artistique et culturelle s'entend des concours apportés par des auteurs ou des artistes-interprètes aux actions mentionnées au 9° de l'article 3 de la loi n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine.
 
-###### Article L321-10
+####### Article L324-18
 
-Les sociétés de perception et de répartition des droits des producteurs de phonogrammes et de vidéogrammes et des artistes-interprètes ont la faculté, dans la limite des mandats qui leur sont donnés soit par tout ou partie des associés, soit par des organismes étrangers ayant le même objet, d'exercer collectivement les droits prévus aux articles L. 213-1 et L. 215-1 en concluant des contrats généraux d'intérêt commun avec les utilisateurs de phonogrammes ou de vidéogrammes dans le but d'améliorer la diffusion de ceux-ci ou de promouvoir le progrès technique ou économique.
+Les conditions d'accès aux actions mentionnées à l'article L. 324-17 et aux prestations des organismes de gestion collective financées à l'aide des sommes mentionnées au deuxième alinéa de l'article L. 324-10 sont fondées sur des critères équitables.
 
-###### Article L321-11
+##### Chapitre V : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales
 
-Sans préjudice des dispositions générales applicables aux sociétés civiles, la demande de dissolution d'une société de perception et de répartition des droits peut être présentée au tribunal par le ministre chargé de la culture.
+###### Article L325-1
 
-En cas de violation de la loi, le tribunal peut interdire à une société d'exercer ses activités de recouvrement dans un secteur d'activité ou pour un mode d'exploitation.
+Constitue une autorisation d'exploitation multiterritoriale de droits en ligne sur une œuvre musicale au sens du présent code une autorisation d'exploitation d'une œuvre musicale, octroyée au titre du droit d'auteur, à un prestataire de services en ligne sur le territoire de plus d'un Etat membre de l'Union européenne.
 
-###### Article L321-12
+###### Article L325-2
 
-La société de perception et de répartition des droits communique ses comptes annuels au ministre chargé de la culture et porte à sa connaissance, deux mois au moins avant son examen par l'assemblée générale, tout projet de modification de ses statuts ou des règles de perception et de répartition des droits.
+I.-Les organismes de gestion collective peuvent, dans des conditions fixées par décret en Conseil d'Etat, octroyer des autorisations d'exploitation multiterritoriales de droits en ligne sur des œuvres musicales sous réserve qu'ils disposent des moyens leur permettant de traiter par voie électronique les données nécessaires à la gestion de ces autorisations.
 
-Elle adresse au ministre chargé de la culture, à la demande de celui-ci, tout document relatif à la perception et à la répartition des droits ainsi que la copie des conventions passées avec les tiers.
+II.-Les prestataires de services en ligne sont tenus de rendre compte avec exactitude de l'utilisation effective des droits qui leur sont octroyés dans le cadre de ces autorisations.
+
+###### Article L325-3
+
+Lorsqu'un organisme de gestion collective est en capacité d'octroyer des autorisations d'exploitation multiterritoriales de droits en ligne sur des œuvres musicales conformément aux dispositions du présent chapitre, il ne peut refuser le mandat de gestion de telles autorisations que décide de lui confier un autre organisme qui ne propose pas ce type d'autorisations sur les œuvres musicales de son propre répertoire.
+
+Toutefois, l'organisme sollicité n'est tenu d'accepter ce mandat que s'il octroie déjà ou propose déjà l'octroi d'autorisations d'exploitation multiterritoriales pour la même catégorie de droits en ligne que ceux objets de la demande, sur des œuvres musicales figurant dans le répertoire d'un ou de plusieurs autres organismes.
+
+###### Article L325-5
+
+Sans préjudice du droit des parties de saisir le juge, les litiges relatifs aux autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales peuvent être soumis au médiateur mentionné à l'article L. 327-6 dans les conditions prévues au chapitre VII du présent titre.
+
+###### Article L325-6
+
+Les dispositions du présent chapitre ne s'appliquent pas aux organismes de gestion collective lorsqu'ils octroient une autorisation d'exploitation multiterritoriale de droits en ligne sur des œuvres musicales aux entreprises de communication audiovisuelle pour la communication au public ou la mise à la disposition du public :
+
+1° Simultanée ou postérieure des programmes de radio ou de télévision télédiffusés par l'entreprise de communication audiovisuelle ;
+
+2° Des contenus, y compris les prévisualisations, produits par l'entreprise de communication audiovisuelle ou pour son compte, présentant un caractère accessoire à la première diffusion de ses programmes télédiffusés venant ainsi compléter ou prolonger son offre de programmes.
+
+###### Article L325-7
+
+Les dispositions de l'article L. 324-12 ne sont pas applicables aux revenus issus de l'octroi d'autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales.
+
+##### Chapitre VI : Transparence et procédures de contrôle
+
+###### Section 1 : Transparence et obligations d'information
+
+####### Article L326-1
+
+Les organismes de gestion collective établissent un rapport de transparence annuel, comportant un rapport spécial portant sur l'utilisation des sommes déduites aux fins de fourniture de services sociaux, culturels ou éducatifs, notamment en application de l'article L. 324-17.
+
+Ces rapports sont rendus publics et adressés au ministre chargé de la culture et à la commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins, au plus tard dans les huit mois suivant la fin de chaque exercice sur lequel ils portent.
+
+####### Article L326-2
+
+Les organismes de gestion collective établissent et gèrent une base de données électronique unique recensant, avec le nom de leurs bénéficiaires, le montant et l'utilisation des sommes mentionnées à l'article L. 324-17. Cette base est régulièrement mise à jour et mise à disposition gratuitement, sur un service de communication au public en ligne, dans un format ouvert et librement réutilisable.
+
+Les organismes de gestion collective, sans préjudice de leurs autres obligations légales de publicité, publient également, sur leur site internet, des informations actualisées, précisées par décret en Conseil d'Etat, et notamment leurs statut, le règlement général, des contrats types et des tarifs standard, la liste des membres de leurs organes de gestion, d'administration et de direction, la politique de distribution des sommes dues aux titulaires de droit, la liste des accords de représentation et de leurs signataires, la politique de gestion des sommes non distribuables, les procédures de traitement des contestations et litiges.
+
+####### Article L326-3
+
+I.-Les organismes mettent au moins une fois par an, selon des modalités définies par les statuts ou le règlement général, à la disposition de chacun des titulaires de droits auquel ils ont réparti ou versé des revenus provenant de l'exploitation de leurs droits au cours de l'exercice précédent, des informations relatives à la gestion de ceux-ci déterminées par décret en Conseil d'Etat.
+
+II.-Lorsque les revenus provenant de l'exploitation des droits sont répartis ou versés aux titulaires de droits par une personne morale membre de l'organisme, à laquelle celui-ci a attribué les revenus, l'organisme lui communique les informations mentionnées au I sauf si cette personne morale dispose déjà de ces informations.
+
+Cette personne morale est tenue de mettre à la disposition des titulaires de droits qu'elle représente les informations mentionnées au I, dans les mêmes conditions.
+
+III.-Lorsque l'organisme de gestion collective est lié à un autre par un accord de représentation, il met à sa disposition, au moins une fois par an et par voie électronique, au titre des revenus provenant de l'exploitation des droits qu'il lui a attribués ou versés au cours de l'exercice précédent, les informations relatives à la gestion des droits définies par décret en Conseil d'Etat.
+
+####### Article L326-4
+
+En réponse à une demande dûment justifiée, les organismes de gestion collective communiquent, par voie électronique et dans un délai n'excédant pas un mois, aux titulaires de droits gérés par l'organisme à quelque titre que ce soit, aux organismes pour le compte desquels ils gèrent des droits au titre d'un accord de représentation et aux utilisateurs, les informations suivantes :
+
+1° Les œuvres ou autres objets protégés qu'ils représentent, les droits qu'ils gèrent, directement ou dans le cadre d'accords de représentation, et les territoires couverts ;
+
+2° Si, en raison du champ d'activité de l'organisme, ces œuvres ou autres objets protégés ne peuvent être déterminés, les types d'œuvres ou d'autres objets protégés qu'ils représentent, les droits qu'ils gèrent et les territoires couverts.
+
+Ils peuvent demander le paiement de frais d'un montant strictement proportionné au coût de la fourniture de ces informations.
+
+Ils sont dispensés de répondre aux demandes individuelles lorsqu'ils mettent ces informations à la disposition du public sur leur site internet.
+
+####### Article L326-5
+
+Les conditions dans lesquelles les membres des organismes de gestion collective peuvent obtenir, dans le respect des secrets protégés par la loi, communication de documents ou informations, y compris à caractère nominatif relatifs à l'assemblée ou à l'exercice en cours, dans un délai fixé par les statuts ou le règlement général, qui ne peut être inférieur à deux mois avant l'assemblée générale mentionnée à l'article L. 323-5, sont fixées par décret en Conseil d'Etat.
+
+####### Article L326-6
+
+Un dixième au moins des membres de l'organisme peut demander en justice la désignation d'un ou plusieurs experts chargés de présenter un rapport sur une ou plusieurs opérations de gestion.
+
+Pour le calcul du nombre de membres mentionnés au premier alinéa, les membres d'une entité représentant des titulaires de droit elle-même membre de l'organisme sont regardés comme des membres de l'organisme.
+
+Le ministère public et le comité d'entreprise sont habilités à agir aux mêmes fins.
+
+Le rapport est adressé au demandeur, aux commissaires aux comptes, à l'organe de surveillance, au ministre chargé de la culture, à la commission de l'article L. 327-1, ainsi que, lorsque l'organisme en comporte un, au conseil d'administration et au comité d'entreprise. Ce rapport est annexé à celui établi par les commissaires aux comptes en vue de la première assemblée générale ; il reçoit la même publicité.
+
+###### Section 2 : Contrôle par les commissaires aux comptes
+
+####### Article L326-7
+
+Les organismes de gestion collective sont tenus de nommer un ou plusieurs commissaires aux comptes.
+
+####### Article L326-8
+
+Le commissaire aux comptes vérifie la sincérité et la concordance avec les documents comptables de l'organisme des informations contenues dans le rapport de transparence annuel prévu à l'article L. 326-1 et dans la base de données prévue au premier alinéa de l'article L. 326-2. Il établit à cet effet un rapport spécial.
+
+###### Section 3 : Contrôle par le ministre chargé de la culture
+
+####### Article L326-9
+
+Les projets de statuts et de règlements généraux des organismes de gestion collective sont adressés, préalablement à la constitution de ceux-ci, au ministre chargé de la culture selon les modalités définies par décret en Conseil d'Etat.
+
+Dans les deux mois de leur réception, le ministre peut saisir le tribunal de grande instance au cas où des motifs réels et sérieux s'opposeraient à la constitution d'un de ces organismes.
+
+Le tribunal apprécie la qualification professionnelle des fondateurs de ces organismes, les moyens humains et matériels qu'ils proposent de mettre en œuvre pour assurer le recouvrement des droits et l'exploitation de leur répertoire ainsi que la conformité de leurs statuts et de leur règlement général à la réglementation en vigueur.
+
+####### Article L326-10
+
+L'organisme de gestion collective communique ses comptes annuels au ministre chargé de la culture et porte à sa connaissance, deux mois au moins avant son examen par l'assemblée générale, tout projet de modification de ses statuts, de son règlement général ou de sa politique générale de répartition des sommes dues aux titulaires de droits.
+
+####### Article L326-11
+
+Le ministre chargé de la culture peut, à tout moment, saisir la commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins lorsque ses observations tendant à la mise en conformité à la réglementation en vigueur des dispositions des statuts, du règlement général ou d'une décision des organes sociaux n'ont pas été suivies d'effet dans un délai de deux mois à compter de leur transmission, ou de six mois si une décision de l'assemblée des membres est nécessaire.
+
+####### Article L326-12
+
+L'organisme de gestion collective communique au ministre chargé de la culture, à la demande de celui-ci, tout document relatif à la perception et à la répartition des revenus provenant de l'exploitation des droits, dans le respect de la vie privée, du secret des affaires et de la protection des données personnelles.
 
 Le ministre chargé de la culture ou son représentant peut recueillir, sur pièces et sur place, les renseignements mentionnés au présent article.
 
-Les règles comptables communes aux sociétés de perception et de répartition des droits sont établies dans les conditions fixées par l'Autorité des normes comptables.
+####### Article L326-13
 
-###### Article L321-13
+Le ministre chargé de la culture peut saisir le tribunal compétent au cas où des motifs réels et sérieux justifieraient la dissolution d'un organisme de gestion collective.
 
-I. - Il est institué une commission permanente de contrôle des sociétés de perception et de répartition des droits composée de cinq membres nommés par décret pour une durée de cinq ans :
-- un conseiller maître à la Cour des comptes, président, désigné par le premier président de la Cour des comptes ;
-- un conseiller d'Etat, désigné par le vice-président du Conseil d'Etat ;
-- un conseiller à la Cour de cassation, désigné par le premier président de la Cour de cassation ;
-- un membre de l'inspection générale des finances, désigné par le ministre chargé des finances ;
-- un membre de l'inspection générale de l'administration des affaires culturelles, désigné par le ministre chargé de la culture.
+##### Chapitre VII : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins
 
-La commission peut se faire assister de rapporteurs désignés parmi les membres du Conseil d'Etat et du corps des conseillers de tribunaux administratifs et cours administratives d'appel, les magistrats de la Cour de cassation et des cours et tribunaux, les magistrats de la Cour des comptes et des chambres régionales des comptes, les membres de l'inspection générale des finances et les membres du corps des administrateurs civils. Elle peut en outre bénéficier de la mise à disposition de fonctionnaires et faire appel au concours d'experts désignés par son président.
+###### Section 1 : Missions et composition
 
-II. - La commission contrôle les comptes et la gestion des sociétés de perception et de répartition des droits ainsi que ceux de leurs filiales et des organismes qu'elles contrôlent.
+####### Article L327-1
 
-A cet effet, les dirigeants de ces sociétés, filiales et organismes sont tenus de lui prêter leur concours, de lui communiquer tous documents et de répondre à toute demande d'information nécessaire à l'exercice de sa mission. Pour les opérations faisant appel à l'informatique, le droit de communication implique l'accès aux logiciels et aux données, ainsi que le droit d'en demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du contrôle.
+Il est institué une commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins qui assure :
 
-La commission peut demander aux commissaires aux comptes des sociétés de perception et de répartition des droits tous renseignements sur les sociétés qu'ils contrôlent. Les commissaires aux comptes sont alors déliés du secret professionnel à l'égard des membres de la commission.
+1° Une mission permanente de contrôle des comptes et de la gestion des organismes de gestion collective et des organismes de gestion indépendants mentionnés au premier alinéa de l'article L. 321-4 et au deuxième alinéa de l'article L. 321-6 ainsi que de leurs filiales et des organismes contrôlés par elles ;
 
-Elle peut effectuer sur pièces et sur place le contrôle des sociétés et organismes mentionnés au premier alinéa du présent paragraphe.
+2° Une mission de contrôle du respect des dispositions du présent titre par les organismes de gestion collective et leurs filiales, sans préjudice du contrôle exercé sur les organismes établis en France par le ministre en charge de la culture en application des articles L. 326-9 à L. 326-13, ainsi que du respect par les organismes de gestion indépendants et leurs filiales des dispositions qui leur sont applicables conformément aux deuxième, troisième, quatrième et cinquième alinéas de l'article L. 321-6 ;
 
-III. - La commission de contrôle des sociétés de perception et de répartition des droits présente un rapport annuel au Parlement, au Gouvernement et aux assemblées générales des sociétés de perception et de répartition des droits.
+3° Une mission de médiation entre les organismes de gestion collective ainsi que les organismes de gestion indépendants et :
 
-IV. - Le fait, pour tout dirigeant d'une société ou d'un organisme soumis au contrôle de la commission de contrôle des sociétés de perception et de répartition des droits, de ne pas répondre aux demandes d'information de la commission, de faire obstacle de quelque manière que ce soit à l'exercice de sa mission ou de lui communiquer sciemment des renseignements inexacts est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+a) Les prestataires de services en ligne, pour les litiges relatifs à l'octroi d'autorisations d'exploitation ;
 
-V. - La commission siège dans les locaux de la Cour des comptes, qui assure son secrétariat.
+b) Les titulaires de droits, les prestataires de services en ligne ou les autres organismes de gestion collective, pour les litiges relatifs aux autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales.
 
-VI. - Un décret en Conseil d'Etat fixe l'organisation et le fonctionnement de la commission, ainsi que les procédures applicables devant elle.
+####### Article L327-2
 
-###### Article L321-1
+La commission de contrôle est composée d'un collège de contrôle et d'un collège des sanctions.
 
-Les sociétés de perception et de répartition des droits d'auteur et des droits des artistes-interprètes et des producteurs de phonogrammes et de vidéogrammes sont constituées sous forme de sociétés civiles.
+Sauf disposition législative contraire, les missions confiées à la commission sont exercées par le collège de contrôle.
 
-Les associés doivent être des auteurs, des artistes-interprètes, des producteurs de phonogrammes ou de vidéogrammes, des éditeurs, ou leurs ayants droit. Ces sociétés civiles régulièrement constituées ont qualité pour ester en justice pour la défense des droits dont elles ont statutairement la charge.
+####### Article L327-3
 
-Les actions en paiement des droits perçus par ces sociétés civiles se prescrivent par cinq ans à compter de la date de leur perception, ce délai étant suspendu jusqu'à la date de leur mise en répartition.
+Le collège de contrôle est composé de cinq membres nommés par décret :
+
+1° Un conseiller maître à la Cour des comptes, président, désigné par le premier président de la Cour des comptes ;
+
+2° Un conseiller d'Etat, président suppléant, désigné par le vice-président du Conseil d'Etat ;
+
+3° Un conseiller à la Cour de cassation, désigné par le premier président de la Cour de cassation ;
+
+4° Un membre de l'inspection générale des finances, désigné par le ministre chargé des finances ;
+
+5° Un membre de l'inspection générale de l'administration des affaires culturelles, désigné par le ministre chargé de la culture.
+
+Le président du collège de contrôle préside la commission.
+
+Pour l'accomplissement des missions qui sont confiées au collège de contrôle, le président du collège a qualité pour agir en justice.
+
+Il informe le procureur de la République de tout fait qu'il constate dans l'exercice de ses missions susceptible de constituer une infraction pénale.
+
+####### Article L327-4
+
+Le collège des sanctions est composé de trois membres nommés par décret :
+
+1° Un conseiller d'Etat, président, désigné par le vice-président du Conseil d'Etat ;
+
+2° Un conseiller maître à la Cour des comptes, président suppléant, désigné par le premier président de la Cour des comptes ;
+
+3° Un conseiller à la Cour de cassation, désigné par le premier président de la Cour de cassation.
+
+Des membres suppléants sont désignés dans les mêmes conditions. Le membre titulaire et son suppléant sont de sexe différent.
+
+Les fonctions de membre du collège des sanctions sont incompatibles avec celles de membre du collège de contrôle.
+
+####### Article L327-5
+
+La durée du mandat des membres des deux collèges est de cinq ans, renouvelable une fois.
+
+Pour chacun des deux collèges, l'écart entre le nombre de femmes et d'hommes parmi les membres nommés ne peut être supérieur à un.
+
+En cas de vacance d'un siège de membre dans l'un des collèges pour quelque cause que ce soit, constatée par son président, il est procédé à son remplacement par une personne de même sexe pour la durée du mandat restant à courir. Ce mandat n'est pas pris en compte pour l'application du premier alinéa.
+
+####### Article L327-6
+
+Un médiateur chargé d'assurer la mission prévue au 3° de l'article L. 327-1 est nommé par le président de la commission au sein du collège de contrôle et après avis du collège de contrôle, pour une durée de trois ans renouvelable.
+
+Il peut être saisi sur requête conjointe ou par l'une des parties au litige, par le ministre chargé de la culture ou par le président du collège de contrôle.
+
+Les effets de la saisine du médiateur en matière de prescription de l'action civile et administrative obéissent aux dispositions de l'article 2238 du code civil.
+
+Le médiateur coopère avec ses homologues étrangers en vue du règlement extrajudiciaire des litiges transfrontaliers.
+
+###### Section 2 : Règles de fonctionnement
+
+####### Article L327-7
+
+La commission de contrôle siège dans les locaux de la Cour des comptes, qui assure son secrétariat.
+
+####### Article L327-8
+
+Les décisions de chaque collège sont prises à la majorité des voix. En cas de partage égal de celles-ci, la voix du président du collège est prépondérante.
+
+Chaque collège adopte un règlement intérieur.
+
+####### Article L327-9
+
+Les membres de chacun des deux collèges et le médiateur remplissent une déclaration d'intérêt conforme au modèle de l'annexe 3 de l'article 2 du décret 23 décembre 2013 relatif aux déclarations de situation patrimoniale et déclarations d'intérêts adressées à la Haute Autorité pour la transparence de la vie publique et doivent notamment informer leur président des intérêts qu'ils ont détenus au cours des deux années précédant leur nomination, qu'ils détiennent ou viennent à détenir au sein d'un organisme de gestion collective ou d'un organisme de gestion indépendant, de leurs filiales ou des organismes contrôlés par elles.
+
+Ces informations, ainsi que celles concernant les présidents des collèges, sont tenues à la disposition des membres de la commission de contrôle, dans un délai de deux mois suivant la nomination des membres des deux collèges.
+
+Aucun membre de la commission de contrôle ne peut délibérer dans une affaire dans laquelle il a ou a eu un intérêt au cours des deux années précédant la délibération.
+
+####### Article L327-10
+
+I.-Pour l'exercice de ses missions, la commission de contrôle peut se faire assister de rapporteurs désignés parmi les membres du Conseil d'Etat et du corps des conseillers de tribunaux administratifs et cours administratives d'appel, les magistrats de la Cour de cassation et des cours et tribunaux, les magistrats de la Cour des comptes et des chambres régionales des comptes, les membres de l'Inspection générale des finances et de l'Inspection générale des affaires culturelles et les membres du corps des administrateurs civils.
+
+Elle peut en outre faire appel au concours d'experts et bénéficier de la mise à disposition d'agents publics désignés par son président.
+
+II.-Les rapporteurs et agents de la commission sont habilités par son président dans des conditions fixées par décret en Conseil d'Etat pour exercer, après avoir prêté serment, les attributions mentionnées à l'article L. 327-11. Cette habilitation ne dispense pas de l'application des dispositions définissant les procédures autorisant l'accès aux secrets protégés par la loi.
+
+###### Section 3 : Procédure
+
+####### Sous-section 1 : Règles générales de procédure
+
+######## Article L327-11
+
+I.-Pour l'exercice des missions prévues à l'article L. 327-1, les représentants légaux des organismes de gestion collective, des organismes de gestion indépendants, de leurs filiales et organismes contrôlés par elles, sont tenus de prêter leur concours au collège de contrôle, de lui communiquer tous documents et de répondre à toute demande d'information nécessaire à l'exercice de ses missions. Pour les opérations faisant appel à l'informatique, le droit de communication implique l'accès aux logiciels et aux données, ainsi que le droit d'en demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du contrôle.
+
+II.-Le collège de contrôle peut demander aux commissaires aux comptes des organismes de gestion collective et des organismes de gestion indépendants tous renseignements sur les organismes qu'ils contrôlent. Les commissaires aux comptes sont alors déliés du secret professionnel à l'égard des membres, rapporteurs et agents de la commission.
+
+III.-Le collège de contrôle et le médiateur peuvent convoquer et entendre les représentants légaux et les membres de l'organisme de gestion objet du contrôle, de ses filiales et des organismes contrôlés par elles, les autres organismes de gestion collective et de gestion indépendants, notamment ceux liés par un accord de représentation avec l'organisme en cause, les représentants des utilisateurs du répertoire de celui-ci ainsi que toute personne dont l'avis est jugé utile.
+
+Les représentants légaux des organismes de gestion collective et des organismes de gestion indépendants peuvent demander à être entendus par le collège de contrôle.
+
+Toute personne entendue a le droit de se faire assister d'un conseil de son choix.
+
+IV.-Le fait, pour tout dirigeant d'un organisme objet d'un contrôle, de faire obstacle de quelque manière que ce soit à l'exercice des missions des membres, rapporteurs ou agents du collège de contrôle mentionnés aux articles L. 327-3 et L. 327-10 est puni d'un an d'emprisonnement et de 15 000 € d'amende.
+
+######## Article L327-12
+
+La commission de contrôle présente un rapport annuel au Parlement et au Gouvernement. Ce rapport est rendu public. Cette publication est portée par les organismes de gestion collective et les organismes de gestion indépendants à la connaissance des membres de leur assemblée générale.
+
+####### Sous-section 2 : Procédure de sanction
+
+######## Article L327-13
+
+I.-Lorsqu'il est saisi par toute personne intéressée, par le ministre chargé de la culture ou par l'autorité compétente d'un autre Etat membre de l'Union européenne, de faits susceptibles de constituer un manquement aux dispositions du présent titre, ou lorsqu'il constate de tels faits dans l'exercice de sa mission de contrôle, le collège de contrôle procède à une enquête et établit un rapport sur la base duquel il peut mettre en demeure l'organisme de gestion de se conformer aux dispositions du présent titre, dans un délai qu'il détermine. Il peut décider de l'ouverture d'une procédure de sanction si l'organisme ne se conforme pas à la mise en demeure dans le délai fixé.
+
+II.-Lorsqu'il est saisi par l'autorité compétente d'un autre Etat membre de l'Union européenne, le collège de contrôle lui adresse une réponse motivée dans un délai de trois mois.
+
+Il peut demander à l'autorité compétente des informations sur un organisme de gestion collective ou un organisme de gestion indépendant établi dans un autre Etat membre exerçant son activité en France et, le cas échéant, la saisir de faits susceptibles de constituer un manquement par cet organisme aux règles de cet Etat relatives aux organismes de gestion collective ou organismes de gestion indépendants.
+
+III.-Les saisines manifestement abusives, notamment par leur nombre, leur caractère répétitif ou systématique, peuvent être rejetées sans enquête ni rapport par le président du collège de contrôle.
+
+IV.-En cas d'ouverture d'une procédure de sanction, le collège de contrôle notifie les griefs à l'organisme concerné et transmet cette notification et son rapport d'enquête au collège des sanctions. Toutefois, celui-ci ne peut être saisi de faits remontant à plus de trois ans s'il n'a été fait pendant ce délai aucun acte tendant à leur recherche, à leur constatation ou à leur sanction.
+
+Il peut également saisir le tribunal compétent pour demander l'annulation des dispositions des statuts, du règlement général ou d'une décision des organes sociaux non conformes à la réglementation.
+
+######## Article L327-14
+
+I.-Un membre du collège de contrôle est convoqué à l'audience. Il y assiste sans voix délibérative. Il peut présenter des observations au soutien des griefs notifiés et proposer une sanction.
+
+Le collège des sanctions peut entendre tout rapporteur ou agent de la commission de contrôle.
+
+Aucune sanction ne peut être prononcée sans que le représentant légal de l'organisme en cause ait été entendu ou, à défaut, dûment appelé.
+
+II.-Le collège des sanctions statue par décision motivée.
+
+Sur la base du rapport d'enquête transmis par le collège de contrôle et après une procédure contradictoire, il peut prononcer une ou plusieurs sanctions à l'encontre de l'organisme de gestion qui ne respecte pas les dispositions du présent titre.
+
+III.-Les sanctions applicables à l'encontre de l'organisme en cause sont :
+
+1° L'avertissement ;
+
+2° L'injonction assortie éventuellement d'une astreinte d'adopter, dans un délai déterminé, une ou plusieurs décisions permettant à l'organisme de se conformer à des dispositions législatives ou réglementaires ;
+
+3° Le retrait d'agrément, lorsque l'organisme est agréé par le ministre chargé de la culture en application des dispositions du présent code ;
+
+4° Une sanction pécuniaire, dont le montant, qui ne peut être supérieur à 3 % du chiffre d'affaires ou des recettes hors taxes de l'organisme, dans la limite de 300 000 €, est fixé en fonction de la gravité des manquements commis et en relation avec les avantages ou les profits éventuellement tirés de ces manquements ; ce maximum est porté à 5 %, dans la limite de 500 000 €, en cas de nouvelle violation de la même obligation dans les cinq années suivant celle où la première violation de l'obligation a été sanctionnée ;
+
+5° La publication de la sanction, précisant l'identité de l'organisme en cause et la nature du manquement, dans un journal de diffusion nationale.
+
+La liquidation de l'astreinte est prononcée, d'office, à titre provisoire ou définitif, par le collège des sanctions. Son montant total ne peut excéder le plafond fixé au d pour les sanctions pécuniaires. Les sommes sont versées au budget de la commission
+
+Les astreintes et sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+
+###### Section 4 : Voies de recours
+
+####### Article L327-15
+
+Les décisions prononcées par le collège des sanctions peuvent faire l'objet d'un recours devant la cour d'appel de Paris par l'organisme sanctionné ou par le président du collège de contrôle.
+
+Ce recours n'a pas d'effet suspensif, sauf si la juridiction, saisie d'une demande de sursis à exécution, en décide autrement. Dans ce cas, la juridiction saisie peut ordonner qu'il soit sursis à l'exécution de la décision contestée si celle-ci est susceptible d'entraîner des conséquences manifestement excessives.
+
+##### Chapitre VIII : Dispositions diverses
+
+###### Article L328-1
+
+Les organismes de gestion des droits d'auteurs et des droits voisins sont tenus de statuer par une décision écrite et motivée dans un délai n'excédant pas deux mois sur les contestations relatives aux conditions, aux effets et à la résiliation de l'autorisation de gestion des droits ainsi qu'à la gestion de ceux-ci, qui leur sont adressées par leurs membres, par les autres organismes pour lesquels ils gèrent des droits au titre d'un accord de représentation et par les titulaires de droits qui ne sont pas leurs membres mais qui ont une relation juridique directe avec eux par l'effet de la loi ou par voie de cession, de licence ou de tout autre accord contractuel.
+
+Le délai prévu à l'alinéa précédent peut être prolongé pour un motif légitime, notamment lorsque l'organisme ne dispose pas des documents ou des informations nécessaires au traitement de la demande dont il est saisi.
+
+La communication de ces contestations aux organismes est sans préjudice du droit des personnes mentionnées au premier alinéa de saisir le juge.
+
+###### Article L328-2
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent titre.
 
 #### Titre III : Prévention, procédures et sanctions
 
@@ -2023,7 +2607,7 @@ La juridiction peut également ordonner la confiscation de tout ou partie des re
 
 ####### Article L331-2
 
-Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité de toute infraction aux dispositions des livres Ier, II et III du présent code peut résulter des constatations d'agents assermentés désignés selon les cas par le Centre national du cinéma et de l'image animée, par les organismes de défense professionnelle visés à l'article L. 331-1 et par les sociétés mentionnées au titre II du présent livre. Ces agents sont agréés par le ministre chargé de la culture dans les conditions prévues par un décret en Conseil d'Etat.
+Outre les procès-verbaux des officiers ou agents de police judiciaire, la preuve de la matérialité de toute infraction aux dispositions des livres Ier, II et III du présent code peut résulter des constatations d'agents assermentés désignés selon les cas par le Centre national du cinéma et de l'image animée, par les organismes de défense professionnelle visés à l'article L. 331-1 et par les organismes de gestion collective mentionnés au titre II du présent livre. Ces agents sont agréés par le ministre chargé de la culture dans les conditions prévues par un décret en Conseil d'Etat.
 
 ####### Article L331-3
 
@@ -2175,7 +2759,7 @@ Les fonctions de membre du collège et de membre de la commission de protection 
 
 I. - Les fonctions de membre et de secrétaire général de la Haute Autorité sont incompatibles avec le fait d'exercer ou d'avoir exercé, au cours des trois dernières années :
 
-1° Les fonctions de dirigeant, de salarié ou de conseiller d'une société régie par le titre II du présent livre ;
+1° Les fonctions de dirigeant, de salarié ou de conseiller d'un organisme de gestion collective régi par le titre II du présent livre ;
 
 2° Les fonctions de dirigeant, de salarié ou de conseiller d'une entreprise exerçant une activité de production de phonogrammes ou de vidéogrammes ou d'édition d'œuvres protégées par un droit d'auteur ou des droits voisins ;
 
@@ -2187,7 +2771,7 @@ I. - Les fonctions de membre et de secrétaire général de la Haute Autorité s
 
 II. - Après la cessation de leurs fonctions, les membres de la Haute Autorité et son secrétaire général sont soumis aux dispositions de l'article 432-13 du code pénal.
 
-Les membres de la Haute Autorité et son secrétaire général ne peuvent, directement ou indirectement, détenir d'intérêts dans une société ou entreprise mentionnée au I du présent article.
+Les membres de la Haute Autorité et son secrétaire général ne peuvent, directement ou indirectement, détenir d'intérêts dans un organisme ou entreprise mentionné au I du présent article.
 
 Un décret fixe le modèle de déclaration d'intérêts que chaque membre doit déposer au moment de sa désignation.
 
@@ -2263,7 +2847,7 @@ Elle identifie et étudie les modalités techniques permettant l'usage illicite 
 
 La commission de protection des droits agit sur saisine d'agents assermentés et agréés dans les conditions définies à l'article L. 331-2 qui sont désignés par :
 - les organismes de défense professionnelle régulièrement constitués ;
-- les sociétés de perception et de répartition des droits ;
+- les organismes de gestion collective ;
 - le Centre national du cinéma et de l'image animée.
 
 La commission de protection des droits peut également agir sur la base d'informations qui lui sont transmises par le procureur de la République.
@@ -2280,7 +2864,7 @@ Les recommandations adressées sur le fondement du présent article mentionnent 
 
 ######## Article L331-26
 
-Après consultation des concepteurs de moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne, des personnes dont l'activité est d'offrir l'accès à un tel service ainsi que des sociétés régies par le titre II du présent livre et des organismes de défense professionnelle régulièrement constitués, la Haute Autorité rend publiques les spécifications fonctionnelles pertinentes que ces moyens doivent présenter.
+Après consultation des concepteurs de moyens de sécurisation destinés à prévenir l'utilisation illicite de l'accès à un service de communication au public en ligne, des personnes dont l'activité est d'offrir l'accès à un tel service ainsi que des organismes de gestion collective régis par le titre II du présent livre et des organismes de défense professionnelle régulièrement constitués, la Haute Autorité rend publiques les spécifications fonctionnelles pertinentes que ces moyens doivent présenter.
 
 Au terme d'une procédure d'évaluation certifiée prenant en compte leur conformité aux spécifications visées au premier alinéa et leur efficacité, la Haute Autorité établit une liste labellisant les moyens de sécurisation. Cette labellisation est périodiquement revue.
 
@@ -2302,7 +2886,7 @@ La personne dont l'activité est d'offrir un accès à des services de communica
 
 Est autorisée la création, par la Haute Autorité, d'un traitement automatisé de données à caractère personnel portant sur les personnes faisant l'objet d'une procédure dans le cadre de la présente sous-section.
 
-Ce traitement a pour finalité la mise en œuvre, par la commission de protection des droits, des mesures prévues à la présente sous-section, de tous les actes de procédure afférents et des modalités de l'information des organismes de défense professionnelle et des sociétés de perception et de répartition des droits des éventuelles saisines de l'autorité judiciaire ainsi que des notifications prévues au cinquième alinéa de l'article L. 335-7.
+Ce traitement a pour finalité la mise en œuvre, par la commission de protection des droits, des mesures prévues à la présente sous-section, de tous les actes de procédure afférents et des modalités de l'information des organismes de défense professionnelle et des organismes de gestion collective des éventuelles saisines de l'autorité judiciaire ainsi que des notifications prévues au cinquième alinéa de l'article L. 335-7.
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les modalités d'application du présent article. Il précise notamment :
 
@@ -2745,7 +3329,7 @@ L'article L. 332-4 est applicable aux logiciels mentionnés au présent article.
 
 ###### Article L336-2
 
-En présence d'une atteinte à un droit d'auteur ou à un droit voisin occasionnée par le contenu d'un service de communication au public en ligne, le tribunal de grande instance, statuant le cas échéant en la forme des référés, peut ordonner à la demande des titulaires de droits sur les œuvres et objets protégés, de leurs ayants droit, des sociétés de perception et de répartition des droits visées à l'article L. 321-1 ou des organismes de défense professionnelle visés à l'article L. 331-1, toutes mesures propres à prévenir ou à faire cesser une telle atteinte à un droit d'auteur ou un droit voisin, à l'encontre de toute personne susceptible de contribuer à y remédier. La demande peut également être effectuée par le Centre national du cinéma et de l'image animée.
+En présence d'une atteinte à un droit d'auteur ou à un droit voisin occasionnée par le contenu d'un service de communication au public en ligne, le tribunal de grande instance, statuant le cas échéant en la forme des référés, peut ordonner à la demande des titulaires de droits sur les œuvres et objets protégés, de leurs ayants droit, des organismes de gestion collective régis par le titre II du livre III ou des organismes de défense professionnelle visés à l'article L. 331-1, toutes mesures propres à prévenir ou à faire cesser une telle atteinte à un droit d'auteur ou un droit voisin, à l'encontre de toute personne susceptible de contribuer à y remédier. La demande peut également être effectuée par le Centre national du cinéma et de l'image animée.
 
 ###### Article L336-3
 
