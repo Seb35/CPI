@@ -7263,122 +7263,133 @@ Est puni de l'amende prévue pour les contraventions de la troisième classe le 
 
 ##### Section 3 : Exception en faveur de personnes atteintes d'un handicap
 
-###### Sous-section 1 : Dispositions relatives aux personnes bénéficiaires de l'exception
+###### Sous-section 1 : Dispositions relatives au contrôle exercé par l'autorité administrative
 
 ####### Article R122-13
 
-Les personnes atteintes d'un handicap mentionnées au 7° de l'article L. 122-5 sont celles dont le taux d'incapacité, apprécié en application du guide-barème pour l'évaluation des déficiences et incapacités des personnes handicapées figurant à l'annexe 2-4 du code de l'action sociale et des familles, est égal ou supérieur à 80 % ainsi que celles titulaires d'une pension d'invalidité au titre du 3° de l'article L. 341-4 du code de la sécurité sociale.
+Le ministre chargé de la culture et le ministre chargé des personnes handicapées arrêtent la liste mentionnée au 1° de l'article L. 122-5-1 après avis de la commission prévue à l'article R. 122-15.
+
+Cette liste indique :
+
+1° Les personnes morales et établissements qui peuvent assurer la reproduction et la représentation d'une œuvre dans les conditions prévues au 1° de l'article L. 122-5-1 ;
+
+2° Parmi les personnes morales et établissements mentionnés au 1°, ceux qui sont agréés en vue de demander la mise à disposition des fichiers numériques déposés par les éditeurs en application du 2° de l'article L. 122-5-1 ;
+
+3° Parmi les personnes morales et établissements mentionnés au 2°, ceux qui sont autorisés à recevoir et mettre des documents adaptés à la disposition d'un organisme établi dans un autre Etat en application de l'article L. 122-5-2.
+
+La validité de l'inscription sur la liste est de cinq ans.
+
+Cette liste est publiée au Journal officiel de la République française.
 
 ####### Article R122-14
 
-Le certificat médical attestant qu'une personne est atteinte d'une incapacité de lire après correction est délivré par un médecin ophtalmologiste autorisé à exercer la profession de médecin dans les conditions prévues aux articles L. 4111-1 et L. 4111-2 du code de la santé publique. Le certificat médical est valable pendant une durée de cinq ans. Il est délivré à titre définitif s'il s'avère que le handicap est irrémédiable.
+Le retrait de l'autorisation, le retrait de l'agrément ou la radiation de la liste est prononcé par arrêté conjoint du ministre chargé de la culture et du ministre chargé des personnes handicapées après avis de la commission prévue à l'article R. 122-15.
 
-###### Sous-section 2 : Dispositions relatives au contrôle exercé par l'autorité administrative
+Ces mesures sont prises à la demande des personnes morales et des établissements inscrits ou agréés ou autorisés, ou lorsque ces derniers ne remplissent plus les conditions auxquelles est subordonné l'inscription, l'agrément ou l'autorisation.
+
+Dans ce dernier cas, le ministre chargé de la culture et le ministre chargé des personnes handicapées adressent aux personnes morales et établissements une mise en demeure aux fins de régularisation et s'assurent que ces derniers ont pu présenter leurs observations dans un délai de deux mois à compter de cette mise en demeure.
+
+L'arrêté prévu au premier alinéa est publié au Journal officiel de la République française.
 
 ####### Article R122-15
 
-La liste des personnes morales et des établissements ouverts au public mentionnés au premier alinéa du 7° de l'article L. 122-5 est arrêtée, en application de ce même alinéa, sur proposition de la commission prévue à l'article R. 122-16, par le ministre chargé de la culture et le ministre chargé des personnes handicapées.
+I. – La commission en charge de l'exception handicap est placée auprès du ministre chargé de la culture et du ministre chargé des personnes handicapées.
 
-Cette liste indique parmi ces personnes morales et ces établissements ceux qui, en application du troisième alinéa du 7° de l'article L. 122-5, sont habilités à demander que soient mis à leur disposition les fichiers numériques ayant servi à l'édition d'œuvres imprimées.
+Elle a pour missions :
 
-Elle est publiée au Journal officiel de la République française.
+1° D'instruire et d'émettre un avis sur les demandes déposées par les personnes morales et les établissements mentionnés au 7° de l'article L. 122-5 en vue d'une inscription sur la liste, de la délivrance de l'agrément et de l'autorisation dans les conditions définies à l'article R. 122-13 ;
 
-La radiation de la liste ou la privation de la possibilité d'avoir accès aux fichiers numériques est prononcée par arrêté conjoint du ministre chargé de la culture et du ministre chargé des personnes handicapées soit à la demande des personnes morales et des établissements inscrits, soit, sous réserve que ceux-ci aient été à même de présenter leurs observations dans un délai de deux mois à compter de la mise en demeure de régulariser adressée par l'autorité administrative, lorsqu'ils ne remplissent plus les conditions auxquelles est subordonnée l'inscription.
+2° D'émettre un avis sur les radiations de la liste, les retraits d'agrément et d'autorisation prévus à l'article R. 122-14 ;
 
-L'arrêté est publié au Journal officiel de la République française.
+3° De veiller à ce que la mise en œuvre de l'exception prévue au 7° de l'article L. 122-5 se fasse dans le respect des dispositions du même article et des articles L. 122-5-1 et L. 122-5-2 et d'avertir le ministre chargé de la culture et le ministre chargé des personnes handicapées en cas d'inobservation de ces conditions ;
+
+4° De formuler des recommandations aux ministres compétents relatives à la mise en œuvre de l'exception prévue au 7° de l'article L. 122-5.
+
+II. – La commission comprend dix membres nommés par arrêté conjoint du ministre chargé de la culture et du ministre chargé des personnes handicapées pour une période de cinq ans :
+
+1° Cinq membres représentant des organisations nationales représentatives de personnes atteintes d'un handicap et de leurs familles ;
+
+2° Cinq membres représentant les titulaires de droits.
+
+Un représentant de la Bibliothèque nationale de France participe aux travaux de la commission avec voix consultative.
+
+III. – Le président de la commission est élu par les membres pour une durée d'un an, alternativement parmi les représentants des organisations représentatives de personnes atteintes d'un handicap et parmi les représentants des titulaires de droits.
+
+Les membres de la commission exercent leurs fonctions à titre gratuit. Toutefois, ils peuvent être remboursés de leurs frais de transport et de séjour dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat.
+
+IV. – La commission adopte un règlement intérieur.
+
+Le secrétariat de la commission est assuré conjointement par les ministères chargés de la culture et des personnes handicapées.
+
+###### Sous-section 2 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception
 
 ####### Article R122-16
 
-I.-Il est institué auprès du ministre chargé de la culture et du ministre chargé des personnes handicapées une commission qui comprend dix membres nommés par arrêté conjoint de ces ministres pour une période de quatre ans :
-- cinq membres représentant des organisations nationales représentatives de personnes atteintes d'un handicap et de leurs familles ;
-- cinq membres représentant les titulaires de droits.
-
-II.-Les attributions de cette commission sont les suivantes :
-
-a) Instruire les demandes déposées par les personnes morales et les établissements mentionnés au premier alinéa du 7° de l'article L. 122-5 en vue d'une inscription sur la liste arrêtée dans les conditions définies à l'article R. 122-15 ;
-
-b) Etablir un projet de liste à l'intention du ministre chargé de la culture et du ministre chargé des personnes handicapées ;
-
-c) Veiller à ce que les activités des personnes morales et des établissements inscrits sur la liste s'exercent dans le strict respect des dispositions du 7° de l'article L. 122-5. A cette fin, ces personnes morales et ces établissements lui communiquent un rapport d'activité annuel ainsi que toute information qui lui paraît utile ;
-
-d) Avertir le ministre chargé de la culture et le ministre chargé des personnes handicapées en cas d'inobservation des dispositions du 7° de l'article L. 122-5 par une personne morale ou un établissement inscrit sur la liste.
-
-III.-Le président de la commission est élu par les membres pour une durée d'un an, alternativement parmi les représentants des organisations représentatives de personnes atteintes d'un handicap et parmi les représentants des titulaires de droits.
-
-Les décisions de la commission sont prises à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
-
-Un représentant de l'organisme dépositaire mentionné au troisième alinéa du 7° de l'article L. 122-5 participe aux travaux de la commission avec voix consultative.
-
-La commission peut entendre toute personne qualifiée afin d'éclairer ses travaux.
-
-La commission adopte un règlement intérieur.
-
-Les membres de la commission exercent leurs fonctions à titre gratuit.
-
-Leurs frais de déplacement et de séjour sont remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
-
-Le secrétariat de la commission est assuré conjointement par le ministre chargé de la culture et le ministre chargé des personnes handicapées.
-
-###### Sous-section 3 : Dispositions relatives aux personnes morales et aux établissements ouverts au public mettant en œuvre l'exception
-
-####### Article R122-17
-
-I.-Pour être inscrit sur la liste prévue à l'article R. 122-15, la personne morale ou l'établissement doit à l'appui de sa demande adressée à la commission par lettre recommandée avec demande d'avis de réception :
+I. – Pour être inscrit sur la liste prévue au 1° de l'article L. 122-5-1, la personne morale ou l'établissement doit, à l'appui de sa demande adressée à la commission par lettre recommandée avec demande d'avis de réception :
 
 1° Donner toute information relative à son organisation, son fonctionnement, ses comptes financiers, ses conditions d'installation et d'équipement ainsi que, le cas échéant, à ses statuts ;
 
-2° Indiquer le nombre et la qualité de ses adhérents ou de ses usagers et justifier que ceux-ci entrent dans la catégorie des personnes mentionnées aux articles R. 122-13 et R. 122-14 ;
+2° Indiquer le nombre et la qualité de ses adhérents ou de ses usagers ; indiquer parmi ses adhérents ou usagers le nombre de personnes atteintes d'une ou plusieurs déficiences mentionnées au 7° de l'article L. 122-5 et préciser les moyens mis en œuvre pour s'assurer que ces personnes sont empêchées, du fait de ces déficiences, d'accéder à l'œuvre dans la forme sous laquelle l'auteur l'a rendue disponible au public ;
 
-3° Apporter la preuve de son activité de conception, de réalisation et de communication de supports au bénéfice de ces personnes en communiquant les éléments suivants :
+3° Justifier de son activité de conception, de réalisation ou de communication de documents adaptés au bénéfice de ces personnes en communiquant les éléments suivants :
 
-- la composition de son catalogue d'œuvres disponibles sur des supports répondant à leurs besoins, en distinguant les types d'adaptation ;
-- les moyens humains et matériels disponibles pour assurer la communication et, le cas échéant, la conception et la réalisation des supports ;
-- les conditions d'accès et d'utilisation de ses collections ;
-- un bilan annuel des services rendus et, le cas échéant, des œuvres rendues accessibles permettant d'apprécier l'effectivité de son activité au bénéfice des personnes mentionnées aux articles R. 122-13 et R. 122-14 ;
+a) La composition de son catalogue d'œuvres disponibles sur des supports répondant à leurs besoins, en distinguant les types d'adaptation ;
 
-4° Préciser les moyens utilisés pour contrôler l'usage des œuvres dans le respect des conditions définies au premier alinéa du 7° de l'article L. 122-5.
+b) Les moyens humains et matériels disponibles pour assurer dans des conditions sécurisées la communication et, le cas échéant, la conception et la réalisation des documents adaptés ;
 
-II.-Pour être inscrit sur la même liste au titre des personnes morales et des établissements habilités à demander l'accès aux fichiers numériques ayant servi à l'édition d'œuvres imprimées, la personne morale ou l'établissement doit en outre à l'appui de sa demande :
+c) Les conditions d'accès et d'utilisation de ses collections ;
 
-1° Donner toute information relative aux conditions de conservation et de sécurisation des fichiers numériques transmis dans un format ouvert par l'organisme dépositaire ;
+d) Une présentation des services rendus annuellement et, le cas échéant, des œuvres rendues accessibles permettant d'apprécier l'effectivité de son activité au bénéfice des personnes mentionnées au 7° de l'article L. 122-5 ;
 
-2° Donner toute information relative aux conditions d'adaptation de ces fichiers aux besoins de lecture des personnes mentionnées aux articles R. 122-13 et R. 122-14 ;
+4° Préciser les moyens utilisés pour contrôler l'usage des œuvres dans le respect des conditions définies au 7° de l'article L. 122-5 et aux articles L. 122-5-1 et L. 122-5-2.
 
-3° Apporter la preuve de la sécurisation de ces fichiers adaptés ou non, en vue de leur transmission ;
+Toute demande de renouvellement de l'inscription sur la liste prévue au 1° de l'article L. 122-5-1 comporte les informations mentionnées aux 2° et 4° et, uniquement si des éléments nouveaux le justifient, celles mentionnées au 1°, ainsi que toute information mentionnée au 3° qui n'aurait pas été communiquée dans le rapport prévu au II de l'article R. 122-17.
 
-4° Apporter la preuve de la sécurisation et de la confidentialité de la transmission de ces fichiers aux personnes mentionnées aux articles R. 122-13 et R. 122-14.
+II. – Outre les informations demandées au titre de l'inscription sur la liste prévue au 1° de l'article L. 122-5-1, pour être agréé au titre du 2° de l'article L. 122-5-1, la personne morale ou l'établissement doit à l'appui de sa demande :
 
-III.-La validité de l'inscription sur la liste est de cinq ans à compter de la date de sa publication au Journal officiel de la République française. Toute nouvelle demande est présentée dans les formes et les conditions prévues au présent article.
+1° Donner toute information relative aux conditions de conservation et de sécurisation des fichiers numériques transmis par la Bibliothèque nationale de France ;
 
-IV.-Les personnes morales et les établissements inscrits sur la liste communiquent à la commission toute modification concernant les renseignements qu'ils ont fournis à l'appui de leur demande.
+2° Donner toute information relative aux modalités d'adaptation de ces fichiers aux besoins de lecture des personnes mentionnées au 7° de l'article L. 122-5 ;
+
+3° Justifier de la sécurisation du système d'information abritant ces fichiers et leurs adaptations ;
+
+4° Justifier de la sécurisation et de la confidentialité de la transmission de ces fichiers aux personnes mentionnées au 7° de l'article L. 122-5.
+
+III. – Outre les informations demandées au titre de l'inscription sur la liste prévue au 1° de l'article L. 122-5-1 et au titre de l'agrément prévu au 2° de l'article L. 122-5-1, pour être autorisé au titre de l'article L. 122-5-2, la personne morale ou l'établissement doit à l'appui de sa demande, indiquer le contenu envisagé des conventions mentionnées au troisième alinéa de l'article L. 122-5-2 s'agissant des conditions de mise à disposition des documents adaptés dès lors que les personnes mentionnées au 7° de l'article L. 122-5 ne peuvent accéder à l'œuvre dans la forme sous laquelle l'auteur la rend disponible au public, ainsi que des mesures prises par l'organisme destinataire de ces documents adaptés afin de garantir que ceux-ci ne sont consultés que par les personnes physiques atteintes d'une déficience qui les empêche de lire.
+
+IV. – Le silence gardé par l'administration pendant plus de six mois sur une demande formulée au titre du I, du II ou du III vaut décision d'acceptation.
+
+####### Article R122-17
+
+I. – Les personnes morales et les établissements inscrits sur la liste communiquent à la commission toute modification significative concernant les renseignements qu'ils ont fournis à l'appui de leur demande.
+
+II. – Les personnes morales et les établissements inscrits sur la liste communiquent à la commission un rapport annuel de leur activité en faveur des personnes atteintes d'un handicap ainsi que toute information qui leur paraît utile.
+
+III. – Un registre mentionnant, par pays de destination, la liste des œuvres ainsi que le nombre et la nature des documents adaptés mis à la disposition d'organismes sans but lucratif établis dans un autre Etat est annexé au rapport prévu à l'article L. 122-5-2.
 
 ####### Article R122-18
 
-Les personnes morales et les établissements inscrits sur la liste mentionnée à l'article R. 122-15 qui demandent un fichier numérique ayant servi à l'édition d'une œuvre imprimée ne peuvent communiquer le fichier transmis par l'organisme dépositaire qu'aux personnes atteintes d'un handicap au sens des articles R. 122-13 et R. 122-14, pour lesquelles l'accès à ces fichiers conditionne la lecture des ouvrages.
+Les personnes morales et les établissements inscrits sur la liste mentionnée au 1° de l'article L. 122-5-1 qui demandent le fichier numérique d'une œuvre déposé par l'éditeur ne peuvent communiquer le fichier transmis par la Bibliothèque nationale de France qu'aux personnes mentionnées au 7° de l'article L. 122-5, pour lesquelles l'accès à ces fichiers conditionne la lecture des ouvrages.
 
-###### Sous-section 4 : Dispositions relatives à l'organisme dépositaire des fichiers numériques ayant servi à l'édition d'œuvres imprimées
+###### Sous-section 3 : Dispositions relatives à la Bibliothèque nationale de France
 
 ####### Article R122-19
 
-L'organisme dépositaire mentionné au troisième alinéa du 7° de l'article L. 122-5 doit remplir les conditions suivantes :
-
-a) Exercer une activité d'organisation et de mise à disposition du public de ressources documentaires ;
-
-b) Disposer d'une infrastructure permettant le développement, d'une part, des moyens nécessaires à la mise à disposition des fichiers numériques ayant servi à l'édition d'œuvres imprimées, d'autre part, des techniques de sécurisation, de stockage et de communication de ces fichiers ;
-
-c) Ne pas avoir pour objet social ou statutaire la défense des droits des personnes atteintes d'un handicap ou du droit de la propriété intellectuelle.
+L'éditeur transmet à la Bibliothèque nationale de France le fichier numérique d'une œuvre dans un délai de quarante-cinq jours suivant la demande qui lui en est faite par celle-ci.
 
 ####### Article R122-20
 
-L'éditeur transmet à l'organisme dépositaire le fichier numérique ayant servi à l'édition d'une œuvre imprimée dans les deux mois de la demande qui lui en est faite par celui-ci.
+Les personnes morales et les établissements mentionnés au 1° de l'article L. 122-5-1 transmettent à la Bibliothèque nationale de France les fichiers des documents adaptés sous forme numérique qu'ils ont réalisés dès lors qu'ils les mettent à la disposition des personnes handicapées mentionnées au 7° de l'article L. 122-5.
+
+Au regard de leurs caractéristiques techniques, des coûts de leur conservation et de leur usage, la Bibliothèque nationale de France sélectionne, parmi ces documents, ceux qu'elle conserve et définit leur durée de conservation.
 
 ####### Article R122-21
 
-L'organisme dépositaire rend compte chaque année dans un rapport au ministre chargé de la culture et au ministre chargé des personnes handicapées des conditions de dépôt et de mise à disposition des fichiers numériques ayant servi à l'édition d'œuvres imprimées.
+La Bibliothèque nationale de France rend compte chaque année, dans un rapport au ministre chargé de la culture et au ministre chargé des personnes handicapées, des conditions de sélection, de conservation et de mise à disposition des fichiers des documents adaptés transmis par les personnes morales et les établissements mentionnés au 1° de l'article L. 122-5-1 ainsi que des conditions de dépôt et de mise à disposition des fichiers numériques déposés par les éditeurs. Ce rapport est transmis au président de la commission mentionnée à l'article R. 122-15 et est publié sur le site internet du ministère de la culture et de la communication.
 
-####### Article D122-22
+####### Article R122-22
 
-L'organisme dépositaire mentionné au troisième alinéa du 7° de l'article L. 122-5 est la Bibliothèque nationale de France.
+Pour l'application du premier alinéa du b du 2° de l'article L. 122-5-1, sont considérés comme livres scolaires soumis à l'obligation de dépôt auprès de la Bibliothèque nationale de France les documents mentionnés à l'article D. 314-128 du code de l'éducation.
 
 #### Chapitre III : Durée de la protection
 
@@ -7799,7 +7810,7 @@ A l'appui de sa demande, l'auteur produit la copie d'une pièce d'identité et u
 
 ##### Article R211-1
 
-L'exception prévue au 6° de l'article L. 211-3 s'exerce dans les conditions définies aux articles R. 122-13 à R. 122-16 et aux I, III et IV de l'article R. 122-17.
+L'exception prévue au 6° de l'article L. 211-3 s'exerce dans les conditions définies aux articles R. 122-13 à R. 122-15, aux I, III et IV de l'article R. 122-16, et à l'article R. 122-17.
 
 #### Chapitre II : Droits des artistes-interprètes
 
@@ -9589,7 +9600,7 @@ Une copie de ce procès-verbal est remise au déclarant, au détenteur des march
 
 #### Article R341-1
 
-L'exception prévue au 3° de l'article L. 342-3 s'exerce dans les conditions définies aux articles R. 122-13 à R. 122-21.
+L'exception prévue au 3° de l'article L. 342-3 s'exerce dans les conditions définies aux articles R. 122-13 à R. 122-22.
 
 ### Chapitre Ier : Champ d'application
 
