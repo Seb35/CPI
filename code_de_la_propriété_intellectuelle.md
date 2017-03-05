@@ -8525,6 +8525,102 @@ Si une société agréée cesse de remplir l'une des conditions fixées à l'art
 
 Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
 
+#### Chapitre IX : Organismes agréés pour la gestion collective du droit de suite en l'absence d'ayant droit connu, ou en cas de vacance ou de déshérence
+
+##### Article R329-1
+
+Un organisme régi par le titre II du livre III peut être agréé au titre de l'article L. 123-7, s'il :
+
+1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison des catégories et du nombre des ayants droit, et de leur importance économique exprimée en revenu ou en chiffre d'affaires ;
+
+2° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison :
+
+a) De leur qualité d'auteur ;
+
+b) Ou de la nature et du niveau de leurs diplômes ;
+
+c) Ou de leur expérience de la gestion d'organismes professionnels ;
+
+3° Apporte la preuve de la représentation des auteurs d'œuvres originales graphiques et plastiques bénéficiaires du droit de suite, au sens de l'article L. 122-8, au sein des organes dirigeants à raison de leur importance économique exprimée en revenu ou en chiffre d'affaires ;
+
+4° Donne les informations nécessaires relatives :
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement ;
+
+b) Aux moyens humains et matériels mis en œuvre pour la perception du droit de suite ;
+
+c) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ;
+
+d) Aux modalités de mise en œuvre de l'affectation du droit de suite à la prise en charge d'une fraction des cotisations dues par les auteurs des arts graphiques et plastiques au titre de la retraite complémentaire.
+
+##### Article R329-2
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 329-1, est transmise par lettre recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
+
+##### Article R329-3
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+##### Article R329-4
+
+L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
+
+##### Article R329-5
+
+Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et dirigeants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément dans les conditions prévues à l'article R. 329-6.
+
+##### Article R329-6
+
+Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 329-1, le ministre chargé de la culture le met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre.
+
+Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+#### Chapitre X : Organismes agréés pour la perception de la rémunération pour copie privée
+
+##### Article R329-7
+
+Un organisme régi par le titre II du livre III peut être agréé au titre de l'article L. 311-6, s'il :
+
+1° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison :
+
+a) De leur qualité d'auteur ou de titulaire de droit voisin ;
+
+b) Ou de la nature et du niveau de leurs diplômes ;
+
+c) Ou de leur expérience de la gestion d'organismes professionnels ;
+
+2° Donne les informations nécessaires relatives :
+
+a) A l'organisation administrative et aux conditions d'installation et d'équipement ;
+
+b) Aux moyens humains et matériels mis en œuvre pour la perception de la rémunération auprès des personnes mentionnées au premier alinéa de l'article L. 331-4 et le traitement des données nécessaires à la répartition de ces rémunérations ;
+
+c) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ;
+
+3° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison des catégories et du nombre des ayants droit, appréciés selon leur qualité de titulaire de droits ou du type d'œuvre qu'ils représentent, de leur importance économique exprimée en revenu ou en chiffre d'affaires.
+
+##### Article R329-8
+
+La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 329-7, est transmise par lettre recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
+
+##### Article R329-9
+
+L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
+##### Article R329-10
+
+L'agrément est renouvelable dans les mêmes conditions que l'agrément initial.
+
+##### Article R329-11
+
+Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et dirigeants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément dans les conditions prévues à l'article R. 329-12.
+
+##### Article R329-12
+
+Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 329-7, le ministre chargé de la culture la met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre.
+
+Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+
 ### Titre III : Procédures et sanctions
 
 #### Chapitre Ier : Dispositions générales
