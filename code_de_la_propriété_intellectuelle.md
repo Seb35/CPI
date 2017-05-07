@@ -3639,7 +3639,7 @@ Nul ne peut être inscrit sur la liste prévue au premier alinéa s'il n'est pas
 
 ###### Article L422-6
 
-Le conseil en propriété industrielle exerce sa profession soit à titre individuel ou en groupe, soit en qualité de salarié d'un autre conseil en propriété industrielle.
+Le conseil en propriété industrielle exerce sa profession soit à titre individuel ou en groupe, soit en qualité de salarié d'une personne physique ou morale exerçant la profession de conseil en propriété industrielle.
 
 ###### Article L422-7
 
@@ -3687,7 +3687,7 @@ La profession de conseil en propriété industrielle est incompatible :
 
 1° Avec toute activité de caractère commercial, qu'elle soit exercée directement ou par personne interposée ;
 
-2° Avec la qualité d'associé dans une société en nom collectif, d'associé commandité dans une société en commandite simple ou par actions, de gérant d'une société à responsabilité limitée, de président du conseil d'administration, membre du directoire, directeur général ou directeur général délégué d'une société anonyme, de président ou dirigeant d'une société par actions simplifiée, de gérant d'une société civile, à moins que ces sociétés n'aient pour objet l'exercice de la profession de conseil en propriété industrielle ou la gestion d'intérêts professionnels connexes ou d'intérêts familiaux ;
+2° Avec la qualité d'associé dans une société en nom collectif, d'associé commandité dans une société en commandite simple ou par actions, de gérant d'une société à responsabilité limitée, de président du conseil d'administration, membre du directoire, directeur général ou directeur général délégué d'une société anonyme, de président ou dirigeant d'une société par actions simplifiée, de gérant d'une société civile, à moins que ces sociétés n'aient pour objet l'exercice de la profession de conseil en propriété industrielle ou d'une profession prévue au titre IV bis de la loi n° 90-1258 du 31 décembre 1990 précitée ou la gestion d'intérêts professionnels connexes ou d'intérêts familiaux ;
 
 3° Avec la qualité de membre du conseil de surveillance ou d'administrateur d'une société commerciale, lorsque le conseil en propriété industrielle a moins de sept années d'exercice professionnel et n'a pas obtenu préalablement une dispense dans des conditions prévues par décret en Conseil d'Etat.
 
@@ -3719,9 +3719,11 @@ d) Les conditions d'application de l'article L. 422-5 ;
 
 e) Les conditions dans lesquelles il peut être dérogé à l'obligation mentionnée au b de l'article L. 422-7 afin de permettre le regroupement interprofessionnel avec d'autres prestataires de services intervenant dans le processus d'innovation ;
 
-f) Les règles de déontologie applicables aux conseils en propriété industrielle ;
+f) Les conditions d'application du dernier alinéa de l'article L. 422-7 et de l'article L. 422-7-1, notamment les modalités d'application des règles de discipline prévues à l'article L. 422-10 ;
 
-g) L'organisation et les modalités de fonctionnement de la Compagnie nationale des conseils en propriété industrielle ainsi que les modalités de fixation du montant des cotisations qu'elle perçoit de ses membres.
+g) Les règles de déontologie applicables aux conseils en propriété industrielle ;
+
+h) L'organisation et les modalités de fonctionnement de la Compagnie nationale des conseils en propriété industrielle ainsi que les modalités de fixation du montant des cotisations qu'elle perçoit de ses membres.
 
 ### Livre V : Les dessins et modèles
 
@@ -10458,11 +10460,11 @@ Il est sursis à la radiation en cas de saisine de la chambre de discipline pré
 
 ###### Article R422-6
 
-En cas d'exercice en société, l'inscription de cette dernière dans la section spéciale prévue à l'article L. 422-7 est demandée collectivement par tous les associés. Elle est accompagnée de la justification du dépôt de la demande d'immatriculation au registre du commerce et des sociétés.
+La demande d'inscription d'une société dans la section spéciale prévue à l'article L. 422-7 est présentée par son mandataire ou, lorsque la société n'est pas encore constituée, par le mandataire des associés. Dans le cas d'une société ne relevant pas de l'article L. 422-7-1, elle est accompagnée de la justification du dépôt de la demande d'immatriculation au registre du commerce et des sociétés.
 
-Le directeur général de l'institut procède à l'inscription dans les conditions prévues à l'article R. 422-4 et notifie la décision au greffier chargé de la tenue du registre du commerce et des sociétés auprès du tribunal ayant reçu la demande d'immatriculation correspondante.
+Le directeur général de l'institut procède à l'inscription dans les conditions prévues à l'article R. 422-4 et notifie, le cas échéant, la décision au greffier chargé de la tenue du registre du commerce et des sociétés auprès du tribunal ayant reçu la demande d'immatriculation correspondante.
 
-Toute décision de radiation d'une société est, dans le mois de sa date, notifiée au greffier chargé de la tenue du registre auquel la société a été immatriculée.
+Toute décision de radiation d'une société est, dans le mois de sa date, notifiée, le cas échéant, au greffier chargé de la tenue du registre auquel la société a été immatriculée.
 
 ###### Article R422-7
 
@@ -10475,6 +10477,8 @@ Le capital social d'une société de conseil en propriété industrielle mention
 3° Création de marques ;
 
 4° Financement de l'innovation.
+
+Les dispositions du présent article ne sont pas applicables aux sociétés prévues à l'article L. 422-7-1.
 
 ##### Section 1 bis : Libre prestation de services par les mandataires en propriété industrielle établis sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen
 
@@ -10627,6 +10631,10 @@ Toutefois, les statuts peuvent prévoir une majorité plus forte ou même l'unan
 La modification des statuts et notamment la prorogation de la société est décidée à la majorité des trois quarts des voix de l'ensemble des associés.
 
 Toutefois, l'augmentation des engagements des associés ne peut être décidée qu'à l'unanimité.
+
+####### Article R422-24-1
+
+La majorité requise pour approuver une des opérations mentionnées au premier alinéa de l'article 27 de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles est celle prévue au premier alinéa de l'article R. 422-24.
 
 ####### Article R422-25
 
@@ -10848,6 +10856,32 @@ Dans le cas prévu à l'article R. 422-51-10, le liquidateur procède à la cess
 
 Le liquidateur informe de la clôture des opérations de liquidation le directeur général de l'Institut national de la propriété industrielle ainsi que le greffier chargé de la tenue du registre du commerce et des sociétés auquel est immatriculée la société.
 
+###### Sous-section 5 : Sociétés pluri-professionnelles d'exercice
+
+####### Article R422-51-15
+
+La société prévue à l'article L. 422-7-1 est inscrite sur la liste des conseils en propriété industrielle prévue par les articles L. 422-1 et L. 422-7, dans une section spécifique aux sociétés pluri-professionnelles d'exercice.
+
+####### Article R422-51-16
+
+La déclaration de constitution d'une société pluri-professionnelle d'exercice, dont l'objet est notamment l'exercice de la profession libérale de conseil en propriété industrielle est adressée au directeur général de l'Institut national de la propriété industrielle par lettre recommandée avec demande d'avis de réception ou par tout moyen permettant d'établir la date de réception de cette déclaration.
+
+Cette déclaration est accompagnée des pièces prévues à l'article 2 du décret n° 2017-794 du 5 mai 2017 relatif à la constitution, au fonctionnement et au contrôle des sociétés pluri-professionnelles d'exercice de professions libérales juridiques, judicaires et d'expertise-comptable prévues au titre IV bis de la loi n° 90-1258 du 31 décembre 1990.
+
+####### Article R422-51-17
+
+Le directeur général de l'Institut national de la propriété industrielle procède à l'inscription de la société, par dérogation à l'article R. 422-3-1, dans un délai de deux mois suivant la réception de la déclaration prévue au premier alinéa de l'article précédent, dès lors que les conditions légales et règlementaires de cette inscription sont remplies.
+
+####### Article R422-51-18
+
+L'information prévue aux articles 9 et 18 du décret n° 2017-794 du 5 mai 2017 précité est transmise au directeur général de l'Institut national de la propriété industrielle et au président de la Compagnie des conseils en propriété industrielle.
+
+Les décisions prises par le directeur général de l'Institut national de la propriété industrielle à l'encontre d'une société, en application de la section 6 du chapitre 1er du même décret sont communiquées au président de la Compagnie des conseils en propriété industrielle.
+
+####### Article R422-51-19
+
+La garantie prévue à l'article L. 422-8 ne couvre que les dommages survenus dans le cadre de l'exercice de la profession de conseil en propriété industrielle.
+
 ##### Section 4 : Obligations professionnelles
 
 ###### Article R422-52
@@ -10908,6 +10942,28 @@ Les conseils en propriété industrielle déclarent, au plus tard le 31 janvier 
 
 La compagnie contrôle l'accomplissement effectif de l'obligation de formation professionnelle continue des conseils en propriété industrielle et vérifie la conformité des formations suivies et des actions menées, en particulier leur lien avec l'activité de conseil en propriété industrielle.
 
+##### Section 4 bis : Contrôle de l'exercice de la profession
+
+###### Article R422-55-2
+
+Toute personne physique ou morale qui exerce la profession de conseil en propriété industrielle fait l'objet de contrôles diligentés par la Compagnie nationale des conseils en propriété industrielle et portant sur le respect des conditions de son inscription sur la liste des conseils en propriété industrielle prévues à l'article L. 422-5 ainsi que sur le respect des obligations professionnelle prévues à la section IV du présent chapitre.
+
+###### Article R422-55-3
+
+Les contrôles sont réalisés par un ou plusieurs contrôleurs choisis par le président de la Compagnie nationale des conseils en propriété industrielle parmi les conseils en propriété industrielle ou les anciens membres de la profession.
+
+###### Article R422-55-4
+
+Le ou les contrôleurs communiquent immédiatement au directeur général de l'Institut national de la propriété industrielle et au président de la Compagnie nationale des conseils en propriété industrielle tout fait, constaté au cours d'un contrôle, susceptible de constituer un manquement aux conditions et obligations mentionnées à l'article R. 422-52-2.
+
+###### Article R422-55-5
+
+Dans les trente jours suivant la fin des opérations matérielles de contrôle, le ou les contrôleurs adressent à la personne qui en a fait l'objet un rapport provisoire.
+
+Cette dernière dispose d'un délai de trente jours pour former ses observations écrites sur le contenu du rapport.
+
+A l'issue de ce délai, le ou les contrôleurs établissent un rapport définitif, auquel ils annexent les observations écrites de la personne concernée si elle en a produites, et adresse ce rapport au président de la Compagnie nationale des conseils en propriété industrielle et au directeur général de l'Institut national de la propriété industrielle. Le rapport ne comporte aucune information couverte par le secret professionnel des différents professionnels exerçant au sein de la société.
+
 ##### Section 5 : Régime disciplinaire
 
 ###### Article R422-56
@@ -10946,7 +11002,7 @@ Le secrétariat de la chambre est assuré par l'Institut national de la proprié
 
 ###### Article R422-60
 
-Le rapporteur peut, d'office ou à la demande du président de la chambre, requérir de la personne mise en cause, de l'auteur de la plainte ou de toute personne susceptible d'éclairer les débats, les explications et justifications nécessaires à l'information de la chambre.
+Le rapporteur peut, d'office ou à la demande du président de la chambre, requérir de la personne mise en cause, de l'auteur de la plainte ou de la plainte, du ou des contrôleurs mentionnés à la section IV bis du présent chapitre lorsque la personne mise en cause ou la société dans laquelle il exerce a fait l'objet d'un contrôle en application des dispositions de cette section ou de toute personne susceptible d'éclairer les débats, les explications et justifications nécessaires à l'information de la chambre.
 
 Le rapport précise les faits dénoncés, les diligences accomplies ainsi que les conclusions motivées du rapporteur sur l'existence d'une faute disciplinaire.
 
