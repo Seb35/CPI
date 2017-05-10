@@ -7203,23 +7203,23 @@ Le montant total du droit exigible lors de la vente d'une oeuvre ne peut excéde
 
 ###### Article R122-7
 
-I.-Le ministre chargé de la culture fixe par arrêté une liste de sociétés de perception et de répartition de droits aptes à informer les bénéficiaires du droit de suite et susceptibles à ce titre d'être avisées des ventes d'oeuvres originales graphiques ou plastiques dans les conditions fixées au II de l'article R. 122-9.
+I. - Le ministre chargé de la culture fixe par arrêté une liste d'organismes de gestion collective aptes à informer les bénéficiaires du droit de suite et susceptibles à ce titre d'être avisés des ventes d'œuvres originales graphiques ou plastiques dans les conditions fixées au II de l'article R. 122-9.
 
-II.-Pour être inscrite sur la liste mentionnée au I du présent article, une société de perception et de répartition de droits doit à l'appui de sa demande :
+II. - Pour être inscrit sur la liste mentionnée au I du présent article, un organisme de gestion collective doit à l'appui de sa demande :
 
-1° Apporter la preuve de la diversité de ses associés et du nombre des ayants droit ;
+1° Apporter la preuve de la diversité de ses membres et du nombre des ayants droit ;
 
 2° Justifier la qualification de ses gérants et mandataires sociaux, appréciée en fonction de leur expérience professionnelle dans le secteur des arts graphiques ou plastiques ou de la gestion d'organismes professionnels ;
 
 3° Donner toutes informations relatives à son organisation administrative, à ses conditions d'installation et d'équipement et à sa capacité à informer les bénéficiaires du droit de suite, y compris à l'étranger.
 
-Est radiée de la liste, par arrêté du ministre chargé de la culture, toute société qui en fait la demande ou, sous réserve d'avoir été mise à même de faire valoir ses observations dans un délai de deux mois, toute société qui ne remplit plus les conditions auxquelles est subordonnée l'inscription sur la liste.
+Est radié de la liste, par arrêté du ministre chargé de la culture, tout organisme qui en fait la demande ou, sous réserve d'avoir été mis à même de faire valoir ses observations dans un délai de deux mois, toute société qui ne remplit plus les conditions auxquelles est subordonnée l'inscription sur la liste.
 
-III.-Les arrêtés du ministre chargé de la culture mentionnés au I et au II sont publiés au Journal officiel de la République française.
+III. - Les arrêtés du ministre chargé de la culture mentionnés au I et au II sont publiés au Journal officiel de la République française.
 
 ###### Article R122-8
 
-Toute personne susceptible de bénéficier du droit de suite qui souhaite obtenir des sociétés inscrites sur la liste mentionnée au I de l'article R. 122-6 la transmission d'un avis de vente la concernant, dont ces sociétés sont destinataires en application du II de l'article R. 122-9, peut communiquer son adresse et toutes autres informations utiles à ces sociétés. Cette communication doit être renouvelée lors de tout changement d'adresse ou de situation.
+Toute personne susceptible de bénéficier du droit de suite qui souhaite obtenir des organismes inscrits sur la liste mentionnée au I de l'article R. 122-6 la transmission d'un avis de vente la concernant, dont ces organismes sont destinataires en application du II de l'article R. 122-9, peut communiquer son adresse et toutes autres informations utiles à ces sociétés. Cette communication doit être renouvelée lors de tout changement d'adresse ou de situation.
 
 ###### Article R122-9
 
@@ -7235,13 +7235,13 @@ II. - Dans les autres cas, le professionnel du marché de l'art intervenant dans
 
 ###### Article R122-10
 
-I.-Lorsqu'il est saisi d'une demande du bénéficiaire, le professionnel responsable du paiement du droit de suite lui verse le montant de celui-ci dans un délai qui ne peut excéder quatre mois à compter de la date de réception de la demande ou, si cette demande est reçue antérieurement à la vente, à compter de la date de cette vente.
+I. - Lorsqu'il est saisi d'une demande du bénéficiaire, le professionnel responsable du paiement du droit de suite lui verse le montant de celui-ci dans un délai qui ne peut excéder quatre mois à compter de la date de réception de la demande ou, si cette demande est reçue antérieurement à la vente, à compter de la date de cette vente.
 
-Si l'oeuvre est due à la collaboration de plusieurs auteurs, le bénéficiaire en fait la déclaration et précise la répartition du droit de suite décidée entre les auteurs.
+Si l'œuvre est due à la collaboration de plusieurs auteurs, le bénéficiaire en fait la déclaration et précise la répartition du droit de suite décidée entre les auteurs.
 
-II.-S'il n'est saisi d'aucune demande, le professionnel responsable du paiement du droit de suite avise par lettre recommandée avec demande d'avis de réception, au plus tard trois mois après la fin du trimestre civil au cours duquel la vente a eu lieu, l'une des sociétés de perception et de répartition des droits mentionnées à l'article R. 122-6 de la réalisation de la vente en lui indiquant la date de la vente, le nom de l'auteur de l'oeuvre et, le cas échéant, les informations relatives au bénéficiaire du droit de suite dont il dispose.
+II. - S'il n'est saisi d'aucune demande, le professionnel responsable du paiement du droit de suite avise par lettre recommandée avec demande d'avis de réception, au plus tard trois mois après la fin du trimestre civil au cours duquel la vente a eu lieu, l'un des organismes de gestion collective mentionnés à l'article R. 122-7 de la réalisation de la vente en lui indiquant la date de la vente, le nom de l'auteur de l'œuvre et, le cas échéant, les informations relatives au bénéficiaire du droit de suite dont il dispose.
 
-Lorsqu'une société de perception et de répartition des droits est avisée d'une vente ouvrant droit à la perception du droit de suite au profit d'un bénéficiaire mentionné à l'article R. 122-7, elle est tenue de l'en informer. Lorsque le bénéficiaire n'est pas identifié, la société de perception et de répartition des droits procède aux diligences utiles pour informer les personnes susceptibles de bénéficier du droit de suite, au besoin en faisant appel aux autres sociétés de perception et de répartition de droits mentionnées à l'article R. 122-6. A défaut d'avoir pu informer le bénéficiaire, elle procède aux mesures de publicité appropriées sous forme électronique ou par tout autre moyen adapté.
+Lorsqu'un organisme de gestion collective est avisé d'une vente ouvrant droit à la perception du droit de suite au profit d'un bénéficiaire mentionné à l'article R. 122-7, il est tenu de l'en informer. Lorsque le bénéficiaire n'est pas identifié, l'organisme de gestion collective procède aux diligences utiles pour informer les personnes susceptibles de bénéficier du droit de suite, au besoin en faisant appel aux autres organismes de gestion collective mentionnés à l'article R. 122-7. A défaut d'avoir pu informer le bénéficiaire, il procède aux mesures de publicité appropriées sous forme électronique ou par tout autre moyen adapté.
 
 ###### Article R122-11
 
@@ -7265,7 +7265,7 @@ Est puni de l'amende prévue pour les contraventions de la troisième classe le 
 
 1° De ne pas verser le droit de suite au bénéficiaire qui en fait la demande conformément au I de l'article R. 122-9 ;
 
-2° De ne pas aviser l'une des sociétés de perception et de répartition des droits conformément aux dispositions du premier alinéa du II de l'article R. 122-9 ;
+2° De ne pas aviser l'un des organismes de gestion collective conformément aux dispositions du premier alinéa du II de l'article R. 122-9 ;
 
 3° De ne pas communiquer au bénéficiaire du droit de suite les informations prévues au I de l'article R. 122-10.
 
@@ -7594,6 +7594,22 @@ Les décisions de la commission sont publiées au Bulletin officiel du ministèr
 
 Les parties à la négociation de l'accord collectif en cause disposent d'un délai de deux mois à compter de la notification de la décision pour déférer celle-ci à la juridiction administrative.
 
+##### Section 7 : Conditions de détermination du salaire minimum des journalistes auteurs d'images fixes rémunérés à la pige
+
+###### Article D132-28
+
+Les dispositions de la présente section sont applicables aux journalistes professionnels, tels que définis par l'article L. 7111-3 du code du travail, qui tirent le principal de leurs revenus de l'exploitation d'images fixes et qui collaborent de manière occasionnelle à l'élaboration d'un titre de presse, entendu au sens de l'article L. 132-35 du code de la propriété intellectuelle.
+
+###### Article D132-29
+
+Le salaire minimum versé en contrepartie de la commande d'une image fixe, ou d'une série d'images ayant le même objet et réalisées dans un même lieu, est déterminé en fonction du temps nécessaire à l'exécution de la commande et en fonction des rémunérations minimales fixées pour les journalistes permanents auteurs d'images fixes par les accords collectifs applicables dans les différentes formes de presse écrite à la date d'entrée en vigueur du présent décret.
+
+Le temps minimum d'exécution de la commande est fixé, pour le calcul du salaire minimum, à cinq heures.
+
+Le montant du salaire minimum pour une pige ne peut être inférieur à la moyenne des salaires minimum applicables aux journalistes professionnels auteurs d'images fixes en contrat à durée indéterminée dans les différents accords collectifs applicables dans les différentes formes de presse écrite à la date d'entrée en vigueur du présent décret pour cinq heures de travail.
+
+Le montant du salaire minimum est fixé par arrêté du ministre chargé de la communication. Pour la première fixation de ce salaire, la moyenne mentionnée à l'alinéa précédent est arrondie à la dizaine d'euros supérieure. Le montant du salaire minimum est ensuite revalorisé chaque année aux mêmes dates et aux mêmes taux que le salaire minimum interprofessionnel de croissance prévu au chapitre Ier du titre III du livre II de la troisième partie du code du travail.
+
 #### Chapitre III : Rémunération au titre du prêt en bibliothèque
 
 ##### Article R133-1
@@ -7698,31 +7714,31 @@ A l'appui de son opposition ou de sa demande de retrait, l'éditeur communique t
 
 ###### Article R134-6
 
-L'opposition prévue au premier alinéa du I de l'article L. 134-4 s'exerce auprès de la Bibliothèque nationale de France. Dès réception, la Bibliothèque nationale de France inscrit dans la base de données publique créée par l'article L. 134-2 une mention selon laquelle le livre fait l'objet d'une déclaration d'opposition en cours d'instruction. Elle en informe les sociétés de perception et de répartition des droits agréées mentionnées à l'article L. 134-3 et leur communique les pièces produites à l'appui de l'opposition dans un délai d'un mois.
+L'opposition prévue au premier alinéa du I de l'article L. 134-4 s'exerce auprès de la Bibliothèque nationale de France. Dès réception, la Bibliothèque nationale de France inscrit dans la base de données publique créée par l'article L. 134-2 une mention selon laquelle le livre fait l'objet d'une déclaration d'opposition en cours d'instruction. Elle en informe les organismes de gestion collective agréés mentionnés à l'article L. 134-3 et leur communique les pièces produites à l'appui de l'opposition dans un délai d'un mois.
 
-Faute pour ces sociétés d'établir dans les trois mois suivant la communication de ces pièces que la déclaration d'opposition a été présentée par une personne n'ayant pas qualité pour ce faire, la Bibliothèque nationale de France inscrit dans la base de données publique créée par l'article L. 134-2 une mention selon laquelle elles ne peuvent exercer le droit d'autoriser la reproduction et la représentation sous forme numérique du livre concerné.
+Faute pour ces organismes d'établir dans les trois mois suivant la communication de ces pièces que la déclaration d'opposition a été présentée par une personne n'ayant pas qualité pour ce faire, la Bibliothèque nationale de France inscrit dans la base de données publique créée par l'article L. 134-2 une mention selon laquelle ils ne peuvent exercer le droit d'autoriser la reproduction et la représentation sous forme numérique du livre concerné.
 
 Si la déclaration d'opposition émane de l'auteur du livre indisponible, la Bibliothèque nationale de France cesse de rendre accessible au public les données et informations relatives à ce livre.
 
 ###### Article R134-7
 
-L'opposition prévue au troisième alinéa du I de l'article L. 134-4 s'exerce auprès de la société de perception et de répartition des droits mentionnée à l'article L. 134-3. A défaut d'établir dans les trois mois suivant la réception de ces pièces que la déclaration d'opposition a été présentée par une personne n'ayant pas qualité pour ce faire, la société en informe la Bibliothèque nationale de France, qui cesse de rendre accessibles au public les données et informations relatives à ce livre.
+L'opposition prévue au troisième alinéa du I de l'article L. 134-4 s'exerce auprès de l'organisme de gestion collective mentionné à l'article L. 134-3. A défaut d'établir dans les trois mois suivant la réception de ces pièces que la déclaration d'opposition a été présentée par une personne n'ayant pas qualité pour ce faire, l'organisme en informe la Bibliothèque nationale de France, qui cesse de rendre accessibles au public les données et informations relatives à ce livre.
 
 ###### Article R134-8
 
-L'opposition prévue au cinquième alinéa de l'article L. 134-5 s'exerce auprès de la société de perception et de répartition des droits mentionnée à l'article L. 134-3. A l'appui de son opposition, l'auteur produit tout élément probant de nature à établir que l'éditeur ne dispose pas du droit de reproduction du livre concerné sous une forme imprimée. La société communique ces éléments à l'éditeur, qui dispose d'un délai d'un mois pour présenter ses observations. A défaut d'établir dans les trois mois suivant la réception de ces pièces que la déclaration d'opposition n'est étayée d'aucun élément probant, la société retire l'autorisation délivrée à l'éditeur.
+L'opposition prévue au cinquième alinéa de l'article L. 134-5 s'exerce auprès de l'organisme de gestion collective mentionné à l'article L. 134-3. A l'appui de son opposition, l'auteur produit tout élément probant de nature à établir que l'éditeur ne dispose pas du droit de reproduction du livre concerné sous une forme imprimée. L'organisme communique ces éléments à l'éditeur, qui dispose d'un délai d'un mois pour présenter ses observations. A défaut d'établir dans les trois mois suivant la réception de ces pièces que la déclaration d'opposition n'est étayée d'aucun élément probant, l'organisme retire l'autorisation délivrée à l'éditeur.
 
 ###### Article R134-9
 
-La demande de retrait prévue au deuxième alinéa de l'article L. 134-6 s'exerce auprès de la société de perception et de répartition des droits mentionnée à l'article L. 134-3. Lorsque l'auteur du livre soutient être seul titulaire des droits définis à l'article L. 134-3, il produit à l'appui de sa demande de retrait tout élément probant de nature à l'établir. La société communique ces éléments à l'éditeur, s'il existe. Ce dernier dispose alors d'un délai d'un mois pour présenter ses observations. A défaut d'établir dans les trois mois suivant la réception de la demande de retrait que cette demande a été présentée par une personne n'ayant pas qualité pour ce faire ou l'ayant fait à tort, la société perd le droit prévu au I de l'article L. 134-3.
+La demande de retrait prévue au deuxième alinéa de l'article L. 134-6 s'exerce auprès de l'organisme de gestion collective mentionné à l'article L. 134-3. Lorsque l'auteur du livre soutient être seul titulaire des droits définis à l'article L. 134-3, il produit à l'appui de sa demande de retrait tout élément probant de nature à l'établir. L'organisme communique ces éléments à l'éditeur, s'il existe. Ce dernier dispose alors d'un délai d'un mois pour présenter ses observations. A défaut d'établir dans les trois mois suivant la réception de la demande de retrait que cette demande a été présentée par une personne n'ayant pas qualité pour ce faire ou l'ayant fait à tort, l'organisme perd le droit prévu au I de l'article L. 134-3.
 
 ###### Article R134-10
 
-Lorsque le droit prévu au I de l'article L. 134-3 lui est retiré, la société en informe la Bibliothèque nationale de France, qui inscrit la mention de ce retrait dans la base de données publique créée par l'article L. 134-2.
+Lorsque le droit prévu au I de l'article L. 134-3 lui est retiré, l'organisme en informe la Bibliothèque nationale de France, qui inscrit la mention de ce retrait dans la base de données publique créée par l'article L. 134-2.
 
 ###### Article R134-11
 
-Les mesures de publicité mentionnées à l'article L. 134-7 comportent une campagne d'information menée à l'initiative du ministère chargé de la culture, en liaison avec les sociétés de perception et de répartition des droits et les organisations professionnelles du secteur du livre.
+Les mesures de publicité mentionnées à l'article L. 134-7 comportent une campagne d'information menée à l'initiative du ministère chargé de la culture, en liaison avec les organismes de gestion collective et les organisations professionnelles du secteur du livre.
 
 Cette campagne comprend la présentation du dispositif sur un service de communication au public en ligne, une opération de publipostage en ligne, la publication d'encarts dans la presse nationale ainsi que la diffusion de bannières sur des sites internet d'information.
 
@@ -7744,7 +7760,7 @@ c) Les bases de données ou registres recensant les livres imprimés, tels que W
 
 d) Les sources détenues par les associations d'éditeurs et d'auteurs ;
 
-e) Les bases de données des sociétés de perception et de répartition des droits agréées pour la gestion du droit de reproduction par reprographie et pour la gestion collective de la rémunération au titre du prêt en bibliothèque ainsi que celle mentionnée à l'article L. 134-3 du code la propriété intellectuelle ;
+e) Les bases de données des organismes de gestion collective agréés pour la gestion du droit de reproduction par reprographie et pour la gestion collective de la rémunération au titre du prêt en bibliothèque ainsi que celui mentionné à l'article L. 134-3 du code la propriété intellectuelle ;
 
 f) Les sources qui intègrent des bases de données et registres multiples, tels que ELECTRE, VIAF (Virtual International Authority Files) et ARROW (Accessible Registries of Rights Information and Orphan Works) ;
 
@@ -7760,13 +7776,13 @@ d) Le registre du commerce et des sociétés ;
 
 e) Les sources détenues par les organisations professionnelles d'éditeurs de presse et les associations d'auteurs et de journalistes ;
 
-f) Les bases de données des sociétés de perception et de répartition des droits agréées pour la gestion du droit de reproduction par reprographie ;
+f) Les bases de données des organismes de gestion collective agréés pour la gestion du droit de reproduction par reprographie ;
 
 g) Les informations figurant dans l'encadré de l'imprimé contenant les mentions légales obligatoires et, le cas échéant, le nom des rédacteurs ;
 
 3° Pour les œuvres visuelles, notamment celles relevant des beaux-arts, de la photographie, de l'illustration, du design et de l'architecture, et les croquis de ces œuvres et autres œuvres du même type figurant dans des livres, périodiques ou autres œuvres :
 
-a) Les sources énumérées au 1° et au 2°, notamment les bases de données des sociétés de perception et de répartition des droits agréées pour la gestion du droit de reproduction par reprographie ;
+a) Les sources énumérées au 1° et au 2°, notamment les bases de données des organismes de gestion collective agréés pour la gestion du droit de reproduction par reprographie ;
 
 b) Les bases de données des agences de presse et des agences photographiques et d'illustration ;
 
@@ -7786,11 +7802,11 @@ c) Les bases de données appliquant des normes et des identificateurs pertinents
 
 d) Les sources détenues par les associations de producteurs ou par d'autres associations ou organisations professionnelles pertinentes représentant une catégorie spécifique de titulaires de droits ;
 
-e) Les bases de données des sociétés de perception et de répartition des droits concernées, en particulier celles regroupant des auteurs, des artistes-interprètes, des producteurs de phonogrammes et des producteurs audiovisuels ;
+e) Les bases de données des organismes de gestion collective concernés, en particulier ceux regroupant des auteurs, des artistes-interprètes, des producteurs de phonogrammes et des producteurs audiovisuels ;
 
 f) Le générique de l'œuvre et les autres informations figurant sur l'emballage de celle-ci.
 
-II.-Lorsque les recherches prévues au 1° de l'article L. 135-1 doivent, en vertu de cet article, avoir lieu dans un autre Etat membre de l'Union européenne, les sources d'information qui doivent être consultées comprennent au moins les sources définies dans cet Etat conformément aux paragraphes 2 et 3 de l'article 3 de la directive 2012/28/UE du Parlement européen et du Conseil du 25 octobre 2012.
+II.-Lorsque les recherches prévues au 1° de l'article L. 135-1 doivent, en vertu de cet article, avoir lieu dans un autre Etat membre de l'Union européenne, les sources d'information qui doivent être consultées comprennent au moins les sources définies dans cet Etat conformément aux paragraphes 2 et 3 de l'article 3 de la directive 2012/28/ UE du Parlement européen et du Conseil du 25 octobre 2012.
 
 L'organisme procède en outre à des recherches des titulaires de droits auprès des sources similaires existant dans d'autres Etats lorsqu'il résulte de celles effectuées en application des premier et deuxième alinéas que des informations pertinentes sont susceptibles d'y être disponibles.
 
@@ -8118,146 +8134,608 @@ L'amende est recouvrée comme en matière de créances étrangères à l'impôt 
 
 Le délai de prescription de l'action administrative à l'égard des manquements à l'article L. 311-4-1 est d'une année révolue à compter des manquements, s'il n'a été fait pendant ce délai aucun acte tendant à leur recherche, à leur constatation ou à leur sanction.
 
-### Titre II : Sociétés de perception et de répartition des droits
+### Titre II : Gestion des droits d'auteur et des droits voisins par un organisme
 
 #### Chapitre Ier : Dispositions générales
 
-##### Article R321-1
+##### Section 1 : Organismes de gestion collective
 
-Le dossier adressé au ministre chargé de la culture, en application de l'article L. 321-3, comprend les projets de statuts et de règlements généraux et toutes pièces justifiant la qualité professionnelle des fondateurs ainsi que l'état des moyens humains, matériels ou financiers permettant à la société d'assurer effectivement la perception des droits et l'exploitation de son répertoire.
+###### Article R321-1
 
-La transmission du dossier est faite par lettre recommandée avec demande d'avis de réception.
+Les organismes de gestion collective établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres ou autres objets protégés sont soumis aux dispositions de l'article R. 321-5, des 1° à 8° et du 10° de l'article R. 321-15 et de l'article R. 321-16, ainsi qu'aux dispositions des articles R. 321-26, R. 321-27, R. 321-30 à R. 321-34, R. 321-36 à R. 321-42, R. 321-44, R. 321-46 et R. 321-47.
 
-##### Article R321-2
+Les organismes de gestion collective établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres musicales protégées sont également soumis aux dispositions des articles R. 321-8 à R. 321-11.
 
-Tout associé peut, à tout moment, demander à la société de lui adresser :
+##### Section 2 :  Organismes de gestion indépendants
 
-1° La liste des mandataires sociaux ;
+###### Article R321-2
 
-2° Un tableau retraçant sur une période de cinq ans le montant annuel des sommes perçues et réparties ainsi que des prélèvements pour frais de gestion et des autres prélèvements ;
+I. – Les organismes de gestion indépendants établis en France sont soumis aux dispositions de l'article R. 321-5, des 1° à 7°, du 10° et du 11° de l'article R. 321-15, de l'article R. 321-16, ainsi qu'aux dispositions des articles R. 321-26 à R. 321-34, R. 321-36 à R. 321-42, R. 321-44 et R. 321-46 à R. 321-48.
 
-3° Un document décrivant les règles de répartition applicables ;
+II. – Les organismes de gestion indépendants établis en France gérant les droits d'exploitation d'œuvres musicales protégées sont également soumis aux dispositions des articles R. 321-8 à R. 321-11.
 
-4° Le produit des droits lui revenant au cours des douze derniers mois, résultant des contrats conclus avec les utilisateurs, et la manière dont ce produit est déterminé.
+III. – Les organismes de gestion indépendants établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres ou autres objets protégés sont soumis aux dispositions de l'article R. 321-5, des 1° à 7° et du 10° de l'article R. 321-15 et du I de l'article R. 321-16, ainsi qu'aux dispositions des articles R. 321-26, R. 321-27, R. 321-30 à R. 321-34, R. 321-36 à R. 321-42, R. 321-44, R. 321-46 et R. 321-47.
 
-##### Article R321-3
+IV. – Les organismes de gestion indépendants établis hors de l'Union européenne gérant les droits d'exploitation en France d'œuvres musicales protégées sont également soumis aux dispositions des articles R. 321-8 à R. 321-11.
 
-Dans les sociétés de perception et de répartition des droits, les associés peuvent être convoqués soit par lettre recommandée, soit par un avis inséré dans deux journaux au moins, de diffusion nationale, habilités à recevoir les annonces légales dans le département du siège social et qui sont déterminés par les statuts. Toute modification de la liste de ces journaux intervenant avant la mise à jour des statuts est portée à la connaissance des associés par tout moyen approprié.
+#### Chapitre Ier bis : Autorisation de gestion des droits
 
-Outre les indications prévues au premier alinéa de l'article 40 du décret n° 78-704 du 3 juillet 1978, l'avis mentionne la date et le lieu de réunion des assemblées ; cet avis est publié quinze jours au moins avant la date de l'assemblée.
+#### Chapitre Ier ter : Organisations des organismes de gestion collective
 
-Lorsque les statuts prévoient que certaines assemblées doivent être tenues selon des conditions particulières de quorum ou de majorité, il est fait mention de ces conditions dans l'avis de convocation à ces assemblées.
+##### Section 1 : Adhésion des membres
 
-##### Article R321-4
+##### Section 2 :  Décisions collectives des membres
 
-La date de l'assemblée au cours de laquelle, conformément à l'article 1856 du code civil, il est rendu compte de la gestion sociale est déterminée par les statuts.
+###### Article R321-3
 
-Lorsque, dans les conditions prévues par les statuts, cette assemblée ne peut être tenue, les associés doivent en être prévenus au moins quinze jours avant, soit par lettre recommandée avec demande d'avis de réception, soit par un avis de report publié selon les modalités prévues à l'article R. 321-3. La lettre ou l'avis indique les motifs du report ainsi que la date à laquelle l'assemblée se tiendra.
+Les membres de l'assemblée peuvent être convoqués soit par lettre recommandée avec demande d'avis de réception, soit par voie électronique avec demande d'accusé de réception, soit par un avis inséré dans deux journaux au moins, de diffusion nationale, habilités à recevoir les annonces légales dans le département du siège social et qui sont déterminés par une délibération de l'assemblée générale. Toute modification de la liste de ces journaux intervenant entre deux assemblées générales est portée à la connaissance des membres par tout moyen approprié.
 
-##### Article R321-5
+Tout membre peut demander à être convoqué individuellement aux assemblées ou à certaines d'entre elles par lettre recommandée avec demande d'avis de réception.
 
-Tout associé peut demander à être convoqué individuellement aux assemblées ou à certaines d'entre elles par lettre recommandée avec demande d'avis de réception.
+Lorsque la convocation est faite par un autre moyen, les frais de cet envoi recommandé sont à la charge de l'intéressé.
 
-Lorsque la convocation est faite par avis dans la presse, les frais de l'envoi recommandé sont à la charge de l'intéressé.
+Les membres sont convoqués quinze jours au moins avant la date de l'assemblée.
 
-##### Article R321-6
+La convocation précise l'ordre du jour, la date et le lieu de réunion de l'assemblée.
 
-Avant l'assemblée générale d'approbation des comptes, tout associé a le droit de prendre connaissance des livres et documents mentionnés à l'article 48 du décret n° 78-704 du 3 juillet 1978 relatif à l'application de la loi n° 78-9 du 4 janvier 1978 modifiant le titre IX du livre III du code civil, et concernant l'exercice en cours. Ce droit s'exerce dans les deux mois précédant la réunion de l'assemblée, sauf durée supérieure fixée par les statuts de la société.
+Lorsque les statuts prévoient que certaines assemblées doivent être tenues selon des conditions particulières de quorum ou de majorité, il est fait mention de ces conditions dans la convocation.
 
-L'associé adresse à la société, au moins quinze jours avant la date fixée pour cette réunion, une demande écrite mentionnant les documents auxquels il souhaite accéder. Dans un délai de dix jours à compter de la réception de la demande, la société propose une date pour l'exercice du droit d'accès qui s'effectue dans des conditions définies par les statuts. Le troisième alinéa de l'article 48 du décret du 3 juillet 1978 précité est applicable.
+###### Article R321-4
 
-Le droit d'accès s'exerce au siège social ou au lieu de la direction administrative et, sous réserve des dispositions du dernier alinéa de l'article R. 321-6-1, sans faculté d'obtenir copie des documents.
+La date de l'assemblée générale annuelle prévue à l'article L. 323-5 est déterminée par les statuts. Lorsque cette assemblée ne peut être tenue dans les conditions prévues par les statuts, les membres doivent en être prévenus au moins quinze jours avant la date limite statutairement prévue pour sa tenue, dans les formes prévues à l'article R. 321-3. Ils sont informés à cette occasion des motifs du report ainsi que de la date à laquelle l'assemblée se tiendra.
 
-##### Article R321-6-1
+##### Section 3 :  Organes de gestion, d'administration et de direction
 
-L'associé peut, en outre, pendant la période définie au premier alinéa de l'article R. 321-6, demander à la société de lui adresser :
+##### Section 4 :  Organe de surveillance
 
-1° Les comptes annuels qui seront soumis à l'assemblée générale ainsi que les comptes de l'exercice précédent, accompagnés des documents mentionnés à l'article R. 321-8 ;
+#### Chapitre Ier quater : Gestion des droits
 
-2° Les rapports des organes dirigeants et des commissaires aux comptes qui seront soumis à l'assemblée ;
+##### Section 1 : Octroi des autorisations d'exploitation et perception des revenus issus de l'exploitation des droits
 
-3° Le cas échéant, le texte et l'exposé des motifs des résolutions proposées, ainsi que les renseignements concernant les candidats à un mandat social ;
+##### Section 2 :  Gestion des revenus issus de l'exploitation des droits
 
-4° Le montant global, certifié exact par les commissaires aux comptes, des rémunérations versées aux personnes les mieux rémunérées, le nombre de ces personnes étant de dix ou de cinq selon que l'effectif de la société excède ou non deux cents salariés ;
+###### Article R321-5
 
-5° La liste des placements figurant dans les comptes à la clôture de l'exercice ainsi que des taux de rendement moyen au cours de l'exercice pour les placements à court et moyen terme ;
+La liste mentionnée à l'article L. 324-14 précise au moins, sauf impossibilité, les éléments suivants pour chaque œuvre ou objet protégé :
 
-6° Un tableau mentionnant les organismes dans lesquels la société détient une participation ainsi que le compte de résultat et le bilan de chacun de ces organismes ;
+1° Le titre ;
 
-7° Un état faisant ressortir, pour les principales catégories d'utilisateurs, leur nombre et le montant des droits versés dans l'année ;
+2° Le nom du ou des titulaires de droits lorsqu'ils sont connus mais n'ont pu être localisés ;
 
-8° (Supprimé).
+3° Le nom de l'éditeur ou du producteur d'origine ;
 
-Les documents mentionnés aux 1° à 7° sont, pendant la même période, tenus à la disposition des associés au siège social ou au lieu de la direction administrative, où ils peuvent en prendre connaissance ou en obtenir copie.
+4° Toute autre information pertinente disponible qui pourrait faciliter l'identification du ou des titulaires de droits.
 
-##### Article R321-6-2
+###### Article R321-6
 
-La société peut ne pas donner suite aux demandes répétitives ou abusives.
+I. – L'aide à la création mentionnée à l'article L. 324-17 s'entend des concours apportés :
 
-##### Article R321-6-3
+1° A la création d'une œuvre, à son interprétation, à la première fixation d'une œuvre ou d'une interprétation sur un phonogramme ou un vidéogramme ;
 
-L'associé auquel est opposé un refus de communication peut saisir une commission spéciale composée d'au moins cinq associés élus par l'assemblée générale parmi ceux qui ne détiennent aucun mandat social.
+2° A des actions de défense, de promotion et d'information engagées dans l'intérêt des créateurs et de leurs œuvres.
 
-Les avis de cette commission sont motivés. Ils sont notifiés au demandeur et aux organes de direction de la société.
+II. – L'aide à la diffusion du spectacle vivant mentionnée à l'article L. 324-17 s'entend des concours apportés :
 
-La commission rend compte annuellement de son activité à l'assemblée générale. Son rapport est communiqué au ministre chargé de la culture ainsi qu'au président de la commission prévue à l'article L. 321-13.
+1° A des manifestations présentant, à titre principal ou accessoire, un spectacle vivant ;
 
-##### Article R321-6-4
+2° A des actions propres à assurer la diffusion des œuvres et des prestations artistiques du spectacle vivant.
 
-Le fait, pour un gérant de droit ou de fait, de refuser de communiquer tout ou partie des documents mentionnés aux articles R. 321-2, R. 321-6 et R. 321-6-1 est puni de la peine d'amende prévue pour les contraventions de la 3e classe.
+III. – L'aide à la formation d'artistes mentionnée à l'article L. 324-17 s'entend des concours apportés à des actions de formation professionnelle des auteurs et des artistes-interprètes.
 
-##### Article R321-7
+###### Article R321-7
 
-Les utilisateurs peuvent prendre connaissance du répertoire mentionné à l'article L. 321-7 au siège de la société ou, le cas échéant, dans ses agences régionales. Sur leur demande, il leur en est délivré copie sans qu'il puisse alors leur être réclamé d'autre somme que celle représentant le coût de la copie.
+Toute aide allouée par un organisme de gestion collective en application de l'article L. 324-17 fait l'objet d'une convention entre l'organisme et le bénéficiaire. Cette convention prévoit les conditions d'utilisation du concours apporté ainsi que celles dans lesquelles le bénéficiaire communique à l'organisme les éléments permettant de justifier que l'aide est utilisée conformément à sa destination.
+
+#### Chapitre  Ier quinquies : Autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales
 
 ##### Article R321-8
 
-La communication des comptes annuels des sociétés de perception et de répartition des droits, prévue en application de l'article R. 321-6-1 à tout associé et en application du premier alinéa de l'article L. 321-12, au ministre chargé de la culture doit comporter :
+I. – Pour pouvoir octroyer des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales, les organismes de gestion collective doivent respecter les conditions suivantes :
 
-A.-En ce qui concerne la gestion financière de la société : un compte de gestion accompagné de documents de synthèse, établis dans les conditions fixées, en application du quatrième alinéa de l'article L. 321-12, par un règlement de l'Autorité des normes comptables.
+1° Disposer des moyens matériels et techniques permettant d'identifier avec précision, en tout ou partie :
 
-B.-En ce qui concerne la mise en oeuvre des actions dont le financement est prévu par l'article L. 321-9 :
+a) Les œuvres musicales pour lesquelles ces autorisations d'exploitation sont octroyées ;
 
-1. La ventilation des montants versés, par catégorie d'actions définies au premier alinéa de l'article L. 321-9, assortie d'une information particulière sur :
+b) Les droits et les titulaires de droits correspondant à chaque œuvre musicale ou partie d'œuvre musicale, pour chacun des territoires couverts par ces autorisations d'exploitation ;
 
-- le coût de la gestion de ces actions ;
-- les organismes ayant bénéficié de concours pendant trois années consécutives ;
+2° Faire usage d'identifiants uniques pour identifier chaque titulaire de droits et chaque œuvre musicale, en tenant compte, lorsqu'elles existent, des normes et pratiques sectorielles volontaires élaborées à l'échelle internationale ou au niveau de l'Union européenne ;
 
-2. Une description des procédures d'attribution ;
+3° Recourir aux moyens nécessaires pour identifier et corriger les incohérences dans les données détenues par d'autres organismes de gestion collective, qui octroient des autorisations d'exploitation multiterritoriales de droits en ligne sur des œuvres musicales, en coordination avec ces organismes.
 
-3. Un commentaire des orientations suivies en la matière par la société.
-
-4. La liste des conventions mentionnées à l'article R. 321-10.
-
-C.-Une information annuelle sur les actions éventuellement engagées pour la défense des catégories professionnelles concernées par leur objet social.
+II. – Le traitement des données nécessaires à la gestion des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales doit être transparent et permettre l'identification des œuvres pour lesquelles ces autorisations sont octroyées et le contrôle de leur utilisation en vue de la facturation aux utilisateurs, de la perception et de la répartition des revenus dus aux titulaires de droits.
 
 ##### Article R321-9
 
-I.-L'aide à la création mentionnée à l'article L. 321-9 s'entend des concours apportés :
+I. – En réponse à une demande motivée, les organismes octroyant des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales fournissent, par voie électronique, aux prestataires de services en ligne auxquels ils ont octroyé une autorisation, aux titulaires des droits qu'ils gèrent et aux autres organismes de gestion collective, des informations actualisées permettant l'identification du répertoire de musique en ligne qu'ils représentent. Ces informations concernent :
 
-a) A la création d'une œuvre, à son interprétation, à la première fixation d'une œuvre ou d'une interprétation sur un phonogramme ou un vidéogramme ;
+1° Les œuvres musicales pour lesquelles ces autorisations ont été octroyées ;
 
-b) A des actions de défense, de promotion et d'information engagées dans l'intérêt des créateurs et de leurs œuvres.
+2° Les droits gérés au titre de ces autorisations ;
 
-II.-L'aide à la diffusion du spectacle vivant mentionnée à l'article L. 321-9 s'entend des concours apportés :
+3° Les territoires couverts par ces autorisations.
 
-a) A des manifestations présentant, à titre principal ou accessoire, un spectacle vivant ;
+II. – Aux fins de la collecte des informations mentionnées au I, les organismes octroyant des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales permettent à l'ensemble des titulaires de droits pour lesquels ils gèrent les droits en ligne de leur communiquer ces informations par voie électronique. La communication des informations mentionnées au I respecte, lorsqu'elles existent, les normes et pratiques sectorielles volontaires élaborées à l'échelle internationale ou au niveau de l'Union européenne en matière d'échange de données.
 
-b) A des actions propres à assurer la diffusion des œuvres et des prestations artistiques du spectacle vivant.
+III. – Les dispositions prévues au II s'appliquent lorsque les autorisations d'exploitation sont octroyées au titre d'un accord de représentation conformément à l'article L. 325-3, à moins que les organismes en cause ne conviennent entre eux et pour les relations qu'ils entretiennent, d'autres modalités techniques de recueil des données.
 
-III.-L'aide à la formation d'artistes mentionnée à l'article L. 321-9 s'entend des concours apportés à des actions de formation des auteurs et des artistes-interprètes.
+IV. – Dans la mise en œuvre du I, les organismes sollicités peuvent, s'ils l'estiment nécessaire, prendre les mesures appropriées pour préserver l'exactitude et l'intégrité des données, contrôler leur réutilisation et protéger les informations relevant du secret des affaires.
+
+V. – Les titulaires de droits, les prestataires de services en ligne et les autres organismes peuvent demander à l'organisme qui gère leurs droits en ligne sur des œuvres musicales, de rectifier les informations mentionnées au I du présent article et au I de l'article R. 321-8. Cette demande doit être motivée et accompagnée des pièces justificatives. Dans ce cas, l'organisme saisi de la demande procède à la rectification des informations erronées dans un délai n'excédant pas trois mois.
 
 ##### Article R321-10
 
-Toute aide allouée par une société de perception et de répartition des droits en application de l'article L. 321-9 fait l'objet d'une convention entre la société et le bénéficiaire. Cette convention prévoit les conditions d'utilisation du concours apporté ainsi que celles dans lesquelles le bénéficiaire communique à la société les éléments permettant de justifier que l'aide est utilisée conformément à sa destination.
+I. – Les organismes de gestion collective contrôlent l'utilisation des droits par les prestataires de services en ligne auxquels ils ont octroyé des autorisations d'exploitation multiterritoriales de droits en ligne sur des œuvres musicales. Les contrats conclus avec ces prestataires de services prévoient des modalités appropriées permettant aux organismes de gestion collective de contrôler effectivement l'utilisation des droits.
 
-#### Chapitre II : Sociétés agréées pour la gestion du droit de reproduction par reprographie
+II. – Les organismes octroyant des autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales permettent aux prestataires de services en ligne de déclarer l'utilisation effective de ces droits par voie électronique.
+
+Les organismes mettent à leur disposition au moins une méthode de déclaration conforme à des normes ou pratiques sectorielles volontaires élaborées à l'échelle internationale ou au niveau de l'Union européenne en matière d'échange par voie électronique de ce type de données.
+
+III. – Dès lors que l'organisme a proposé au prestataire de services en ligne une méthode conformément au second alinéa du II, il peut refuser les déclarations réalisées dans un autre format.
+
+IV. – Dans un délai de six mois après la déclaration, l'organisme établit la facture relative à l'utilisation déclarée, à moins que des motifs imputables au prestataire de services en ligne ne l'en empêchent.
+
+V. – La facture établie en application des dispositions du présent code doit respecter un format conforme à des normes ou pratiques sectorielles volontaires mentionnées au second alinéa du II.
+
+Elle indique les œuvres et les droits pour lesquels une autorisation d'exploitation multiterritoriale a été octroyée en tout ou en partie, en se fondant sur les informations mentionnées au I de l'article R. 321-8, et, dans la mesure du possible, l'exploitation effective qui en a été faite, sur la base des informations fournies par le prestataire de services en ligne, ainsi que le format utilisé pour fournir ces informations.
+
+VI. – L'organisme adresse la facture au prestataire de services en ligne par voie électronique.
+
+Le prestataire ne peut refuser la facture au seul motif de son format si l'organisme a respecté les dispositions du V du présent article. Il peut toutefois contester l'exactitude de la facture par tout moyen approprié que l'organisme met à sa disposition.
+
+##### Article R321-11
+
+I. – Les organismes de gestion collective versent les sommes dues aux titulaires de droits au titre des autorisations d'exploitation multiterritoriales de droits en ligne octroyées sur leurs œuvres musicales dans un délai n'excédant pas neuf mois à compter de la fin de l'exercice au cours duquel ils ont reçu la déclaration d'utilisation de ces œuvres. Il ne peut être dérogé à ce délai et à l'exactitude du montant des versements qu'en raison de causes imputables aux prestataires de services en ligne.
+
+II. – Pour chaque versement effectué conformément au I, l'organisme communique au titulaire de droits au moins les informations suivantes :
+
+1° La période au cours de laquelle ont eu lieu les utilisations pour lesquelles les sommes lui sont dues, ainsi que les territoires dans lesquels ces utilisations ont eu lieu ;
+
+2° Les facturations opérées, les sommes perçues, les déductions effectuées et les sommes réparties par l'organisme pour chaque droit en ligne sur toute œuvre musicale que le titulaire de droits l'a autorisé à représenter et pour chaque prestataire de services en ligne.
+
+III. – Les dispositions du I s'appliquent aux organismes qui versent des sommes à d'autres organismes au titre d'un accord de représentation conformément à l'article L. 325-3. Ils sont également tenus de communiquer à ces organismes les informations prévues au II.
+
+L'organisme destinataire verse ces sommes et communique ces informations aux titulaires de droits en cause, à moins que l'accord de représentation n'en dispose autrement.
+
+##### Article R321-12
+
+I. – L'organisme de gestion collective sollicité par un autre organisme pour assurer la gestion d'autorisations d'exploitation multiterritoriales conformément à l'article L. 325-3 donne une réponse écrite dans un délai d'un mois, qui est motivée si elle est négative.
+
+II. – Le mandat donné à un organisme de gestion collective par un autre conformément à l'article L. 325-3 résulte de la conclusion d'un accord de représentation entre ces deux organismes. Cet accord est non exclusif.
+
+III. – Dans le délai prévu par l'accord de représentation, l'organisme mandataire inclut les œuvres musicales de l'organisme mandant dans l'ensemble des offres qu'il propose aux prestataires de services en ligne.
+
+Il informe l'organisme mandant des principales conditions auxquelles les autorisations d'exploitation multiterritoriales de droits en ligne sur les œuvres musicales de celui-ci sont octroyées, en précisant la nature de l'exploitation, les éléments relatifs à la rémunération de ces autorisations et ceux pouvant avoir une incidence sur cette rémunération, la durée de validité des autorisations d'exploitation et les territoires qu'elles couvrent.
+
+IV. – L'organisme mandant informe ses membres des principaux termes de l'accord de représentation, y compris sa durée et le coût des services fournis par l'organisme mandataire.
+
+Cette obligation d'information vaut aussi à l'égard des titulaires de droits non-membres de l'organisme mandant dès lors qu'ils ont une relation juridique directe avec lui relative aux droits en cause, par l'effet de la loi ou d'un contrat.
+
+##### Article R321-13
+
+I. – Sous réserve des dispositions du présent article, l'organisme mandataire gère les œuvres musicales dont la gestion lui a été confiée conformément à l'article L. 325-3 dans les mêmes conditions que celles qu'il applique à la gestion de son propre répertoire musical.
+
+II. – Le montant des frais de gestion déduits au titre du service rendu à l'organisme mandant n'excède pas les coûts raisonnablement supportés par l'organisme mandataire.
+
+III. – L'organisme mandant met à la disposition de l'organisme mandataire les informations relatives à son propre répertoire musical nécessaires à l'octroi des autorisations d'exploitation multiterritoriales en ligne.
+
+Lorsque ces informations sont insuffisantes ou fournies sous une forme qui ne permet pas à l'organisme mandataire de respecter les dispositions du présent chapitre, celui-ci peut facturer à l'organisme mandant les coûts supplémentaires liés à la mise en conformité avec ces dispositions, ou décider d'exclure de son répertoire les œuvres pour lesquelles les informations sont insuffisantes ou inutilisables.
+
+#### Chapitre Ier sexies : Transparence et procédures de contrôle
+
+##### Section 1 : Transparence et obligations d'information
+
+###### Article R321-14
+
+I. – Les rapports prévus à l'article L. 326-1 sont publiés sur le site internet des organismes de gestion collective concernés et sont maintenus sur ce site, à la disposition du public, pendant au moins cinq ans.
+
+II. – Le rapport de transparence annuel comprend les informations suivantes :
+
+1° Les états financiers comprenant un bilan, un compte de résultat, et une annexe, selon des normes fixées par l'Autorité des normes comptables ;
+
+2° Un rapport sur les activités de l'exercice ;
+
+3° Le nombre de refus d'octroyer une autorisation d'exploitation conformément aux dispositions du troisième alinéa de l'article L. 324-7 et les principales catégories de raisons motivant ces refus ;
+
+4° Une description de la structure juridique et de la gouvernance de l'organisme de gestion collective ;
+
+5° La liste des personnes morales que l'organisme contrôle au sens de l'article L. 233-16 du code de commerce, ainsi que le montant du capital, la quote-part de capital détenue, le résultat du dernier exercice clos, et la valeur comptable nette et brute des titres détenus ;
+
+6° Le montant total de la rémunération versée au cours de l'année précédente, d'une part, aux personnes mentionnées au premier alinéa de l'article L. 323-13 et, d'autre part, aux membres de l'organe de surveillance, ainsi que les autres avantages qui leur ont été octroyés ;
+
+7° Le montant des revenus provenant de l'exploitation des droits, ventilés par catégorie de droits gérés et par type d'utilisation, et le montant des recettes résultant de l'investissement de ces revenus ainsi qu'une information sur l'utilisation de ces recettes ;
+
+8° Des informations financières sur le coût de la gestion des droits et des autres services fournis aux titulaires de droits par l'organisme, avec une description complète des éléments suivants :
+
+a) Le montant de l'ensemble des frais de fonctionnement et des frais financiers, ventilés par catégorie de droits gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l'attribution de ces coûts indirects ;
+
+b) Le montant des frais de fonctionnement et des frais financiers correspondant uniquement à la gestion des droits, ventilés par catégorie de droits gérés, en distinguant le montant des frais de gestion déduits ou compensés à partir des revenus provenant de l'exploitation des droits ou des recettes résultant de l'investissement de ces revenus, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l'attribution de ces coûts indirects ;
+
+c) Le montant des frais de fonctionnement et des frais financiers relatifs aux services, autres que la gestion des droits, comprenant les services sociaux, culturels et éducatifs ;
+
+d) La nature des ressources utilisées pour couvrir les coûts ;
+
+e) Le montant des déductions effectuées sur les revenus provenant de l'exploitation des droits, ventilées par catégorie de droits gérés et par type d'utilisation, ainsi que la finalité de ces déductions ;
+
+f) Le pourcentage que représente le coût de la gestion des droits et des autres services fournis aux titulaires de droits par l'organisme par rapport aux revenus provenant de l'exploitation des droits de l'exercice concerné, par catégorie de droits gérés, et lorsque les coûts sont indirects et ne peuvent être attribués à une ou plusieurs catégories de droits, une explication de la méthode suivie pour l'attribution de ces coûts indirects ;
+
+9° Des informations financières sur les sommes dues aux titulaires de droits, accompagnées d'une description complète des éléments suivants :
+
+a) Le montant total des sommes réparties aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par type d'utilisation ;
+
+b) Le montant total des sommes versées aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par type d'utilisation ;
+
+c) La fréquence des versements, avec une ventilation par catégorie de droits gérés et par type d'utilisation ;
+
+d) Le montant total des sommes facturées ;
+
+e) Le montant total des sommes perçues mais non encore réparties aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par type d'utilisation, en indiquant l'exercice au cours duquel ces sommes ont été perçues ;
+
+f) Le montant total des sommes réparties mais non encore versées aux titulaires de droits, avec une ventilation par catégorie de droits gérés et par type d'utilisation, en indiquant l'exercice au cours duquel ces sommes ont été perçues ;
+
+g) Les motifs du non-respect par l'organisme des délais qui lui sont applicables dans le versement des sommes dues aux titulaires de droits conformément à l'article L. 324-12 ;
+
+h) Le montant total des sommes qui ne peuvent être réparties, avec une explication de l'utilisation qui en a été faite ;
+
+10° Des informations sur les relations avec les autres organismes de gestion collective avec une description des éléments suivants :
+
+a) Le montant des sommes reçues d'autres organismes et des sommes versées à d'autres organismes, avec une ventilation par catégorie de droits et par type d'utilisation ainsi que par organisme ;
+
+b) Le montant des frais de gestion et autres déductions effectuées sur les revenus provenant de l'exploitation des droits dus à d'autres organismes, avec une ventilation par catégorie de droits et par type d'utilisation ainsi que par organisme ;
+
+c) Le montant des frais de gestion et autres déductions effectuées sur les sommes versées par d'autres organismes, avec une ventilation par catégorie de droits et par organisme ;
+
+d) Le montant des sommes réparties directement aux titulaires de droits provenant d'autres organismes, avec une ventilation par catégorie de droits et par organisme.
+
+III. – Le rapport de transparence annuel comporte également un rapport qui rend compte de l'utilisation des sommes déduites aux fins de la fourniture de services sociaux, culturels ou éducatifs et qui contient les informations suivantes :
+
+1° Le montant des sommes déduites aux fins de services sociaux, culturels et éducatifs au cours de l'exercice, avec une ventilation par type de finalité, et pour chaque type de finalité avec une ventilation par catégorie de droits gérés et par type d'utilisation ;
+
+2° Une explication de l'utilisation de ces sommes, avec une ventilation par type de finalité, y compris le montant des frais découlant de la gestion des sommes déduites en vue de financer des services sociaux, culturels et éducatifs et des sommes distinctes utilisées aux fins de services sociaux, culturels et éducatifs.
+
+IV. – Le commissaire aux comptes de l'organisme s'assure de la sincérité et de la concordance des informations contenues dans le rapport de transparence annuel, comprenant notamment les états financiers et les informations financières prévus aux 1°, 7° à 10° du II et au III, avec les documents comptables de l'organisme. Le rapport spécial qu'il élabore à cette fin ainsi que ses réserves éventuelles doivent être intégralement reproduits dans le rapport de transparence annuel.
+
+###### Article R321-15
+
+Les informations mentionnées au second alinéa de l'article L. 326-2 sont les suivantes :
+
+1° Les statuts et le règlement général ;
+
+2° Les conditions d'adhésion et les conditions de résiliation de l'autorisation de gérer des droits, si celles-ci ne figurent ni dans les statuts ni dans le règlement général ;
+
+3° Les contrats-types d'autorisation d'exploitation et les tarifs standards applicables, y compris, le cas échéant, les remises et réductions applicables ;
+
+4° La liste des personnes membres du conseil d'administration, ou du conseil de surveillance et du directoire ;
+
+5° La politique générale de répartition des sommes dues aux titulaires de droits ;
+
+6° La politique générale en matière de frais de gestion ;
+
+7° La politique générale en matière de déductions, autres que celles concernant les frais de gestion, effectuées sur les revenus provenant de l'exploitation des droits et sur toute recette résultant de l'investissement de ces revenus, y compris aux fins de la fourniture de services sociaux, culturels et éducatifs ;
+
+8° La liste des accords de représentation conclus, précisant le nom des organismes de gestion collective concernés ;
+
+9° La politique générale d'utilisation des sommes qui ne peuvent être réparties ;
+
+10° Les procédures établies conformément à l'article L. 325-5 ;
+
+11° Les procédures établies conformément à l'article L. 328-1.
+
+###### Article R321-16
+
+I. – Les informations relatives à la gestion des droits qu'un organisme de gestion collective ou indépendant est tenu de mettre à la disposition de chaque titulaire de droits en application du I de l'article L. 326-3, comprennent les éléments suivants :
+
+1° Les coordonnées que le titulaire de droits l'a autorisé à utiliser afin de l'identifier et de le localiser ;
+
+2° Le montant des revenus respectivement répartis et versés au titulaire de droits, en précisant leur ventilation par catégorie de droits gérés et par type d'utilisation ;
+
+3° La période au cours de laquelle a eu lieu l'utilisation pour laquelle des revenus ont été répartis et versés au titulaire de droits, à moins que des raisons objectives relatives aux déclarations des utilisateurs n'empêchent l'organisme de fournir ces informations ;
+
+4° Le montant des déductions effectuées sur ces revenus, en précisant celui prélevé au titre des frais de gestion d'une part et des dispositions de l'article L. 324-17 d'autre part ;
+
+5° Le montant des éventuels revenus provenant de l'exploitation des droits qui ont été répartis au titulaire de droits mais qui lui restent dus, quelle que soit la période au cours de laquelle ils ont été perçus par l'organisme.
+
+II. – Les informations relatives à la gestion des droits mentionnées au III de l'article L. 326-3 que l'organisme est tenu de mettre à la disposition de l'autre organisme de gestion avec lequel il est lié par un accord de représentation, comprennent les éléments suivants :
+
+1° Le montant des revenus provenant de l'exploitation des droits qu'il a respectivement répartis et versés au titre de l'accord de représentation, en précisant leur ventilation par catégorie de droits gérés et par type d'utilisation ;
+
+2° Le montant des éventuels revenus provenant de l'exploitation des droits qu'il a répartis au titre de l'accord de représentation, mais qui restent dus, quelle que soit la période au cours de laquelle ils ont été perçus par l'organisme ;
+
+3° Le montant des déductions effectuées sur ces revenus, en précisant celui prélevé au titre des frais de gestion d'une part, et des dispositions de l'article L. 324-17 d'autre part ;
+
+4° Des informations sur les autorisations d'exploitation octroyées ou refusées pour les œuvres et autres objets protégés couverts par l'accord de représentation ;
+
+5° Une présentation des résolutions adoptées par son assemblée générale qui portent sur la gestion des droits couverts par l'accord de représentation.
+
+###### Article R321-17
+
+Dans les intervalles entre deux assemblées générales, et au moins deux mois avant celle à venir, tout membre de l'organisme de gestion collective a le droit de prendre connaissance de tout document établi par cet organisme ou reçu par lui concernant l'exercice en cours, sous réserve du respect des secrets protégés par la loi.
+
+Le membre adresse à l'organisme, une demande écrite mentionnant les documents auxquels il souhaite accéder. Dans un délai de dix jours à compter de la réception de la demande, l'organisme communique les documents ou, si cette communication n'est pas matériellement possible, propose une date pour l'exercice du droit d'accès qui s'effectue alors au siège social ou au lieu de la direction administrative de l'organisme de gestion collective, dans des conditions définies par les statuts. Dans l'exercice de ce droit, le membre peut se faire assister par toute personne de son choix.
+
+###### Article R321-18
+
+Tout membre d'un organisme de gestion collective peut, en outre, dans le délai fixé à l'article L. 326-5, demander à l'organisme de lui adresser :
+
+1° Les comptes annuels qui seront soumis à l'assemblée générale ;
+
+2° Les rapports des organes de gestion, d'administration et de direction et des commissaires aux comptes qui seront soumis à l'assemblée ;
+
+3° Le cas échéant, le texte et l'exposé des motifs des résolutions proposées, ainsi que les renseignements concernant les candidats à un mandat social ou à une fonction élective.
+
+Les documents mentionnés aux 1° à 3° sont, pendant le même délai, tenus à la disposition des membres au siège social ou au lieu de la direction administrative de l'organisme de gestion collective, où ils peuvent en prendre connaissance et en obtenir copie.
+
+L'organisme n'est pas tenu de donner suite aux demandes de communication des documents qu'il tient à disposition de ses membres sur son site internet.
+
+###### Article R321-19
+
+L'organisme peut ne pas donner suite aux demandes répétitives ou abusives.
+
+###### Article R321-20
+
+Le membre auquel est opposé un refus à sa demande de communication de documents présentée en application de l'article L. 326-5, peut saisir l'organe de surveillance prévu à l'article L. 323-14.
+
+L'organe de surveillance rend un avis motivé sur ce refus. Cet avis est notifié au demandeur et au représentant légal de l'organisme.
+
+###### Article R321-21
+
+Le fait de refuser de communiquer en méconnaissance des dispositions des articles R. 321-17 et R. 321-18 tout ou partie des documents mentionnés à l'article R. 321-18 est puni de la peine d'amende prévue pour les contraventions de la 3e classe.
+
+##### Section 2 :  Contrôle par les commissaires aux comptes
+
+##### Section 3 :  Contrôle par le ministère chargé de la culture
+
+###### Article R321-22
+
+Le dossier adressé au ministre chargé de la culture, en application de l'article L. 326-9, comprend les projets de statuts et de règlements généraux et toutes pièces justifiant la qualité professionnelle des fondateurs ainsi que l'état des moyens humains, matériels ou financiers permettant à l'organisme d'assurer effectivement l'exploitation de son répertoire et la perception des revenus provenant de cette exploitation.
+
+La transmission du dossier est faite par lettre recommandée avec demande d'avis de réception.
+
+###### Article R321-23
+
+La communication des comptes annuels des organismes de gestion collective au ministre chargé de la culture en application de l'article L. 326-10 doit comporter :
+
+1° Le rapport de transparence mentionné à l'article R. 321-14 ;
+
+2° En ce qui concerne la mise en œuvre des actions dont le financement est prévu par l'article L. 324-17 :
+
+a) La ventilation des montants versés, par catégorie d'actions définies au premier alinéa de l'article L. 324-17, assortie d'une information particulière sur :
+
+- le coût de la gestion de ces actions ;
+- les personnes ayant bénéficié de concours pendant trois années consécutives ;
+
+b) Une description des procédures d'attribution ;
+
+c) Un commentaire des orientations suivies en la matière par l'organisme ;
+
+d) La liste des conventions mentionnées à l'article R. 321-7 ;
+
+3° Une information annuelle sur les actions éventuellement engagées pour la défense des catégories professionnelles concernées par leur objet social.
+
+#### Chapitre Ier septies : Commission de contrôle des organismes de gestion des droits d'auteur et des droits voisins
+
+##### Section 1 : Missions et composition
+
+##### Section 2 :  Règles de fonctionnement
+
+###### Article R321-24
+
+Les collèges de la commission de contrôle se réunissent sur convocation de leur président.
+
+Ils ne peuvent délibérer que si trois de leurs membres sont présents ou le cas échéant régulièrement suppléés.
+
+###### Article R321-25
+
+I. – L'habilitation mentionnée au II de l'article L. 327-10 est délivrée, de manière individuelle, par le président de la commission de contrôle aux rapporteurs et agents de la commission pour une durée de cinq ans renouvelable.
+
+Pour délivrer l'habilitation, le président de la commission vérifie que l'intéressé présente les capacités et les garanties requises au regard des missions confiées au collège de contrôle. Il tient compte notamment de son niveau de formation ou de son expérience.
+
+II. – Nul ne peut être habilité s'il a fait l'objet d'une condamnation à une peine correctionnelle ou criminelle inscrite au bulletin n° 2 du casier judiciaire, ou dans un document équivalent lorsqu'il s'agit d'un ressortissant de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
+
+III. – Les agents habilités dans les conditions définies au présent article prêtent serment devant l'un des deux collèges de la commission de contrôle. La formule de serment est la suivante :
+
+“ Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de leur exercice ”.
+
+Il est dressé procès-verbal de l'accomplissement de cette prestation de serment.
+
+##### Section 3 :  Procédure
+
+###### Sous-section 1 : Règles générales de procédure
+
+####### Article R321-26
+
+I. – Les requêtes mentionnées aux articles L. 327-6 et L. 327-13 sont effectuées par lettre remise contre signature ou tout autre moyen propre à établir la preuve de la date de la saisine, y compris par voie électronique.
+
+Elles comportent :
+
+1° Si l'auteur de la requête est une personne physique, ses nom, prénom, adresse et coordonnées téléphoniques et, si elle est assujettie aux formalités d'inscription au registre du commerce et des sociétés ou au répertoire des métiers, le numéro de son inscription ;
+
+2° Si l'auteur de la requête est une personne morale, sa forme sociale, sa dénomination ou sa raison sociale, ses statuts, la désignation de son représentant légal les coordonnées téléphoniques de la personne physique à contacter, et, s'il s'agit d'une entreprise assujettie aux formalités d'inscription au registre du commerce et des sociétés ou au répertoire des métiers, le numéro de son inscription et l'adresse de son siège social ;
+
+3° Le cas échéant, le nom de son conseil ou de son représentant et le mandat donné à ce dernier ;
+
+4° L'objet et la nature de la requête avec un exposé de la demande ou du litige et les pièces sur lesquelles la requête est fondée ;
+
+4° Le nom et l'adresse des autres parties mises en cause ;
+
+5° Tous éléments de nature à justifier des démarches que l'auteur de la requête a préalablement accomplies auprès de l'organisme de gestion collective ou de l'organisme de gestion indépendant mis en cause.
+
+La demande et le dossier sont rédigés en langue française.
+
+II. – Si la requête ne satisfait pas aux prescriptions du I, le collège de contrôle ou le médiateur selon le cas adresse une demande de régularisation sous un délai maximal d'un mois à l'auteur de la requête. En l'absence de régularisation la requête est déclarée irrecevable.
+
+####### Article R321-27
+
+Lorsque le collège de contrôle souhaite entendre une personne en application du III de l'article L. 327-11, une convocation est adressée à l'intéressé par lettre recommandée avec demande d'avis de réception quinze jours au moins avant la date de la convocation. Ce délai est porté à deux mois lorsque la personne convoquée est établie en dehors du territoire métropolitain. La convocation rappelle à la personne convoquée qu'elle est en droit de se faire assister d'un conseil de son choix, en application du III de l'article L. 327-11.
+
+Lorsque le collège de contrôle souhaite entendre l'intéressé par un système de visioconférence ou d'audioconférence, la convocation adressée dans les conditions prévues à l'alinéa précédent doit en faire état, préciser que la conférence sera enregistrée et solliciter l'accord exprès de la personne concernée.
+
+Lorsque le médiateur souhaite entendre une personne en application du III de l'article L. 327-11, la convocation rappelle à la personne convoquée qu'elle est en droit de se faire assister d'un conseil de son choix.
+
+###### Sous-section 2 :  Procédure de contrôle des comptes et de la gestion
+
+####### Article R321-28
+
+Pour l'exercice de la mission mentionnée au 1° de l'article L. 327-1, le collège de contrôle arrête son programme annuel de travail sur proposition de son président. Un contrôle non prévu par ce programme peut être diligenté par le collège sur proposition du président.
+
+La décision de procéder à un contrôle est notifiée par lettre recommandée à l'organisme qui en fait l'objet avant toute opération de contrôle auprès de lui.
+
+La demande de documents et d'informations est adressée à l'organisme contrôlé par lettre fixant le délai imparti pour y répondre. Ce délai ne peut être inférieur à trente jours.
+
+Le collège de contrôle prend toutes dispositions pour que les opérations de contrôle s'effectuent en préservant au bénéfice de l'organisme les secrets protégés par la loi.
+
+####### Article R321-29
+
+Le rapport provisoire de vérification, établi par le rapporteur et adopté par le collège de contrôle, est communiqué par le président à l'organisme contrôlé, qui dispose de trente jours pour faire valoir ses observations. L'organisme peut en outre dans le même délai demander à ce que ses représentants soient entendus par le collège de contrôle.
+
+Le rapport définitif de vérification est adopté par le collège de contrôle après examen des éventuelles observations de l'organisme contrôlé et, le cas échéant, après audition de ses représentants. Les observations de l'organisme contrôlé sont annexées au rapport de vérification. Ce rapport est adressé à l'organisme contrôlé. Il est également adressé au ministre chargé de la culture.
+
+####### Article R321-30
+
+Le rapport annuel prévu à l'article L. 327-12 fait état des constatations faites par le collège de contrôle à l'issue de ses contrôles.
+
+Les observations du collège de contrôle mettant en cause un organisme lui sont communiquées au préalable. L'organisme dispose d'un délai de trente jours pour faire valoir ses observations ou demander à ce que ses représentants soient entendus par le collège de contrôle. Les observations de l'organisme sont annexées au rapport.
+
+###### Sous-section 3 :  Procédure de sanction
+
+####### Article R321-31
+
+Dans le cadre des contrôles effectués en application du 2° de l'article L. 327-1, le représentant du collège de contrôle établit les procès-verbaux énonçant la nature, la date et le lieu des constatations opérées. Ils sont signés par leur auteur et la personne concernée par les investigations ou son représentant légal.
+
+En cas de refus de celle-ci, mention en est faite au procès-verbal.
+
+Lorsque l'intéressé a été entendu par un système de visioconférence ou d'audioconférence, l'enregistrement audiovisuel ou sonore auquel ces opérations ont donné lieu fait l'objet d'un procès-verbal de transcription soumis pour signature à l'intéressé. A cet effet, ce procès-verbal, accompagné de l'enregistrement, lui est adressé dans un délai de trente jours à compter de la date de la visioconférence ou de l'audioconférence.
+
+####### Article R321-32
+
+Lorsque le collège de contrôle décide de l'ouverture d'une procédure de sanction, la notification des griefs est adressée, par lettre recommandée avec demande d'avis de réception, remise en main propre contre récépissé ou acte d'huissier, à l'organisme mis en cause, accompagnée du rapport d'enquête.
+
+Ces documents sont également transmis au président du collège des sanctions.
+
+L'organisme mis en cause dispose d'un délai de deux mois pour transmettre au président du collège des sanctions ses observations écrites sur les griefs qui lui ont été notifiés. Il en adresse copie au président du collège de contrôle. A défaut, cette copie lui est communiquée par le président du collège des sanctions.
+
+La notification des griefs mentionne le délai prévu à l'alinéa précédent et précise que l'organisme mis en cause peut prendre connaissance et copie des autres pièces du dossier auprès du collège des sanctions et se faire assister ou représenter par tout conseil de son choix.
+
+Le président du collège de contrôle peut répondre par écrit, dans un délai n'excédant pas un mois, aux observations écrites transmises par l'organisme. Il adresse, selon les modalités prévues au premier alinéa du présent article, une copie de cette réponse à l'organisme qui peut, dans un délai d'un mois, communiquer de nouvelles observations au président du collège des sanctions.
+
+Une copie de ces observations est adressée au président du collège de contrôle dans les conditions fixées au troisième alinéa du présent article. Le président du collège des sanctions peut, s'il le juge utile, l'autoriser à y répondre dans les conditions prévues à l'alinéa précédent. L'organisme peut alors produire de nouvelles observations dans le délai d'un mois. Une copie en est adressée pour information au président du collège de contrôle.
+
+Les délais prévus par les dispositions du présent article peuvent être réduits par le président du collège des sanctions, lorsque l'urgence ou la nature de l'affaire le justifient.
+
+####### Article R321-33
+
+L'organisme mis en cause est convoqué devant le collège des sanctions, selon les modalités prévues à l'article R. 321-27, au moins trente jours francs avant la séance.
+
+####### Article R321-34
+
+Les membres du collège des sanctions délibèrent sur les sanctions en la seule présence d'un agent de la commission de contrôle exerçant les fonctions de secrétaire de séance. Celui-ci établit un compte rendu de la séance, qui est signé par le président du collège des sanctions et le secrétaire de séance.
+
+La décision de sanction mentionne les noms des membres qui ont statué et, le cas échéant, les frais de procédure qui sont à la charge de l'organisme à l'encontre duquel la sanction a été prononcée.
+
+Elle est notifiée à l'organisme concerné selon les modalités prévues au premier alinéa de l'article R. 321-32 et communiquée au collège de contrôle.
+
+###### Sous-section 4 :  Procédure de médiation
+
+####### Article R321-35
+
+Le médiateur est choisi en tenant compte de ses compétences et de son expérience au regard de sa mission.
+
+Il veille à faire cesser immédiatement ou à prévenir les situations de conflit d'intérêts dans lesquelles il se trouve ou pourrait se trouver.
+
+####### Article R321-36
+
+Lorsque le médiateur est saisi par l'une des parties, il informe les autres parties, par lettre remise contre signature ou tout autre moyen propre à établir la preuve de la date de réception de la saisine, dans un délai de huit jours à compter de la réception de la saisine. Les parties disposent alors d'un délai de trente jours ouvrés pour adresser leurs observations au médiateur et au requérant par tout moyen propre à établir la preuve de la date de réception. Ce délai peut être prolongé au plus pour la même durée par le médiateur.
+
+####### Article R321-37
+
+Pour l'exercice de sa mission, le médiateur dispose d'un délai de trois mois, à compter de la date de la réception de la requête, ou le cas échéant de la réception des observations des parties, ou de l'expiration du délai imparti pour les produire.
+
+Cette mission peut être renouvelée une fois, pour une même durée, à la demande du médiateur et avec l'accord des parties.
+
+####### Article R321-38
+
+Le médiateur entend les parties, séparément ou conjointement, et toute personne dont l'audition lui paraît utile. Les parties peuvent se faire assister par toute personne de leur choix, dont elles communiquent l'identité préalablement à leur audition.
+
+Le médiateur établit un compte-rendu des auditions.
+
+####### Article R321-39
+
+Lorsqu'une partie se prévaut du secret des affaires, elle signale au médiateur, à l'occasion de leur communication, les informations, documents ou partie de documents qu'elle estime couverts par ce secret et qui ne peuvent alors être rendus publics ni communiquées aux autres parties.
+
+####### Article R321-40
+
+Le médiateur favorise ou suscite toute résolution des litiges qui lui sont soumis.
+
+La teneur de l'accord entre les parties, même partiel, constaté par le médiateur, est consignée dans un constat signé par les parties et le médiateur précisant les mesures à prendre pour le mettre en œuvre.
+
+Une copie de ce constat est remise à chaque partie par tout moyen propre à établir la preuve de la date de réception.
+
+####### Article R321-41
+
+Si, à l'issue du délai prévu à l'article R. 321-37, aucun accord n'a pu être trouvé entre les parties, le médiateur dresse un rapport constatant cet échec, qu'il motive et dont copie est remise à chaque partie par tout moyen propre à établir la preuve de la date de réception.
+
+####### Article R321-42
+
+Dans le cas prévu à l'article R. 321-41, le médiateur peut également émettre une recommandation, qui est notifiée aux parties par tout moyen propre à établir la preuve de la date de réception.
+
+Dans un délai de trois mois à compter de la réception de la recommandation, les parties informent le médiateur des suites données à la recommandation.
+
+####### Article R321-43
+
+Le médiateur communique le constat du deuxième alinéa de l'article R. 321-40, la recommandation et les suites qui lui ont été données par les parties, ou le rapport constatant l'échec de la médiation au président de la commission. Le président de la commission communique ces éléments au ministre chargé de la culture.
+
+####### Article R321-44
+
+Les déclarations recueillies ne peuvent être ni produites ni invoquées par une partie sans l'accord de celle qui les a produites dans le cadre d'une autre procédure de médiation, d'une procédure d'arbitrage ou d'une procédure judiciaire.
+
+Les constatations du médiateur ne peuvent être produites par les parties, à l'exception de celles rendues publiques.
+
+####### Article R321-45
+
+Le médiateur adresse chaque année un rapport sur son activité au président de la commission de contrôle et au ministre chargé de la culture. Ce rapport est annexé à celui prévu à l'article L. 327-12.
+
+##### Section 4 :  Voies de recours
+
+###### Article R321-46
+
+Les recours contre les décisions prononcées par le collège des sanctions en application de l'article L. 327-15 sont formés, instruits et jugés conformément aux dispositions du présent titre.
+
+Sont nécessairement parties à la procédure, l'organisme sanctionné et la commission de contrôle même s'ils ne forment pas de recours à titre principal ou incident à l'encontre de la décision du collège des sanctions.
+
+###### Article R321-47
+
+I. – Le recours prévu à l'article L. 327-15 est formé dans le délai de deux mois par une déclaration écrite déposée en autant d'exemplaires que de parties augmenté d'un, au greffe de la cour d'appel contre récépissé.
+
+La déclaration précise les mentions prescrites par l'article 58 du code de procédure civile à peine de nullité, et l'exposé des moyens invoqués. Lorsque la déclaration ne contient pas l'exposé des moyens invoqués, le demandeur doit, à peine d'irrecevabilité prononcée d'office, déposer cet exposé au greffe dans les 15 jours qui suivent le dépôt de la déclaration. La déclaration de recours ou l'exposé des moyens invoqués mentionne la liste des pièces et documents justificatifs produits. Ces pièces et documents sont remis au greffe de la cour d'appel en même temps que la déclaration de recours ou l'exposé des moyens invoqués. Le demandeur au recours joint à la déclaration une copie de la décision attaquée.
+
+II. – Les demandes de sursis à exécution doivent être présentées dans le même délai que celui prévu pour le recours. Elles sont formulées auprès du premier président de la cour d'appel par simple requête déposée au greffe. A peine d'irrecevabilité, elle contient l'exposé des moyens invoqués et précise la date à laquelle a été formé le recours contre la décision dont le sursis à exécution est demandé. Le premier président ou son délégué fixe par ordonnance la date de l'audience à laquelle la demande de sursis sera examinée.
+
+III. – Dès l'enregistrement du recours, le greffe de la cour d'appel transmet, par tous moyens, aux parties une copie de la déclaration de recours et de la liste des pièces et documents justificatifs produits.
+
+IV. – Le premier président de la cour d'appel ou son délégué fixe les délais dans lesquels les parties doivent se communiquer leurs observations écrites et en déposer copie au greffe de la cour d'appel, ainsi que la date des débats. Le greffe notifie ces délais et cette date aux parties et convoque le défendeur à l'audience prévue pour les débats, par lettre recommandée avec demande d'avis de réception ou dans les conditions prévues à l'article 692-1 du code de procédure civile. Le greffe avise par tous moyens l'auteur de la demande des lieu, jour et heure de l'audience.
+
+Les parties peuvent prendre connaissance de l'ensemble des pièces de la procédure au greffe de la cour d'appel.
+
+V. – A l'audience, les parties sont entendues en leurs observations. Lorsque le président du collège de contrôle n'a pas exercé de recours, il peut présenter à l'audience des observations orales après l'organisme sanctionné auteur du recours.
+
+VI. – Les parties se défendent elles-mêmes. Elles ont la faculté de se faire assister ou représenter par un avocat.
+
+VII. – La cour d'appel peut soit confirmer la décision du collège des sanctions, soit l'annuler ou la réformer en tout ou en partie.
+
+VIII. – Les décisions de la cour d'appel ou de son premier président sont notifiées aux parties par le greffe, par lettre recommandée avec demande d'avis de réception.
+
+#### Chapitre Ier octies : Dispositions diverses
+
+##### Article R321-48
+
+Les contestations adressées aux organismes de gestion des droits d'auteur et droits voisins en application de l'article L. 328-1 sont présentées par écrit et peuvent être effectuées par voie électronique.
+
+#### Chapitre II : Organismes agréés pour la gestion du droit de reproduction par reprographie
 
 ##### Article R322-1
 
-Une société régie par le titre II du livre III peut être agréée au titre de l'article L. 122-10, si elle remplit les conditions suivantes :
+Un organisme de gestion collective régi par le titre II du livre III peut être agréé au titre de l'article L. 122-10, s'il remplit les conditions suivantes :
 
-1° Apporter la preuve de la diversité de ses associés à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux. Cette diversité doit trouver son expression dans la composition des organes délibérants et dirigeants ;
+1° Apporter la preuve de la diversité de ses membres à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux. Cette diversité doit trouver son expression dans la composition des organes délibérants et dirigeants ;
 
 2° Justifier, par toutes pièces, la qualification de ses gérants et mandataires sociaux appréciée en fonction :
 
@@ -8269,33 +8747,33 @@ c) Ou de leur expérience professionnelle dans le secteur de l'édition ou de la
 
 3° Donner toutes informations relatives à son organisation administrative et aux conditions d'installation et d'équipement. Ces informations doivent concerner la collecte des données sur la pratique de la reprographie, la perception des rémunérations, le traitement des données nécessaires pour la répartition des rémunérations perçues, le plan de financement et le budget prévisionnel des trois exercices suivant la demande d'agrément ;
 
-4° Prévoir dans ses statuts, son règlement général et les actes types d'engagement de chacun des associés les règles garantissant le caractère équitable des modalités prévues pour la répartition des rémunérations perçues par les auteurs et les éditeurs.
+4° Prévoir dans ses statuts, son règlement général et les actes types d'engagement de chacun des membres les règles garantissant le caractère équitable des modalités prévues pour la répartition des rémunérations perçues par les auteurs et les éditeurs.
 
 ##### Article R322-2
 
-La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 322-1, est transmise par lettre recommandée au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier n'est pas en état, le ministre chargé de la culture demande par lettre recommandée un dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
+La demande d'agrément, accompagnée d'un dossier établi conformément àl'article R. 322-1, est transmise par lettre recommandée au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier n'est pas en état, le ministre chargé de la culture demande par lettre recommandée un dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
 
 L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
 
 L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
 
-L'agrément peut être retiré, lorsque la société ne remplit pas l'une des conditions fixées à l'article R. 322-1, après mise en demeure ou notification des griefs. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations. Le retrait est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+L'agrément peut être retiré, lorsque l'organisme ne remplit pas l'une des conditions fixées à l'article R. 322-1, après mise en demeure ou notification des griefs. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations. Le retrait est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
 
 ##### Article R322-3
 
-Tout changement de statut, ou de règlement général, toute cessation de fonction d'un membre des organes dirigeants et délibérants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de la décision correspondante. Le défaut de déclaration peut entraîner retrait de l'agrément.
+Tout changement de statut, ou de règlement général, toute cessation de fonction d'un membre des organes dirigeants et délibérants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de la décision correspondante. Le défaut de déclaration peut entraîner retrait de l'agrément.
 
 ##### Article R322-4
 
-Si, à la date de la publication de l'œuvre, l'auteur ou son ayant droit n'a pas désigné une société de perception et de répartition des droits agréée, la société réunissant le plus grand nombre d'œuvres gérées, déterminé conformément aux usages des professions concernées, est réputée cessionnaire du droit de reproduction par reprographie.
+Si, à la date de la publication de l'œuvre, l'auteur ou son ayant droit n'a pas désigné un organisme de gestion collective agréé, l'organisme réunissant le plus grand nombre d'œuvres gérées, déterminé conformément aux usages des professions concernées, est réputé cessionnaire du droit de reproduction par reprographie.
 
-Le ministre chargé de la culture désigne chaque année la ou les sociétés répondant à la condition définie à l'alinéa précédent.
+Le ministre chargé de la culture désigne chaque année le ou les organismes répondant à la condition définie à l'alinéa précédent.
 
-#### Chapitre III : Des sociétés agréées pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne
+#### Chapitre III : Des organismes agréés pour la gestion du droit d'autoriser la retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national, à partir d'un Etat membre de la Communauté européenne
 
 ##### Article R323-1
 
-Une société régie par le titre II du livre III peut être agréée au titre du I de l'article L. 132-20-1 et du I de l'article L. 217-2 si elle remplit les conditions suivantes :
+Un organisme de gestion collective régi par le titre II du livre III peut être agréé au titre du I de l'article L. 132-20-1 et du I de l'article L. 217-2 s'il remplit les conditions suivantes :
 
 1° Apporter la preuve de la gestion effective du droit d'autoriser la retransmission par câble, à raison du nombre des ayants droit et de l'importance économique exprimée en revenu ou en chiffre d'affaires ;
 
@@ -8325,27 +8803,27 @@ L'agrément est délivré par arrêté du ministre chargé de la culture, publi�
 
 L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
 
-Si la société cesse de remplir l'une des conditions fixées à l'article R. 323-1, l'administration lui adresse une mise en demeure par lettre recommandée avec avis de réception. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations. Faute de régularisation de la situation, l'agrément peut être retiré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
+Si l'organisme cesse de remplir l'une des conditions fixées à l'article R. 323-1, l'administration lui adresse une mise en demeure par lettre recommandée avec avis de réception. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations. Faute de régularisation de la situation, l'agrément peut être retiré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
 
 ##### Article R323-3
 
-Tout changement de statut ou de règlement général, toute cessation de fonction d'un membre des organes dirigeants et délibérants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de la décision correspondante. Le défaut de déclaration peut entraîner retrait de l'agrément.
+Tout changement de statut ou de règlement général, toute cessation de fonction d'un membre des organes dirigeants et délibérants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de la décision correspondante. Le défaut de déclaration peut entraîner retrait de l'agrément.
 
 ##### Article R323-4
 
-La liste des sociétés bénéficiant de l'agrément est publiée chaque année par le ministre chargé de la culture.
+La liste des organismes bénéficiant de l'agrément est publiée chaque année par le ministre chargé de la culture.
 
 ##### Article R323-5
 
-La désignation prévue au deuxième alinéa du I de l'article L. 132-20-1 et au deuxième alinéa du I de l'article L. 217-2 se fait par lettre recommandée avec avis de réception adressée à une société de perception et de répartition des droits.
+La désignation prévue au deuxième alinéa du I de l'article L. 132-20-1 et au deuxième alinéa du I de l'article L. 217-2 se fait par lettre recommandée avec avis de réception adressée à un organisme de gestion collective.
 
-La rétractation peut être effectuée dans les conditions prévues par les statuts de cette société.
+La rétractation peut être effectuée dans les conditions prévues par les statuts de cet organisme.
 
 #### Chapitre IV : Des médiateurs chargés de favoriser la résolution des différends relatifs à l'octroi de l'autorisation de retransmission par câble, simultanée, intégrale et sans changement, sur le territoire national à partir d'un Etat membre de la Communauté européenne
 
 ##### Article R324-1
 
-Pour l'application des articles L. 132-20-2 et L. 217-3, une liste de vingt médiateurs est établie par le ministre chargé de la culture sur proposition des sociétés de perception et de répartition des droits agréées figurant sur la liste mentionnée à l'article R. 323-4, des organisations professionnelles représentatives des organismes de télédiffusion et des organisations professionnelles représentatives des bénéficiaires du droit d'autoriser la retransmission par câble.
+Pour l'application des articles L. 132-20-2 et L. 217-3, une liste de vingt médiateurs est établie par le ministre chargé de la culture sur proposition des organismes de gestion collective agréés figurant sur la liste mentionnée à l'article R. 323-4, des organisations professionnelles représentatives des organismes de télédiffusion et des organisations professionnelles représentatives des bénéficiaires du droit d'autoriser la retransmission par câble.
 
 Le ministre chargé de la culture arrête la liste des organisations professionnelles mentionnées à l'alinéa précédent.
 
@@ -8361,7 +8839,7 @@ Les médiateurs doivent remplir les conditions suivantes :
 
 3. Posséder la qualification nécessaire à la résolution des différends dont ils seront saisis ;
 
-4. Présenter les garanties d'indépendance nécessaires à l'exercice de la médiation et notamment ne pas être associé, dirigeant, mandataire social ou salarié d'une société ou d'un organisme mentionné à l'article R. 324-1.
+4. Présenter les garanties d'indépendance nécessaires à l'exercice de la médiation et notamment ne pas être associé, dirigeant, mandataire social ou salarié d'un organisme de gestion mentionné à l'article R. 324-1.
 
 ##### Article R324-3
 
@@ -8417,49 +8895,15 @@ Si, à l'issue du délai prévu à l'article R. 324-7, aucun accord n'a pu être
 
 Faute d'avoir exprimé au médiateur leur opposition par écrit dans un délai de trois mois à compter de la date de réception de sa proposition, les parties sont réputées avoir accepté celle-ci.
 
-#### Chapitre V : Commission permanente de contrôle des sociétés de perception et de répartition des droits
+#### Chapitre V : Organismes agréés pour la gestion collective de la rémunération au titre du prêt en bibliothèque
 
 ##### Article R325-1
 
-La commission permanente de contrôle des sociétés de perception et de répartition des droits instituée à l'article L. 321-13 siège sur convocation de son président.
+Un organisme de gestion collective régi par le titre II du livre III est agréé au titre de l'article L. 133-2 s'il :
 
-Elle peut valablement délibérer en présence de trois de ses membres. Ses délibérations sont adoptées à la majorité des membres présents, le président ayant voix prépondérante en cas de partage égal des voix. Le rapporteur qui a été désigné en application du dernier alinéa du I de l'article L. 321-13 assiste aux délibérations.
+1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux ;
 
-La commission peut entendre les dirigeants des sociétés de perception et de répartition des droits, ceux des filiales et organismes que ces sociétés contrôlent ainsi que toute personne dont l'avis est jugé utile par son président.
-
-La commission prend toutes dispositions pour garantir le secret de ses investigations.
-
-##### Article R325-2
-
-La commission arrête son programme annuel de travail sur proposition de son président.
-
-La décision de procéder à un contrôle est notifiée par lettre recommandée à la société ou à l'organisme qui en fait l'objet.
-
-La demande de documents et d'informations est adressée à la société ou à l'organisme contrôlé par lettre fixant le délai imparti pour y répondre. Ce délai ne peut être inférieur à trente jours.
-
-Les vérifications sur place font l'objet d'une notification écrite préalable.
-
-##### Article R325-3
-
-Le rapport provisoire de vérification, établi par le rapporteur et adopté par la commission, est communiqué par le président à la société ou à l'organisme contrôlé, qui dispose de trente jours pour faire valoir ses observations ou demander à ce que ses représentants soient entendus par la commission.
-
-Le rapport définitif de vérification est adopté par la commission après examen des éventuelles observations de la société ou de l'organisme contrôlé et, le cas échéant, après audition de ses représentants. Les observations de la société ou de l'organisme contrôlé sont annexées au rapport de vérification. Ce rapport est adressé à la société ou à l'organisme contrôlé. Il est également adressé au ministre chargé de la culture.
-
-##### Article R325-4
-
-Le rapport annuel prévu au III de l'article L. 321-13 est établi sur la base des constatations faites par la commission à l'issue de ses contrôles.
-
-Les observations de la commission mettant en cause une société ou un organisme lui sont communiquées au préalable. La société ou l'organisme dispose d'un délai de trente jours pour faire valoir ses observations ou demander à ce que ses représentants soient entendus par la commission. Les observations de la société ou l'organisme sont annexées au rapport.
-
-#### Chapitre VI : Sociétés agréées pour la gestion collective de la rémunération au titre du prêt en bibliothèque
-
-##### Article R326-1
-
-Une société régie par les dispositions des articles L. 321-1 à L. 321-13 est agréée au titre de l'article L. 133-2 si elle :
-
-1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses associés à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux ;
-
-2° Apporte la preuve de la représentation équitable des auteurs et des éditeurs parmi ses associés et au sein de ses organes dirigeants ;
+2° Apporte la preuve de la représentation équitable des auteurs et des éditeurs parmi ses membres et au sein de ses organes dirigeants ;
 
 3° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison :
 
@@ -8471,7 +8915,7 @@ c) Ou de leur expérience dans le secteur de l'édition ou de la gestion d'organ
 
 4° Donne les informations nécessaires relatives :
 
-a) A l'organisation administrative et aux conditions d'installation et d'équipement de la société ;
+a) A l'organisation administrative et aux conditions d'installation et d'équipement de l'organisme ;
 
 b) Aux moyens mis en œuvre pour la collecte des données statistiques sur les acquisitions d'ouvrages par les bibliothèques ;
 
@@ -8479,45 +8923,45 @@ c) Aux moyens mis en œuvre pour la perception des rémunérations et le traitem
 
 d) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ;
 
-5° Indique les dispositions qu'elle a prises ou qu'elle entend prendre pour garantir le respect des règles de répartition des rémunérations entre les auteurs et les éditeurs, ainsi que le caractère équitable de la répartition au sein de chacune de ces catégories.
+5° Indique les dispositions qu'il a prises ou qu'il entend prendre pour garantir le respect des règles de répartition des rémunérations entre les auteurs et les éditeurs, ainsi que le caractère équitable de la répartition au sein de chacune de ces catégories.
 
-##### Article R326-2
+##### Article R325-2
 
 La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 326-1, est transmise par lettre recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
 
-##### Article R326-3
+##### Article R325-3
 
 L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
 
-##### Article R326-4
+##### Article R325-4
 
 L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
 
-##### Article R326-5
+##### Article R325-5
 
-Tout changement de règlement général et toute cessation de fonction d'un membre des organes délibérants et dirigeants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément.
+Tout changement de règlement général et toute cessation de fonction d'un membre des organes délibérants et dirigeants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément.
 
-##### Article R326-6
+##### Article R325-6
 
-Si une société agréée cesse de remplir l'une des conditions fixées à l'article R. 326-1, le ministre chargé de la culture la met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en oeuvre.
+Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 326-1, le ministre chargé de la culture le met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en oeuvre.
 
 Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
 
-##### Article R326-7
+##### Article R325-7
 
-Si, à la date de la publication d'une oeuvre, l'auteur et l'éditeur n'ont pas désigné une société agréée de perception et de répartition des droits, la gestion de leur droit à rémunération au titre du prêt en bibliothèque est confiée à la société réunissant le plus grand nombre d'oeuvres gérées. Ce nombre est déterminé conformément aux usages des professions intéressées.
+Si, à la date de la publication d'une oeuvre, l'auteur et l'éditeur n'ont pas désigné un organisme de gestion collective, la gestion de leur droit à rémunération au titre du prêt en bibliothèque est confiée à l'organisme réunissant le plus grand nombre d'oeuvres gérées. Ce nombre est déterminé conformément aux usages des professions intéressées.
 
-Le ministre chargé de la culture désigne chaque année la société répondant à la condition définie à l'alinéa précédent.
+Le ministre chargé de la culture désigne chaque année l'organisme répondant à la condition définie à l'alinéa précédent.
 
-#### Chapitre VII : Sociétés agréées pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle
+#### Chapitre VI : Organismes agréés pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle
 
-##### Article R327-1
+##### Article R326-1
 
-Une société régie par le titre II du livre III peut être agréée au titre de l'article L. 134-3, si elle :
+Un organisme de gestion collective régi par le titre II du livre III peut être agréé au titre de l'article L. 134-3, s'il :
 
-1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses associés à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux ;
+1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires et de la diversité des genres éditoriaux ;
 
-2° Apporte la preuve de la représentation paritaire des auteurs et des éditeurs parmi ses associés et au sein de ses organes dirigeants ;
+2° Apporte la preuve de la représentation paritaire des auteurs et des éditeurs parmi ses membres et au sein de ses organes dirigeants ;
 
 3° Justifie, par tout moyen, de la qualification professionnelle de ses gérants et mandataires sociaux en raison :
 
@@ -8537,49 +8981,49 @@ c) Aux moyens mis en œuvre pour la perception des rémunérations et le traitem
 
 d) Au plan de financement et au budget prévisionnel des trois exercices suivant la demande d'agrément ;
 
-5° Indique les dispositions qu'elle a prises ou qu'elle entend prendre pour garantir le respect des règles de répartition des rémunérations entre les auteurs et les éditeurs ainsi que le caractère équitable des règles de répartition des sommes perçues entre les ayants droit, qu'ils soient ou non parties au contrat d'édition ;
+5° Indique les dispositions qu'il a prises ou qu'il entend prendre pour garantir le respect des règles de répartition des rémunérations entre les auteurs et les éditeurs ainsi que le caractère équitable des règles de répartition des sommes perçues entre les ayants droit, qu'ils soient ou non parties au contrat d'édition ;
 
 6° Donne les informations nécessaires relatives aux moyens mis en œuvre afin d'identifier et de retrouver les titulaires de droits aux fins de répartir les sommes perçues ;
 
 7° Donne les informations nécessaires relatives aux moyens mis en œuvre pour développer des relations contractuelles permettant d'assurer la plus grande disponibilité possible des œuvres ;
 
-8° Indique les dispositions qu'elle a prises ou qu'elle entend prendre pour veiller à la défense des intérêts légitimes des ayants droit non parties au contrat d'édition.
+8° Indique les dispositions qu'il a prises ou qu'il entend prendre pour veiller à la défense des intérêts légitimes des ayants droit non parties au contrat d'édition.
 
-##### Article R327-2
+##### Article R326-2
 
 La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 327-1, est transmise par lettre recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
 
-##### Article R327-3
+##### Article R326-3
 
 L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
 
-##### Article R327-4
+##### Article R326-4
 
 L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
 
-##### Article R327-5
+##### Article R326-5
 
-Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et dirigeants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément.
+Tout changement de statut ou de règlement général, et toute cessation de fonction d'un membre des organes délibérants et dirigeants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément.
 
-##### Article R327-6
+##### Article R326-6
 
-Si une société agréée cesse de remplir l'une des conditions fixées à l'article R. 327-1, le ministre chargé de la culture la met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre.
+Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 327-1, le ministre chargé de la culture le met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre.
 
 Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
 
-##### Article R327-7
+##### Article R326-7
 
-L'auteur et l'éditeur d'un livre indisponible disposent d'un délai de six mois à compter de l'inscription de ce livre dans la base de données mentionnée à l'article L. 134-2 pour désigner conjointement une société agréée de perception et de répartition des droits. A l'expiration de ce délai, la gestion du droit d'autoriser l'exploitation numérique de leurs livres indisponibles est confiée à la société réunissant le plus grand nombre de livres indisponibles gérés.
+L'auteur et l'éditeur d'un livre indisponible disposent d'un délai de six mois à compter de l'inscription de ce livre dans la base de données mentionnée à l'article L. 134-2 pour désigner conjointement un organisme de gestion collective. A l'expiration de ce délai, la gestion du droit d'autoriser l'exploitation numérique de leurs livres indisponibles est confiée à l'organisme réunissant le plus grand nombre de livres indisponibles gérés.
 
-Le ministre chargé de la culture désigne chaque année la société répondant à la condition définie à l'alinéa précédent.
+Le ministre chargé de la culture désigne chaque année l'organisme répondant à la condition définie à l'alinéa précédent.
 
-#### Chapitre VIII : Sociétés agréées pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes
+#### Chapitre VII : Organismes agréés pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes
 
-##### Article R328-1
+##### Article R327-1
 
-Une société régie par le titre II du livre III peut être agréée au titre de l'article L. 212-3-3 si elle :
+Un organisme de gestion collective régi par le titre II du livre III peut être agréé au titre de l'article L. 212-3-3 s'il :
 
-1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses associés à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires ;
+1° Apporte la preuve, par la composition de ses organes délibérants et dirigeants, de la diversité de ses membres à raison des catégories et du nombre des ayants droit, de l'importance économique exprimée en revenu ou en chiffre d'affaires ;
 
 2° Apporte la preuve de la représentation des artistes-interprètes au sein de ses organes dirigeants ;
 
@@ -8601,25 +9045,25 @@ c) Au plan de financement et au budget prévisionnel des trois exercices suivant
 
 5° Donne les informations nécessaires relatives aux moyens mis en œuvre afin d'identifier et de retrouver les artistes-interprètes aux fins de répartir les sommes perçues.
 
-##### Article R328-2
+##### Article R327-2
 
 La demande d'agrément, accompagnée d'un dossier établi conformément à l'article R. 328-1, est transmise par lettre recommandée avec demande d'avis de réception au ministre chargé de la culture, qui en délivre récépissé. Lorsque le dossier n'est pas complet, le ministre chargé de la culture demande par lettre recommandée avec demande d'avis de réception un dossier complémentaire, qui doit être remis dans la même forme dans un délai d'un mois à compter de la réception de cette lettre.
 
-##### Article R328-3
+##### Article R327-3
 
 L'agrément est délivré par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
 
-##### Article R328-4
+##### Article R327-4
 
 L'agrément est accordé pour cinq années. Il est renouvelable dans les mêmes conditions que l'agrément initial.
 
-##### Article R328-5
+##### Article R327-5
 
-Tout changement de statut ou de règlement général et toute cessation de fonctions d'un membre des organes délibérants et dirigeants d'une société agréée sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément.
+Tout changement de statut ou de règlement général et toute cessation de fonctions d'un membre des organes délibérants et dirigeants d'un organisme agréé sont communiqués au ministre chargé de la culture dans un délai de quinze jours à compter de l'événement correspondant. Le défaut de déclaration peut entraîner le retrait de l'agrément.
 
-##### Article R328-6
+##### Article R327-6
 
-Si une société agréée cesse de remplir l'une des conditions fixées à l'article R. 328-1, le ministre chargé de la culture la met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre.
+Si un organisme agréé cesse de remplir l'une des conditions fixées à l'article R. 328-1, le ministre chargé de la culture le met, par écrit, en demeure de respecter les conditions de l'agrément. Le bénéficiaire de l'agrément dispose d'un délai d'un mois pour présenter ses observations et, le cas échéant, les mesures de mise en conformité qu'il entend mettre en œuvre.
 
 Le retrait de l'agrément est prononcé par arrêté du ministre chargé de la culture, publié au Journal officiel de la République française.
 
@@ -8733,7 +9177,7 @@ Pour délivrer l'agrément, le ministre vérifie que l'agent est ressortissant d
 
 L'agrément ne peut être accordé en cas de condamnation pour crime ou en cas de condamnation à une peine correctionnelle pour des faits incompatibles avec les fonctions à exercer. Le ministre chargé de la culture s'assure du respect de cette condition en demandant communication du bulletin n° 2 du casier judiciaire de l'agent au casier judiciaire national automatisé par un moyen de télécommunication sécurisé ou de son équivalent pour les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
-II.-La demande présentée par le Centre national du cinéma et de l'image animée, un organisme de défense professionnelle visé à l'article L. 331-1 ou une société mentionnée au titre II du présent livre en vue d'obtenir l'agrément de l'un de ses agents comprend :
+II.-La demande présentée par le Centre national du cinéma et de l'image animée, un organisme de défense professionnelle visé à l'article L. 331-1 ou un organisme de gestion collective mentionné au titre II du présent livre en vue d'obtenir l'agrément de l'un de ses agents comprend :
 
 1° Un extrait d'acte de naissance avec filiation pour les ressortissants français ou un document équivalent pour les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
@@ -8747,7 +9191,7 @@ IV.-Après avoir été agréés par le ministre chargé de la culture, les agent
 
 Ces agents demeurent liés par les termes de leur serment tout au long de l'exercice de leurs fonctions, sans être tenus de prêter à nouveau serment à chaque renouvellement de leur agrément.
 
-V.-Le Centre national du cinéma et de l'image animée, les organismes de défense professionnelle visés à l'article L. 331-1 et les sociétés mentionnées au titre II du présent livre informent le ministre chargé de la culture dans les meilleurs délais dès lors que l'agent au profit duquel ils ont sollicité un agrément n'exerce plus les fonctions à raison desquelles il a été agréé ou qu'il cesse d'être employé par eux.
+V.-Le Centre national du cinéma et de l'image animée, les organismes de défense professionnelle visés à l'article L. 331-1 et les organismes de gestion collective mentionnés au titre II du présent livre informent le ministre chargé de la culture dans les meilleurs délais dès lors que l'agent au profit duquel ils ont sollicité un agrément n'exerce plus les fonctions à raison desquelles il a été agréé ou qu'il cesse d'être employé par eux.
 
 VI.-Le ministre chargé de la culture peut, par décision motivée, mettre fin à l'agrément dès lors que son titulaire n'exerce plus les fonctions à raison desquelles il a été habilité ou ne remplit plus les conditions définies au I du présent article.
 
@@ -9084,7 +9528,7 @@ Les déclarations sont actualisées chaque année et, en tout état de cause, d�
 
 ####### Article R331-35
 
-Pour être recevables, les saisines adressées à la commission de protection des droits de la Haute Autorité par les organismes de défense professionnelle régulièrement constitués, les sociétés de perception et de répartition des droits et le Centre national du cinéma et de l'image animée dans les conditions prévues à l'article L. 331-24 doivent comporter :
+Pour être recevables, les saisines adressées à la commission de protection des droits de la Haute Autorité par les organismes de défense professionnelle régulièrement constitués, les organismes de gestion collective et le Centre national du cinéma et de l'image animée dans les conditions prévues à l'article L. 331-24 doivent comporter :
 
 1° Les données à caractère personnel et les informations mentionnées au 1° de l'annexe du décret n° 2010-236 du 5 mars 2010 relatif au traitement automatisé de données à caractère personnel autorisé par l'article L. 331-29 du code de la propriété intellectuelle dénommé " Système de gestion des mesures pour la protection des œuvres sur internet " ;
 
