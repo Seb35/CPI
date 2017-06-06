@@ -7702,40 +7702,6 @@ Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi 
 
 ##### Section 2 : Procédure
 
-###### Article R134-5
-
-L'opposition prévue au premier et au troisième alinéa du I de l'article L. 134-4, l'opposition prévue au cinquième alinéa de l'article L. 134-5, la demande de retrait prévue aux deux premiers alinéas de l'article L. 134-6 et la demande de retrait prévue au troisième alinéa de l'article L. 134-8 sont présentées par lettre recommandée avec demande d'avis de réception ou par voie électronique avec demande d'accusé de réception.
-
-A l'appui de son opposition ou de sa demande de retrait, l'auteur produit la copie d'une pièce d'identité et une déclaration sur l'honneur attestant sa qualité.
-
-A l'appui de son opposition, l'ayant droit de l'auteur doit justifier de son identité en produisant une copie d'une pièce d'identité et adresser un acte de notoriété prouvant sa qualité d'ayant droit.
-
-A l'appui de son opposition ou de sa demande de retrait, l'éditeur communique toute pièce de nature à justifier de sa qualité d'éditeur du livre concerné.
-
-###### Article R134-6
-
-L'opposition prévue au premier alinéa du I de l'article L. 134-4 s'exerce auprès de la Bibliothèque nationale de France. Dès réception, la Bibliothèque nationale de France inscrit dans la base de données publique créée par l'article L. 134-2 une mention selon laquelle le livre fait l'objet d'une déclaration d'opposition en cours d'instruction. Elle en informe les organismes de gestion collective agréés mentionnés à l'article L. 134-3 et leur communique les pièces produites à l'appui de l'opposition dans un délai d'un mois.
-
-Faute pour ces organismes d'établir dans les trois mois suivant la communication de ces pièces que la déclaration d'opposition a été présentée par une personne n'ayant pas qualité pour ce faire, la Bibliothèque nationale de France inscrit dans la base de données publique créée par l'article L. 134-2 une mention selon laquelle ils ne peuvent exercer le droit d'autoriser la reproduction et la représentation sous forme numérique du livre concerné.
-
-Si la déclaration d'opposition émane de l'auteur du livre indisponible, la Bibliothèque nationale de France cesse de rendre accessible au public les données et informations relatives à ce livre.
-
-###### Article R134-7
-
-L'opposition prévue au troisième alinéa du I de l'article L. 134-4 s'exerce auprès de l'organisme de gestion collective mentionné à l'article L. 134-3. A défaut d'établir dans les trois mois suivant la réception de ces pièces que la déclaration d'opposition a été présentée par une personne n'ayant pas qualité pour ce faire, l'organisme en informe la Bibliothèque nationale de France, qui cesse de rendre accessibles au public les données et informations relatives à ce livre.
-
-###### Article R134-8
-
-L'opposition prévue au cinquième alinéa de l'article L. 134-5 s'exerce auprès de l'organisme de gestion collective mentionné à l'article L. 134-3. A l'appui de son opposition, l'auteur produit tout élément probant de nature à établir que l'éditeur ne dispose pas du droit de reproduction du livre concerné sous une forme imprimée. L'organisme communique ces éléments à l'éditeur, qui dispose d'un délai d'un mois pour présenter ses observations. A défaut d'établir dans les trois mois suivant la réception de ces pièces que la déclaration d'opposition n'est étayée d'aucun élément probant, l'organisme retire l'autorisation délivrée à l'éditeur.
-
-###### Article R134-9
-
-La demande de retrait prévue au deuxième alinéa de l'article L. 134-6 s'exerce auprès de l'organisme de gestion collective mentionné à l'article L. 134-3. Lorsque l'auteur du livre soutient être seul titulaire des droits définis à l'article L. 134-3, il produit à l'appui de sa demande de retrait tout élément probant de nature à l'établir. L'organisme communique ces éléments à l'éditeur, s'il existe. Ce dernier dispose alors d'un délai d'un mois pour présenter ses observations. A défaut d'établir dans les trois mois suivant la réception de la demande de retrait que cette demande a été présentée par une personne n'ayant pas qualité pour ce faire ou l'ayant fait à tort, l'organisme perd le droit prévu au I de l'article L. 134-3.
-
-###### Article R134-10
-
-Lorsque le droit prévu au I de l'article L. 134-3 lui est retiré, l'organisme en informe la Bibliothèque nationale de France, qui inscrit la mention de ce retrait dans la base de données publique créée par l'article L. 134-2.
-
 ###### Article R134-11
 
 Les mesures de publicité mentionnées à l'article L. 134-7 comportent une campagne d'information menée à l'initiative du ministère chargé de la culture, en liaison avec les organismes de gestion collective et les organisations professionnelles du secteur du livre.
