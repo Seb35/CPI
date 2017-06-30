@@ -11148,6 +11148,10 @@ Les dispositions des articles 8 à 16 du décret n° 78-704 du 3 juillet 1978 so
 
 Un exemplaire de l'acte de nomination du liquidateur est adressé par ce dernier au directeur général de l'Institut national de la propriété industrielle et au président de la compagnie des conseils en propriété industrielle. Le liquidateur les informe de la clôture de la liquidation.
 
+####### Article R422-40-1
+
+Les associés peuvent exercer leur profession également au sein d'une autre société ne leur conférant pas la qualité de commerçant, notamment une société pluri-professionnelle d'exercice prévue au titre IV bis de la loi n° 90-1258 du 31 décembre 1990relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé et aux sociétés de participations financières de professions libérales.
+
 ###### Sous-section 2 : Sociétés d'exercice libéral
 
 ####### Article R422-41
