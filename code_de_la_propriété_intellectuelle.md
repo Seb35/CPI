@@ -10292,7 +10292,7 @@ Les informations publiques de l'Institut national de la propriété industrielle
 
 La réutilisation de tout ou partie de ces informations publiques est soumise à l'acceptation par le demandeur d'une licence incluant l'engagement à ne pas faire un usage des données à caractère personnel contraire aux dispositions du livre III du code des relations entre le public et l'administration. Pour la réutilisation des informations du registre national du commerce et des sociétés, la licence inclut l'engagement de respecter les restrictions relatives aux critères de recherche prévues en application de l'article R. 123-151 du code de commerce.
 
-Les modalités de diffusion et de mise à la disposition du public des informations du registre national du commerce et des sociétés respectent les dispositions relatives à la communication des décisions de justice et des documents comptables prévues aux articles R. 123-154 et R. 123-154-1 du code de commerce.
+Les modalités de diffusion et de mise à la disposition du public des informations du registre national du commerce et des sociétés respectent les dispositions relatives à la communication des décisions de justice et des documents comptables prévues aux articles R. 123-154 à R. 123-154-1 du code de commerce et les dispositions concernant la communication du document relatif au bénéficiaire effectif prévues aux 1° à 4° de l'article L. 561-46 et aux articles R. 561-57 à R. 561-59 du code monétaire et financier.
 
 La description des informations mises à la disposition du public ainsi que les modèles de licence sont accessibles sur le site internet de l'Institut national de la propriété industrielle.
 
@@ -15395,6 +15395,8 @@ Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont ap
 3° Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ;
 
 4° Les dispositions du livre IV à l'exception des articles R. 421-1 à R. 421-12, R. 422-1 à R. 422-66, R. 423-1 et R. 423-2 ;
+
+L'article D. 411-1-3 est applicable dans sa rédaction issue du décret n° 2017-1094 du 12 juin 2017 ;
 
 5° Les dispositions du livre V à l'exception des articles R. 522-1 et R. 717-11 ainsi que des articles R. 512-2, R. 512-3, R. 512-13, R. 512-15, R. 513-1 et R. 513-2 seulement en tant qu'ils concernent les conseils en propriété industrielle ;
 
