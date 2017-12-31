@@ -6998,10 +6998,9 @@ Ne sont pas applicables dans les Terres australes et antarctiques françaises le
 
 ###### Article L811-2
 
-Pour l'application du présent code à Mayotte et dans les Terres australes et antarctiques françaises ainsi que pour l'application des dispositions qu'il rend applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+Pour l'application du présent code dans les Terres australes et antarctiques françaises ainsi que pour l'application des dispositions qu'il rend applicables en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
 - " tribunal de grande instance " et " juges d'instance " par " tribunal de première instance " ;
-- " région " par " territoire " et, en ce qui concerne Mayotte, par " collectivité territoriale " ;
-- " cour d'appel " par " chambre d'appel de Mamoudzou" et " commissaire de police " par " officier de police judiciaire " pour ce qui concerne Mayotte ;
+- " région " par " territoire " ;
 - " tribunal de commerce " par " tribunal de première instance statuant en matière commerciale " ;
 - " conseil de prud'hommes " par " tribunal du travail ".
 
@@ -7014,6 +7013,16 @@ Pour leur application à Mayotte, dans les îles Wallis et Futuna, dans les Terr
 Art. L. 122-3-1. - Dès lors que la première vente d'un ou des exemplaires matériels d'une oeuvre a été autorisée par l'auteur ou ses ayants droit sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ou sur le territoire de Mayotte, des îles Wallis et Futuna, des Terres australes et antarctiques françaises et de la Nouvelle-Calédonie, la vente de ces exemplaires de cette oeuvre ne peut plus être interdite dans la Communauté européenne ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
 
 Art. L. 211-6. - Dès lors que la première vente d'un ou des exemplaires matériels d'une fixation protégée par un droit voisin a été autorisée par le titulaire du droit ou ses ayants droit sur le territoire d'un Etat membre de la Communauté européenne ou sur le territoire de Mayotte, des îles Wallis et Futuna, des Terres australes et antarctiques françaises et de la Nouvelle-Calédonie, la vente de ces exemplaires de cette fixation ne peut plus être interdite dans la Communauté européenne ou dans ces collectivités d'outre-mer ou en Nouvelle-Calédonie.
+
+###### Article L811-2-2
+
+Pour l'application du présent code à Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+
+a) “région” et “département” par “Mayotte” ;
+
+b) “cour d'appel” par “chambre d'appel de Mamoudzou” et “commissaire de police” par “officier de police judiciaire” ;
+
+c) “conseil de prud'hommes” par “tribunal du travail et des prud'hommes”.
 
 ###### Article L811-3
 
