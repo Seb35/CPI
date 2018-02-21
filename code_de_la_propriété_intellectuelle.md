@@ -4555,6 +4555,16 @@ L'Institut national de la propriété industrielle assure la publication, dans l
 
 Les dispositions de l'article L. 612-21 sont applicables aux demandes de brevet européen et brevets européens.
 
+####### Article L612-22-1
+
+L'Institut national de la propriété industrielle assure la publication, selon les modalités mentionnées au premier alinéa de l'article L. 612-21 :
+
+1° De la mention de l'enregistrement de l'effet unitaire et de la date de prise d'effet du brevet européen à effet unitaire selon l'article 4 du règlement (UE) n° 1257/2012 du 17 décembre 2012 ;
+
+2° De la mention d'une dérogation en application du paragraphe 3 de l'article 83 de l'accord relatif à une juridiction unifiée du brevet ;
+
+3° De la mention d'un retrait de dérogation en application du paragraphe 4 de l'article 83 de l'accord relatif à une juridiction unifiée du brevet.
+
 ####### Article L612-23
 
 Il est délivré par l'Institut national de la propriété industrielle, à la requête de toute personne intéressée ou sur réquisition de toute autorité administrative, un avis documentaire citant les éléments de l'état de la technique pouvant être pris en considération pour apprécier, au sens des articles L. 611-11 et L. 611-14, la brevetabilité de l'invention.
@@ -4601,11 +4611,11 @@ La protection visée aux articles L. 613-2-2 et L. 613-2-3 ne s'étend pas à la
 
 Sont interdites, à défaut de consentement du propriétaire du brevet :
 
-a) La fabrication, l'offre, la mise dans le commerce, l'utilisation, l'importation, l'exportation, le transbordement, ou la détention aux fins précitées du produit objet du brevet ;
+a) La fabrication, l'offre, la mise sur le marché, l'utilisation, l'importation, l'exportation, le transbordement, ou la détention aux fins précitées du produit objet du brevet ;
 
 b) L'utilisation d'un procédé objet du brevet ou, lorsque le tiers sait ou lorsque les circonstances rendent évident que l'utilisation du procédé est interdite sans le consentement du propriétaire du brevet, l'offre de son utilisation sur le territoire français ;
 
-c) L'offre, la mise dans le commerce, l'utilisation, l'importation, l'exportation, le transbordement ou la détention aux fins précitées du produit obtenu directement par le procédé objet du brevet.
+c) L'offre, la mise sur le marché, l'utilisation, l'importation, l'exportation, le transbordement ou la détention aux fins précitées du produit obtenu directement par le procédé objet du brevet.
 
 ####### Article L613-4
 
@@ -4647,7 +4657,7 @@ Les droits conférés par les articles L. 613-2-2 et L. 613-2-3 ne s'étendent p
 
 ####### Article L613-6
 
-Les droits conférés par le brevet ne s'étendent pas aux actes concernant le produit couvert par ce brevet, accomplis sur le territoire français, après que ce produit a été mis dans le commerce en France ou sur le territoire d'un Etat partie à l'accord sur l'Espace économique européen par le propriétaire du brevet ou avec son consentement exprès.
+Les droits conférés par le brevet ne s'étendent pas aux actes concernant le produit couvert par ce brevet, accomplis sur le territoire français, après que ce produit a été mis sur le marché en France ou sur le territoire d'un Etat partie à l'accord sur l'Espace économique européen par le titulaire du brevet ou avec son consentement à moins qu'il n'existe des motifs légitimes justifiant que ce titulaire s'oppose à la poursuite de la commercialisation du produit.
 
 ####### Article L613-7
 
@@ -4900,15 +4910,23 @@ Les dispositions des articles L. 613-29 à L. 613-31 s'appliquent en l'absence d
 
 Les copropriétaires peuvent y déroger à tout moment par un règlement de copropriété.
 
-##### Chapitre IV : Application de conventions internationales
+##### Chapitre IV : Application de conventions internationales et du droit de l'Union européenne
 
-###### Section 1 : Brevets européens
+###### Section 1 : Brevets européens et brevets européens à effet unitaire
 
 ####### Article L614-1
 
-La présente section est relative à l'application de la convention faite à Munich le 5 octobre 1973, ci-après dénommée "Convention de Munich".
+La présente section est relative à l'application :
 
-####### Paragraphe 1 : Dépôt des demandes de brevet européen
+1° De la convention signée à Munich le 5 octobre 1973, ci-après dénommée : “ Convention de Munich ” ;
+
+2° De l'accord relatif à une juridiction unifiée du brevet signé à Bruxelles le 19 février 2013, ci-après dénommé : “ accord relatif à une juridiction unifiée du brevet ” ;
+
+3° Du règlement (UE) n° 1257/2012 du 17 décembre 2012 mettant en œuvre la coopération renforcée dans le domaine de la création d'une protection unitaire conférée par un brevet, ci-après dénommé : “ règlement (UE) n° 1257/2012 du 17 décembre 2012 ” ;
+
+4° Du règlement n° 1260/2012 du 17 décembre 2012 mettant en œuvre la coopération renforcée dans le domaine de la création d'une protection unitaire conférée par un brevet, en ce qui concerne les modalités applicables en matière de traduction, ci-après dénommé : “ règlement (UE) n° 1260/2012 du 17 décembre 2012 ”.
+
+####### Sous-section 1 : Brevets européens
 
 ######## Article L614-2
 
@@ -4943,8 +4961,6 @@ Une demande de brevet européen ne peut être transformée en demande de brevet 
 Dans ce cas et sous peine de rejet de sa demande de brevet français, le déposant doit satisfaire aux conditions qui sont fixées par voie réglementaire.
 
 Si un rapport de recherche a été établi avant transformation de la demande, ce rapport tient lieu de rapport de recherche prévu à l'article L. 612-14.
-
-####### Paragraphe 2 : Effets en France des brevets européens
 
 ######## Article L614-7
 
@@ -4986,23 +5002,33 @@ La partie qui, lors d'une même instance, procède à plusieurs limitations de s
 
 ######## Article L614-13
 
-Dans la mesure où un brevet français couvre une invention pour laquelle un brevet européen a été délivré au même inventeur ou à son ayant cause avec la même date de dépôt ou de priorité, le brevet français cesse de produire ses effets soit à la date à laquelle le délai prévu pour la formation de l'opposition au brevet européen est expiré sans qu'une opposition ait été formée, soit à la date à laquelle la procédure d'opposition est close, le brevet européen ayant été maintenu.
+I.-Dans la mesure où un brevet français couvre une invention pour laquelle un brevet européen a été délivré au même inventeur ou à son ayant cause avec la même date de dépôt ou de priorité, et où le brevet européen a fait l'objet d'une dérogation à la compétence exclusive de la juridiction unifiée du brevet, en application du paragraphe 3 de l'article 83 de l'accord relatif à une juridiction unifiée du brevet, le brevet français cesse de produire ses effets :
 
-Toutefois, lorsque le brevet français a été délivré à une date postérieure à l'une ou l'autre, selon le cas, de celles qui sont fixées à l'alinéa précédent, ce brevet ne produit pas d'effet.
+1° Soit à la date à laquelle le délai prévu pour la formation de l'opposition au brevet européen est expiré sans qu'une opposition ait été formée ;
 
-L'extinction ou l'annulation ultérieure du brevet européen n'affecte pas les dispositions prévues au présent article.
+2° Soit à la date à laquelle la procédure d'opposition est close, le brevet européen ayant été maintenu ;
+
+3° Soit à la date à laquelle la dérogation est inscrite au registre en application du paragraphe 3 de l'article 83 de l'accord précité lorsque cette date est postérieure à celles mentionnées aux 1° et 2°.
+
+Toutefois, lorsque le brevet français a été délivré à une date postérieure à l'une de celles qui sont fixées aux 1° à 3°, ce brevet ne produit pas d'effet.
+
+L'extinction, l'annulation ultérieure du brevet européen ou l'inscription au registre du retrait de dérogation effectué en application du paragraphe 4 de l'article 83 de l'accord relatif à une juridiction unifiée du brevet n'affecte pas la cessation des effets du brevet français.
+
+II.-Lorsque le brevet européen n'a pas fait l'objet d'une dérogation à la compétence exclusive de la juridiction unifiée du brevet, en application du paragraphe 3 de l'article 83 de l'accord relatif à une juridiction unifiée du brevet, le brevet français continue à produire ses effets.
 
 ######## Article L614-14
 
-Une demande de brevet français ou un brevet français et une demande de brevet européen ou un brevet européen ayant la même date de dépôt ou la même date de priorité, couvrant la même invention et appartenant au même inventeur ou à son ayant cause, ne peuvent, pour les parties communes, faire l'objet indépendamment l'une de l'autre d'un transfert, gage, nantissement ou d'une concession de droits d'exploitation, à peine de nullité.
+I.-Une demande de brevet français ou un brevet français et une demande de brevet européen ou un brevet européen qui n'a pas fait l'objet d'une dérogation à la compétence exclusive de la juridiction unifiée du brevet, en application du paragraphe 3 de l'article 83 de l'accord relatif à une juridiction unifiée du brevet, ayant la même date de dépôt ou la même date de priorité, couvrant la même invention et appartenant au même inventeur ou à son ayant cause, ne peuvent, pour les parties communes, faire l'objet indépendamment l'une de l'autre d'un transfert, gage, nantissement ou d'une concession de droits d'exploitation, à peine de nullité.
 
-Par dérogation à l'article L. 613-9, le transfert ou la modification des droits attachés à la demande de brevet français ou au brevet français n'est rendu opposable aux tiers par son inscription au Registre national des brevets que dans la mesure où le même transfert ou la même modification des droits attachés à la demande de brevet européen ou au brevet européen a été inscrit au registre européen des brevets.
+Par dérogation à l'article L. 613-9, le transfert ou la modification des droits attachés à la demande de brevet français ou au brevet français n'est rendu opposable aux tiers par son inscription au registre national des brevets que dans la mesure où le même transfert ou la même modification des droits attachés à la demande de brevet européen ou au brevet européen qui n'a pas fait l'objet d'une dérogation à la compétence exclusive de la juridiction unifiée du brevet, en application du paragraphe 3 de l'article 83 de l'accord précité, a été inscrit au registre européen des brevets.
 
 La demande de brevet français ou le brevet français et le droit de priorité pour le dépôt d'une demande de brevet européen ne peuvent être transférés indépendamment l'un de l'autre.
 
+II.-Les dispositions du I sont applicables à une demande de brevet européen ou à un brevet européen qui a fait l'objet d'une dérogation à la compétence exclusive de la juridiction unifiée du brevet, en application du paragraphe 3 de l'article 83 de l'accord précité, tant que la demande de brevet français ou le brevet français n'a pas cessé de produire ses effets en application du I de l'article L. 614-13.
+
 ######## Article L614-15
 
-Le tribunal saisi d'une action en contrefaçon d'un brevet français qui couvre la même invention qu'un brevet européen demandé par le même inventeur ou délivré à celui-ci ou à son ayant cause avec la même date de priorité surseoit à statuer jusqu'à la date à laquelle le brevet français cesse de produire ses effets aux termes de l'article L. 614-13 ou jusqu'à la date à laquelle la demande de brevet européen est rejetée, retirée ou réputée retirée, ou le brevet européen révoqué.
+Le tribunal saisi d'une action en contrefaçon d'un brevet français qui couvre la même invention qu'un brevet européen demandé par le même inventeur ou délivré à celui-ci ou à son ayant cause avec la même date de priorité et faisant l'objet d'une dérogation à la compétence exclusive de la juridiction unifiée du brevet, en application du paragraphe 3 de l'article 83 de l'accord relatif à une juridiction unifiée du brevet surseoit à statuer jusqu'à la date à laquelle le brevet français cesse de produire ses effets aux termes de l'article L. 614-13 ou jusqu'à la date à laquelle la demande de brevet européen est rejetée, retirée ou réputée retirée, ou le brevet européen révoqué.
 
 Si l'action en contrefaçon a été engagée sur la base du seul brevet français, le demandeur peut, à la reprise de l'instance, poursuivre celle-ci en substituant le brevet européen au brevet français pour les faits postérieurs à la date à laquelle le brevet français cesse de produire ses effets et pour les parties communes.
 
@@ -5012,7 +5038,29 @@ Si l'action a été intentée sur la base de l'un seulement des deux brevets, un
 
 ######## Article L614-16
 
-Un décret en Conseil d'Etat déterminera les modalités d'application de la présente section, notamment en ce qui concerne l'application des dispositions de l'article 137-2 de la convention de Munich.
+Un décret en Conseil d'Etat déterminera les modalités d'application de la présente sous-section, notamment en ce qui concerne l'application des dispositions de l'article 137-2 de la convention de Munich.
+
+####### Sous-section 2 : Brevets européens à effet unitaire
+
+######## Article L614-16-1
+
+Un effet unitaire peut être conféré à un brevet européen dans les conditions prévues au premier paragraphe de l'article 3 du règlement (UE) n° 1257/2012 du 17 décembre 2012.
+
+Le brevet européen à effet unitaire prend effet en France le jour de la publication de la mention de la délivrance du brevet européen dans le bulletin européen des brevets. A compter de ce jour, le brevet européen est réputé n'avoir pas pris effet en France en tant que brevet national.
+
+######## Article L614-16-2
+
+L'inscription au registre de la protection unitaire conférée par un brevet des actes transmettant ou modifiant les droits attachés à un brevet européen à effet unitaire rend ces actes opposables aux tiers.
+
+######## Article L614-16-3
+
+Un brevet français peut couvrir une invention pour laquelle un brevet européen à effet unitaire a été délivré au même inventeur ou à son ayant cause avec la même date de dépôt ou de priorité.
+
+######## Article L614-16-4
+
+Un brevet européen à effet unitaire et une demande de brevet français ou un brevet français ayant la même date de dépôt ou la même date de priorité, couvrant la même invention et appartenant au même inventeur ou à son ayant cause, ne peuvent, pour les parties communes, faire l'objet indépendamment l'une de l'autre d'un transfert, gage, nantissement ou d'une concession de droits d'exploitation, à peine de nullité.
+
+Par dérogation à l'article L. 613-9, le transfert ou la modification des droits attachés à la demande de brevet français ou au brevet français n'est rendu opposable aux tiers par son inscription au registre national des brevets que dans la mesure où le même transfert ou la même modification des droits attachés au brevet européen à effet unitaire a été inscrit au registre de la protection unitaire conférée par un brevet.
 
 ###### Section 2 : Demandes internationales
 
@@ -5060,37 +5108,9 @@ Un décret en Conseil d'Etat détermine les modalités d'application des disposi
 
 Lorsqu'une demande internationale de protection des inventions formulée en application du traité de Washington comporte la désignation ou l'élection de la France, cette demande est considérée comme tendant à l'obtention d'un brevet européen régi par les dispositions de la Convention de Munich.
 
-###### Section 3 : Brevets communautaires
+###### Section 3 : Dispositions finales
 
-####### Article L614-26
-
-Les articles L. 614-7 à L. 614-14 (premier et deuxième alinéas) ne sont pas applicables lorsque la demande de brevet européen désigne un Etat de la Communauté économique européenne et lorsque le brevet délivré est un brevet communautaire.
-
-####### Article L614-27
-
-Dans les trois mois qui suivent la publication des demandes de brevets communautaires et lorsque la langue de la procédure n'est pas le français, l'Institut national de la propriété industrielle assure la traduction et la publicité en français des abrégés prévus à l'article 78, paragraphe 1 e, de la Convention de Munich.
-
-####### Article L614-28
-
-Pour l'application, aux demandes de brevet et aux brevets mentionnés à l'article L. 614-26, de l'article L. 614-15 et de l'article L. 615-17, la référence faite par ces articles à l'article L. 614-13 est remplacée par une référence à l'article 80, paragraphe 1, de la Convention de Luxembourg.
-
-####### Article L614-29
-
-Un transfert, gage, nantissement ou une concession de droits d'exploitation d'une demande de brevet européen désignant un Etat de la Communauté économique européenne ou d'un brevet communautaire auquel cette demande a donné lieu emporte de plein droit, pour les parties communes, le même transfert, gage, nantissement ou la même concession de droits d'exploitation de la demande de brevet français ou du brevet français ayant la même date de dépôt ou la même date de priorité, couvrant la même invention et appartenant au même inventeur ou à son ayant cause.
-
-Dans les mêmes conditions, la demande de brevet français ou le brevet français ne peut faire, à peine de nullité, l'objet d'un transfert, gage, nantissement ou d'une concession de droits d'exploitation indépendamment de la demande de brevet européen désignant un Etat de la communauté économique européenne ou du brevet communautaire auquel cette demande a donné lieu.
-
-Par dérogation à l'article L. 613-20, ce transfert ou cette modification des droits attachés au brevet français ou à la demande de brevet français n'est rendu opposable aux tiers par son inscription au Registre national des brevets que dans la mesure où le même transfert, ou la même modification des droits attachés à la demande de brevet européen désignant un Etat de la communauté économique européenne ou à un brevet communautaire auquel cette demande a donné lieu, a été inscrit, selon le cas, au registre européen des brevets ou au registre des brevets communautaires.
-
-####### Article L614-30
-
-Lorsque, par application de l'article 86, paragraphe 1er, de la Convention de Luxembourg, la requête en délivrance du brevet contient une déclaration selon laquelle le demandeur ne désire pas obtenir un brevet communautaire, les dispositions des articles L. 614-26 et L. 614-29 ne sont pas applicables.
-
-Toutefois, dans ce cas, l'article L. 614-13 n'est pas applicable.
-
-###### Section 4 : Dispositions finales
-
-####### Article L614-31
+####### Article L614-25
 
 Les Français peuvent revendiquer l'application à leur profit, en France, des dispositions de la convention internationale pour la protection de la propriété industrielle, signée à Paris, le 20 mars 1883, ainsi que des arrangements, actes additionnels et protocoles de clôture qui ont modifié ou modifieront ladite convention, dans tous les cas où ces dispositions sont plus favorables que la loi française pour protéger les droits dérivant de la propriété industrielle.
 
@@ -5190,20 +5210,23 @@ Toute atteinte portée aux droits du propriétaire du brevet, tels qu'ils sont d
 
 La contrefaçon engage la responsabilité civile de son auteur.
 
-Toutefois, l'offre, la mise dans le commerce, l'utilisation, la détention en vue de l'utilisation ou la mise dans le commerce d'un produit contrefaisant, lorsque ces faits sont commis par une autre personne que le fabricant du produit contrefaisant, n'engagent la responsabilité de leur auteur que si les faits ont été commis en connaissance de cause.
+Toutefois, l'offre, la mise sur le marché, l'utilisation, la détention en vue de l'utilisation ou la mise sur le marché d'un produit contrefaisant, lorsque ces faits sont commis par une autre personne que le fabricant du produit contrefaisant, n'engagent la responsabilité de leur auteur que si les faits ont été commis en connaissance de cause.
 
 ####### Article L615-2
 
-L'action en contrefaçon est exercée par le propriétaire du brevet.
+L'action en contrefaçon est exercée par le titulaire du brevet.
 
-Toutefois, le bénéficiaire d'un droit exclusif d'exploitation peut, sauf stipulation contraire du contrat de licence, exercer l'action en contrefaçon si, après mise en demeure, le propriétaire du brevet n'exerce pas cette action.
+Sauf stipulation contraire du contrat de licence, elle est également ouverte au titulaire d'une licence exclusive à condition, à peine d'irrecevabilité, d'informer au préalable le titulaire du brevet.
 
-Le breveté est recevable à intervenir dans l'instance en contrefaçon engagée par le licencié, conformément à l'alinéa précédent.
+Le titulaire d'une licence non exclusive peut exercer l'action en contrefaçon, si le contrat de licence l'y autorise expressément, à condition, à peine d'irrecevabilité, d'informer au préalable le titulaire du brevet.
 
-Le titulaire d'une licence obligatoire ou d'une licence d'office, mentionnées aux articles L. 613-11, L. 613-15, L. 613-17,
-L. 613-17-1 et L. 613-19, peut exercer l'action en contrefaçon si, après la mise en demeure, le propriétaire du brevet n'exerce pas cette action.
+Le titulaire d'une licence obligatoire ou d'une licence d'office, mentionnées aux articles L. 613-11, L. 613-15, L. 613-17, L. 613-17-1 et L. 613-19, peut exercer l'action en contrefaçon si, après mise en demeure, le titulaire du brevet n'exerce pas cette action.
 
-Tout licencié est recevable à intervenir dans l'instance en contrefaçon engagée par le breveté, afin d'obtenir la réparation du préjudice qui lui est propre.
+Le titulaire du brevet est recevable à intervenir dans l'instance en contrefaçon engagée par le titulaire d'une licence, conformément aux alinéas précédents.
+
+Tout titulaire d'une licence est recevable à intervenir dans l'instance en contrefaçon engagée par le titulaire du brevet, afin d'obtenir la réparation du préjudice qui lui est propre.
+
+La validité d'un brevet ne peut pas être contestée au cours de l'action en contrefaçon engagée par le titulaire d'une licence si le titulaire du brevet n'est pas partie à l'instance.
 
 ####### Article L615-3
 
@@ -5287,7 +5310,11 @@ Les mesures mentionnées aux deux premiers alinéas sont ordonnées aux frais du
 
 ####### Article L615-8
 
-Les actions en contrefaçon prévues par le présent chapitre sont prescrites par cinq ans à compter des faits qui en sont la cause.
+Les actions en contrefaçon prévues par la présente section sont prescrites par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître le dernier fait lui permettant de l'exercer.
+
+####### Article L615-8-1
+
+L'action en nullité du brevet est imprescriptible.
 
 ####### Article L615-9
 
@@ -5364,6 +5391,14 @@ Les actions civiles et les demandes relatives aux brevets d'invention, y compris
 Les dispositions qui précèdent ne font pas obstacle au recours à l'arbitrage, dans les conditions prévues aux articles 2059 et 2060 du code civil.
 
 Les tribunaux de grande instance mentionnés au premier alinéa du présent article sont seuls compétents pour constater que le brevet français cesse de produire ses effets, en totalité ou en partie, dans les conditions prévues à l'article L. 614-13 du présent code.
+
+####### Article L615-18
+
+Par dérogation au premier alinéa de l'article L. 615-17, les actions civiles et les demandes mentionnées au premier paragraphe de l'article 32 de l'accord relatif à une juridiction unifiée du brevet sont exclusivement portées devant la juridiction unifiée du brevet :
+
+1° Lorsqu'elles portent sur un brevet européen à effet unitaire ;
+
+2° Lorsqu'elles portent sur un brevet européen ou une demande de brevet européen n'ayant pas fait l'objet d'une dérogation à la compétence exclusive de cette juridiction en application du troisième paragraphe de l'article 83 de cet accord.
 
 ####### Article L615-20
 
@@ -6982,7 +7017,7 @@ Les manquements au présent chapitre sont recherchés et constatés par les agen
 
 ## Troisième partie : Dispositions relatives à l'outre-mer
 
-### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie et à Mayotte
+### Livre VIII : Application dans les îles Wallis et Futuna, dans les Terres australes et antarctiques françaises, en Nouvelle-Calédonie, à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon
 
 #### Titre unique
 
@@ -6990,11 +7025,397 @@ Les manquements au présent chapitre sont recherchés et constatés par les agen
 
 ###### Article L811-1
 
-Les dispositions du présent code sont applicables dans les îles Wallis et Futuna et en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4,
+Les dispositions du présent code sont applicables en Nouvelle-Calédonie à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4,
 L. 421-1 à
 L. 423-2.
 
 Ne sont pas applicables dans les Terres australes et antarctiques françaises les articles L. 133-1 à L. 133-4, L. 421-1 à L. 423-2, ainsi que le quatrième alinéa de l'article L. 335-4.
+
+###### Article L811-1-1
+
+Sous réserve des adaptations prévues dans le présent chapitre, les dispositions suivantes du présent code sont applicables dans les îles Wallis et Futuna :
+
+1° Les livres Ier à V à l'exception du quatrième alinéa de l'article L. 335-4 et des articles L. 133-1 à L. 133-4, L. 421-1 à L. 423-2 ;
+
+2° Les dispositions du livre VI dans les conditions suivantes :
+
+a) Les dispositions du titre Ier mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+
+<table border="1"><tbody>
+ <tr>
+  <th>DISPOSITIONS APPLICABLES</th>
+  <th>DANS LEUR RÉDACTION RÉSULTANT DE</th>
+ </tr>
+ <tr>
+  <td align="center" colspan="2">Chapitre Ier : Champ d'application</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 611-1</td>
+  <td align="justify">Loi n° 2008-518 du 3 juin 2008</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 611-2 à L. 611-6</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 611-7</td>
+  <td align="justify">Loi n° 94-102 du 5 février 1994</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 611-8</td>
+  <td align="justify">Loi n° 2014-315 du 11 mars 2014</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 611-9</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 611-10</td>
+  <td align="justify">Loi n° 2004-1338 du 8 décembre 2004</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 611-11</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 611-12</td>
+  <td align="justify">Loi n° 96-1106 du 18 décembre 1996</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 611-13 à L. 611-16</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 611-17 et L. 611-18</td>
+  <td align="justify">Loi n° 2004-800 du 6 août 2004</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 611-19</td>
+  <td align="justify">Loi n° 2004-1338 du 8 décembre 2004</td>
+ </tr>
+ <tr>
+  <td align="center" colspan="2">Chapitre II : Dépôt et instruction des demandes</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-1</td>
+  <td align="justify">Loi n° 94-102 du 5 février 1994</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-2</td>
+  <td align="justify">Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-3 et L. 612-4</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-5</td>
+  <td align="justify">Loi n° 2004-1338 du 8 décembre 2004</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-6</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-7</td>
+  <td align="justify">Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 612-8 à L. 612-11</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-12</td>
+  <td align="justify">Loi n° 2004-1338 du 8 décembre 2004</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-13</td>
+  <td align="justify">Loi n° 94-102 du 5 février 1994</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-14</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 612-15 à L. 612-17</td>
+  <td align="justify">Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-18</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-19</td>
+  <td align="justify">Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 612-20 à L. 612-22</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-22-1</td>
+  <td align="justify">Ordonnance n° 2018-341 du 9 mai 2018</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 612-23</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+</tbody></table>
+
+<table border="1"><tbody>
+ <tr>
+  <td align="center" colspan="2">Chapitre III : Droits attachés aux brevets</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 613-1 et L. 613-2</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-2-1</td>
+  <td align="justify">Loi n° 2004-800 du 6 août 2004</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 613-2-2 à L. 613-2-4</td>
+  <td align="justify">Loi n° 2004-1338 du 8 décembre 2004</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-3</td>
+  <td align="justify">Ordonnance n° 2018-341 du 9 mai 2018</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-4</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-5</td>
+  <td align="justify">Loi n° 2008-518 du 3 juin 2008</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 613-5-1 à L. 613-5-3</td>
+  <td align="justify">Loi n° 2004-1338 du 8 décembre 2004</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-6</td>
+  <td align="justify">Ordonnance n° 2018-341 du 9 mai 2018</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-7</td>
+  <td align="justify">Loi n° 96-1106 du 18 décembre 1996</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 613-8 à L. 613-10</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 613-11 et L. 613-13</td>
+  <td align="justify">Loi n° 96-1106 du 18 décembre 1996</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-14</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 613-15 à L. 613-16</td>
+  <td align="justify">Loi n° 2004-1338 du 8 décembre 2004</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-17</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-18</td>
+  <td align="justify">Loi n° 96-1106 du 18 décembre 1996</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-19</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-19-1</td>
+  <td align="justify">Loi n° 96-1106 du 18 décembre 1996</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 613-20 et L. 613-21</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-22</td>
+  <td align="justify">Ordonnance n° 2008-1301 du 11 décembre 2008</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-24</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-25</td>
+  <td align="justify">Loi n° 2007-1544 du 29 octobre 2007</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-26</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 613-27</td>
+  <td align="justify">Loi n° 94-102 du 5 février 1994</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 613-28 à L. 613-32</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="center" colspan="2">Chapitre IV : Application de conventions internationales</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 614-1</td>
+  <td align="justify">Ordonnance n° 2018-341 du 9 mai 2018</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 614-2 à L. 614-6</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 614-7</td>
+  <td align="justify">Loi n° 2007-1544 du 29 octobre 2007</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 614-8 et L. 614-9</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 614-10</td>
+  <td align="justify">Loi n° 2007-1544 du 29 octobre 2007</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 614-11 et L. 614-12</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 614-13 à L. 614-16-4</td>
+  <td align="justify">Ordonnance n° 2018-341 du 9 mai 2018</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 614-17 à L. 614-20</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 614-21</td>
+  <td align="justify">Loi n° 94-102 du 5 février 1994</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 614-22 à L. 614-24</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 614-25</td>
+  <td align="justify">Ordonnance n° 2018-341 du 9 mai 2018</td>
+ </tr>
+ <tr>
+  <td align="center" colspan="2">Chapitre IV bis : La retenue</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 614-32 à L. 614-39</td>
+  <td align="justify">Loi n° 2014-315 du 11 mars 2014</td>
+ </tr>
+ <tr>
+  <td align="center" colspan="2">Chapitre V : Actions en justice</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 615-1 et L. 615-2</td>
+  <td align="justify">Ordonnance n° 2018-341 du 9 mai 2018</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-3</td>
+  <td align="justify">Loi n° 2014-315 du 11 mars 2014</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-4</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-5</td>
+  <td align="justify">Loi n° 2014-315 du 11 mars 2014</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-5-1</td>
+  <td align="justify">Loi n° 96-1106 du 18 décembre 1996</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 615-5-1-1 et L. 615-5-2</td>
+  <td align="justify">Loi n° 2014-315 du 11 mars 2014</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-6</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-7</td>
+  <td align="justify">Loi n° 2014-315 du 11 mars 2014</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-7-1</td>
+  <td align="justify">Loi n° 2007-1544 du 29 octobre 2007</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-8</td>
+  <td align="justify">Ordonnance n° 2018-341 du 9 mai 2018</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-9</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-10</td>
+  <td align="justify">Loi n° 2007-1544 du 29 octobre 2007</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-12</td>
+  <td align="justify">Loi n° 2009-526 du 12 mai 2009</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-13</td>
+  <td align="justify">Ordonnance n° 2000-916 du 19 septembre 2000</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-14</td>
+  <td align="justify">Loi n° 2016-731 du 3 juin 2016</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-14-1</td>
+  <td align="justify">Loi n° 2010-853 du 23 juillet 2010</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-14-2</td>
+  <td align="justify">Loi n° 2007-1544 du 29 octobre 2007</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-14-3</td>
+  <td align="justify">Loi n° 2009-526 du 12 mai 2009</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 615-15 et L. 615-16</td>
+  <td align="justify">Ordonnance n° 2000-916 du 19 septembre 2000</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-17</td>
+  <td align="justify">Loi n° 2014-315 du 11 mars 2014</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-18</td>
+  <td align="justify">Ordonnance n° 2018-341 du 9 mai 2018</td>
+ </tr>
+ <tr>
+  <td align="justify">Article L. 615-20</td>
+  <td align="justify">Loi n° 2014-315 du 11 mars 2014</td>
+ </tr>
+ <tr>
+  <td align="justify">Articles L. 615-21 et L. 615-22</td>
+  <td align="justify">Loi n° 92-597 du 1er juillet 1992</td>
+ </tr>
+</tbody></table>
+
+b) Le titre II ;
+
+3° Le livre VII.
 
 ###### Article L811-2
 
@@ -7022,15 +7443,23 @@ a) “région” et “département” par “Mayotte” ;
 
 b) “cour d'appel” par “chambre d'appel de Mamoudzou” et “commissaire de police” par “officier de police judiciaire”.
 
-###### Article L811-2-2
+###### Article L811-2-3
 
-Pour l'application du présent code à Mayotte, les mots suivants énumérés ci-dessous sont respectivement remplacés par les mots suivants :
+Pour son application dans les îles Wallis et Futuna, l'article L. 615-2 du présent code est ainsi rédigé :
 
-a) “région” et “département” par “Mayotte” ;
+Art. L. 615-2.-L'action en contrefaçon est exercée par le titulaire du brevet.
 
-b) “cour d'appel” par “chambre d'appel de Mamoudzou” et “commissaire de police” par “officier de police judiciaire” ;
+Sauf stipulation contraire du contrat de licence, elle est également ouverte au titulaire d'une licence exclusive à condition, à peine d'irrecevabilité, d'informer au préalable le titulaire du brevet.
 
-c) “conseil de prud'hommes” par “tribunal du travail et des prud'hommes”.
+Le titulaire d'une licence non exclusive peut exercer l'action en contrefaçon, si le contrat de licence l'y autorise expressément, à condition, à peine d'irrecevabilité, d'informer au préalable le titulaire du brevet.
+
+Le titulaire d'une licence obligatoire ou d'une licence d'office, mentionnées aux articles L. 613-11, L. 613-15, L. 613-17 et L. 613-19, peut exercer l'action en contrefaçon si, après mise en demeure, le titulaire du brevet n'exerce pas cette action.
+
+Le titulaire du brevet est recevable à intervenir dans l'instance en contrefaçon engagée par le titulaire d'une licence, conformément aux alinéas précédents.
+
+Tout titulaire d'une licence est recevable à intervenir dans l'instance en contrefaçon engagée par le titulaire du brevet, afin d'obtenir la réparation du préjudice qui lui est propre.
+
+La validité d'un brevet ne peut pas être contestée au cours de l'action en contrefaçon engagée par le titulaire d'une licence si le titulaire du brevet n'est pas partie à l'instance.
 
 ###### Article L811-3
 
@@ -13453,7 +13882,7 @@ Lorsqu'un dépôt de demande de brevet est effectué en copropriété, tous les 
 
 Le montant de l'amende infligée en cas de fausse déclaration est de dix fois le montant des redevances qui étaient dues.
 
-#### Chapitre IV : Application de conventions internationales
+#### Chapitre IV : Application de conventions internationales et du droit de l’Union Européenne
 
 ##### Section 1 : Brevets européens
 
@@ -13519,7 +13948,13 @@ Les redevances annuelles prévues à l'article L. 612-19 pour la demande de brev
 
 Les redevances annuelles prévues à l'article L. 612-19 qui sont dues pour le brevet européen doivent être acquittées dans les conditions prévues par l'article 141 de la convention sur le brevet européen. Ces redevances sont décomptées à partir de la date de dépôt de la demande de brevet européen.
 
-Lorsque le paiement d'une redevance annuelle n'a pas été effectué à l'expiration du délai visé au paragraphe 2 de l'article 141 de la convention sur le brevet européen, ladite redevance peut être valablement versée dans un délai supplémentaire de six mois, moyennant le paiement d'une redevance de retard dans le même délai.
+Lorsque le titulaire d’un brevet européen a déposé une demande d’effet unitaire, il peut s’acquitter dans un délai de trois mois à compter de la date de la signification de la décision de rejet de la demande d’effet unitaire qui n’est plus susceptible de recours :
+
+1° Des redevances venues à échéance entre la date de la publication de la mention de la délivrance du brevet européen au registre européen des brevets et la date de signification mentionnée au deuxième alinéa ;
+
+2° Des redevances venant à échéance dans les trois mois à compter de la date de signification mentionnée au deuxième alinéa.
+
+Lorsque le paiement d’une redevance annuelle n’a pas été effectué à l’expiration du délai mentionné au paragraphe 2 de l’article 141 de la convention sur le brevet européen signée à Munich le 5 octobre 1973 ou à l’expiration du délai mentionné au deuxième alinéa du présent article, ladite redevance peut être valablement versée dans un délai supplémentaire de six mois, moyennant le paiement d’une redevance de retard dans le même délai.
 
 ###### Article R614-17
 
@@ -15432,11 +15867,11 @@ Le chapitre V bis du titre III du livre III est applicable à la retenue par l'a
 
 ##### Article R811-1
 
-Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises :
+Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables , en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises :
 
 1° Les dispositions du livre Ier à l'exception des articles R. 133-1, R. 133-2 (4°) et R. 135-1 à R. 135-4 ;
 
-2° Les dispositions du livre II dans leur rédaction, pour leur application dans les îles Wallis et Futuna, résultant du décret n° 2017-338 du 15 mars 2017 ;
+2° Les dispositions du livre II dans leur rédaction, pour leur application , résultant du décret n° 2017-338 du 15 mars 2017 ;
 
 3° Les dispositions du livre III à l'exception des articles R. 326-1 à R. 326-7 ;
 
