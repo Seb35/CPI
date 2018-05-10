@@ -5058,10 +5058,6 @@ Lorsqu'une demande internationale de protection des inventions formulée en appl
 
 ###### Section 3 : Brevets communautaires
 
-####### Article L614-25
-
-La présente section est relative à l'application de la convention relative au brevet européen pour le marché commun (convention sur le brevet communautaire), fait à Luxembourg le 15 décembre 1975, ci-après dénommée "Convention de Luxembourg". Elle entrera en vigueur à la même date que la Convention de Luxembourg.
-
 ####### Article L614-26
 
 Les articles L. 614-7 à L. 614-14 (premier et deuxième alinéas) ne sont pas applicables lorsque la demande de brevet européen désigne un Etat de la Communauté économique européenne et lorsque le brevet délivré est un brevet communautaire.
