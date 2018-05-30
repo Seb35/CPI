@@ -9302,7 +9302,7 @@ Le président est remplacé, en cas de vacance, jusqu'à la nouvelle élection, 
 
 ######## Article D331-13
 
-Le président perçoit une indemnité forfaitaire dont le montant annuel est fixé par arrêté conjoint des ministres chargés de la culture, du budget et de la fonction publique.
+Le président reçoit une rémunération de base égale au traitement afférent au premier chevron du troisième groupe des emplois de l'État classés hors échelle, ainsi qu'une indemnité de fonction dont le montant est fixé par arrêté conjoint des ministres chargés de la culture, du budget et de la fonction publique.
 
 ######## Article R331-14
 
