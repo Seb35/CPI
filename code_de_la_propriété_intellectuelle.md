@@ -5245,7 +5245,7 @@ a) Le produit obtenu par le procédé breveté est nouveau ;
 
 b) La probabilité est grande que le produit identique a été obtenu par le procédé breveté, alors que le titulaire du brevet n'a pas pu, en dépit d'efforts raisonnables, déterminer quel procédé a été en fait utilisé.
 
-Dans la production de la preuve contraire, sont pris en considération les intérêts légitimes du défendeur pour la protection de ses secrets de fabrication et de commerce.
+Dans la production de la preuve contraire, sont pris en considération les intérêts légitimes du défendeur pour la protection de ses secrets des affaires.
 
 ####### Article L615-5-1-1
 
