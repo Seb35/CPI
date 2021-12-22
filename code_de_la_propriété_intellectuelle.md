@@ -2769,6 +2769,10 @@ Pour les membres désignés en application des 1° à 4°, des membres suppléan
 
 Selon des modalités fixées par décret en Conseil d'Etat, le collège est renouvelé partiellement tous les trois ans.
 
+Lors de chaque renouvellement, le membre titulaire succédant à une femme est un homme et celui succédant à un homme, une femme.
+
+Le membre titulaire et son suppléant sont de sexe différent.
+
 Le mandat des membres n'est pas renouvelable.
 
 Le président exerce ses fonctions à temps plein.
